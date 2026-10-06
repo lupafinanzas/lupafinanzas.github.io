@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lupa Financiera · Promos y cashback, comprobados</title>
+<meta name="description" content="Promociones de bancos, cashback y apps comprobadas una a una, con la letra pequeña a la vista y el comparador de cashback tienda a tienda.">
+<meta name="theme-color" content="#0b2e25">
+<link rel="icon" href="logo.jpg">
+<link rel="stylesheet" href="fuentes.css">
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="marca" href="index.html"><img src="logo.jpg" alt=""><span>Lupa Financiera</span></a>
+  <nav class="menu" aria-label="Principal">
+    <a href="index.html" aria-current="page">Promos</a><a href="comparador.html">Comparador</a><a href="como-lo-hacemos.html">Cómo lo hacemos</a>
+  </nav>
+  <a class="x" href="https://x.com/LupaFinanzas">@LupaFinanzas</a>
+</div></header>
+
+<main class="wrap">
+  <section class="heroe">
+    <span class="mini">Promos y cashback · comprobados</span>
+    <h1>Que no te cuenten el <em>regalo</em> sin enseñarte la letra pequeña</h1>
+    <p>Comprobamos cada promo antes de contártela y te decimos cuánto te llevas de verdad.</p>
+    <div class="botones">
+      <a class="btn amarillo" href="comparador.html">Comparar cashback</a>
+      <a class="btn claro" href="#promos">Ver promos</a>
+    </div>
+    <svg class="ilus" viewBox="0 0 340 300" aria-hidden="true">
+      <circle cx="150" cy="130" r="96" fill="rgba(255,255,255,.08)" stroke="#ffd23f" stroke-width="16"/>
+      <path d="M104 132l33 33 62-68" fill="none" stroke="#2fb585" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="218" y1="198" x2="300" y2="280" stroke="#ffd23f" stroke-width="26" stroke-linecap="round"/>
+      <g class="flota"><circle cx="292" cy="62" r="32" fill="#ffd23f"/><text x="292" y="73" text-anchor="middle" font-size="32" font-weight="900" fill="#241c00" font-family="Figtree,sans-serif">€</text>
+      <circle cx="46" cy="246" r="25" fill="#ff6b4a"/><text x="46" y="257" text-anchor="middle" font-size="28" font-weight="900" fill="#fff" font-family="Figtree,sans-serif">%</text>
+      <circle cx="304" cy="176" r="10" fill="#4aa8ff"/><circle cx="30" cy="62" r="8" fill="#2fb585"/><circle cx="196" cy="24" r="6" fill="#ffd23f"/></g>
+    </svg>
+  </section>
+
+  <section class="seccion" id="hoy">
+    <h2>Lo mejor de hoy</h2>
+    <p class="sub">Con una compra de 50 €, sin ser cliente nuevo y sin trucos. Se actualiza cada día.</p>
+    <div class="deslizar" id="picks"><div class="card" style="padding:20px">Cargando…</div></div>
+    <p class="mini" style="margin-top:4px"><a href="comparador.html" style="color:var(--mint-d)">Ver las 13 tiendas →</a></p>
+  </section>
+
+  <section class="seccion" id="promos">
+    <h2>Promos comprobadas</h2>
+    <p class="sub">Qué ganas, qué te piden y hasta cuándo.</p>
+    <div class="promos" id="lista"><div class="card" style="padding:20px">Cargando…</div></div>
+    <div class="aviso"><span>📢</span><span><strong>Publicidad.</strong> Algunos enlaces son de afiliado: si te registras con ellos, tú y yo podemos recibir una recompensa, y lo decimos en cada caso. Esto no es asesoría financiera.</span></div>
+  </section>
+
+  <section class="seccion">
+    <h2>Por qué fiarte</h2>
+    <div class="tres">
+      <div class="card">
+        <svg viewBox="0 0 42 42" aria-hidden="true"><circle cx="21" cy="21" r="21" fill="#2fb585"/><path d="M12 22l7 7 12-14" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <div><h3>Comprobado dos veces</h3><p>Cada cifra se lee por dos vías y un validador frena lo que no cuadra.</p></div>
+      </div>
+      <div class="card">
+        <svg viewBox="0 0 42 42" aria-hidden="true"><circle cx="21" cy="21" r="21" fill="#ff6b4a"/><path d="M21 11v13M21 29v2" stroke="#fff" stroke-width="4.5" stroke-linecap="round"/></svg>
+        <div><h3>Sin dinero fácil</h3><p>Nada de milagros: cifras, plazos y condiciones reales.</p></div>
+      </div>
+      <div class="card">
+        <svg viewBox="0 0 42 42" aria-hidden="true"><circle cx="21" cy="21" r="21" fill="#4aa8ff"/><path d="M12 28l6-8 5 5 8-11" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <div><h3>Si no compensa, lo decimos</h3><p>Aunque cobráramos por recomendarla.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="seccion">
+    <h2>¿Te suena?</h2>
+    <div class="suena">
+      <div>Te dicen que abras una cuenta "con regalo" y nadie te explica qué hacer para cobrarlo.</div>
+      <div>El cartel pone "hasta el 100 %" y, al llegar al final, son 10 € y una sola compra.</div>
+      <div>Llegas justo a fin de mes y cada "chollo" te pide gastar más antes de ahorrar.</div>
+      <div>Perdiste una promo por un plazo que no viste.</div>
+    </div>
+  </section>
+
+  <footer class="pie">
+    <p id="actualizado"></p>
+    <p>Las condiciones las fija cada entidad y pueden cambiar. Lee siempre las bases en su web antes de contratar nada.</p>
+  </footer>
+</main>
+
+<nav class="tabbar" aria-label="Principal">
+  <a href="index.html" aria-current="page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-8 9 8v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>Promos</a>
+  <a href="comparador.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>Comparador</a>
+  <a href="como-lo-hacemos.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v5M12 16.5v.5"/></svg>Cómo lo hacemos</a>
+</nav>
+
+<script>
+(function(){
+  function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
+  function eur(n){return n.toLocaleString('es-ES',{minimumFractionDigits:2,maximumFractionDigits:2})+' €';}
+  function pc(n){return n.toLocaleString('es-ES')+' %';}
+  function fmt(f){var p=f.split('-');return p[2]+'/'+p[1]+'/'+p[0];}
+  function dias(f){var h=new Date();h.setHours(0,0,0,0);return Math.round((new Date(f+'T00:00:00')-h)/86400000);}
+  function gana(f,imp){var v=imp*f.pct/100;if(f.tope!==null&&f.tope!==undefined)v=Math.min(v,f.tope);return v;}
+
+  fetch('cashback.json').then(function(r){return r.json();}).then(function(d){
+    var imp=50,c=[];
+    d.tiendas.forEach(function(t){
+      t.filas.forEach(function(f){
+        if(f.solo_clientes_nuevos||f.primera_compra||f.tipo==='bienvenida')return;
+        var vencida=f.fin&&dias(f.fin)<0;if(vencida)return;
+        c.push({t:t,f:f,v:gana(f,imp)});
+      });
+    });
+    var mejores={};c.forEach(function(x){if(!mejores[x.t.slug]||x.v>mejores[x.t.slug].v)mejores[x.t.slug]=x;});
+    var top=Object.keys(mejores).map(function(k){return mejores[k];}).sort(function(a,b){return b.v-a.v;}).slice(0,3);
+    var box=document.getElementById('picks');box.textContent='';
+    top.forEach(function(x,i){
+      var a=el('a','pick');a.href='comparador.html#'+x.t.slug;
+      a.appendChild(el('span','puesto','Nº '+(i+1)));
+      a.appendChild(el('h3',null,x.t.nombre));
+      var g=el('div','gran',eur(x.v));g.appendChild(el('small',null,'con 50 €'));a.appendChild(g);
+      a.appendChild(el('div','quien','con '+x.f.plataforma));
+      var e=el('div','etq2');
+      e.appendChild(el('span',null,(x.f.hasta_pct?'hasta ':'')+pc(x.f.pct)));
+      if(x.f.tipo==='aumentado')e.appendChild(el('span',null,'Subida temporal'));
+      if(x.f.fin){var n=dias(x.f.fin);e.appendChild(el('span',null,n===0?'Termina hoy':'Quedan '+n+(n===1?' día':' días')));}
+      a.appendChild(e);box.appendChild(a);
+    });
+  }).catch(function(){document.getElementById('picks').textContent='No se han podido cargar los datos.';});
+
+  fetch('promos.json').then(function(r){return r.json();}).then(function(d){
+    var lista=document.getElementById('lista');lista.textContent='';
+    var vis=d.promos.filter(function(p){return p.estado==='publicada';});
+    if(!vis.length)lista.appendChild(el('p',null,'Ahora mismo no hay promociones publicadas.'));
+    vis.forEach(function(p){
+      var c=el('article','card promo');
+      var cab=el('div','cab');cab.appendChild(el('h3',null,p.nombre));cab.appendChild(el('span','sello',p.tipo));c.appendChild(cab);
+      c.appendChild(el('div','gana',p.gana_corto||p.recompensa));
+      c.appendChild(el('div','det',p.gana_sub||''));
+      c.appendChild(el('p','cond',p.requisitos));
+      var nr=el('div','notaReal');
+      [['tiempo','Tiempo'],['importe','Importe'],['letra','Letra pequeña'],['permanencia','Permanencia']].forEach(function(r){var v=p.nota&&p.nota[r[0]]!==undefined?p.nota[r[0]]:'—';var b=el('div');b.appendChild(el('b',null,String(v)));b.appendChild(el('span',null,r[1]));nr.appendChild(b);});
+      c.appendChild(nr);
+      if(!p.nota)c.appendChild(el('p','det','Nota Real en verificación: no inventamos puntuaciones.'));
+      var pie=el('div','botones');pie.style.margin='4px 0 0';
+      var a=el('a','btn verde','Ir a '+p.nombre+' →');a.href='ir/'+p.slug+'/';a.rel='noopener sponsored nofollow';pie.appendChild(a);
+      if(p.verificado)pie.appendChild(el('span','sello','Comprobado '+fmt(p.verificado)));
+      c.appendChild(pie);c.appendChild(el('span','mini','Publicidad'));
+      lista.appendChild(c);
+    });
+    document.getElementById('actualizado').textContent='Última actualización: '+fmt(d.actualizado)+'.';
+  }).catch(function(){document.getElementById('lista').textContent='No se han podido cargar las promociones.';});
+})();
+</script>
+</body>
+</html>

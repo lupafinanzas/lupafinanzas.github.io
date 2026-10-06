@@ -19,7 +19,7 @@ MAX_EDAD_DIAS = 3
 TIPOS = {"habitual", "aumentado", "bienvenida", "categoria"}
 DOMINIOS = {
     "iGraal": "igraal.com", "TopCashback": "topcashback.es", "Klarna": "klarna.com",
-    "Beruby": "beruby.com", "Consupermiso": "consupermiso.com", "Letyshops": "letyshops.com",
+    "Beruby": "beruby.com", "Consupermiso": "consupermiso.com", "Letyshops": "letyshops.com", "Widilo": "widilo.es",
 }
 errores, avisos = [], []
 

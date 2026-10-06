@@ -114,7 +114,9 @@
       if(f.categorias){var ul=el('ul','cats');f.categorias.forEach(function(k){var li=el('li');li.appendChild(el('span',null,k[0]));li.appendChild(el('b',null,pc(k[1])));ul.appendChild(li);});r.appendChild(ul);}
       var fu=el('div','fuente');var a=el('a',null,'Ver en '+f.plataforma+' →');a.href=f.fuente;a.rel='noopener nofollow';fu.appendChild(a);
       fu.appendChild(document.createTextNode(' · '+(f.secundaria?'tarifa de la misma ficha, comprobada con la principal':(f.doble_lectura?'doble comprobación':'lectura única'))+' · leído el '+fmt(f.leido)));
-      r.appendChild(fu);fs.appendChild(r);
+      r.appendChild(fu);
+      if(f.plataforma==='iGraal'){var inv=el('a','btn verde','Hazte socio con mi invitación · 10 €');inv.href='ir/igraal/';inv.rel='noopener sponsored nofollow';inv.style.cssText='font-size:.85rem;padding:10px 16px;margin-top:4px;justify-self:start';r.appendChild(inv);r.appendChild(el('span','mini','Publicidad · enlace de afiliado · bono con pedido mínimo de 12,40 € en 90 días'));}
+      fs.appendChild(r);
     });
     box.appendChild(fs);
   }

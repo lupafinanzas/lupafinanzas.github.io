@@ -39,15 +39,16 @@
     },
     {
       "slug": "igraal",
-      "nombre": "Igraal",
+      "nombre": "iGraal",
       "tipo": "6 · Cashback progresivo",
-      "recompensa": "10 € de bono de bienvenida para quien se registra con una invitación (el bono estándar sin invitación suele ser de 3 €)",
-      "requisitos": "Hay que hacer un pedido de al menos 12,40 € en los 90 días siguientes al registro. Quien invita recibe un bono de apadrinamiento de importe variable.",
-      "enlace": "",
-      "estado": "no_publicable",
+      "recompensa": "10 € de bono de bienvenida para quien se registra con una invitación",
+      "requisitos": "Hay que hacer un pedido de al menos 12,40 € (antes de IVA) apto para cashback en los 90 días siguientes al registro. Quien invita recibe 15 € cuando su amigo acumula 3 € de cashback disponible, más el 10 % de su cashback validado el primer año.",
+      "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
+      "estado": "publicada",
       "verificado": "2026-10-06",
       "nota": null,
-      "motivo": "Sus términos excluyen el envío masivo del enlace en páginas públicas, foros y redes."
+      "gana_corto": "10 €",
+      "gana_sub": "de bienvenida con la invitación"
     },
     {
       "slug": "revolut",

@@ -28,6 +28,7 @@
 
   <div class="panel">
     <div class="gasto"><label for="imp">Si gastas</label><input id="imp" type="range" min="10" max="500" step="5" value="50"><output id="impOut">50 €</output></div>
+    <input id="q" type="search" placeholder="Busca tu tienda (Booking, Zara, Amazon…)" aria-label="Buscar tienda" autocomplete="off" style="width:100%;margin-top:12px;padding:12px 14px;border:2px solid #cfe5dc;border-radius:14px;font:inherit;font-size:1rem;background:#fff">
     <div class="chips" id="chips" role="group" aria-label="Tiendas"></div>
   </div>
 
@@ -53,7 +54,9 @@
 
 <script>
 (function(){
-  var D=null,slug=null;
+  var D=null,slug=null,Q='',LIM=36;
+  function norm(x){return x.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');}
+  function visibles(){var q=norm(Q.trim());return D.tiendas.filter(function(t){return !q||norm(t.nombre).indexOf(q)>-1||t.slug.indexOf(q)>-1;});}
   var COL={iGraal:'#f26a21',TopCashback:'#17a05d',Letyshops:'#e8452c',Klarna:'#e8a3c3',Beruby:'#c9303c',Consupermiso:'#3b6fe0',Widilo:'#7a4fd8',mycashbacks:'#0e8f8f'};
   function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
   function eur(n){return n.toLocaleString('es-ES',{minimumFractionDigits:2,maximumFractionDigits:2})+' €';}
@@ -66,7 +69,13 @@
 
   function chips(){
     var c=document.getElementById('chips');c.textContent='';
-    D.tiendas.forEach(function(t){
+    var vis=visibles();
+    if(!Q.trim())vis=vis.slice().sort(function(a,b){return b.filas.length-a.filas.length;});
+    vis=vis.slice(0,30);
+    var vacio=!vis.length;
+    if(!vis.some(function(t){return t.slug===slug;})){var cur=D.tiendas.filter(function(t){return t.slug===slug;})[0];if(cur)vis.unshift(cur);}
+    if(vacio)c.appendChild(el('span','mini','Sin resultados: todavía no tenemos esa tienda.'));
+    vis.forEach(function(t){
       var b=el('button',null,t.nombre);b.type='button';b.setAttribute('aria-pressed',t.slug===slug?'true':'false');
       b.addEventListener('click',function(){slug=t.slug;history.replaceState(null,'','#'+slug);pinta();});
       c.appendChild(b);
@@ -123,14 +132,17 @@
 
   function mapa(){
     var I=imp(),m=document.getElementById('mapa');m.textContent='';
-    D.tiendas.forEach(function(t){
-      var mejor=t.filas.map(function(f){return {f:f,v:gana(f,I,false)};}).sort(function(a,b){return b.v-a.v;})[0];
+    var lista=visibles().map(function(t){return {t:t,mejor:t.filas.map(function(f){return {f:f,v:gana(f,I,false)};}).sort(function(a,b){return b.v-a.v;})[0]};}).sort(function(a,b){return b.mejor.v-a.mejor.v;});
+    var total=lista.length;lista=lista.slice(0,LIM);
+    lista.forEach(function(it){
+      var t=it.t,mejor=it.mejor;
       var b=el('button');b.type='button';
       b.appendChild(el('div','t',t.nombre));b.appendChild(el('div','g',eur(mejor.v)));
       var q=el('div','q');var i=el('i');i.style.background=COL[mejor.f.plataforma]||'#0f7a58';q.appendChild(i);q.appendChild(document.createTextNode(mejor.f.plataforma));b.appendChild(q);
       b.addEventListener('click',function(){slug=t.slug;history.replaceState(null,'','#'+slug);pinta();window.scrollTo({top:0,behavior:'smooth'});});
       m.appendChild(b);
     });
+    if(total>LIM){var mas=el('button','mas','Mostrar más ('+(total-LIM)+' tiendas)');mas.type='button';mas.addEventListener('click',function(){LIM+=60;mapa();});m.appendChild(mas);}
   }
 
   function pinta(){document.getElementById('impOut').textContent=imp()+' €';chips();tienda();mapa();}
@@ -138,8 +150,9 @@
   fetch('cashback.json').then(function(r){return r.json();}).then(function(d){
     D=d;document.getElementById('metodo').textContent=d.nota_metodo;
     document.getElementById('actualizado').textContent='Datos leídos el '+fmt(d.actualizado)+'.';
-    var h=location.hash.slice(1);slug=D.tiendas.some(function(t){return t.slug===h;})?h:D.tiendas[0].slug;
+    var h=location.hash.slice(1);slug=D.tiendas.some(function(t){return t.slug===h;})?h:D.tiendas.slice().sort(function(a,b){return b.filas.length-a.filas.length;})[0].slug;
     document.getElementById('imp').addEventListener('input',function(){document.getElementById('impOut').textContent=imp()+' €';tienda();mapa();});
+    document.getElementById('q').addEventListener('input',function(){Q=this.value;LIM=36;chips();mapa();});
     pinta();
   }).catch(function(){document.getElementById('metodo').textContent='No se han podido cargar los datos.';});
 })();

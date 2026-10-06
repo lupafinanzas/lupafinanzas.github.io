@@ -1,0 +1,580 @@
+1001-hobbies|1001 Hobbies cashback 4,48%|0
+100x100-fitness|100x100 Fitness cashback 6,4%|0
+1password|1Password cashback 20%|0
+24genetics|24Genetics cashback 3%|0
+365rider|365Rider Cashback 3,2%|1
+3ina|3ina cashback 9,6%|1
+abacus|Abacus cashback 4,8%|0
+abbyy|ABBYY cashback 24%|1
+abelssoft|Abelssoft cashback 32%|0
+acer|Acer cashback 4%|0
+acsi-webshop|ACSI Webshop cashback 4,8%|0
+adagio-teas|Adagio Teas cashback 4%|0
+adam-eve|Adam & Eve cashback 8%|1
+adidas|adidas cashback 4,8%|1
+adsrunning|ADSRUNNING cashback 4%|0
+aeg|AEG cashback 6,4%|0
+aeg-recambios|AEG Recambios cashback 6,4%|0
+agapea-com|Agapea.com cashback 6%|0
+agoda|Agoda cashback 4,8%|0
+air-france|Air France cashback 1%|1
+air-india|Air India cashback 0,6%|0
+air-serbia|Air Serbia cashback 0,8%|0
+airalo|Airalo cashback 12%|1
+airportrentalcars-com|AirportRentalCars.com cashback 4%|0
+airvape|AirVape cashback 12%|0
+alfombra-es|alfombra.es cashback 10,4%|0
+alibaba|Alibaba cashback 4,8%|1
+aliexpress|AliExpress Cashback 6,4%|1
+all4golf|All4Golf cashback 4,8%|1
+allianz-assistance|Allianz Assistance cashback 6,4%|0
+amantis-net|Amantis.net cashback 10,47%|0
+ambientedirect|AmbienteDirect cashback 6,4%|1
+american-tourister|American Tourister cashback 8%|1
+annie-cloth|Annie Cloth cashback 8%|0
+antonioli|Antonioli cashback 8%|0
+antony-morato|Antony Morato cashback 5,6%|0
+aosom|Aosom cashback 4,4%|1
+ar-hoteles|AR Hoteles cashback 3,2%|0
+arcos|ARCOS cashback 5,6%|0
+armeria-alvarez|Armería Álvarez cashback 6,16%|1
+asgoodasnew|asgoodasnew cashback 0,4%|0
+ashampoo|Ashampoo cashback 24%|0
+assist-card|Assist Card Cashback 9,2%|0
+atashi|ATASHI cashback 4%|0
+atmosfera-sport|Atmosfera Sport cashback 8%|1
+atp-atelier|ATP Atelier cashback 6,4%|0
+autodesk|Autodesk cashback 6,4%|0
+autodoc|Autodoc cashback 6,4%|1
+autoeurope|AutoEurope cashback 3,6%|0
+avis|Avis cashback 8%|0
+axa-assistance|AXA Assistance cashback 9,6%|0
+azuline-hotels|Azuline Hotels cashback 3,2%|0
+azz-hotels|Azz Hotels cashback 3,2%|0
+balay|Balay cashback 4%|0
+balearia|Balearia cashback 6,4%|1
+barcelo|Barceló cashback 4,8%|0
+baron|Baron cashback 8%|0
+basket-center|Basket-Center cashback 4%|0
+bauhaus|BAUHAUS cashback 2,4%|0
+be-green|Be.Green Cashback 8%|1
+bears-with-benefits|Bears with Benefits cashback 8%|0
+beautycos|Beautycos cashback 6,4%|0
+bestme|BestMe cashback 8,4%|0
+bett1|bett1 cashback 4%|0
+billabong|Billabong Cashback 6,4%|0
+bioprophyl|BioProphyl cashback 6,4%|0
+black-limba|Black Limba cashback 5,6%|0
+bloomchic|BloomChic cashback 4,8%|0
+bluebay-hotels|BlueBay Hotels cashback 3,2%|0
+bluesea|BLUESEA cashback 3,36%|0
+bluetti|Bluetti cashback 4%|0
+bohempia|Bohempia cashback 8%|0
+boohooman|boohooMAN cashback 4,8%|1
+boomfit|BOOMFIT cashback 5,6%|0
+bosch|BOSCH cashback 4%|0
+braceability|BraceAbility cashback 6,4%|0
+braun|Braun cashback 2,4%|0
+brave-kid|Brave Kid Cashback 4%|0
+brico-depot|Brico Depôt cashback 4,8%|0
+british-council|British Council cashback 8%|0
+bruneau|Bruneau cashback 3,92%|0
+bstn|BSTN cashback 6,4%|1
+budget|Budget cashback 6,4%|0
+busuu|Busuu cashback 8%|0
+buybestgear|Buybestgear cashback 2,4%|0
+buylopez|buyLOPEZ cashback 3,92%|0
+byoode|Byoode cashback 8%|0
+byrokko|Byrokko cashback 8%|1
+cafenoir|CafèNoir cashback 4,48%|0
+calzedonia|Calzedonia cashback 5,7%|0
+camper|CAMPER cashback 6,4%|1
+camperdays|CamperDays cashback 2,4%|1
+camping-and-co|Camping and Co cashback 2,4%|0
+canon|Canon cashback 2,4%|1
+caroll|Caroll cashback 4,8%|0
+casa-andina|Casa Andina cashback 3,2%|0
+casa-del-libro|Casa del Libro cashback 4%|0
+casa-viva|Casa Viva cashback 4,48%|0
+casamundo|Casamundo cashback 3,2%|0
+caseking|Caseking Cashback 0,8%|0
+cashconverters|CashConverters cashback 4%|1
+centauro|Centauro cashback 2,4%|0
+certideal|CertiDeal cashback 3,2%|0
+cfab|cfab Cashback 12,8%|0
+champion|Champion Cashback 4%|0
+charles-keith|Charles & Keith cashback 4%|0
+chassedance|Chassedance cashback 3,2%|0
+chocolatesi|ChocolateSi cashback 4,8%|0
+christina|CHRISTINA cashback 17,6%|0
+citizenm|CitizenM cashback 4,8%|0
+clarel|Clarel cashback 4%|0
+clarks|Clarks cashback 3,2%|0
+click-grow|Click & Grow cashback 12%|0
+clickundboat|Click&Boat cashback 4,8%|1
+clim-profesional|CLIM Profesional cashback 6%|0
+columbia|Columbia cashback 6,4%|1
+comefruta|ComeFruta cashback 6,16%|1
+complementos-para-aves|Complementos para Aves cashback 2,8%|0
+conforama|Conforama cashback 4,8%|1
+coohom|Coohom cashback 24%|0
+cortinadecor|Cortinadecor Cashback 4%|1
+coserty|Coserty cashback 3,36%|0
+costa-cruceros|Costa Cruceros cashback 3,69%|1
+costway|Costway Cashback 5,6%|0
+crocs|Crocs cashback 4%|0
+cunipic|Cunipic cashback 6,4%|1
+curiosite|Curiosite cashback 9,6%|0
+daniel-wellington|Daniel Wellington cashback 3,5%|0
+dazn|DAZN Cashback 48%|1
+dcshoes|DCSHOES cashback 5,6%|0
+de-pata-verde|De Pata Verde cashback 12%|0
+decathlon|Decathlon cashback 2,4%|0
+decimas|Decimas cashback 3,2%|0
+decorshopping|Decorshopping cashback 5,6%|0
+dedicated|DEDICATED cashback 6,4%|0
+delonghi|DeLonghi cashback 4,8%|0
+deporvillage|Deporvillage cashback 4%|1
+desenfunda|Desenfunda cashback 5,6%|0
+desigual|Desigual cashback 7,38%|0
+deuba-xxl|Deuba XXL cashback 8%|0
+dhgate|DHGate Cashback 1,6%|0
+diesel|Diesel Cashback 4,8%|0
+dim|DIM cashback 5,6%|0
+direct-ferries|Direct Ferries cashback 3,2%|1
+direct-running|Direct Running cashback 4%|0
+direct-volley|Direct-Volley cashback 5,6%|0
+disbaby|Disbaby cashback 4,12%|0
+discover-cars|Discover Cars cashback 2,4%|0
+disney-holidays|Disney Holidays cashback 2,4%|1
+diversual|Diversual cashback 0,4%|0
+domestika|Domestika cashback 32%|1
+donner-music|Donner Music Cashback 12%|0
+dooers|Dooers cashback 5,6%|0
+dosfarma|DosFarma cashback 6,4%|1
+douglas|Douglas cashback 7,2%|1
+doulton|Doulton Cashback 4%|0
+dr-martens|Dr. Martens Cashback 2,2%|0
+dreame|Dreame cashback 4%|0
+driffle|Driffle Cashback 3,2%|0
+dunas-hotels-resorts|Dunas Hotels & Resorts cashback 3,2%|0
+dynadot|Dynadot cashback 20%|1
+dynos|Dynos cashback 1,84%|1
+e-lentillas|E-lentillas cashback 4%|0
+eastpak|Eastpak cashback 4,8%|0
+easytoys|EasyToys cashback 8%|0
+ebay|eBay cashback 0,8%|0
+edreams|eDreams cashback 4,8%|1
+ekoi|EKOI cashback 4%|0
+el-maestro-de-la-iluminacion|El Maestro De La Iluminacion cashback 4,5%|0
+electrodepot|Electrodepot cashback 4%|1
+electrolux-recambios|Electrolux Recambios cashback 8%|0
+electropolis|Electropolis cashback 5,6%|1
+elegoo|ELEGOO Cashback 4%|0
+elifexir|Elifexir cashback 4%|0
+elpumps|Elpumps cashback 6,16%|0
+emirates|Emirates Cashback 1%|0
+enjoy-the-wood|Enjoy The Wood cashback 12%|0
+entradas-com|Entradas.com cashback 1,6%|1
+esdemarca|Esdemarca cashback 1,8%|1
+esimflag|eSimFLAG Cashback 8%|0
+esky|eSky cashback 2,8%|0
+essenciales|Essenciales cashback 5,6%|0
+etam|Etam cashback 6,4%|1
+etravelsim|eTravelSIM cashback 8,8%|0
+eureka|Eureka cashback 3,2%|1
+europ-assistance|Europ Assistance cashback 12%|0
+europcar|Europcar cashback 5,6%|1
+expressvpn|ExpressVPN cashback 28%|0
+fanatical|Fanatical cashback 4%|1
+fanatics|Fanatics cashback 4%|0
+farfetch|Farfetch cashback 2,8%|0
+farmacia-angulo|Farmacia Angulo cashback 3,2%|0
+farmacia-market|Farmacia Market cashback 2,8%|0
+farmacias-direct|Farmacias Direct cashback 3,2%|1
+farnell|Farnell cashback 4,8%|0
+fergus-hotels|Fergus Hotels cashback 4%|0
+fever|Fever cashback 8%|1
+fioboc|FIOBOC cashback 8%|0
+fives-hotels|Fives Hotels cashback 3,2%|0
+flex|Flex cashback 4%|0
+flexispot|FlexiSpot cashback 5,7%|0
+flixbus|Flixbus cashback 4%|1
+fnac|Fnac cashback 4%|1
+focx|FOCX cashback 12%|0
+foot-store|Foot-Store cashback 4%|0
+footshop|Footshop cashback 4,8%|1
+foreo|Foreo cashback 2,8%|0
+freshly-cosmetics|Freshly Cosmetics cashback 9,6%|1
+freshlybox|FreshlyBox cashback 8%|0
+funnyfuzzy|FunnyFuzzy cashback 6,4%|0
+g-adventures|G Adventures cashback 4,8%|0
+g-pen|G Pen cashback 0,8%|0
+g-star|G-Star cashback 6,4%|0
+gafasworld|GafasWorld cashback 6,4%|0
+galope-store|Galope-Store cashback 4%|0
+gocity|GoCity cashback 1,6%|0
+goldcar|Goldcar cashback 6,4%|1
+golden-tree|Golden Tree cashback 14,4%|1
+groupon|Groupon cashback 5,6%|1
+grover|Grover cashback 6,4%|1
+h10-hotels|H10 Hotels cashback 3,2%|1
+hairburst|Hairburst cashback 8%|0
+halara|Halara cashback 4%|0
+handball-store|Handball-Store cashback 4%|0
+hawkers|Hawkers cashback 10,4%|1
+headout|Headout cashback 4%|1
+hertz|Hertz Cashback 4%|0
+hipercalzado|HIPERCALZADO cashback 2,24%|0
+hivital|Hivital cashback 5,6%|0
+hofmann|Hofmann cashback 4%|1
+hohem|Hohem cashback 5,6%|1
+holidu|Holidu cashback 4%|0
+hometogo|hometogo cashback 3,2%|0
+homo-naturals|HOMO NATURALS cashback 6,4%|0
+honor|Honor cashback 4%|0
+horizn-studios|Horizn Studios cashback 12%|0
+hostelworld|Hostelworld cashback 20%|0
+hostinger|Hostinger cashback 32%|1
+hp-store|HP Store cashback 3,2%|1
+hrs|HRS cashback 4,8%|1
+htophotels|htophotels cashback 3,2%|0
+huawei|Huawei cashback 4%|0
+hunkemoeller|Hunkemöller cashback 5,6%|0
+hurley|Hurley cashback 6,4%|0
+hypnia|Hypnia cashback 4,8%|0
+i-run-es|i-Run.es cashback 6,4%|0
+iberia-express|IBERIA EXPRESS cashback 1,4%|0
+iberostar-hotels|IBEROSTAR Hotels cashback 4,6%|0
+ictiva|ICTIVA cashback 10,4%|1
+idmarket|IDMarket Cashback 3,6%|0
+ihg-hotels-resorts|IHG Hotels & Resorts cashback 2,4%|0
+ikea|IKEA cashback 4%|0
+impetus|Impetus cashback 5,6%|0
+incapto|INCAPTO cashback 4,8%|0
+incogni|Incogni cashback 32%|0
+infantdeco|Infantdeco cashback 4,4%|0
+interflora|Interflora cashback 5,6%|0
+intermundial|InterMundial cashback 8%|0
+inverse|Inverse cashback 5,6%|0
+iobit|IObit cashback 56%|1
+ioptica|iOptica cashback 4,48%|0
+irobot|iRobot cashback 3,2%|0
+isinwheel|isinwheel cashback 2,4%|0
+ita-airways|ITA Airways cashback 6,7%|1
+iubenda|iubenda Cash Back 32%|0
+ivacy-vpn|Ivacy VPN cashback 40%|0
+janado|Janado cashback 2,4%|0
+jellybuddy|Jellybuddy cashback 1,6%|0
+jetpac|Jetpac cashback 8%|0
+jmbricklayer|JMBricklayer cashback 9,6%|0
+joom|JOOM cashback 12%|1
+julia|Julia cashback 3,36%|1
+just-eat|JUST EAT cashback 7,2%|1
+k4g-com|K4G.com cashback 1,6%|1
+kaiserkraft|kaiserkraft cashback 5,6%|0
+kaspersky|Kaspersky Cashback 40%|0
+kenwood|Kenwood cashback 4,8%|0
+kicks-crew|KICKS CREW cashback 3,2%|0
+kiehls|Kiehls Cashback 7,2%|1
+kipling|Kipling cashback 4,8%|0
+kirstein|Kirstein cashback 3,2%|0
+kitchenaid|KitchenAid cashback 5,6%|0
+kitchenshop|KitchenShop cashback 4,8%|0
+kiwi-com|Kiwi.com cashback 2,4%|0
+kiwoko|Kiwoko cashback 5,6%|1
+klast|Klast cashback 6,4%|0
+klook|Klook cashback 4%|1
+koroeshi|Koröshi cashback 4%|0
+krack|Krack cashback 6,4%|0
+kunaq|Kunaq cashback 6,4%|1
+kyoto|KYOTO cashback 2,56%|0
+l-occitane|L'OCCITANE cashback 6,4%|0
+la-drogueria-de-percon|La Drogueria de Percon cashback 4%|0
+la-mallorquina|La Mallorquina cashback 7,6%|0
+lamparas-es|Lamparas.es cashback 4,48%|0
+lancome|Lancôme cashback 6,4%|0
+las-bailarinas-de-eloisa|Las bailarinas de Eloísa cashback 4,48%|0
+lastminute-com|lastminute.com cashback 4,4%|1
+latostadora|LaTostadora cashback 8%|0
+ledbox|Ledbox cashback 2,4%|0
+lego|LEGO cashback 5,6%|1
+lenovo|Lenovo Cashback 2,4%|0
+lenstore|Lenstore Cashback 6,4%|1
+lentiamo|Lentiamo cashback 4,8%|0
+lets-ferry|Lets Ferry cashback 1,6%|0
+levi-s|Levi's cashback 4%|0
+lg|LG cashback 3,2%|0
+liffner|LIFFNER cashback 4%|0
+liki-24|Liki 24 Cashback 4,8%|0
+lime-lace|Lime Lace cashback 3,2%|0
+liu-jo|LIU JO cashback 4%|0
+liwela|Liwela cashback 8%|1
+lizenzexpress|lizenzexpress cashback 10,4%|0
+loaded|Loaded cashback 4%|1
+loading|Loading cashback 40%|0
+loberon|Loberon cashback 8%|0
+locompramos|LOCOMPRAMOS cashback 0,4%|0
+logitravel|Logitravel cashback 3,08%|1
+lopesan-hoteles|LOPESAN Hoteles cashback 2,4%|0
+lorena-canals|Lorena Canals Cashback 4,8%|0
+lovelywholesale|LovelyWholesale cashback 8%|0
+lufthansa|Lufthansa cashback 1,2%|0
+lululemon|lululemon cashback 4%|1
+luminar|Luminar cashback 16%|0
+lusini|LUSINI cashback 9,6%|1
+luxenter|Luxenter cashback 11,2%|0
+mackeeper|MacKeeper cashback 44%|0
+macpaw|MacPaw cashback 40%|1
+magic-costa-blanca|Magic Costa Blanca cashback 3,2%|0
+maisons-du-monde|Maisons du Monde cashback 5,6%|1
+maletas-greenwich|Maletas Greenwich Cashback 6,4%|0
+mammotion|Mammotion Cashback 2,4%|0
+marc-aurel|Marc Aurel cashback 4%|0
+marc-o-polo|Marc O'Polo cashback 8%|1
+mariscos-o-grove|Mariscos O Grove cashback 4,8%|0
+marshall-headphones|Marshall Headphones cashback 4%|0
+martinelli|Martinelli cashback 8%|1
+marypaz|MARYPAZ cashback 3,68%|0
+maszapatillas|Maszapatillas cashback 4%|0
+maxifundas-com|MaxiFundas.com cashback 4,92%|1
+mediawave-store|Mediawave Store cashback 9,6%|0
+merit-beauty|MERIT Beauty Cashback 4%|0
+merlin-cycles|MERLIN Cycles cashback 2,4%|1
+mi-arte-es|mi-arte.es cashback 4,48%|0
+miberia|Miberia cashback 1,6%|0
+michael-kors|Michael Kors cashback 2,4%|0
+mifarma-by-atidaplus|mifarma by atidaplus cashback 5,6%|1
+miin-cosmetics|MiiN Cosmetics Cashback 4%|0
+miliboo|Miliboo cashback 6,4%|1
+minitool|MiniTool cashback 24%|0
+misako|MISAKO cashback 4,48%|0
+missoni|Missoni Cashback 3,2%|0
+mohito|Mohito Cashback 4%|0
+momcozy|Momcozy Cashback 6,4%|0
+monkey-mum|Monkey Mum cashback 6,4%|1
+moo|Moo cashback 4,8%|1
+motoblouz|Motoblouz cashback 3,2%|1
+motocard|MOTOCARD cashback 3,2%|0
+moulinex|Moulinex cashback 4,8%|0
+mustang|Mustang cashback 4,8%|0
+myposter|myposter cashback 8%|1
+myprotein|Myprotein cashback 9,6%|1
+myvitamins|Myvitamins cashback 9,6%|1
+nars|Nars Cashback 6,4%|0
+nature-s-finest|Nature's Finest cashback 20%|1
+naturtint|Naturtint cashback 4%|0
+neumaticos-online-es|neumaticos-online.es cashback 3,2%|0
+neumaticosdemoto-es|neumaticosdemoto.es cashback 2,4%|0
+neumaticos-es|Neumáticos.es cashback 3,2%|0
+nh-hoteles|NH Hoteles cashback 4,8%|0
+nintendo-store|Nintendo Store Cashback 4,8%|1
+noble-panacea|Noble Panacea Cashback 8%|0
+noflystore|NoFlyStore cashback 5,6%|0
+nominalia|Nominalia cashback 48%|1
+nordvpn|NordVPN cashback 32%|0
+notino|Notino cashback 3,2%|0
+nugnes|Nugnes cashback 4%|0
+oakley|Oakley cashback 6,4%|1
+oasis-hoteles|Oasis Hoteles cashback 3,2%|0
+obsbot|OBSBOT cashback 6,4%|0
+oh-gar|Oh'gar cashback 8%|0
+ohmytuft|Ohmytuft cashback 4,48%|0
+ok-farma|OK Farma cashback 2,8%|0
+olight|Olight cashback 5,6%|0
+olympic-shop|Olympic Shop cashback 4%|0
+om-system|OM SYSTEM cashback 4%|1
+omio|OMIO cashback 3,2%|1
+onlinecosmeticos|ONLINECOSMETICOS cashback 5,6%|0
+onlineprinters|Onlineprinters cashback 0,4%|1
+open-ferry|Open Ferry cashback 3,2%|0
+oppo|OPPO Cashback 4%|1
+oral-b|Oral-B Cashback 4,8%|0
+original-flor|Original Flor cashback 8%|0
+orlando-rent-a-car|Orlando rent a car cashback 3,2%|0
+oscaro|Oscaro cashback 4%|1
+ouigo|Ouigo cashback 2,8%|0
+outlet-textil|Outlet textil cashback 3,56%|1
+paco-perfumerias|Paco Perfumerias cashback 2,4%|1
+padel-nuestro|Padel Nuestro cashback 6%|1
+padel-point|Padel-Point cashback 2,4%|0
+palazzo-versace|Palazzo Versace cashback 4%|0
+panda-security|Panda Security cashback 28%|1
+pandahall|PandaHall cashback 1,6%|0
+pandora|Pandora cashback 4,8%|0
+paragon-software|Paragon Software cashback 6,4%|0
+parallels|Parallels cashback 12%|1
+parcel-abc|Parcel ABC cashback 24,62%|0
+parfumdreams|Parfumdreams cashback 4%|1
+paris-city-vision|Paris City Vision cashback 8%|0
+parkimeter|Parkimeter cashback 4%|0
+patpat|PatPat cashback 4%|0
+pcloud|pCloud cashback 4%|0
+people-sapiens|People Sapiens cashback 5,6%|0
+perfumeria-comas|Perfumería Comas cashback 2,4%|0
+perriconemd|PerriconeMD cashback 6,4%|0
+petit-celler|Petit Celler cashback 7,2%|0
+philips-hue|Philips Hue cashback 5,6%|0
+phone-house|Phone House cashback 4,8%|1
+pierreundvacances|Pierre&Vacances cashback 2,4%|0
+pikolinos|PIKOLINOS cashback 5,6%|0
+pixartprinting|Pixartprinting cashback 8%|1
+playstation-direct|PlayStation Direct cashback 3,2%|1
+plusholidays|PlusHolidays cashback 5,6%|0
+polinesia|Polinesia cashback 4,8%|1
+polo-club|Polo Club cashback 6,32%|0
+primeriti|Primeriti cashback 4,1%|0
+primor|PRIMOR cashback 1,2%|0
+private-internet-access-vpn|Private Internet Access VPN Cashback 24%|0
+profesorcbd|ProfesorCBD cashback 12%|0
+promofarma|PROMOFARMA cashback 6,4%|1
+protegetuviaje-com|Protegetuviaje.com cashback 8%|0
+puma|Puma cashback 3,2%|1
+pure-niche-lab|Pure Niche Lab cashback 6,4%|0
+puzzle-master|Puzzle Master cashback 5,6%|0
+qatar-airways|Qatar Airways cashback 1,6%|0
+quay|Quay cashback 8%|0
+quiksilver|QUIKSILVER cashback 5,6%|0
+radisson-hotels|Radisson Hotels cashback 3,2%|0
+ram-golf|Ram Golf cashback 8%|0
+ravensburger|Ravensburger cashback 8%|1
+ray-ban|Ray-Ban cashback 6,4%|1
+rdx-sports|RDX Sports cashback 0,8%|0
+rebuy|rebuy cashback 3,6%|1
+recambioscoches-es|recambioscoches.es cashback 8%|1
+relx|Relx cashback 8,4%|0
+rent-cars|Rent Cars cashback 4%|0
+repuestoscoches24-es|Repuestoscoches24.es cashback 6,4%|1
+revolution-soft|Revolution Soft cashback 16%|1
+roca|Roca cashback 2,8%|0
+roomdi-com|Roomdi.com cashback 3,2%|0
+rosaoazul|rosaoazul cashback 5,6%|1
+routledge|Routledge cashback 4%|0
+rowenta|Rowenta cashback 4,8%|0
+roxy|Roxy cashback 5,6%|0
+rumbo|Rumbo cashback 4,4%|1
+sabina|Sabina cashback 2,8%|0
+safi-hotel|Safi Hotel cashback 3,2%|0
+saludonnet|SaludOnNet cashback 4%|0
+samsung|Samsung cashback 4,8%|0
+sandisk|SanDisk cashback 4%|0
+santa-rita|Santa Rita cashback 4%|0
+sarenza|Sarenza cashback 4,8%|0
+satorisan|SATORISAN cashback 4,8%|0
+sembo|Sembo Cashback 4%|0
+sensilab|Sensilab cashback 4,8%|1
+sentrypc|SentryPC cashback 32%|0
+seymayka|Seymayka cashback 12%|0
+shaktimat|Shaktimat cashback 6,4%|0
+sharingful|Sharingful cashback 8%|0
+sharkninja|SharkNinja cashback 4,8%|0
+shein|SHEIN cashback 12%|1
+shiseido|Shiseido Cashback 6,4%|0
+shooos|SHOOOS cashback 6,4%|1
+siksilk|SIKSILK cashback 6,4%|0
+sillasdeoficina24|sillasdeoficina24 cashback 4%|0
+simplysupplements|SimplySupplements cashback 6,4%|0
+sinmaletas|Sinmaletas cashback 9,6%|0
+sip-scootershop|SIP Scootershop cashback 3,2%|0
+siroko|Siroko cashback 5,6%|0
+sixt|Sixt cashback 4,8%|0
+skatepro|SKATEPRO Cashback 1,6%|0
+skechers|Skechers Cashback 6,8%|1
+skiset|Skiset Cashback 4,8%|0
+slam-jam|Slam Jam cashback 8%|1
+smartbox|Smartbox cashback 6,4%|0
+smash-expert|Smash-Expert cashback 4%|0
+smileat|SMILEAT cashback 4,8%|0
+sneakin|Sneakin cashback 2,4%|0
+snipes|Snipes Cashback 4%|0
+sobelia|Sobelia cashback 1,6%|1
+softzone|Softzone cashback 8%|0
+sombreroshop|Sombreroshop cashback 4%|0
+songmics|SONGMICS cashback 2,8%|0
+sorel|Sorel cashback 3,2%|0
+spartoo|Spartoo cashback 12%|0
+sport-is-good|Sport is good cashback 4%|0
+sports-events-365|Sports Events 365 cashback 5,6%|0
+sportsshoes|SportsShoes cashback 1,6%|0
+sprinter|Sprinter cashback 5,6%|0
+stanley|Stanley Cashback 8%|0
+stiga-sports|STIGA Sports Cashback 8%|0
+stylevana|Stylevana cashback 4%|0
+sunglass-hut|Sunglass Hut cashback 6,4%|1
+superdry|Superdry cashback 4,8%|0
+surfshark|Surfshark cashback 48%|1
+suunto|Suunto cashback 2,4%|0
+swarovski|Swarovski cashback 3,2%|0
+tameson|Tameson cashback 3,2%|0
+targus|Targus cashback 6,4%|0
+tassimo|Tassimo cashback 8%|0
+taurus|Taurus cashback 4,8%|0
+tefal|Tefal cashback 4,8%|0
+telerosa|teleROSA cashback 6,8%|0
+temu|TEMU cashback 36%|1
+tennis-point|Tennis Point cashback 4,8%|1
+tenways|TENWAYS cashback 2,4%|0
+tessabit|Tessabit Cashback 8%|0
+the-ayurveda-experience|The Ayurveda Experience cashback 2,4%|0
+the-beauty-corner|The Beauty Corner cashback 14,4%|0
+the-future-rocks|The Future Rocks cashback 1,6%|0
+the-mint|The Mint cashback 8%|0
+the-streets|The Streets cashback 6,4%|1
+ticket-liquidator|Ticket Liquidator cashback 8%|0
+ticketnetwork|TicketNetwork cashback 10%|0
+ticombo|Ticombo Cashback 5,6%|0
+tiendanimal|Tiendanimal cashback 4,8%|1
+tiendatextil|TiendaTextil cashback 3,9%|0
+timberland|Timberland cashback 4%|1
+tiqets|Tiqets cashback 2,4%|0
+tirendo|Tirendo cashback 3,2%|0
+todojuguete|TodoJuguete cashback 3,2%|0
+toni-pons|Toni Pons Cashback 7,2%|1
+tony-mora|Tony Mora cashback 3,84%|0
+tous|TOUS Cashback 5,3%|0
+toysrus|ToysRus cashback 4%|0
+trainpal|TrainPal cashback 6,4%|1
+transparent|TRANSPARENT cashback 4%|0
+travelpro|Travelpro cashback 8%|0
+trek-expert|Trek Expert cashback 5,6%|0
+trip-com|Trip.com cashback 4,4%|1
+turkish-airlines|Turkish Airlines cashback 1,6%|0
+turronesydulces-com|Turronesydulces.com cashbacks 4,48%|0
+udemy|Udemy cashback 16%|1
+ultrahuman-healthcare|Ultrahuman Healthcare Cashback 8%|0
+under-armour|Under Armour cashback 4%|1
+uniplaces|Uniplaces cashback 11,2%|0
+unisa|Unisa cashback 5,6%|0
+united-colors-of-benetton|United Colors of Benetton Cashback 5,8%|0
+urbanstar|URBANSTAR Cashback 3,2%|0
+vegairoa|Vegairoa cashback 8%|0
+vevor|Vevor Cashback 2,4%|0
+viator|Viator cashback 3,2%|0
+vidaxl|VidaXL cashback 8%|1
+vikhotels-com|VikHotels.com cashback 3,2%|0
+vistaprint|Vistaprint cashback 6,4%|1
+vivaia|VIVAIA cashback 8%|0
+vivo|Vivo cashback 4%|0
+voghion|Voghion cashback 8%|0
+volcom|Volcom cashback 5,6%|0
+vrbo|Vrbo cashback 1,6%|0
+wakkap|Wakkap cashback 2,45%|1
+walkingpad|WalkingPad cashback 8%|0
+welzo|Welzo cashback 8%|0
+wilson|Wilson cashback 3,2%|0
+womanizer|Womanizer cashback 4%|1
+xcaret|Xcaret cashback 4,8%|0
+xiaomi|Xiaomi Cashback 1,6%|0
+xpluswear|Xpluswear cashback 4%|0
+xrshop|XRshop cashback 0,8%|0
+yours|YOURS cashback 4%|1
+yoursurprise|Yoursurprise cashback 3,2%|0
+zafiro-hotels|Zafiro Hotels cashback 4,8%|0
+zalando-prive|Zalando Privé cashback 6,4%|0
+zanussi-recambios|ZANUSSI Recambios cashback 8%|0
+zanvic|ZANVIC cashback 8,4%|0
+zebra-golf|Zebra Golf cashback 8%|0
+zeeman|Zeeman cashback 4,48%|0
+zooplus|Zooplus cashback 2,4%|1
+zwift|Zwift cashback 4%|0
+zwilling|Zwilling cashback 6,4%|0

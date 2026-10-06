@@ -169,6 +169,23 @@
       "Ficha (HTML): Compra cliente ya existente (cashback máximo por transacción: 60€) 2,10% Cashback",
       "Ficha (texto renderizado): ... 2,10% Cashback, tras la tarifa de cliente nuevo de 18,20%"
      ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 36,
+     "hasta_pct": true,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/temu/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: TEMU cashback 36%",
+      "Bloque de la ficha: Hasta el 36% cashback"
+     ]
     }
    ]
   },
@@ -268,6 +285,23 @@
      "lecturas": [
       "Listado: Gana hasta un 6% de reembolso al comprar en Aliexpress ES",
       "Búsqueda en el contenido: 6% de reembolso al comprar en Aliexpress ES"
+     ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 6.4,
+     "hasta_pct": true,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/aliexpress/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: AliExpress Cashback 6,4%",
+      "Bloque de la ficha: Hasta el 6,4%"
      ]
     }
    ]
@@ -431,6 +465,23 @@
       "Portada de Beruby: Fnac hasta 5,00%",
       "Ficha: libros 5,00%; música 3,00%; cine 3,00%; papelería, regalo y experiencias 5,00%; foto 2,50%; imagen 1,50%; sonido 3,00%; hogar 2,50%; hardware 1,50%; telefonía 1,50%; gaming 1,50%"
      ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 4,
+     "hasta_pct": true,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/fnac/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: Fnac cashback 4%",
+      "Bloque de la ficha: Hasta el 4%"
+     ]
     }
    ]
   },
@@ -552,6 +603,23 @@
      "lecturas": [
       "Ficha (HTML): Compra online cliente recurrente 0,70% Cashback",
       "Ficha (texto renderizado): tras la tarifa de primera compra de 10,50%, cliente recurrente 0,70%"
+     ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 12,
+     "hasta_pct": true,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/shein/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: SHEIN cashback 12%",
+      "Bloque de la ficha: Hasta el 12%"
      ]
     }
    ]
@@ -699,6 +767,23 @@
       "Ficha (HTML): Por petición de comida a domicilio (usuario recurrente) 1,40% Cashback",
       "Ficha (texto renderizado): Por petición de comida a domicilio (usuario recurrente) 1,40% Cashback"
      ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 7.2,
+     "hasta_pct": true,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/just-eat/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: JUST EAT cashback 7,2%",
+      "Bloque de la ficha: Hasta el 7,2%"
+     ]
     }
    ]
   },
@@ -817,6 +902,23 @@
       "Ficha (HTML): Compra online 6,30% Cashback; rebajados 6,30%; outlet 6,30%",
       "Ficha (texto renderizado): Compra online 6,30% Cashback"
      ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 4.8,
+     "hasta_pct": true,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/adidas/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: adidas cashback 4,8%",
+      "Bloque de la ficha: Hasta el 4,8%"
+     ]
     }
    ]
   },
@@ -898,6 +1000,24 @@
      "lecturas": [
       "Ficha (HTML): Compra online 3,00% Cashback",
       "Ficha (texto renderizado): Compra online 3,00% Cashback"
+     ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 2.4,
+     "hasta_pct": false,
+     "habitual_pct": 2.4,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/decathlon/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: Decathlon cashback 2,4%",
+      "Bloque de la ficha: CASHBACK 2,4%"
      ]
     }
    ]
@@ -1152,6 +1272,24 @@
      "lecturas": [
       "Ficha (HTML): Por compra online realizada 2,10% Cashback",
       "Ficha (texto renderizado): Por compra online realizada 2,10% Cashback"
+     ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 1.2,
+     "hasta_pct": false,
+     "habitual_pct": 1.2,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/primor/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: PRIMOR cashback 1,2%",
+      "Bloque de la ficha: CASHBACK 1,2%"
      ]
     }
    ]
@@ -1491,6 +1629,24 @@
       "Ficha (HTML): Compra realizada en eBay España hasta 1,50% Cashback",
       "Ficha (texto renderizado): Compra realizada en eBay España hasta 1,50% Cashback"
      ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 0.8,
+     "hasta_pct": false,
+     "habitual_pct": 0.8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/ebay/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: eBay cashback 0,8%",
+      "Bloque de la ficha: CASHBACK 0,8%"
+     ]
     }
    ]
   },
@@ -1604,6 +1760,23 @@
      "lecturas": [
       "Ficha (HTML): hotel 3,50%; coche 2,10%; actividades y traslados 2,80%; paquetes 1,40%",
       "Ficha (texto renderizado): hotel 3,50%; coche 2,10%; actividades 2,80%; paquetes 1,40%"
+     ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 4.8,
+     "hasta_pct": true,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/expedia/",
+     "leido": "2026-10-06",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: Expedia cashback 4,8%",
+      "Bloque de la ficha: Hasta el 4,8%"
      ]
     }
    ]

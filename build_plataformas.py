@@ -120,7 +120,7 @@ pagina = f"""<!doctype html>
 <meta name="theme-color" content="#0b2e25"><link rel="icon" href="../logo.jpg"><link rel="stylesheet" href="../fuentes.css"><link rel="stylesheet" href="../estilo.css">{CSS}
 <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script></head><body>
 <header class="top"><div class="wrap"><a class="marca" href="../index.html"><img src="../logo.jpg" alt=""><span>Lupa Financiera</span></a><nav class="menu" aria-label="Principal">{MENU}</nav><a class="x" href="https://x.com/LupaFinanzas">@LupaFinanzas</a></div></header>
-<main class="wrap">{cuerpo}<footer class="pie"><p><a href="../aviso-legal.html">Aviso legal</a> · <a href="../privacidad.html">Política de privacidad</a> · <a href="../cookies.html">Política de cookies</a></p><p>Datos orientativos leídos de fuentes públicas con su fecha. No es asesoría financiera.</p></footer></main></body></html>"""
+<main class="wrap">{cuerpo}<footer class="pie"><p><a href="../aviso-legal.html">Aviso legal</a> · <a href="../privacidad.html">Política de privacidad</a> · <a href="../cookies.html">Política de cookies</a></p><p>Datos orientativos leídos de fuentes públicas con su fecha. No es asesoría financiera.</p></footer></main><script data-goatcounter="https://lupafinanzas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></body></html>"""
 out = BASE / "plataformas"
 out.mkdir(exist_ok=True)
 (out / "index.html").write_text(pagina, encoding="utf-8")

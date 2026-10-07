@@ -106,7 +106,7 @@ def pagina(ruta, titulo, desc, cuerpo, jsonld=""):
 {cuerpo}
 <footer class="pie"><p><a href="{rel}aviso-legal.html">Aviso legal</a> · <a href="{rel}privacidad.html">Política de privacidad</a> · <a href="{rel}cookies.html">Política de cookies</a></p><p>Contenido informativo, no es asesoría financiera. Las cifras cambian a diario: compruébalas en la web de cada plataforma antes de comprar.</p></footer>
 </main>
-</body>
+<script data-goatcounter="https://lupafinanzas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></body>
 </html>
 """
 

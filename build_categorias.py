@@ -76,7 +76,7 @@ def pagina(ruta, titulo, desc, cuerpo, jsonld, r):
 <meta name="theme-color" content="#0b2e25"><link rel="icon" href="{r}logo.jpg"><link rel="stylesheet" href="{r}fuentes.css"><link rel="stylesheet" href="{r}estilo.css">{CSS}
 <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script></head><body>
 <header class="top"><div class="wrap"><a class="marca" href="{r}index.html"><img src="{r}logo.jpg" alt=""><span>Lupa Financiera</span></a><nav class="menu" aria-label="Principal">{MENU.format(r=r)}</nav><a class="x" href="https://x.com/LupaFinanzas">@LupaFinanzas</a></div></header>
-<main class="wrap">{cuerpo}<footer class="pie"><p><a href="{r}aviso-legal.html">Aviso legal</a> · <a href="{r}privacidad.html">Política de privacidad</a> · <a href="{r}cookies.html">Política de cookies</a></p><p>Datos orientativos leídos de fuentes públicas con su fecha. No es asesoría financiera.</p></footer></main></body></html>"""
+<main class="wrap">{cuerpo}<footer class="pie"><p><a href="{r}aviso-legal.html">Aviso legal</a> · <a href="{r}privacidad.html">Política de privacidad</a> · <a href="{r}cookies.html">Política de cookies</a></p><p>Datos orientativos leídos de fuentes públicas con su fecha. No es asesoría financiera.</p></footer></main><script data-goatcounter="https://lupafinanzas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></body></html>"""
 
 
 leido = data["actualizado"]

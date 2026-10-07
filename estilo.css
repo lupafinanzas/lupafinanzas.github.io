@@ -195,3 +195,5 @@ h1,h2,h3{font-weight:800;line-height:1.1;letter-spacing:-.02em}
 .promo details li{margin:5px 0}
 
 @media (min-width:760px) and (max-width:1020px){.x{display:none}.menu{margin-left:auto}.menu a{padding:8px 8px;font-size:.84rem}}
+
+.aviso-p{background:color-mix(in srgb,var(--yellow) 22%,transparent);border-radius:12px;padding:8px 12px;font-size:.85rem}

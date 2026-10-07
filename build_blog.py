@@ -45,6 +45,8 @@ def tabla(slugs):
     return "\n".join(out)
 
 
+IGRAAL_CAJA = '<div class="caja"><b>Publicidad.</b> ¿Todavía no tienes iGraal? Si te registras con <a href="{rel}ir/igraal/" rel="noopener sponsored nofollow">mi invitación</a> recibes un bono de 10 € con tu primer pedido de al menos 12,40 € (en 90 días). Yo recibo una recompensa si lo haces. Las condiciones completas están en la web de iGraal.</div>'
+
 CSS = """<style>
 .art{max-width:720px;margin:0 auto;padding:24px 16px 8px}
 .art h1{font-size:clamp(1.9rem,6vw,2.7rem);margin:6px 0 12px}
@@ -207,6 +209,7 @@ for a in arts:
     if faq:
         toc.append(("preguntas-frecuentes", "Preguntas frecuentes"))
         cuerpo += '<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>\n' + "".join(f"<details><summary>{esc(q)}</summary><p>{esc(sustituir(r))}</p></details>" for q, r in faq) + "\n"
+    cuerpo += IGRAAL_CAJA.format(rel="../../") + "\n"
     cuerpo += '<div class="caja"><b>Compáralo tú mismo.</b> <a href="../../comparador.html">Abre el comparador</a>, busca tu tienda y ordena por euros recibidos, o mira las <a href="../../tienda/">fichas por tienda</a>.</div>\n'
     otros = [x for x in arts if x["slug"] != a["slug"]][:3]
     if otros:

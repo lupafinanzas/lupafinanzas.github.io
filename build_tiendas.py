@@ -74,6 +74,8 @@ for t in data["tiendas"]:
     if len(plats) >= 2 or dtos:
         paginas.append((t, sorted(t["filas"], key=lambda f: -gana(f)), dtos))
 
+IGRAAL_CAJA = '<div class="caja"><b>Publicidad.</b> ¿Todavía no tienes iGraal? Si te registras con <a href="{rel}ir/igraal/" rel="noopener sponsored nofollow">mi invitación</a> recibes un bono de 10 € con tu primer pedido de al menos 12,40 € (en 90 días). Yo recibo una recompensa si lo haces. Las condiciones completas están en la web de iGraal.</div>'
+
 CSS = """<style>
 .art{max-width:760px;margin:0 auto;padding:24px 16px 8px}
 .art h1{font-size:clamp(1.8rem,6vw,2.5rem);margin:6px 0 12px}
@@ -207,6 +209,8 @@ for t, filas, dtos in paginas:
               f'<h2>Cashback en {esc(n)} por plataforma</h2>{tabla}'
               f'<p class="mini">Cálculo orientativo con 50 € y sin IVA ni envío. Cada cifra se lee en la ficha pública de la plataforma, con doble comprobación. Datos leídos el {fecha(leido)}.</p>'
               f'{bloque_dto}'
+              + (IGRAAL_CAJA.format(rel=rel) if 'iGraal' in plats else '') +
+              f''
               f'<h2>Preguntas frecuentes sobre {esc(n)}</h2>{faq_html}'
               f'<div class="caja"><b>Compáralo con tu importe.</b> <a href="{rel}comparador.html#{esc(t["slug"])}">Abre el comparador</a> y cambia la cantidad para ver los euros que recibirías en cada plataforma.</div>'
               f'<p class="mini"><a href="{rel}blog/">Guías de cashback</a> · <a href="{rel}descuentos.html">Todos los descuentos</a> · <a href="{rel}como-lo-hacemos.html">Cómo comprobamos los datos</a></p></article>')

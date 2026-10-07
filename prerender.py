@@ -72,7 +72,13 @@ for p in vis:
         nota = f"<p class=\"det\">Nota Real: {tot:g} / 10 (cada criterio puntúa de 0 a 2,5){(' · ' + esc(p['nota_texto'])) if p.get('nota_texto') else ''}</p>" + (f"<details open><summary>Por qué esta nota</summary><ul>{razones}</ul></details>" if razones else "")
     else:
         nota = "<p class=\"det\">Nota Real sin calcular todavía.</p>"
-    enlace = f'<p><a href="{esc(p["fuente_oficial"])}" rel="noopener nofollow">Ver condiciones oficiales</a></p>' if p.get("fuente_oficial") and not p.get("enlace") else ""
+    enlace = ""
+    if p.get("aviso"):
+        enlace += f'<p class="det aviso-p">{esc(p["aviso"])}</p>'
+    if p.get("enlace"):
+        enlace += f'<p><a class="btn verde" href="ir/{esc(p["slug"])}/" rel="noopener sponsored nofollow">{esc(p.get("boton") or ("Ir a " + p["nombre"] + " →"))}</a></p>'
+    if p.get("fuente_oficial"):
+        enlace += f'<p><a href="{esc(p["fuente_oficial"])}" rel="noopener nofollow">Ver condiciones oficiales</a></p>'
     out.append(f'<article class="card promo"><div class="cab"><h3>{esc(p["nombre"])}</h3><span class="sello">{esc(p["tipo"])}</span></div>'
                f'<div class="gana">{esc(p.get("gana_corto") or p["recompensa"])}</div><div class="det">{esc(p.get("gana_sub") or "")}</div>'
                f'<p class="cond">{esc(p["requisitos"])}</p>{nota}{enlace}'

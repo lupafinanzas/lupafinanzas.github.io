@@ -43,12 +43,31 @@
    "slug": "topcashback",
    "nombre": "TopCashback",
    "tipo": "6 · Cashback progresivo",
-   "recompensa": "10 € para quien invita y un bono de registro de 5 € para el invitado",
-   "requisitos": "Quien invita cobra cuando su amigo genera 10 € de cashback en un plazo de 180 días, y solo se puede retirar cuando ese cashback pasa a estado pagable.",
+   "recompensa": "5 € de bono de registro si te registras con mi invitación hasta el 07/10/2026 a las 23:59. Yo recibo 30 € si cumples las condiciones; tú no.",
+   "requisitos": "Debes registrarte como nuevo usuario con el enlace de invitación y en la misma sesión, verificar tu cuenta y ganar al menos 5 € de cashback en marcas participantes dentro de los 90 días siguientes al registro. El bono es el que figure publicado cuando te registras, aunque cambie después. No cuentan para el umbral los bonos adicionales de registro, las promociones de bonificación, las ofertas para nuevos miembros ni el cashback de las marcas excluidas (CyberGhostVPN, PrivateVPN, PureVPN y Shopify). El bono se abona cuando tu cashback esté disponible y se retira por transferencia bancaria o PayPal. Quien invita (yo) recibe 30 € cuando el invitado gana al menos 10 € de cashback en 90 días.",
    "enlace": "https://www.topcashback.es/ref/member9607000856",
-   "estado": "en_verificacion",
-   "verificado": "2026-09-14",
-   "nota": null
+   "estado": "publicada",
+   "verificado": "2026-10-07",
+   "nota": {
+    "tiempo": 1.5,
+    "importe": 1,
+    "letra": 1.5,
+    "permanencia": 2.5
+   },
+   "caduca": "2026-10-07",
+   "gana_corto": "5 €",
+   "gana_sub": "de bono de registro (solo si te registras hoy, 07/10, hasta las 23:59)",
+   "aviso": "Publicidad: si te registras con mi enlace, yo recibo una recompensa de TopCashback (30 €); tú recibes el bono de registro indicado mientras esté vigente.",
+   "nota_texto": "Nota provisional: el bono de 5 € para ti termina hoy y no hay plazo de abono publicado.",
+   "nota_razon": {
+    "tiempo": "Tienes 90 días para ganar el cashback mínimo y el bono se abona cuando tu cashback esté disponible; TopCashback no publica un plazo concreto.",
+    "importe": "Solo 5 € para ti, y solo si te registras hoy; además exige haber ganado 5 € de cashback, es decir, comprar en marcas participantes.",
+    "letra": "Reglas claras pero con matices: el bono depende de la fecha de registro, hay marcas excluidas y no cuentan los bonos ni las ofertas para nuevos miembros.",
+    "permanencia": "Sin permanencia ni saldo mínimo que mantener."
+   },
+   "fuente_condiciones": "https://www.topcashback.es/referidos/terminos/",
+   "fuente_oficial": "https://www.topcashback.es/invita-y-gana/",
+   "boton": "Registrarme en TopCashback con la invitación →"
   },
   {
    "slug": "igraal",
@@ -103,13 +122,31 @@
   {
    "slug": "etoro",
    "nombre": "eToro",
-   "tipo": "Por comprobar",
-   "recompensa": "Pendiente de comprobar",
-   "requisitos": "Pendiente de comprobar condiciones actuales.",
+   "tipo": "2 · Registro + depósito",
+   "recompensa": "Sin bono para ti: la recompensa del programa Refer a Friend es solo para quien invita (50 a 250 USD según su saldo).",
+   "requisitos": "Para que la invitación cuente, el invitado debe ser un cliente nuevo de eToro (Europe) Ltd., residente en un país incluido (España lo está), verificar su cuenta y, en los 90 días siguientes al registro, hacer un primer depósito de al menos 100 USD y abrir operaciones por al menos 100 USD en total. Según las bases del 10/09/2026, el programa no se puede combinar con otras promociones y eToro puede cambiarlo o cancelarlo en cualquier momento. La recompensa de quien invita se acredita en su cuenta de eToro y no se puede retirar durante 90 días.",
    "enlace": "https://etoro.tw/4xWFLqX",
-   "estado": "en_verificacion",
-   "verificado": null,
-   "nota": null
+   "estado": "publicada",
+   "verificado": "2026-10-07",
+   "nota": {
+    "tiempo": 1,
+    "importe": 0,
+    "letra": 1,
+    "permanencia": 1.5
+   },
+   "gana_corto": "Sin bono para ti",
+   "gana_sub": "la recompensa es para quien invita; tú no recibes nada por este programa",
+   "aviso": "Publicidad: si abres cuenta con mi enlace y cumples las condiciones, yo recibo una recompensa de eToro; tú no recibes bono. Invertir conlleva riesgo: el valor de tus inversiones puede subir o bajar y tu capital está en riesgo. Esto no es asesoramiento financiero.",
+   "nota_texto": "Calculada con las bases oficiales de eToro del 10/09/2026; puntúa lo que recibes tú, que es nada.",
+   "nota_razon": {
+    "tiempo": "Hay que verificar la cuenta, depositar al menos 100 USD y operar al menos 100 USD en 90 días; no hay nada que cobrar antes.",
+    "importe": "El programa no da ningún bono al invitado: la recompensa es solo para quien invita.",
+    "letra": "Es un servicio de inversión con riesgo de pérdida de capital; las condiciones del programa se pueden cambiar o cancelar en cualquier momento.",
+    "permanencia": "Exige depositar y operar, y los fondos quedan expuestos al mercado; no hay compromiso de permanencia, pero tampoco ninguna ventaja."
+   },
+   "fuente_condiciones": "https://www.etoro.com/wp-content/uploads/2026/09/RAF-Program-TCs-September-2026.pdf",
+   "fuente_oficial": "https://www.etoro.com/es/",
+   "boton": "Abrir cuenta en eToro con mi enlace →"
   },
   {
    "slug": "sabadell-igraal",
@@ -117,7 +154,7 @@
    "tipo": "2 · Registro + saldo mínimo",
    "recompensa": "150 € de cashback de iGraal por abrir la Cuenta Online Sabadell desde la web de iGraal, hasta el 8/10/2026.",
    "requisitos": "Hay que abrir la cuenta desde la web de iGraal (en navegador, no desde su app ni por teléfono). Saldo medio superior a 300 € durante los 3 meses siguientes al alta; si no, no se valida. No valer si ya tienes otra cuenta Sabadell. Un cashback por DNI. Las reseñas hablan de validación a los ~2 meses. Aparte, Sabadell anuncia 400 € por domiciliar nómina y activar Bizum hasta el 7/10 (exige nómina; no incluido en la nota).",
-   "enlace": "",
+   "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
    "estado": "publicada",
    "verificado": "2026-10-07",
    "caduca": "2026-10-08",
@@ -141,7 +178,9 @@
     "importe": "150 € condicionados a mantener un saldo medio superior a 300 € durante 3 meses; las reseñas hablan de validación a los ~2 meses.",
     "letra": "Condiciones claras pero con varias restricciones: abrirla desde la web de iGraal, un cashback por DNI y no tener otra cuenta Sabadell.",
     "permanencia": "No hay permanencia más allá de mantener el saldo 3 meses."
-   }
+   },
+   "boton": "Hazte socio de iGraal con mi invitación (10 €) →",
+   "aviso": "Publicidad: iGraal te da un bono de 10 € con tu primer pedido de al menos 12,40 € si te registras con mi invitación, y yo recibo una recompensa. Para el cashback de Sabadell tienes que ser socio de iGraal y abrir la cuenta desde su web."
   },
   {
    "slug": "iberdrola-igraal",
@@ -149,7 +188,7 @@
    "tipo": "2 · Registro + contratación",
    "recompensa": "170 € de cashback de iGraal por contratar online una tarifa de luz de Iberdrola desde iGraal, hasta el 8/10/2026.",
    "requisitos": "Activar el cashback en iGraal antes de contratar y contratar online (si la venta es por teléfono no aparece sola y hay que reclamarla con un ticket; las compras desde la app de Iberdrola no generan cashback). Solo nuevos clientes: no vale si el contrato ya está en Iberdrola y solo cambias de tarifa. iGraal paga 1 cashback por CUPS (punto de suministro) y marca de electricidad al año: si ese punto recibió un cashback en los últimos 12 meses, no se paga. Las ofertas propias de Iberdrola que lista iGraal (saldos y descuentos por plan) tienen sus condiciones en la web de Iberdrola y no se han leído aquí.",
-   "enlace": "",
+   "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
    "estado": "publicada",
    "verificado": "2026-10-07",
    "caduca": "2026-10-08",
@@ -175,7 +214,9 @@
     "importe": "170 € fijos, pero se cobran tras la validación de Iberdrola y solo si es tu primera contratación con ellos en ese punto de suministro.",
     "letra": "Varias exclusiones: solo online desde iGraal, nada desde la app, no vale cambiar de tarifa siendo cliente y un cashback por CUPS al año.",
     "permanencia": "La ficha de iGraal no dice si la tarifa tiene permanencia; depende del plan que elijas en Iberdrola."
-   }
+   },
+   "boton": "Hazte socio de iGraal con mi invitación (10 €) →",
+   "aviso": "Publicidad: iGraal te da un bono de 10 € con tu primer pedido de al menos 12,40 € si te registras con mi invitación, y yo recibo una recompensa. Para el cashback de Iberdrola tienes que ser socio de iGraal y contratar desde su web."
   },
   {
    "slug": "twelve",

@@ -107,5 +107,285 @@
    }
   ],
   "cierre": "<p>Si quieres ver el cashback de cada plataforma para tu compra, ordenado por euros y no por porcentaje, está en el comparador.</p>"
+ },
+ {
+  "slug": "que-es-el-cashback-y-como-funciona",
+  "fecha": "2026-10-07",
+  "titulo": "Qué es el cashback y cómo funciona: guía para España",
+  "descripcion": "Qué es el cashback, cómo se cobra paso a paso, por qué a veces no llega y cuánto devuelven de verdad las tiendas. Con datos propios de cada día.",
+  "bloques": [
+   {
+    "html": "<p>El <b>cashback</b> es una devolución de parte del dinero que gastas en una compra online. En lugar de recibir un descuento en el momento de pagar, entras en la tienda a través de una plataforma intermediaria y, cuando la tienda confirma tu pedido, la plataforma te abona un porcentaje de lo que has gastado.</p><p>Hoy comparamos <b>{{n_tiendas}} tiendas</b> en <b>{{n_plataformas}} plataformas</b>. La mediana de las tarifas exactas que hemos leído (sin «hasta» ni ofertas solo para clientes nuevos) es de <b>{{mediana}}</b>, a {{fecha}}. Ese número se mueve cada día, y la diferencia entre tiendas es enorme, como verás más abajo.</p>"
+   },
+   {
+    "h": "Cómo funciona paso a paso",
+    "html": "<ol><li><b>Entras en la plataforma</b> (iGraal, TopCashback, Letyshops, Beruby, Widilo, mycashbacks…) y buscas la tienda.</li><li><b>Pulsas el enlace o activas el cashback</b>. Esa acción registra que vienes de la plataforma.</li><li><b>Compras en la web de la tienda</b>, en la misma sesión y sin abandonar el proceso.</li><li>La tienda comunica el pedido a la plataforma, que lo muestra como <b>pendiente</b>.</li><li>Cuando termina el plazo de devolución de la tienda, el pedido pasa a <b>confirmado</b>.</li><li><b>Cobras</b> cuando llegas al mínimo que fije la plataforma, por transferencia, PayPal u otros medios según cada una.</li></ol>"
+   },
+   {
+    "h": "Por qué las tiendas lo pagan",
+    "html": "<p>Las tiendas pagan una comisión a las plataformas por traerles clientes, igual que ocurre con los programas de afiliación. La plataforma se queda con una parte y te devuelve el resto. Por eso el porcentaje que recibes es siempre menor que la comisión que cobra la tienda y varía tanto de un sector a otro.</p>"
+   },
+   {
+    "h": "Cuánto devuelve de verdad",
+    "html": "<p>Depende mucho de la tienda. En estas tres, con datos de hoy, puedes ver la diferencia entre un marketplace, una tienda de deporte y una de moda:</p>",
+    "tiendas": [
+     "ebay",
+     "decathlon",
+     "shein"
+    ]
+   },
+   {
+    "h": "Qué tiene que cumplirse para que te lo abonen",
+    "html": "<ul><li>Entrar por la plataforma <b>justo antes de comprar</b> y no usar otras extensiones de cupones en medio, que pueden pisar el registro.</li><li>Que el pedido sea <b>apto</b>: muchas tiendas excluyen outlet, tarjetas regalo, ciertas marcas o pagos con determinados métodos.</li><li>No <b>devolver</b> el pedido: si lo devuelves, el cashback se anula.</li><li>Respetar los <b>topes</b> y las condiciones de la oferta (clientes nuevos, importe mínimo, primera compra).</li></ul>"
+   },
+   {
+    "h": "Cuidado con el «hasta X %»",
+    "html": "<p>El porcentaje que aparece en grande suele ser un máximo. Lo que recibes depende de la categoría del producto y de si eres cliente nuevo. En nuestras fichas lo marcamos siempre como «hasta» para que no confundas un máximo con una tarifa.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿El cashback es gratis?",
+    "Por lo general las plataformas no cobran una cuota por usarlas: ganan una comisión de la tienda. Aun así, revisa las condiciones de cada una antes de registrarte."
+   ],
+   [
+    "¿Cuánto tarda en llegar el cashback?",
+    "Depende de la tienda y de la plataforma: desde unos días hasta varios meses, porque hay que esperar a que termine el plazo de devolución. Algunas plataformas publican un plazo estimado por tienda."
+   ],
+   [
+    "¿Puedo usar un cupón de descuento y cashback a la vez?",
+    "A menudo sí, pero no siempre: algunos cupones desactivan el cashback. Las plataformas suelen marcar las ofertas que se pueden acumular; comprueba la condición antes de pagar."
+   ],
+   [
+    "¿Qué pasa si devuelvo un pedido?",
+    "El cashback asociado a ese pedido se anula. Si devuelves solo una parte, se suele ajustar a lo que has conservado."
+   ],
+   [
+    "¿Cuánto dinero se puede conseguir con cashback?",
+    "Es un ahorro sobre compras que ya ibas a hacer, no un ingreso: el porcentaje medio es bajo y depende de cuánto gastes. No es una forma de ganar dinero sin gastar."
+   ]
+  ],
+  "cierre": "<p>Para ver cuánto te devolvería cada plataforma en tu tienda, con tu importe, usa el comparador. Y si quieres entender cómo leemos y comprobamos cada cifra, lo explicamos en <a href=\"../../como-lo-hacemos.html\">cómo lo hacemos</a>.</p>"
+ },
+ {
+  "slug": "mejores-plataformas-de-cashback-en-espana",
+  "fecha": "2026-10-07",
+  "titulo": "Mejores plataformas de cashback en España: comparativa",
+  "descripcion": "Comparativa de plataformas de cashback en España con datos propios: cuántas tiendas cubre cada una, mediana de tarifas y qué mirar antes de elegir.",
+  "bloques": [
+   {
+    "html": "<p>No existe una plataforma de cashback que sea la mejor para todo: cada una cubre tiendas distintas y paga distinto en cada una. Por eso, en lugar de dar una clasificación fija, comparamos con datos reales lo que muestra cada ficha pública, cada día. A {{fecha}} seguimos {{n_plataformas}} plataformas y {{n_tiendas}} tiendas.</p>"
+   },
+   {
+    "h": "Qué mirar antes de elegir",
+    "html": "<ul><li><b>Cobertura:</b> que tenga las tiendas donde compras tú. Una plataforma con pocas tiendas puede ser excelente si compras justo en ellas.</li><li><b>Tarifa exacta y condiciones:</b> el porcentaje real, sin «hasta», y si hay tope, primera compra o solo clientes nuevos.</li><li><b>Plazo de cobro:</b> cuánto tardan en confirmar y abonar.</li><li><b>Mínimo y métodos de pago:</b> a partir de cuánto puedes cobrar y cómo.</li><li><b>Acumulación con cupones:</b> si el cashback sigue activo al usar un código.</li><li><b>Invitaciones y bonos de bienvenida:</b> muchos tienen un premio para quien se registra, con condiciones (pedido mínimo, plazo). Mira siempre la letra pequeña: en <a href=\"../../promociones.html\">promociones</a> puntuamos las que merecen la pena.</li></ul>"
+   },
+   {
+    "h": "Cómo comparar sin que te engañen los porcentajes",
+    "html": "<p>Un porcentaje alto con un tope bajo o solo para la primera compra puede darte menos euros que uno menor sin límite. Por eso nuestro comparador ordena por <b>euros recibidos con el importe que tú eliges</b>, no por porcentaje. También separamos las subidas temporales (que vuelven a su tarifa habitual) de las tarifas fijas.</p>"
+   }
+  ],
+  "plataformas": true,
+  "plataformas_titulo": "Plataformas que comparamos, con datos de hoy",
+  "faq": [
+   [
+    "¿Cuál es la mejor plataforma de cashback?",
+    "Depende de la tienda donde vayas a comprar y del importe: la que más devuelve cambia de una tienda a otra y de un día a otro. Lo más fiable es comparar tu tienda en el comparador."
+   ],
+   [
+    "¿Puedo usar varias plataformas de cashback?",
+    "Sí, pero para cada compra debes usar solo una: entrar por dos plataformas a la vez puede anular el registro. Elige la que más devuelva en esa tienda ese día."
+   ],
+   [
+    "¿Por qué una misma tienda paga porcentajes distintos en cada plataforma?",
+    "Cada plataforma negocia su propia comisión con la tienda y decide cuánto se queda y cuánto te devuelve, por eso la tarifa varía de una a otra."
+   ]
+  ],
+  "cierre": "<p>Para tu tienda en concreto, busca en las <a href=\"../../tienda/\">fichas por tienda</a> o abre el <a href=\"../../comparador.html\">comparador</a>.</p>"
+ },
+ {
+  "slug": "por-que-no-me-llega-el-cashback",
+  "fecha": "2026-10-07",
+  "titulo": "Por qué no me llega el cashback: 9 causas habituales",
+  "descripcion": "Las causas más habituales por las que un cashback no se registra o se rechaza, y qué hacer antes de comprar para que te lo abonen.",
+  "bloques": [
+   {
+    "html": "<p>Has comprado entrando por una plataforma de cashback y no ves nada, o te lo han rechazado. Casi siempre hay una causa concreta, y la mayoría se evita antes de pagar. Estas son las más habituales.</p>"
+   },
+   {
+    "h": "1. Usaste una extensión de cupones",
+    "html": "<p>Las extensiones de cupones o de comparación de precios pueden sustituir el registro de la plataforma por el suyo. Desactívalas mientras compras por cashback.</p>"
+   },
+   {
+    "h": "2. Bloqueadores de anuncios o de cookies",
+    "html": "<p>El cashback se registra con un sistema de seguimiento. Si tu navegador bloquea cookies o scripts de terceros, la compra puede no quedar asociada. Prueba en una ventana sin bloqueadores.</p>"
+   },
+   {
+    "h": "3. Saliste de la web antes de pagar",
+    "html": "<p>Si entras por la plataforma pero cierras la pestaña y vuelves más tarde por otro camino, el registro puede perderse. Haz la compra de principio a fin en la misma sesión.</p>"
+   },
+   {
+    "h": "4. Compraste desde la app de la tienda",
+    "html": "<p>Muchas plataformas solo registran compras hechas en la web. Si la tienda te redirige a su app o compras dentro de ella, el cashback puede no contar. Lee las condiciones de esa tienda.</p>"
+   },
+   {
+    "h": "5. Producto o pedido excluido",
+    "html": "<p>Las tiendas suelen excluir outlet, rebajas concretas, tarjetas regalo, ciertas marcas o pedidos pagados con vales. Comprueba las exclusiones en la ficha.</p>"
+   },
+   {
+    "h": "6. Importe mínimo, tope o primera compra",
+    "html": "<p>Algunas ofertas exigen un pedido mínimo, tienen un tope por compra o solo valen para clientes nuevos y primera compra. Un porcentaje enorme con un tope bajo da pocos euros.</p>"
+   },
+   {
+    "h": "7. Usaste un código que desactiva el cashback",
+    "html": "<p>Algunos códigos de descuento no son compatibles con el cashback. Las plataformas lo indican en la ficha de la tienda. Si dudas, compra con una cosa u otra.</p>"
+   },
+   {
+    "h": "8. Devolviste el pedido",
+    "html": "<p>Si devuelves el pedido, el cashback se anula. Es normal: la tienda no cobra comisión por una venta que no se queda.</p>"
+   },
+   {
+    "h": "9. Todavía está pendiente",
+    "html": "<p>Hasta que termina el plazo de devolución, el cashback aparece como pendiente. Puede tardar semanas, y algunas tiendas más. Guarda la confirmación del pedido por si necesitas reclamar.</p>"
+   },
+   {
+    "h": "Qué hacer si no aparece",
+    "html": "<p>Revisa en la plataforma si el pedido consta como pendiente. Si pasado el plazo que indica la ficha no aparece, abre una reclamación con el justificante del pedido (número, fecha e importe). Cada plataforma tiene su propio procedimiento y plazo para reclamar.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuánto tengo para reclamar un cashback que no aparece?",
+    "Cada plataforma fija su propio plazo, que suele empezar a contar desde la fecha de la compra. Consulta las condiciones de la plataforma y reclama cuanto antes, con el justificante del pedido."
+   ],
+   [
+    "¿Puedo usar dos plataformas de cashback a la vez?",
+    "No lo recomendamos: para cada compra, entra solo por una. Entrar por varias puede anular el registro."
+   ],
+   [
+    "¿El cashback se anula si uso un código de descuento?",
+    "Depende del código y de la tienda. Algunos son compatibles y otros desactivan el cashback; la ficha de la tienda en la plataforma lo suele indicar."
+   ]
+  ],
+  "cierre": "<p>Antes de tu próxima compra, mira qué plataforma paga más en esa tienda en el <a href=\"../../comparador.html\">comparador</a> y revisa sus condiciones.</p>"
+ },
+ {
+  "slug": "cashback-temu-aliexpress-shein",
+  "fecha": "2026-10-07",
+  "titulo": "Cashback en Temu, AliExpress y Shein: cuánto devuelven",
+  "descripcion": "Cuánto cashback devuelven hoy Temu, AliExpress y Shein en cada plataforma, con los topes y condiciones que hacen que un 100 % no sea lo que parece.",
+  "bloques": [
+   {
+    "html": "<p>Temu, AliExpress y Shein son de las tiendas más buscadas para combinar con cashback, y también de las que más engañan con los porcentajes: abundan las ofertas «hasta» muy altas, las subidas temporales y los premios solo para clientes nuevos. Aquí tienes lo que muestran hoy las fichas de cada plataforma, a {{fecha}}.</p>"
+   },
+   {
+    "h": "Cómo leer estas tablas",
+    "html": "<ul><li><b>«Hasta X %»</b> es un máximo: lo que recibes depende de la categoría.</li><li><b>Subida temporal</b> indica que el porcentaje de hoy es mayor que el habitual (se muestra al lado) y vuelve a bajar cuando termina.</li><li><b>Solo clientes nuevos / primera compra</b> significa que, si ya has comprado antes, no te corresponde.</li><li><b>Tope</b> es el máximo de euros que puedes recibir: un 100 % con tope de 10 € son, como mucho, 10 €.</li></ul>"
+   }
+  ],
+  "tiendas": [
+   "temu",
+   "aliexpress",
+   "shein"
+  ],
+  "faq": [
+   [
+    "¿Temu da cashback?",
+    "Sí, varias plataformas lo ofrecen, con porcentajes que cambian mucho de un día a otro y, con frecuencia, más altos para clientes nuevos. Mira la tabla de arriba para las cifras de hoy."
+   ],
+   [
+    "¿Por qué AliExpress anuncia un porcentaje tan alto y recibo poco?",
+    "Porque suele ser un máximo, para clientes nuevos o la primera compra, y con un tope de euros bajo. El cálculo con tu importe y el tope es lo que importa."
+   ],
+   [
+    "¿Puedo combinar cashback y códigos en estas tiendas?",
+    "Muchas veces sí, pero no siempre. Comprueba la condición de la plataforma y de la oferta antes de pagar."
+   ]
+  ],
+  "cierre": "<p>Las fichas completas, con los euros que recibirías con tu importe y los descuentos vigentes, están en <a href=\"../../tienda/temu/\">Temu</a>, <a href=\"../../tienda/aliexpress/\">AliExpress</a> y <a href=\"../../tienda/shein/\">Shein</a>.</p>"
+ },
+ {
+  "slug": "cashback-black-friday-checklist",
+  "fecha": "2026-10-07",
+  "titulo": "Black Friday y Navidad con cashback: checklist para ahorrar",
+  "descripcion": "Checklist para combinar cashback y descuentos en Black Friday y Navidad sin perder el cashback ni caer en falsas ofertas, con datos de las subidas de hoy.",
+  "bloques": [
+   {
+    "html": "<p>En las semanas de grandes campañas, las plataformas de cashback suben temporalmente sus porcentajes y las tiendas lanzan descuentos. Combinarlos bien puede marcar la diferencia, pero también es cuando más fácil es perder el cashback por un error. Hoy hay <b>{{n_subidas}} tiendas</b> con una subida de cashback activa, a {{fecha}}.</p>"
+   },
+   {
+    "h": "Antes de la campaña",
+    "html": "<ul><li>Haz una <b>lista de lo que ya ibas a comprar</b>. Ahorrar en algo que no necesitas no es ahorrar.</li><li>Mira el <b>precio habitual</b> de los productos semanas antes: así sabrás si el descuento es real.</li><li>Comprueba qué plataformas tienen tu tienda y cuánto devuelven: <a href=\"../../comparador.html\">comparador</a>.</li></ul>"
+   },
+   {
+    "h": "El día de la compra",
+    "html": "<ol><li>Elige la plataforma que más <b>euros</b> devuelve en esa tienda (no el porcentaje más alto).</li><li>Desactiva extensiones de cupones y bloqueadores que puedan pisar el registro.</li><li>Entra por la plataforma, activa el cashback y compra <b>en la misma sesión</b>.</li><li>Si usas un código, comprueba que es <b>compatible con el cashback</b>.</li><li>Guarda la confirmación del pedido.</li></ol>"
+   },
+   {
+    "h": "Después de comprar",
+    "html": "<ul><li>Comprueba que el pedido aparece como <b>pendiente</b> en la plataforma en 24-72 horas.</li><li>Si devuelves algo, recuerda que se descuenta del cashback.</li><li>Ten paciencia: la confirmación llega al terminar el plazo de devolución de la tienda.</li></ul>"
+   },
+   {
+    "h": "Cuidado con las falsas ofertas",
+    "html": "<p>Un «hasta 70 %» casi nunca es el descuento del producto que quieres, y una subida de cashback «de hoy» desaparece cuando termina. Fíjate en la <b>fecha de fin</b>, en el importe mínimo y en si es solo para clientes nuevos. Las ofertas de nuestra sección de <a href=\"../../descuentos.html\">descuentos</a> llevan siempre su fecha y el estado de verificación.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Compensa comprar en Black Friday con cashback?",
+    "Puede compensar si el producto ya estaba en tu lista y el precio es realmente más bajo que el habitual. El cashback es un extra sobre ese ahorro, no una razón para comprar."
+   ],
+   [
+    "¿Suben los porcentajes de cashback en Black Friday?",
+    "Muchas plataformas hacen subidas temporales en campañas, pero cambian cada día y vuelven a su tarifa habitual cuando acaban. Mira la fecha de fin de cada subida."
+   ],
+   [
+    "¿Debo esperar al último día para comprar?",
+    "No necesariamente: algunas subidas duran pocos días y el stock se agota. Compara el precio y el cashback de la semana antes de decidir."
+   ]
+  ],
+  "cierre": "<p>Mira las <a href=\"../../cashback.html\">subidas de cashback de hoy</a> y el <a href=\"../../comparador.html\">comparador</a> antes de pagar.</p>"
+ },
+ {
+  "slug": "es-seguro-usar-plataformas-de-cashback",
+  "fecha": "2026-10-07",
+  "titulo": "¿Es seguro usar plataformas de cashback? Cómo elegir bien",
+  "descripcion": "Qué datos piden las plataformas de cashback, qué riesgos hay y cómo elegir una de forma segura: cookies de seguimiento, pagos, reseñas y señales de alerta.",
+  "bloques": [
+   {
+    "html": "<p>Las plataformas de cashback son intermediarios: no te venden nada, solo registran tus compras y comparten contigo parte de la comisión de la tienda. Lo normal es que no pidan datos de tarjeta. Aun así, conviene saber qué piden y qué señales de alerta evitar.</p>"
+   },
+   {
+    "h": "Qué datos suelen pedir",
+    "html": "<ul><li><b>Correo electrónico</b> y una contraseña para tu cuenta.</li><li>Un <b>método de cobro</b> (transferencia o PayPal, entre otros) cuando quieres retirar el dinero.</li><li>El <b>historial de compras</b> que se registra a través de la plataforma, para poder abonarte el cashback.</li></ul>"
+   },
+   {
+    "h": "Señales de alerta",
+    "html": "<ul><li>Te piden <b>los datos de tu tarjeta</b> para registrarte o para activar el cashback.</li><li>Prometen «dinero fácil», «ganar sin gastar» o rentabilidades fijas.</li><li>No muestran quién es el titular ni dónde contactar.</li><li>Te piden pagar una cuota para «desbloquear» el cashback.</li></ul>"
+   },
+   {
+    "h": "Qué comprobar antes de registrarte",
+    "html": "<ul><li>Que tenga <b>aviso legal y política de privacidad</b> con el titular identificado.</li><li>Las <b>condiciones de pago</b>: mínimo, plazos y métodos.</li><li>Las <b>reseñas recientes</b> de usuarios, mejor en varias fuentes.</li><li>Las condiciones de <b>invitación</b> si te registras con el enlace de un amigo.</li></ul>"
+   },
+   {
+    "h": "Cookies de seguimiento",
+    "html": "<p>El cashback funciona con cookies o sistemas de seguimiento propios de la plataforma y de la tienda. Eso es parte del servicio, pero puedes limitarlo: rechaza las cookies no esenciales cuando una web te lo permita y usa cuentas con contraseña distinta a la de tu correo.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Una plataforma de cashback puede ver mis datos bancarios?",
+    "No debería necesitarlos para registrar el cashback. Solo te pedirán un método de cobro, como PayPal o una cuenta, cuando quieras retirar tu dinero. Desconfía si piden los datos de tu tarjeta."
+   ],
+   [
+    "¿Tengo que pagar para usar una plataforma de cashback?",
+    "Por lo general no: ganan una comisión de la tienda. Si te piden una cuota para «desbloquear» el cashback, es una señal de alerta."
+   ],
+   [
+    "¿El cashback afecta al precio que pago?",
+    "No: el precio en la tienda es el mismo. La plataforma te devuelve parte de lo que gastas después, cuando la tienda confirma el pedido."
+   ]
+  ],
+  "cierre": "<p>En esta web publicamos de dónde sale cada dato y cómo lo comprobamos: <a href=\"../../como-lo-hacemos.html\">cómo lo hacemos</a>.</p>"
  }
 ]

@@ -1,4 +1,36 @@
+# Lupa Financiera: todo el contenido público puede rastrearse y citarse (buscadores y asistentes de IA)
 User-agent: *
 Allow: /
 Disallow: /ir/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /ir/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /ir/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /ir/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /ir/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /ir/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /ir/
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
 Sitemap: https://lupafinanzas.github.io/sitemap.xml

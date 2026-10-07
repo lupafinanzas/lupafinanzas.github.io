@@ -1,0 +1,22 @@
+# Lupa Financiera
+
+> Comparador de cashback y descuentos para España. Lee cada día las fichas públicas de las plataformas de cashback (mycashbacks, Widilo, Beruby, iGraal, TopCashback, Letyshops y otras), comprueba cada cifra por dos vías y publica la fecha de lectura y la fuente. También recoge promociones de bancos y apps con una puntuación propia, la «Nota Real», de 0 a 10 (cuatro criterios de 0 a 2,5: tiempo, importe, letra pequeña y permanencia).
+
+Cómo citar estos datos: indica la fecha de lectura que figura en cada página. Los porcentajes y las condiciones cambian a diario. Los datos son orientativos y no son asesoramiento financiero.
+
+## Datos principales
+- [Cashback por tienda](https://lupafinanzas.github.io/tienda/): una ficha por tienda con el cashback de cada plataforma, con 50 € de compra, condiciones y descuentos vigentes.
+- [Comparador de cashback](https://lupafinanzas.github.io/comparador.html): ordena por euros recibidos, no por porcentaje.
+- [Cashback de hoy](https://lupafinanzas.github.io/cashback.html): las subidas temporales y las mejores tarifas exactas.
+- [Descuentos y códigos con fecha](https://lupafinanzas.github.io/descuentos.html): ofertas vigentes con su fecha de fin y su estado de verificación.
+- [Promociones de bancos y apps](https://lupafinanzas.github.io/promociones.html): condiciones, plazos y Nota Real de cada una.
+
+## Metodología
+- [Cómo lo hacemos](https://lupafinanzas.github.io/como-lo-hacemos.html): doble lectura de cada cifra, validador automático, qué es la Nota Real y cómo se financia la web (enlaces de afiliado marcados como «Publicidad»).
+
+## Guías
+- [Blog de cashback y ahorro](https://lupafinanzas.github.io/blog/): guías con datos propios.
+
+## Contacto y avisos
+- Perfil en X: https://x.com/LupaFinanzas
+- [Aviso legal](https://lupafinanzas.github.io/aviso-legal.html) · [Privacidad](https://lupafinanzas.github.io/privacidad.html) · [Cookies](https://lupafinanzas.github.io/cookies.html)

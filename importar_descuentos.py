@@ -30,6 +30,25 @@ if destino.exists():
     for d in json.loads(destino.read_text(encoding="utf-8")).get("descuentos", []):
         previo[d["id"]] = d
 
+if "--solo-verificaciones" in sys.argv:
+    # Aplica solo los resultados de las pruebas en carrito a descuentos.json, sin volver a leer Widilo
+    if not destino.exists():
+        sys.exit("No hay descuentos.json")
+    actual = json.loads(destino.read_text(encoding="utf-8"))
+    mantener, quitados = [], 0
+    for d in actual.get("descuentos", []):
+        v = verif.get(d["id"])
+        if v and v.get("estado") == "no_funciona":
+            quitados += 1
+            continue
+        if v:
+            d["verificacion"] = {k: v[k] for k in ("estado", "fecha", "nota") if k in v}
+        mantener.append(d)
+    actual["descuentos"] = mantener
+    destino.write_text(json.dumps(actual, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"verificaciones aplicadas: {len(mantener)} descuentos, {quitados} retirados por no funcionar")
+    sys.exit(0)
+
 out, descartadas = [], 0
 vistos = set()
 for linea in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines():

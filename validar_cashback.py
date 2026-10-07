@@ -56,6 +56,8 @@ for t in data["tiendas"]:
             continue
         if not isinstance(f["pct"], (int, float)) or not 0 < f["pct"] <= 100:
             errores.append(f"{n}: porcentaje fuera de rango ({f['pct']})")
+        if f["pct"] >= 40 and not f.get("hasta_pct") and f["tipo"] != "bienvenida":
+            avisos.append(f"{n}: cifra extraordinaria ({f['pct']} %): revisar a mano si es solo para clientes nuevos o primer pedido")
         if f["tipo"] not in TIPOS:
             errores.append(f"{n}: tipo desconocido '{f['tipo']}'")
         if f.get("tope") is not None and f["tope"] < 0:

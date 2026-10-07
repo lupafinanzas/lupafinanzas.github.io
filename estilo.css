@@ -178,3 +178,9 @@ h1,h2,h3{font-weight:800;line-height:1.1;letter-spacing:-.02em}
 .ganadora>div{min-width:0}
 @media (max-width:420px){.ganadora{padding:11px 12px}.ganadora .e{font-size:1.6rem}}
 @media (min-width:760px){.heroe h1{max-width:58%;font-size:clamp(2.2rem,4.6vw,3.4rem)}.heroe p{max-width:min(46ch,52%)}.heroe .botones{max-width:60%}}
+
+.subidas{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin-top:6px}
+.sub1{display:grid;gap:2px;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:12px 14px;text-decoration:none;box-shadow:var(--sombra-s)}
+.sub1 b{font-size:1rem}
+.sub1 .n{font:900 1.6rem/1.1 var(--ff-num);color:var(--mint-d);letter-spacing:-.03em}
+.sub1 .q{font-size:.78rem;color:var(--ink2)}

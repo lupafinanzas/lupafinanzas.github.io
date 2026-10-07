@@ -45,6 +45,14 @@
     <p class="mini" style="margin-top:4px"><a href="comparador.html" style="color:var(--mint-d)">Ver las 13 tiendas →</a></p>
   </section>
 
+  <section class="seccion" id="subidas">
+    <h2>Promos del día: las subidas</h2>
+    <p class="sub">Cashback que hoy está por encima de su tarifa habitual. Son subidas temporales: cuando acaban, la tarifa vuelve a la de siempre. Cálculo con 50 €.</p>
+    <div class="deslizar" id="podio"><div class="card" style="padding:20px">Cargando…</div></div>
+    <div class="subidas" id="masSubidas"></div>
+    <p class="mini" style="margin-top:8px">Cada cifra se lee por dos vías y lleva su fecha. Mira todas las tiendas en el <a href="comparador.html" style="color:var(--mint-d)">comparador</a>.</p>
+  </section>
+
   <section class="seccion" id="promos">
     <h2>Promos comprobadas</h2>
     <p class="sub">Qué ganas, qué te piden y hasta cuándo.</p>
@@ -125,6 +133,37 @@
       if(x.f.tipo==='aumentado')e.appendChild(el('span',null,'Subida temporal'));
       if(x.f.fin){var n=dias(x.f.fin);e.appendChild(el('span',null,n===0?'Termina hoy':'Quedan '+n+(n===1?' día':' días')));}
       a.appendChild(e);box.appendChild(a);
+    });
+    // Promos del día: subidas temporales (tarifa de hoy por encima de la habitual)
+    var s=[];
+    d.tiendas.forEach(function(t){
+      t.filas.forEach(function(f){
+        if(f.tipo!=='aumentado'||!(f.habitual_pct<f.pct)||f.solo_clientes_nuevos||f.primera_compra)return;
+        if(f.fin&&dias(f.fin)<0)return;
+        s.push({t:t,f:f,v:gana(f,50)});
+      });
+    });
+    var mj={};s.forEach(function(x){if(!mj[x.t.slug]||x.v>mj[x.t.slug].v)mj[x.t.slug]=x;});
+    var ord=Object.keys(mj).map(function(k){return mj[k];}).sort(function(a,b){return b.v-a.v;});
+    var pod=document.getElementById('podio');pod.textContent='';
+    if(!ord.length){pod.appendChild(el('div','card','Ahora mismo no hay subidas que merezcan el podio.'));pod.firstChild.style.padding='20px';}
+    function antes(x){return 'antes '+pc(x.f.habitual_pct);}
+    function resta(x){if(!x.f.fin)return null;var n=dias(x.f.fin);return n===0?'Termina hoy':'Quedan '+n+(n===1?' día':' días');}
+    ord.slice(0,3).forEach(function(x,i){
+      var a=el('a','pick');a.href='comparador.html#'+x.t.slug;
+      a.appendChild(el('span','puesto','Podio '+(i+1)));
+      a.appendChild(el('h3',null,x.t.nombre));
+      var g=el('div','gran',pc(x.f.pct));g.appendChild(el('small',null,antes(x)));a.appendChild(g);
+      a.appendChild(el('div','quien','con '+x.f.plataforma+' · '+eur(x.v)+' con 50 €'));
+      var e=el('div','etq2');var r=resta(x);if(r)e.appendChild(el('span',null,r));e.appendChild(el('span',null,'Subida temporal'));a.appendChild(e);pod.appendChild(a);
+    });
+    var mas=document.getElementById('masSubidas');mas.textContent='';
+    ord.slice(3,15).forEach(function(x){
+      var a=el('a','sub1');a.href='comparador.html#'+x.t.slug;
+      a.appendChild(el('b',null,x.t.nombre));
+      a.appendChild(el('span','n',pc(x.f.pct)));
+      a.appendChild(el('span','q',x.f.plataforma+' · '+antes(x)+(resta(x)?' · '+resta(x):'')));
+      mas.appendChild(a);
     });
   }).catch(function(){document.getElementById('picks').textContent='No se han podido cargar los datos.';});
 

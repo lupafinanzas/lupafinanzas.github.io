@@ -227,3 +227,6 @@ h1,h2,h3{font-weight:800;line-height:1.1;letter-spacing:-.02em}
 .btn-v:hover{filter:brightness(1.08)}.btn-o:hover{background:color-mix(in srgb,var(--mint) 14%,transparent)}
 .acciones+.fuente{margin-top:8px}
 @media (prefers-color-scheme:dark){.btn-v{background:var(--mint);color:#04261b}.btn-o{border-color:var(--mint);color:var(--mint)}}
+
+.solo-todos{display:flex;gap:8px;align-items:center;margin-top:12px;font-size:.85rem;font-weight:700;color:var(--ink2)}
+.volver{margin-bottom:12px;font-size:.85rem;padding:8px 14px;cursor:pointer;background:rgba(255,255,255,.1);color:#fff;border-color:rgba(255,255,255,.5)}

@@ -41,13 +41,14 @@
     <div class="gasto"><label for="imp">Si gastas</label><input id="imp" type="range" min="10" max="500" step="5" value="50"><output id="impOut">50 €</output></div>
     <input id="q" type="search" placeholder="Busca tu tienda (Booking, Zara, Amazon…)" aria-label="Buscar tienda" autocomplete="off" style="width:100%;margin-top:12px;padding:12px 14px;border:2px solid #cfe5dc;border-radius:14px;font:inherit;font-size:1rem;background:#fff">
     <div class="chips" id="chips" role="group" aria-label="Tiendas"></div>
+    <label class="solo-todos"><input type="checkbox" id="soloTodos" checked> Ocultar ofertas solo para clientes nuevos o primera compra</label>
   </div>
 
-  <section class="card tienda" id="tienda" aria-live="polite"></section>
+  <section class="card tienda" id="tienda" aria-live="polite" hidden></section>
 
   <section class="seccion">
-    <h2>Mapa de hoy</h2>
-    <p class="sub">La mejor opción de cada tienda con tu importe. Toca una para ver el detalle.</p>
+    <h2 id="mapaTit">Los mejores cashbacks de hoy</h2>
+    <p class="sub" id="mapaSub">La mejor opción de cada tienda con tu importe. Toca una para ver el detalle de todas las plataformas.</p>
     <div class="mapa" id="mapa"></div>
   </section>
 
@@ -96,13 +97,17 @@
   }
 
   function tienda(){
-    var t=D.tiendas.filter(function(x){return x.slug===slug;})[0]||D.tiendas[0];
+    var box=document.getElementById('tienda');
+    var t=D.tiendas.filter(function(x){return x.slug===slug;})[0];
+    if(!t){box.hidden=true;box.textContent='';return;}
+    box.hidden=false;
     var I=imp();
     var filas=t.filas.map(function(f){return {f:f,v:gana(f,I,false)};}).sort(function(a,b){return b.v-a.v;});
     var max=filas[0].v||1;
     var hab=t.filas.filter(function(f){return f.tipo!=='bienvenida'&&!f.solo_clientes_nuevos;}).map(function(f){return {f:f,v:gana(f,I,true)};}).sort(function(a,b){return b.v-a.v;})[0];
-    var box=document.getElementById('tienda');box.textContent='';
+    box.textContent='';
     var cab=el('div','cabeza');
+    var vol=el('button','btn-o volver','← Volver al ranking');vol.type='button';vol.addEventListener('click',function(){slug=null;history.replaceState(null,'',location.pathname);document.getElementById('q').value='';Q='';LIM=36;pinta();});cab.appendChild(vol);
     cab.appendChild(el('span','mini',new Set(filas.map(function(x){return x.f.plataforma;})).size+' plataformas comparadas'));
     cab.appendChild(el('h2',null,t.nombre));
     if(hab)cab.appendChild(el('p',null,'La habitual, sin subidas ni ofertas para nuevos: '+nombre(hab.f)+' · '+eur(hab.v)));
@@ -144,13 +149,16 @@
 
   function mapa(){
     var I=imp(),m=document.getElementById('mapa');m.textContent='';
-    var lista=visibles().map(function(t){return {t:t,mejor:t.filas.map(function(f){return {f:f,v:gana(f,I,false)};}).sort(function(a,b){return b.v-a.v;})[0]};}).sort(function(a,b){return b.mejor.v-a.mejor.v;});
+    var solo=document.getElementById('soloTodos').checked;
+    document.getElementById('mapaTit').textContent=Q.trim()?'Resultados de la búsqueda':'Los mejores cashbacks si gastas '+I+' €';
+    var lista=visibles().map(function(t){var fs=t.filas.filter(function(f){return !solo||!(f.primera_compra||f.solo_clientes_nuevos||f.tipo==='bienvenida');});return {t:t,mejor:fs.map(function(f){return {f:f,v:gana(f,I,false)};}).sort(function(a,b){return b.v-a.v;})[0]};}).filter(function(x){return x.mejor;}).sort(function(a,b){return b.mejor.v-a.mejor.v;});
+    if(!lista.length)m.appendChild(el('p','mini','No hay tiendas con ese filtro.'));
     var total=lista.length;lista=lista.slice(0,LIM);
     lista.forEach(function(it){
       var t=it.t,mejor=it.mejor;
       var b=el('button');b.type='button';
       b.appendChild(el('div','t',t.nombre));b.appendChild(el('div','g',eur(mejor.v)));
-      var q=el('div','q');var i=el('i');i.style.background=COL[mejor.f.plataforma]||'#0f7a58';q.appendChild(i);q.appendChild(document.createTextNode(mejor.f.plataforma));b.appendChild(q);
+      var q=el('div','q');var i=el('i');i.style.background=COL[mejor.f.plataforma]||'#0f7a58';q.appendChild(i);q.appendChild(document.createTextNode(mejor.f.plataforma+(mejor.f.hasta_pct?' · hasta':'')+((mejor.f.primera_compra||mejor.f.solo_clientes_nuevos||mejor.f.tipo==='bienvenida')?' · solo nuevos':'')));b.appendChild(q);
       b.addEventListener('click',function(){slug=t.slug;history.replaceState(null,'','#'+slug);pinta();window.scrollTo({top:0,behavior:'smooth'});});
       m.appendChild(b);
     });
@@ -162,9 +170,10 @@
   fetch('cashback.min.json').then(function(r){return r.json();}).then(function(d){
     D=d;document.getElementById('metodo').textContent=d.nota_metodo;
     document.getElementById('actualizado').textContent='Datos leídos el '+fmt(d.actualizado)+'.';
-    var h=location.hash.slice(1);slug=D.tiendas.some(function(t){return t.slug===h;})?h:D.tiendas.slice().sort(function(a,b){return b.filas.length-a.filas.length;})[0].slug;
+    var h=location.hash.slice(1);slug=D.tiendas.some(function(t){return t.slug===h;})?h:null;
     document.getElementById('imp').addEventListener('input',function(){document.getElementById('impOut').textContent=imp()+' €';tienda();mapa();});
-    document.getElementById('q').addEventListener('input',function(){Q=this.value;LIM=36;chips();mapa();});
+    document.getElementById('q').addEventListener('input',function(){Q=this.value;LIM=36;var v=visibles();if(Q.trim().length>=3&&v.length){var n=norm(Q.trim());v=v.slice().sort(function(a,b){return (norm(a.nombre).indexOf(n)===0?0:1)-(norm(b.nombre).indexOf(n)===0?0:1);});slug=v[0].slug;history.replaceState(null,'','#'+slug);}else if(!Q.trim()&&slug){slug=null;history.replaceState(null,'',location.pathname);}pinta();});
+    document.getElementById('soloTodos').addEventListener('change',mapa);
     pinta();
   }).catch(function(){document.getElementById('metodo').textContent='No se han podido cargar los datos.';});
 })();

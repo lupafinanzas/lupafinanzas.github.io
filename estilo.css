@@ -211,3 +211,11 @@ h1,h2,h3{font-weight:800;line-height:1.1;letter-spacing:-.02em}
 .nota-top.n-floja{background:linear-gradient(135deg,#d9480f,#ff6b4a)}
 .nota-top.n-sin{background:var(--line);color:var(--ink2)}
 
+
+.votos{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:10px;font-size:.85rem}
+.votos-q{font-weight:700;color:var(--ink2)}
+.votos-b{font:inherit;font-weight:700;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer}
+.votos-b:hover:not(:disabled){border-color:var(--mint-d)}
+.votos-b:disabled{cursor:default;opacity:.7}
+.votos-b.votado{border-color:var(--mint-d);opacity:1}
+.votos-aviso{flex-basis:100%;font-size:.74rem;color:var(--ink2)}

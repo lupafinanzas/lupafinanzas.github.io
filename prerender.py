@@ -79,7 +79,11 @@ for p in vis:
         enlace += f'<p><a class="btn verde" href="ir/{esc(p["slug"])}/" rel="noopener sponsored nofollow">{esc(p.get("boton") or ("Ir a " + p["nombre"] + " →"))}</a></p>'
     if p.get("fuente_oficial"):
         enlace += f'<p><a href="{esc(p["fuente_oficial"])}" rel="noopener nofollow">Ver condiciones oficiales</a></p>'
-    out.append(f'<article class="card promo"><div class="cab"><h3>{esc(p["nombre"])}</h3><span class="sello">{esc(p["tipo"])}</span></div>'
+    tot_n = sum(p["nota"].values()) if p.get("nota") else None
+    clase = "n-sin" if tot_n is None else "n-muy" if tot_n >= 7.5 else "n-buena" if tot_n >= 6.5 else "n-acep" if tot_n >= 5 else "n-floja"
+    palabra = "sin calcular" if tot_n is None else "muy buena" if tot_n >= 7.5 else "buena" if tot_n >= 6.5 else "aceptable" if tot_n >= 5 else "floja"
+    sello = f'<a class="nota-top {clase}" href="como-lo-hacemos.html#nota-real"><div class="num">{("—" if tot_n is None else (f"{tot_n:g}".replace(".", ",")))}{"" if tot_n is None else "<small>/10</small>"}</div><div class="txt"><b>Nota Real: {palabra}</b></div></a>'
+    out.append(f'<article class="card promo"><div class="cab"><h3>{esc(p["nombre"])}</h3><span class="sello">{esc(p["tipo"])}</span></div>{sello}'
                f'<div class="gana">{esc(p.get("gana_corto") or p["recompensa"])}</div><div class="det">{esc(p.get("gana_sub") or "")}</div>'
                f'<p class="cond">{esc(p["requisitos"])}</p>{nota}{enlace}'
                f'<p class="mini">{("Hasta el " + fmt(p["caduca"]) + " · ") if p.get("caduca") else ""}Comprobado el {fmt(p["verificado"])}</p></article>')

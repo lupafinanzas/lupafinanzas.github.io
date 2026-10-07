@@ -197,3 +197,17 @@ h1,h2,h3{font-weight:800;line-height:1.1;letter-spacing:-.02em}
 @media (min-width:760px) and (max-width:1020px){.x{display:none}.menu{margin-left:auto}.menu a{padding:8px 8px;font-size:.84rem}}
 
 .aviso-p{background:color-mix(in srgb,var(--yellow) 22%,transparent);border-radius:12px;padding:8px 12px;font-size:.85rem}
+
+/* Sello de la Nota Real, bien visible arriba de cada promoción */
+.nota-top{display:flex;align-items:center;gap:14px;padding:10px 16px;border-radius:18px;color:#fff;text-decoration:none;margin:2px 0 4px}
+.nota-top .num{font:900 2.6rem/1 var(--ff-num);letter-spacing:-.04em}
+.nota-top .num small{font:800 1rem var(--ff);opacity:.85;letter-spacing:0}
+.nota-top .txt{display:grid;gap:1px;line-height:1.15}
+.nota-top .txt b{font-size:1.05rem}
+.nota-top .txt span{font-size:.78rem;opacity:.92;font-weight:700}
+.nota-top.n-muy{background:linear-gradient(135deg,#0f7a58,#2fb585)}
+.nota-top.n-buena{background:linear-gradient(135deg,#2f8f5b,#6ac47f);color:#0a2a1b}
+.nota-top.n-acep{background:linear-gradient(135deg,#e8a400,#ffd23f);color:#2a1e00}
+.nota-top.n-floja{background:linear-gradient(135deg,#d9480f,#ff6b4a)}
+.nota-top.n-sin{background:var(--line);color:var(--ink2)}
+

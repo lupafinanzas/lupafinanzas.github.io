@@ -88,6 +88,7 @@ def pagina(ruta, titulo, desc, cuerpo, jsonld=""):
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0b2e25">
 <link rel="icon" href="{rel}logo.jpg">
+<link rel="alternate" type="application/rss+xml" title="Lupa Financiera" href="{rel}feed.xml">
 <link rel="stylesheet" href="{rel}fuentes.css">
 <link rel="stylesheet" href="{rel}estilo.css">
 {CSS}

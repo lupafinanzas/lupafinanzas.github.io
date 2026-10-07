@@ -25,7 +25,7 @@ if not urls:
     urls = [f"https://{HOST}/", f"https://{HOST}/promociones.html", f"https://{HOST}/cashback.html", f"https://{HOST}/descuentos.html"]
 urls = urls[:9000]
 cuerpo = json.dumps({"host": HOST, "key": clave, "keyLocation": f"https://{HOST}/{clave}.txt", "urlList": urls}).encode("utf-8")
-req = urllib.request.Request("https://api.indexnow.org/indexnow", data=cuerpo, headers={"Content-Type": "application/json; charset=utf-8"})
+req = urllib.request.Request("https://api.indexnow.org/indexnow", data=cuerpo, headers={"Content-Type": "application/json; charset=utf-8", "User-Agent": "LupaFinanzas-indexnow/1.0 (+https://lupafinanzas.github.io)"})
 try:
     with urllib.request.urlopen(req, timeout=30) as r:
         print("IndexNow:", r.status, f"{len(urls)} URLs enviadas")

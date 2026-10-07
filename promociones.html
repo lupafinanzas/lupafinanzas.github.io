@@ -58,11 +58,15 @@
       c.appendChild(el('div','gana',p.gana_corto||p.recompensa));
       c.appendChild(el('div','det',p.gana_sub||''));
       c.appendChild(el('p','cond',p.requisitos));
-      var nr=el('div','notaReal');
-      [['tiempo','Tiempo'],['importe','Importe'],['letra','Letra pequeña'],['permanencia','Permanencia']].forEach(function(r){var v=p.nota&&p.nota[r[0]]!==undefined?p.nota[r[0]]:'—';var b=el('div');b.appendChild(el('b',null,String(v)));b.appendChild(el('span',null,r[1]));nr.appendChild(b);});
-      c.appendChild(nr);
-      if(!p.nota)c.appendChild(el('p','det','Nota Real en verificación: no inventamos puntuaciones.'));
-      if(p.nota){var tot=['tiempo','importe','letra','permanencia'].reduce(function(s,k){return s+(+p.nota[k]||0);},0);c.appendChild(el('p','det','Nota Real: '+tot.toLocaleString('es-ES')+' / 10'+(p.nota_texto?' · '+p.nota_texto:'')));}
+      if(p.nota){
+        var nr=el('div','notaReal');
+        [['tiempo','Tiempo'],['importe','Importe'],['letra','Letra pequeña'],['permanencia','Permanencia']].forEach(function(r){var v=+p.nota[r[0]]||0;var b=el('div');var n=el('b',null,v.toLocaleString('es-ES'));n.appendChild(el('small',null,'/2,5'));b.appendChild(n);b.appendChild(el('span',null,r[1]));nr.appendChild(b);});
+        c.appendChild(nr);
+        var tot=['tiempo','importe','letra','permanencia'].reduce(function(s,k){return s+(+p.nota[k]||0);},0);
+        c.appendChild(el('p','det','Nota Real: '+tot.toLocaleString('es-ES')+' / 10 · cada criterio puntúa de 0 a 2,5'+(p.nota_texto?' · '+p.nota_texto:'')));
+      }else{
+        c.appendChild(el('p','det','Nota Real sin calcular todavía: la ponemos cuando hemos leído y comprobado todas sus condiciones. No inventamos puntuaciones.'));
+      }
       var pie=el('div','botones');pie.style.margin='4px 0 0';
       if(p.enlace){var a=el('a','btn verde','Ir a '+p.nombre+' →');a.href='ir/'+p.slug+'/';a.rel='noopener sponsored nofollow';pie.appendChild(a);}
       else if(p.fuente_oficial){var o=el('a','btn claro','Ver condiciones oficiales →');o.href=p.fuente_oficial;o.rel='noopener nofollow';pie.appendChild(o);}

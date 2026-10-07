@@ -41,7 +41,7 @@
     <div class="gasto"><label for="imp">Si gastas</label><input id="imp" type="range" min="10" max="500" step="5" value="50"><output id="impOut">50 €</output></div>
     <input id="q" type="search" placeholder="Busca tu tienda (Booking, Zara, Amazon…)" aria-label="Buscar tienda" autocomplete="off" style="width:100%;margin-top:12px;padding:12px 14px;border:2px solid #cfe5dc;border-radius:14px;font:inherit;font-size:1rem;background:#fff">
     <div class="chips" id="chips" role="group" aria-label="Tiendas"></div>
-    <label class="solo-todos"><input type="checkbox" id="soloTodos" checked> Ocultar ofertas solo para nuevos y cifras extraordinarias (40 % o más) sin confirmar</label>
+    <label class="solo-todos"><input type="checkbox" id="soloTodos" checked> Ocultar ofertas solo para nuevos y cifras extraordinarias (40 % o más) sin comprobar</label>
   </div>
 
   <section class="card tienda" id="tienda" aria-live="polite" hidden></section>
@@ -66,7 +66,8 @@
 
 <script>
 (function(){
-  var D=null,slug=null,Q='',LIM=36;
+  var D=null,V={},slug=null,Q='',LIM=36;
+  function conf(t,f){var v=V[t.slug+'|'+f.plataforma];return !!v&&v.pct===f.pct?v:null;}
   function norm(x){return x.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');}
   function visibles(){var q=norm(Q.trim());return D.tiendas.filter(function(t){return !q||norm(t.nombre).indexOf(q)>-1||t.slug.indexOf(q)>-1;});}
   var COL={iGraal:'#f26a21',TopCashback:'#17a05d',Letyshops:'#e8452c',Klarna:'#e8a3c3',Beruby:'#c9303c',Consupermiso:'#3b6fe0',Widilo:'#7a4fd8',mycashbacks:'#0e8f8f'};
@@ -131,7 +132,7 @@
       if(f.primera_compra)e.appendChild(el('span','etq verde','Solo la primera compra'));
       if(f.solo_clientes_nuevos)e.appendChild(el('span','etq verde','Solo clientes nuevos'));
       if(f.tope!==null&&f.tope!==undefined)e.appendChild(el('span','etq','Tope '+eur(f.tope)));
-      if(f.pct>=40)e.appendChild(el('span','etq rojo','Cifra extraordinaria: confírmala en la plataforma antes de contar con ella'));
+      if(f.pct>=40){var cv=conf(t,f);if(cv)e.appendChild(el('span','etq verde','Cifra comprobada a mano el '+fmt(cv.fecha)+(cv.nota?' · '+cv.nota:'')));else e.appendChild(el('span','etq rojo','Cifra extraordinaria: confírmala en la plataforma antes de contar con ella'));}
       if(f.plazo_dias)e.appendChild(el('span','etq azul','Cobras en '+f.plazo_dias[0]+'–'+f.plazo_dias[1]+' días'));
       if(f.tipo==='categoria')e.appendChild(el('span','etq','Depende de la categoría'));
       if(f.fin){var d=dias(f.fin);e.appendChild(el('span','etq '+(d<=1?'rojo':''),d<0?'Terminó el '+fmt(f.fin):(d===0?'Termina hoy':'Quedan '+d+(d===1?' día':' días')+' · hasta '+fmt(f.fin))));}
@@ -152,14 +153,14 @@
     var I=imp(),m=document.getElementById('mapa');m.textContent='';
     var solo=document.getElementById('soloTodos').checked;
     document.getElementById('mapaTit').textContent=Q.trim()?'Resultados de la búsqueda':'Los mejores cashbacks si gastas '+I+' €';
-    var lista=visibles().map(function(t){var fs=t.filas.filter(function(f){return !solo||!(f.primera_compra||f.solo_clientes_nuevos||f.tipo==='bienvenida'||f.pct>=40);});return {t:t,mejor:fs.map(function(f){return {f:f,v:gana(f,I,false)};}).sort(function(a,b){return b.v-a.v;})[0]};}).filter(function(x){return x.mejor;}).sort(function(a,b){return b.mejor.v-a.mejor.v;});
+    var lista=visibles().map(function(t){var fs=t.filas.filter(function(f){return !solo||!(f.primera_compra||f.solo_clientes_nuevos||f.tipo==='bienvenida'||(f.pct>=40&&!conf(t,f)));});return {t:t,mejor:fs.map(function(f){return {f:f,v:gana(f,I,false)};}).sort(function(a,b){return b.v-a.v;})[0]};}).filter(function(x){return x.mejor;}).sort(function(a,b){return b.mejor.v-a.mejor.v;});
     if(!lista.length)m.appendChild(el('p','mini','No hay tiendas con ese filtro.'));
     var total=lista.length;lista=lista.slice(0,LIM);
     lista.forEach(function(it){
       var t=it.t,mejor=it.mejor;
       var b=el('button');b.type='button';
       b.appendChild(el('div','t',t.nombre));b.appendChild(el('div','g',eur(mejor.v)));
-      var q=el('div','q');var i=el('i');i.style.background=COL[mejor.f.plataforma]||'#0f7a58';q.appendChild(i);q.appendChild(document.createTextNode(mejor.f.plataforma+(mejor.f.hasta_pct?' · hasta':'')+((mejor.f.primera_compra||mejor.f.solo_clientes_nuevos||mejor.f.tipo==='bienvenida')?' · solo nuevos':'')+(mejor.f.pct>=40?' · cifra por confirmar':'')));b.appendChild(q);
+      var q=el('div','q');var i=el('i');i.style.background=COL[mejor.f.plataforma]||'#0f7a58';q.appendChild(i);q.appendChild(document.createTextNode(mejor.f.plataforma+(mejor.f.hasta_pct?' · hasta':'')+((mejor.f.primera_compra||mejor.f.solo_clientes_nuevos||mejor.f.tipo==='bienvenida')?' · solo nuevos':'')+(mejor.f.pct>=40?(conf(t,mejor.f)?(conf(t,mejor.f).nota?' · ver condiciones':' · comprobada'):' · cifra por confirmar'):'')));b.appendChild(q);
       b.addEventListener('click',function(){slug=t.slug;history.replaceState(null,'','#'+slug);pinta();window.scrollTo({top:0,behavior:'smooth'});});
       m.appendChild(b);
     });
@@ -168,7 +169,7 @@
 
   function pinta(){document.getElementById('impOut').textContent=imp()+' €';chips();tienda();mapa();}
 
-  fetch('cashback.min.json').then(function(r){return r.json();}).then(function(d){
+  fetch('cifras_verificadas.json').then(function(r){return r.ok?r.json():{};}).catch(function(){return {};}).then(function(v){V=v;return fetch('cashback.min.json');}).then(function(r){return r.json();}).then(function(d){
     D=d;document.getElementById('metodo').textContent=d.nota_metodo;
     document.getElementById('actualizado').textContent='Datos leídos el '+fmt(d.actualizado)+'.';
     var h=location.hash.slice(1);slug=D.tiendas.some(function(t){return t.slug===h;})?h:null;

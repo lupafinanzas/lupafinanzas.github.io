@@ -105,7 +105,7 @@
       box.appendChild(c);
     });
   }
-  Promise.all([fetch('descuentos.json').then(function(r){return r.json();}),fetch('cashback.json').then(function(r){return r.json();}).catch(function(){return null;})]).then(function(r){
+  Promise.all([fetch('descuentos.json').then(function(r){return r.json();}),fetch('cashback.min.json').then(function(r){return r.json();}).catch(function(){return null;})]).then(function(r){
     D=r[0].descuentos;
     if(r[1])r[1].tiendas.forEach(function(t){var m=null;t.filas.forEach(function(f){if(f.solo_clientes_nuevos||f.primera_compra||f.tipo==='bienvenida')return;if(f.fin&&dias(f.fin)<0)return;if(!m||f.pct>m.pct)m={pct:f.pct,hasta:!!f.hasta_pct,plataforma:f.plataforma};});if(m)CB[t.slug]=m;});
     document.getElementById('actualizado').textContent='Descuentos leídos el '+fmt(r[0].actualizado)+'.';

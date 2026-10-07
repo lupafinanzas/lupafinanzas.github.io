@@ -68,7 +68,7 @@
   function dias(f){var h=new Date();h.setHours(0,0,0,0);return Math.round((new Date(f+'T00:00:00')-h)/86400000);}
   function gana(f,imp){var v=imp*f.pct/100;if(f.tope!==null&&f.tope!==undefined)v=Math.min(v,f.tope);return v;}
 
-  fetch('cashback.json').then(function(r){return r.json();}).then(function(d){
+  fetch('cashback.min.json').then(function(r){return r.json();}).then(function(d){
     var imp=50,c=[];
     d.tiendas.forEach(function(t){
       if(new Set(t.filas.map(function(f){return f.plataforma;})).size<3)return;

@@ -1,0 +1,78 @@
+name: Lectura diaria (Widilo, Beruby y descuentos)
+
+# Lee Widilo y Beruby con scripts de Python (sin navegador), importa los cambios, regenera las páginas y publica.
+# No depende del ordenador del usuario. mycashbacks (que bloquea los scripts) y las tareas con criterio (X, notas, pruebas de códigos)
+# siguen en la tarea programada del PC. Los datos de mycashbacks que no se renueven en 3 días se retiran solos (purgar_caducados.py).
+
+on:
+  schedule:
+    - cron: "30 5 * * *"   # 05:30 UTC = 07:30 hora de España (verano) / 06:30 (invierno)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lectura-diaria
+  cancel-in-progress: false
+
+jobs:
+  leer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install beautifulsoup4
+
+      # 1) Lectura (larga, no toca el repositorio). Si una fuente falla, la otra sigue.
+      - name: Leer Widilo
+        id: widilo
+        continue-on-error: true
+        run: python leer_widilo.py
+
+      - name: Leer Beruby
+        id: beruby
+        continue-on-error: true
+        run: python leer_beruby.py
+
+      # 2) Importar con lo último del repositorio (el PC puede haber publicado mientras tanto) y publicar
+      - name: Importar, regenerar y publicar
+        run: |
+          git config user.name "lupafinanzas-bot"
+          git config user.email "actions@users.noreply.github.com"
+          for intento in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            # los .txt de lectura están sin seguimiento y sobreviven al reset
+            if [ -f cambios_widilo.txt ]; then
+              python importar_widilo.py cambios_widilo.txt --refrescar fallos_widilo.txt || echo "Widilo: importación omitida"
+              python importar_descuentos.py descuentos_widilo.txt || echo "Descuentos: importación omitida"
+            fi
+            if [ -f cambios_beruby.txt ]; then
+              python importar_beruby.py cambios_beruby.txt --refrescar fallos_beruby.txt || echo "Beruby: importación omitida"
+            fi
+            python purgar_caducados.py --dias 3
+            python actualizar_historial.py
+            python build_blog.py
+            python build_tiendas.py
+            python prerender.py
+            python generar_feed.py
+            python validar_cashback.py
+            python validar_promos.py
+            git add -A
+            if git diff --cached --quiet; then echo "Sin cambios que publicar"; exit 0; fi
+            git commit -m "Lectura diaria $(date -u +%F): Widilo, Beruby, descuentos y páginas regeneradas"
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Push rechazado (alguien publicó a la vez); reintento $intento"
+          done
+          exit 1
+
+      - name: Avisar a los buscadores (IndexNow)
+        continue-on-error: true
+        run: python indexnow.py

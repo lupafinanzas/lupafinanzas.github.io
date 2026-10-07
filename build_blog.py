@@ -176,7 +176,7 @@ def sustituir(txt):
             .replace("{{fecha}}", fecha(data["actualizado"])))
 
 
-urls = [(f"{SITIO}/", None), (f"{SITIO}/promociones.html", None), (f"{SITIO}/cashback.html", None), (f"{SITIO}/descuentos.html", None), (f"{SITIO}/comparador.html", None), (f"{SITIO}/como-lo-hacemos.html", None), (f"{SITIO}/blog/", None)]
+urls = [(f"{SITIO}/", None), (f"{SITIO}/promociones.html", None), (f"{SITIO}/cashback.html", None), (f"{SITIO}/descuentos.html", None), (f"{SITIO}/comparador.html", None), (f"{SITIO}/calculadora.html", None), (f"{SITIO}/como-lo-hacemos.html", None), (f"{SITIO}/blog/", None)]
 indice = []
 for a in arts:
     bloques = []

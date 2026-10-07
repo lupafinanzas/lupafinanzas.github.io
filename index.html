@@ -86,7 +86,7 @@
   </section>
 
   <footer class="pie">
-    <p><a href="tienda/">Cashback y descuentos por tienda</a> · <a href="blog/">Guías de cashback</a></p>
+    <p><a href="tienda/">Cashback y descuentos por tienda</a> · <a href="calculadora.html">Calculadora de ahorro</a> · <a href="plataformas/">Plataformas</a> · <a href="blog/">Guías de cashback</a></p>
     <p id="actualizado"></p>
     <p>Las condiciones las fija cada entidad y pueden cambiar. Lee siempre las bases en su web antes de contratar nada.</p>
     <p><a href="aviso-legal.html">Aviso legal</a> · <a href="privacidad.html">Política de privacidad</a> · <a href="cookies.html">Política de cookies</a></p>
@@ -106,7 +106,7 @@
   function dias(f){var h=new Date();h.setHours(0,0,0,0);return Math.round((new Date(f+'T00:00:00')-h)/86400000);}
   function gana(f,imp){var v=imp*f.pct/100;if(f.tope!==null&&f.tope!==undefined)v=Math.min(v,f.tope);return v;}
 
-  fetch('cashback.json').then(function(r){return r.json();}).then(function(d){
+  fetch('cashback.min.json').then(function(r){return r.json();}).then(function(d){
     document.getElementById('nTiendas').textContent=d.tiendas.length.toLocaleString('es-ES');
     var s={};d.tiendas.forEach(function(t){t.filas.forEach(function(f){if(f.tipo==='aumentado'&&f.habitual_pct<f.pct&&f.pct<40&&!f.solo_clientes_nuevos&&!f.primera_compra&&!(f.fin&&dias(f.fin)<0))s[t.slug]=1;});});
     document.getElementById('nSubidas').textContent=Object.keys(s).length;

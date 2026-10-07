@@ -156,7 +156,7 @@
 
   function pinta(){document.getElementById('impOut').textContent=imp()+' €';chips();tienda();mapa();}
 
-  fetch('cashback.json').then(function(r){return r.json();}).then(function(d){
+  fetch('cashback.min.json').then(function(r){return r.json();}).then(function(d){
     D=d;document.getElementById('metodo').textContent=d.nota_metodo;
     document.getElementById('actualizado').textContent='Datos leídos el '+fmt(d.actualizado)+'.';
     var h=location.hash.slice(1);slug=D.tiendas.some(function(t){return t.slug===h;})?h:D.tiendas.slice().sort(function(a,b){return b.filas.length-a.filas.length;})[0].slug;

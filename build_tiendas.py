@@ -138,6 +138,40 @@ def pagina(ruta, titulo, desc, cuerpo, jsonld, rel):
 """
 
 
+
+_hp = BASE / "datos" / "historial.json"
+HIST = json.loads(_hp.read_text(encoding="utf-8")) if _hp.exists() else {"desde": hoy.isoformat(), "series": {}}
+
+
+def chispa(puntos):
+    """Gráfica mínima (SVG) de una serie [[fecha, pct], ...] con eje de tiempo real."""
+    ds = [datetime.date.fromisoformat(f) for f, _ in puntos]
+    vs = [v for _, v in puntos]
+    t0, t1 = ds[0], ds[-1]
+    span = max((t1 - t0).days, 1)
+    lo, hi = min(vs), max(vs)
+    rango = (hi - lo) or 1
+    pts = " ".join(f"{4 + 152 * ((d - t0).days / span):.1f},{30 - 24 * ((v - lo) / rango):.1f}" for d, v in zip(ds, vs))
+    return (f'<svg viewBox="0 0 160 36" width="160" height="36" role="img" aria-label="Evolución del cashback entre {fecha(puntos[0][0])} y {fecha(puntos[-1][0])}">'
+            f'<polyline points="{pts}" fill="none" stroke="#0f7a58" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></svg>')
+
+
+def historia(slug, nombre):
+    series = [(k.split("|"), v) for k, v in HIST["series"].items() if k.startswith(slug + "|")]
+    con_cambios = [(k, v) for k, v in series if len(v) >= 2]
+    desde = fecha(HIST["desde"])
+    if not con_cambios:
+        return (f'<h2>Evolución del cashback en {esc(nombre)}</h2><p>Guardamos la tarifa de cada plataforma todos los días desde el {desde}. '
+                f'Hasta ahora no ha cambiado ninguna en {esc(nombre)}; cuando cambie, aparecerá aquí con su gráfica.</p>')
+    filas = []
+    for k, v in sorted(con_cambios, key=lambda x: -abs(x[1][-1][1] - x[1][0][1])):
+        plat = k[1] + (f" ({k[2]})" if k[2] else "")
+        pasos = " → ".join(f"{pc(p)} ({fecha(f)})" for f, p in v[-6:])
+        grafica = chispa(v) if len(v) >= 3 else ""
+        filas.append(f"<tr><td>{esc(plat)}</td><td>{esc(pasos)}</td><td>{grafica}</td></tr>")
+    return (f'<h2>Evolución del cashback en {esc(nombre)}</h2><div class="tabla"><table><thead><tr><th>Plataforma</th><th>Cambios de tarifa</th><th></th></tr></thead><tbody>'
+            + "".join(filas) + f'</tbody></table></div><p class="mini">Histórico propio guardado desde el {desde}: solo anotamos un punto cuando la tarifa cambia.</p>')
+
 urls = []
 for t, filas, dtos in paginas:
     n = t["nombre"]
@@ -204,11 +238,12 @@ for t, filas, dtos in paginas:
     ]
     faq_html = "".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in faq)
 
+    hist_html = historia(t["slug"], n)
     cuerpo = (f'<article class="art"><nav class="mini" aria-label="Migas de pan"><a href="{rel}index.html">Inicio</a> › <a href="{rel}tienda/">Tiendas</a> › {esc(n)}</nav>'
               f'<h1>Cashback y descuentos en {esc(n)}</h1><p class="sub">{intro}</p>'
               f'<h2>Cashback en {esc(n)} por plataforma</h2>{tabla}'
               f'<p class="mini">Cálculo orientativo con 50 € y sin IVA ni envío. Cada cifra se lee en la ficha pública de la plataforma, con doble comprobación. Datos leídos el {fecha(leido)}.</p>'
-              f'{bloque_dto}'
+              f'{hist_html}{bloque_dto}'
               + (IGRAAL_CAJA.format(rel=rel) if 'iGraal' in plats else '') +
               f''
               f'<h2>Preguntas frecuentes sobre {esc(n)}</h2>{faq_html}'

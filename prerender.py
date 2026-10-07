@@ -172,3 +172,11 @@ if "a.lista{" not in s and ".lista a" not in s:
     s = s.replace("</head>", "<style>.lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin:12px 0}.lista a{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:9px 12px;text-decoration:none;font-size:.9rem}</style></head>", 1)
 p.write_text(s, encoding="utf-8")
 print("prerender listo:", len(vis), "promos,", len(vig), "descuentos,", len(top), "destacados,", len(ord_s), "subidas,", len(slugs), "enlaces a fichas")
+
+# ---- versión ligera del JSON para las páginas (sin los textos de las lecturas; ~40 % menos)
+ligero = json.loads((BASE / "cashback.json").read_text(encoding="utf-8"))
+for t in ligero["tiendas"]:
+    for f in t["filas"]:
+        f.pop("lecturas", None)
+(BASE / "cashback.min.json").write_text(json.dumps(ligero, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+print("cashback.min.json:", (BASE / "cashback.min.json").stat().st_size, "bytes")

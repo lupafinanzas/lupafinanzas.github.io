@@ -1,0 +1,65 @@
+{
+ "verificado": "2026-10-07",
+ "metodo": {
+  "tiempo": "Cuánto tarda en cobrarse el cashback desde la compra, según lo que publica la plataforma. 2,5: hasta 30 días; 2: hasta 60 días; 1,5: unos 90 días o plazo no publicado; 1: más de 110 días.",
+  "importe": "Lo que cuesta llegar a cobrar: mínimo para retirar y comisiones. 2,5: mínimo de 1 € o menos y sin costes; 2: hasta 10 € sin costes; 1,5: 20 € o costes para retiradas pequeñas; 1: más de 20 € y costes.",
+  "letra": "Claridad de las condiciones: exclusiones explícitas, reglas de rechazo, tarifas vinculantes y reseñas de usuarios si las publica. 2,5: muy clara y sin trampas; 2: clara con salvedades habituales; 1,5: salvedades que afectan al usuario; 1: confusa.",
+  "permanencia": "Qué pierdes por no usarla: caducidad del saldo, inactividad, cuotas. 2,5: sin caducidad ni cuotas; 2: caducidad larga o sin plazo concreto; 1,5: pierdes la cuenta o el saldo en un año de inactividad; 1: caducidad corta."
+ },
+ "plataformas": {
+  "TopCashback": {
+   "nota": {"tiempo": 1.5, "importe": 2.5, "letra": 2, "permanencia": 2},
+   "provisional": "El plazo de cobro depende de cada comercio y no es fijo.",
+   "razon": {
+    "tiempo": "El cashback pasa de «pendiente» a «a pagar» cuando el comercio paga la comisión; no hay un plazo fijo, solo una fecha estimada por tienda.",
+    "importe": "Se puede retirar desde 0,01 € por transferencia o PayPal, sin coste (algún método puede fijar un mínimo propio).",
+    "letra": "Condiciones claras: el comercio puede denegar el cashback si devuelves o cancelas el pedido, y TopCashback no garantiza el cobro de la comisión.",
+    "permanencia": "Gratuita; las cuentas inactivas pueden inhabilitarse (sin plazo concreto publicado) y, al cancelar, el cashback no confirmado no se paga."},
+   "fuentes": ["https://www.topcashback.es/terminos/"]},
+  "iGraal": {
+   "nota": {"tiempo": 1.5, "importe": 2, "letra": 2, "permanencia": 2},
+   "provisional": "No publica un plazo de validación: depende de la devolución de cada tienda.",
+   "razon": {
+    "tiempo": "El pago se hace en un máximo de 5 días hábiles tras pedirlo, pero la validación llega al terminar el plazo de devolución de cada tienda y no se publica un plazo fijo.",
+    "importe": "El primer pago (transferencia SEPA) debe ser de al menos 10 €; después se puede cobrar por SEPA o PayPal, o canjear en vales. Sin cuota.",
+    "letra": "Condiciones extensas pero ordenadas: no hay cashback sobre IVA, envío ni compras con vales de cashback, y pueden negarse a pagar si la tienda no paga la comisión. Valoración de usuarios de 4,1 sobre 5 con unas 41.700 reseñas (según su web).",
+    "permanencia": "El cashback caduca dos años después del final del año natural en que se abonó como pendiente; al rescindir la cuenta hay un mes para cobrar el validado."},
+   "fuentes": ["https://es.igraal.com/condiciones", "https://es.igraal.com/padrinazgo"]},
+  "mycashbacks": {
+   "nota": {"tiempo": 1.5, "importe": 2.5, "letra": 1.5, "permanencia": 2},
+   "provisional": null,
+   "razon": {
+    "tiempo": "Pasa hasta 14 días en aparecer como pendiente y el pago de la comisión puede tardar «semanas o meses»; no publica un plazo concreto.",
+    "importe": "Pago automático mensual desde 1 € de cashback confirmado, sin cuota. Hace falta una cuenta bancaria española o PayPal.",
+    "letra": "Las tarifas indicadas «no son vinculantes» y pueden adaptarse a posteriori si la tienda cambia la comisión; el cashback válido es el vigente cuando se paga la comisión.",
+    "permanencia": "Gratuita; se reserva el derecho de borrar cuentas inactivas (sin plazo publicado). Al rescindir, el cashback pendiente se abona."},
+   "fuentes": ["https://www.mycashbacks.com/es/legal/terminos-y-condiciones/"]},
+  "Widilo": {
+   "nota": {"tiempo": 2, "importe": 1.5, "letra": 1.5, "permanencia": 2},
+   "provisional": "No hemos leído sus condiciones generales completas (caducidad e inactividad): letra pequeña y permanencia son provisionales.",
+   "razon": {
+    "tiempo": "Publica el plazo de validación: de 30 a 90 días según la tienda (hasta 90 días después de terminar la estancia en viajes); la solicitud de pago se procesa en un máximo de 15 días y el banco tarda hasta 5 días laborables.",
+    "importe": "Hay que llegar a 20 € de ganancias validadas para retirar por transferencia o PayPal (PayPal solo tras un primer retiro a banco).",
+    "letra": "Las FAQ son claras (estados, rechazos, plazos). Valoración «Excelente» con unas 22.400 reseñas (según su web). No hemos podido comprobar sus condiciones generales completas.",
+    "permanencia": "No hemos encontrado cuotas ni caducidad del saldo en las páginas leídas; pendiente de leer sus condiciones generales."},
+   "fuentes": ["https://www.widilo.es/faq/mis-ingresos-y-pagos/todo-lo-que-necesitas-saber-sobre-el-pago-de-tu-monedero", "https://www.widilo.es/faq/mi-cashback/por-que-el-estado-de-mi-devolucion-es-pendiente-el-importe-es-incorrecto"]},
+  "Beruby": {
+   "nota": {"tiempo": 1.5, "importe": 1.5, "letra": 2, "permanencia": 2},
+   "provisional": "No hemos encontrado una cláusula de caducidad: la permanencia es provisional.",
+   "razon": {
+    "tiempo": "El saldo se confirma al cabo de una media de 2-3 meses, cuando los anunciantes pagan la comisión a Beruby; las compras aparecen en 2-3 días.",
+    "importe": "PayPal desde 10 € de saldo confirmado; transferencia bancaria desde 50 € (por debajo, tiene un coste de gestión de 2 €). Servicio gratuito.",
+    "letra": "Muy explicativa sobre saldos y confirmaciones; permite reclamar en 30 días y cancela las cuentas duplicadas.",
+    "permanencia": "Servicio gratuito y sin caducidad del saldo en lo que hemos leído de sus condiciones (pendiente de confirmar)."},
+   "fuentes": ["https://es.beruby.com/web/faq/cuando-se-me-paga-y-como", "https://es.beruby.com/blog/1525-sobre-saldos-confirmaciones-y-pagos-de-anunciantes", "https://es.beruby.com/web/terms-and-conditions"]},
+  "Letyshops": {
+   "nota": {"tiempo": 1, "importe": 2, "letra": 2, "permanencia": 1.5},
+   "provisional": null,
+   "razon": {
+    "tiempo": "Publica en cada tienda el plazo de confirmación y, en las que leemos, va de 50 a 180 días (mediana de unos 65 a 110): el más lento de los que comparamos.",
+    "importe": "Mínimo de 10 € por retirada y máximo de 300 €; los costes de pago los asume Letyshops (algún banco puede cobrar el suyo).",
+    "letra": "Condiciones claras; la tienda puede negarse a pagar la comisión y el cashback depende de ello.",
+    "permanencia": "Se reserva el derecho de bloquear o eliminar la cuenta si no se compra a través de ella durante un año."},
+   "fuentes": ["https://help.letyshops.com/hc/en-us/articles/212666685-Payout-limits", "https://letyshops.com/es/agreement"]}
+ }
+}

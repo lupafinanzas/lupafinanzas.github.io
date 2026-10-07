@@ -63,6 +63,17 @@ def etiquetas(f):
     return "; ".join(e) if e else "tarifa habitual"
 
 
+_pn = BASE / "datos" / "plataformas_nota.json"
+PLAT_NOTAS = json.loads(_pn.read_text(encoding="utf-8"))["plataformas"] if _pn.exists() else {}
+
+
+def nota_plat(nombre, rel):
+    n = PLAT_NOTAS.get(nombre)
+    if not n:
+        return ""
+    return f' <a class="mini" href="{rel}plataformas/#{esc(nombre)}" title="Nota Real de la plataforma">· nota {sum(n["nota"].values()):g}'.replace(".", ",") + "/10</a>"
+
+
 dto_por_nombre = {}
 for d in descuentos:
     dto_por_nombre.setdefault(norm(d["tienda"]), []).append(d)
@@ -207,7 +218,7 @@ for t, filas, dtos in paginas:
     filas_html = []
     for f in filas:
         var = f" ({esc(f['variante'])})" if f.get("variante") else ""
-        filas_html.append(f'<tr><td><a href="{esc(f["fuente"])}" rel="noopener nofollow">{esc(f["plataforma"])}</a>{var}</td>'
+        filas_html.append(f'<tr><td><a href="{esc(f["fuente"])}" rel="noopener nofollow">{esc(f["plataforma"])}</a>{nota_plat(f["plataforma"], rel)}{var}</td>'
                           f'<td><b>{"hasta " if f.get("hasta_pct") else ""}{pc(f["pct"])}</b></td><td>{eur(gana(f))}</td><td>{esc(etiquetas(f))}</td><td>{fecha(f["leido"])}</td></tr>')
     tabla = ('<div class="tabla"><table><thead><tr><th>Plataforma</th><th>Cashback</th><th>Con 50 €</th><th>Condiciones</th><th>Leído</th></tr></thead><tbody>'
              + "".join(filas_html) + "</tbody></table></div>")

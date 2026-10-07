@@ -15,6 +15,26 @@ BASE = pathlib.Path(__file__).parent
 SITIO = "https://lupafinanzas.github.io"
 esc = html.escape
 data = json.loads((BASE / "cashback.json").read_text(encoding="utf-8"))
+NOTAS_FILE = BASE / "datos" / "plataformas_nota.json"
+NOTAS = json.loads(NOTAS_FILE.read_text(encoding="utf-8")) if NOTAS_FILE.exists() else {"plataformas": {}, "metodo": {}, "verificado": data["actualizado"]}
+
+
+def tot_nota(n):
+    return sum(n.values())
+
+
+def clase_nota(t):
+    return "n-muy" if t >= 7.5 else "n-buena" if t >= 6.5 else "n-acep" if t >= 5 else "n-floja"
+
+
+def palabra_nota(t):
+    return "muy buena" if t >= 7.5 else "buena" if t >= 6.5 else "aceptable" if t >= 5 else "floja"
+
+
+def num_es(x):
+    return f"{x:g}".replace(".", ",")
+
+
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
 
 
@@ -37,7 +57,12 @@ for t in data["tiendas"]:
         por.setdefault(f["plataforma"], []).append((t, f))
 
 filas, bloques = [], []
-for plat, items in sorted(por.items(), key=lambda x: -len({t["slug"] for t, _ in x[1]})):
+def _orden(x):
+    n = NOTAS["plataformas"].get(x[0])
+    return (-(tot_nota(n["nota"]) if n else -1), -len({t["slug"] for t, _ in x[1]}))
+
+
+for plat, items in sorted(por.items(), key=_orden):
     tiendas = {t["slug"] for t, _ in items}
     exactas = [f["pct"] for t, f in items if not f.get("hasta_pct") and not nuevo(f) and f["tipo"] != "categoria"]
     hasta = sum(1 for _, f in items if f.get("hasta_pct"))
@@ -45,8 +70,19 @@ for plat, items in sorted(por.items(), key=lambda x: -len({t["slug"] for t, _ in
     mediana = pc(round(statistics.median(exactas), 2)) if exactas else "—"
     mejores = sorted(((f["pct"], t["nombre"]) for t, f in items if not f.get("hasta_pct") and not nuevo(f) and f["pct"] < 40), reverse=True)[:5]
     fuente = items[0][1]["fuente"].split("/")[2]
-    filas.append(f"<tr><td><b>{esc(plat)}</b></td><td>{len(tiendas)}</td><td>{len(exactas)}</td><td>{mediana}</td><td>{round(100 * hasta / len(items))} %</td><td>{esc(fuente)}</td></tr>")
-    bloques.append(f'<h3>{esc(plat)}</h3><p>Cubre {len(tiendas)} de las tiendas que comparamos. '
+    nt = NOTAS["plataformas"].get(plat)
+    celda_nota = (f'<a class="nota-top {clase_nota(tot_nota(nt["nota"]))}" href="#{esc(plat)}" style="padding:4px 10px;border-radius:12px;display:inline-flex"><span class="num" style="font-size:1.2rem">{num_es(tot_nota(nt["nota"]))}<small>/10</small></span></a>' if nt else "—")
+    filas.append(f"<tr><td><b>{esc(plat)}</b></td><td>{celda_nota}</td><td>{len(tiendas)}</td><td>{len(exactas)}</td><td>{mediana}</td><td>{round(100 * hasta / len(items))} %</td><td>{esc(fuente)}</td></tr>")
+    if nt:
+        tn = tot_nota(nt["nota"])
+        razones = "".join(f"<li><b>{k.capitalize() if k != 'letra' else 'Letra pequeña'} ({num_es(nt['nota'][k])}/2,5):</b> {esc(v)}</li>" for k, v in nt["razon"].items())
+        fuentes = " · ".join(f'<a href="{esc(u)}" rel="noopener nofollow">{esc(u.split("/")[2])}</a>' for u in nt["fuentes"])
+        sello = (f'<a class="nota-top {clase_nota(tn)}" href="../como-lo-hacemos.html#nota-real"><div class="num">{num_es(tn)}<small>/10</small></div>'
+                 f'<div class="txt"><b>Nota Real: {palabra_nota(tn)}</b><span>{("Provisional · " + esc(nt["provisional"])) if nt.get("provisional") else "Comprobada en sus condiciones oficiales"}</span></div></a>')
+        extra = f'{sello}<details><summary>Por qué esta nota</summary><ul>{razones}</ul><p class="mini">Fuentes leídas el {fecha(NOTAS["verificado"])}: {fuentes}</p></details>'
+    else:
+        extra = '<p class="mini">Nota Real sin calcular: pocas tiendas para compararla.</p>'
+    bloques.append(f'<h3 id="{esc(plat)}">{esc(plat)}</h3>{extra}<p>Cubre {len(tiendas)} de las tiendas que comparamos. '
                    + (f"Entre sus tarifas exactas, las más altas con tiendas de uso general son: " + ", ".join(f"{esc(n)} ({pc(p)})" for p, n in mejores) + ". " if mejores else "")
                    + (f"Publica un plazo de cobro estimado en {plazo} de sus fichas. " if plazo else "No publica un plazo de cobro estimado en las fichas que leemos. ")
                    + f"Leemos su ficha pública de cada tienda ({esc(fuente)}).</p>")
@@ -66,8 +102,9 @@ faq = [("¿Cuál es la mejor plataforma de cashback?", "Depende de la tienda y d
 desc = f"Comparativa de {len(por)} plataformas de cashback en España con datos propios: tiendas cubiertas, mediana de tarifas y mejores tiendas. Datos del {fecha(leido)}."
 cuerpo = (f'<article class="art"><nav class="mini" aria-label="Migas de pan"><a href="../index.html">Inicio</a> › Plataformas</nav>'
           f'<h1>Plataformas de cashback comparadas</h1><p class="sub">{len(por)} plataformas, {len(data["tiendas"])} tiendas. Cada cifra sale de la ficha pública de la plataforma, leída y comprobada, con fecha ({fecha(leido)}).</p>'
-          f'<div class="tabla"><table><thead><tr><th>Plataforma</th><th>Tiendas</th><th>Tarifas exactas</th><th>Mediana</th><th>Filas «hasta»</th><th>Fuente</th></tr></thead><tbody>{"".join(filas)}</tbody></table></div>'
+          f'<div class="tabla"><table><thead><tr><th>Plataforma</th><th>Nota Real</th><th>Tiendas</th><th>Tarifas exactas</th><th>Mediana</th><th>Filas «hasta»</th><th>Fuente</th></tr></thead><tbody>{"".join(filas)}</tbody></table></div>'
           f'<p class="mini">«Tarifas exactas» excluye los máximos anunciados («hasta»), las ofertas solo para clientes nuevos y las tarifas por categoría. La mediana depende de las tiendas que cubre cada plataforma: no es una nota de calidad.</p>'
+          f'<h2>Cómo puntuamos a las plataformas</h2><p>Usamos los mismos cuatro criterios que en las promociones, de 0 a 2,5 puntos cada uno, aplicados a lo que la plataforma publica en sus condiciones oficiales:</p><ul>' + "".join(f"<li><b>{ 'Letra pequeña' if k == 'letra' else k.capitalize()}:</b> {esc(v)}</li>" for k, v in NOTAS["metodo"].items()) + f'</ul><p class="mini">Cuando no hemos podido leer una condición, la nota se marca como provisional y lo decimos. Las notas se releen en la fuente oficial al menos una vez por semana.</p>'
           f'<h2>Qué destaca de cada una</h2>{"".join(bloques)}'
           f'<h2>Preguntas frecuentes</h2>' + "".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in faq) +
           f'<p class="mini">Para tu tienda, ve al <a href="../comparador.html">comparador</a> o a las <a href="../tienda/">fichas por tienda</a>. Guía para elegir: <a href="../blog/mejores-plataformas-de-cashback-en-espana/">mejores plataformas de cashback en España</a>.</p></article>')

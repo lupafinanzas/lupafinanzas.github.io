@@ -5,8 +5,9 @@
 // es cashback en % (cashbackType 1), sin tarifas múltiples. Compara con lo publicado y deja en window.__salida:
 //   CAMBIOS -> "slug|nombre|pct|subida(1/0)|habitual|lecturaA|lecturaB" de fichas nuevas o con cifra distinta
 //   FALLOS  -> slugs publicados cuya ficha ya no cumple la doble lectura (se retiran)
+// window.__descuentos: líneas "slug|tienda|valor|codigo/oferta|código|caduca|modificado|título|acumulable(1/0)" de ofertas con fecha vigente o recientes.
 // Cuando window.__fin === true el resultado está listo (unos 23 minutos).
-window.__fin = false; window.__salida = ''; window.__n = 0;
+window.__fin = false; window.__salida = ''; window.__n = 0; window.__descuentos = [];
 (async () => {
   const pub = await (await fetch('https://lupafinanzas.github.io/cashback.json?x=' + Date.now())).json();
   const publicado = {};
@@ -31,6 +32,16 @@ window.__fin = false; window.__salida = ''; window.__n = 0;
           if ('cashbackRate' in x && 'metaTitle' in x && !/similarShops|\.shops\./.test(p)) { main = x; return; }
           for (const k in x) walk(x[k], p + '.' + k, dep + 1);
         })(el ? JSON.parse(el.textContent) : null, '', 0);
+        // Descuentos: solo ofertas con fecha de fin vigente, o modificadas hace 14 días o menos (el resto está sin fechar). Sin las de newsletter (piden email).
+        for (const dl of ((main && main.deals) || [])) {
+          const mod = String(dl.modificationDate || '').slice(0, 10);
+          const hace = (Date.now() - new Date(dl.modificationDate)) / 864e5;
+          const exp = dl.expirationDate ? String(dl.expirationDate).slice(0, 10) : '';
+          const vigente = exp && !dl.isExpired && new Date(exp) >= new Date(new Date().toDateString());
+          if (dl.isExpired || dl.isSignUpNewsletter || dl.privateVoucher || (!vigente && !(hace <= 14))) continue;
+          const nombreT = ((main.deals[0] && main.deals[0].shopName) || s).replace(/\|/g, '/');
+          window.__descuentos.push([s, nombreT, String(dl.dealValue || '').replace(/\|/g, '/'), dl.isCoupon ? 'codigo' : 'oferta', dl.isCoupon ? String(dl.coupon || '').replace(/\|/g, '/') : '', exp, mod, String(dl.title || '').replace(/\s+/g, ' ').trim().replace(/\|/g, '/'), dl.isNotCumulative ? 0 : 1].join('|'));
+        }
         const desc = (d.querySelector('meta[name=description]') || {}).content || '';
         const a = d.title.match(re) || desc.match(re);
         if (main && a && main.isCashback === true && main.cashbackType === 1 && !main.hasMultipleCashbackValue &&

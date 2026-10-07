@@ -184,3 +184,5 @@ h1,h2,h3{font-weight:800;line-height:1.1;letter-spacing:-.02em}
 .sub1 b{font-size:1rem}
 .sub1 .n{font:900 1.6rem/1.1 var(--ff-num);color:var(--mint-d);letter-spacing:-.03em}
 .sub1 .q{font-size:.78rem;color:var(--ink2)}
+
+@media (max-width:1100px){.menu a{padding:9px 9px;font-size:.88rem}.marca span{white-space:nowrap}}

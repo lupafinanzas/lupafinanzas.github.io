@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Descuentos y códigos con fecha · Lupa Financiera</title>
+<meta name="description" content="Descuentos y códigos de tiendas con fecha de fin vigente o actualizados esta semana, junto al cashback de la misma tienda, con su fuente y su estado de verificación.">
+<meta name="theme-color" content="#0b2e25">
+<link rel="icon" href="logo.jpg">
+<link rel="stylesheet" href="fuentes.css">
+<link rel="stylesheet" href="estilo.css">
+<style>
+.dto{display:grid;gap:8px;padding:16px}
+.dto .cab{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}
+.dto h3{font-size:1.2rem}
+.dto .valor{font:900 1.9rem/1 var(--ff-num);color:var(--mint-d);letter-spacing:-.03em}
+.dto .tit{color:var(--ink2);font-size:.95rem}
+.dto .cod{display:inline-flex;align-items:center;gap:8px;font:700 1rem var(--ff-mono);background:var(--bg);border:1px dashed var(--mint-d);border-radius:10px;padding:6px 12px;width:max-content}
+.dto .cashb{background:color-mix(in srgb,var(--mint) 14%,transparent);border-radius:12px;padding:8px 12px;font-size:.9rem}
+.filtros{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+.filtros button,.filtros input{font:inherit}
+.filtros input[type=search]{flex:1 1 220px;padding:12px 14px;border:2px solid #cfe5dc;border-radius:14px;background:#fff;font-size:1rem}
+.filtros button{border:2px solid var(--line);background:var(--card);border-radius:999px;padding:9px 14px;font-weight:700;cursor:pointer}
+.filtros button[aria-pressed=true]{background:var(--deep);color:#fff;border-color:var(--deep)}
+#listaDto{display:grid;gap:12px}
+@media (min-width:760px){#listaDto{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="marca" href="index.html"><img src="logo.jpg" alt=""><span>Lupa Financiera</span></a>
+  <nav class="menu" aria-label="Principal">
+    <a href="index.html">Inicio</a><a href="promociones.html">Promociones</a><a href="cashback.html">Cashback</a><a href="descuentos.html" aria-current="page">Descuentos</a><a href="comparador.html">Comparador</a><a href="blog/">Blog</a><a href="como-lo-hacemos.html">Cómo lo hacemos</a>
+  </nav>
+  <a class="x" href="https://x.com/LupaFinanzas">@LupaFinanzas</a>
+</div></header>
+
+<main class="wrap">
+  <div class="seccion" style="margin-top:22px">
+    <span class="mini">Descuentos</span>
+    <h2 style="font-size:clamp(1.8rem,6.5vw,2.8rem);margin-top:6px">Descuentos y códigos con fecha, junto al cashback de la tienda</h2>
+    <p class="sub" style="margin-top:8px">Solo mostramos ofertas con fecha de fin vigente o actualizadas esta semana. Cada una dice dónde la hemos visto y si hemos podido probarla en la tienda. Los descuentos y el cashback suelen sumarse; la ficha te lo indica.</p>
+  </div>
+  <div class="filtros" role="group" aria-label="Filtros">
+    <input id="qd" type="search" placeholder="Busca una tienda" aria-label="Buscar tienda" autocomplete="off">
+    <button type="button" id="fCod" aria-pressed="false">Solo con código</button>
+    <button type="button" id="fPronto" aria-pressed="false">Caducan esta semana</button>
+  </div>
+  <div id="listaDto"><div class="card" style="padding:20px">Cargando…</div></div>
+  <footer class="pie">
+    <p id="actualizado"></p>
+    <p>Ofertas leídas de fuentes públicas (Widilo) con su fecha. «Visto en la fuente» significa que la fuente la muestra vigente, no que la tienda nos lo haya confirmado. «Verificado» solo si hemos comprobado en el carrito de la tienda que el descuento se aplica; no completamos ninguna compra. Los códigos de un solo uso o para clientes nuevos suelen no poder probarse.</p>
+  </footer>
+</main>
+
+<nav class="tabbar" aria-label="Principal">
+  <a href="promociones.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12v8H4v-8M2 7h20v5H2zM12 22V7M12 7H7.5a2.5 2.5 0 1 1 0-5C11 2 12 7 12 7zM12 7h4.5a2.5 2.5 0 1 0 0-5C13 2 12 7 12 7z"/></svg>Promos</a><a href="cashback.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9 15l6-6M9.5 9.5h.01M14.5 14.5h.01"/></svg>Cashback</a><a href="descuentos.html" aria-current="page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.6 13.4l-7.2 7.2a2 2 0 0 1-2.8 0L3 13V3h10l7.6 7.6a2 2 0 0 1 0 2.8zM7.5 7.5h.01"/></svg>Descuentos</a><a href="comparador.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>Comparador</a><a href="como-lo-hacemos.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v5M12 16.5v.5"/></svg>Más</a>
+</nav>
+
+<script>
+(function(){
+  function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
+  function pc(n){return n.toLocaleString('es-ES')+' %';}
+  function fmt(f){var p=f.split('-');return p[2]+'/'+p[1]+'/'+p[0];}
+  function dias(f){var h=new Date();h.setHours(0,0,0,0);return Math.round((new Date(f+'T00:00:00')-h)/86400000);}
+  function norm(x){return x.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+  var D=[],CB={},fc=false,fp=false;
+  function pinta(){
+    var q=norm(document.getElementById('qd').value.trim()),box=document.getElementById('listaDto');box.textContent='';
+    var l=D.filter(function(d){
+      if(q&&norm(d.tienda).indexOf(q)<0)return false;
+      if(fc&&d.tipo!=='codigo')return false;
+      if(fp&&!(d.caduca&&dias(d.caduca)<=7))return false;
+      return true;
+    }).slice(0,60);
+    if(!l.length){box.appendChild(el('div','card','No hay descuentos con esos filtros.'));box.firstChild.style.padding='20px';return;}
+    l.forEach(function(d){
+      var c=el('article','card dto');
+      var cab=el('div','cab');cab.appendChild(el('h3',null,d.tienda));cab.appendChild(el('span','valor',d.valor));c.appendChild(cab);
+      c.appendChild(el('div','tit',d.titulo));
+      if(d.codigo){c.appendChild(el('div','cod','Código: '+d.codigo));}
+      var e=el('div','etqs');
+      e.appendChild(el('span','etq '+(d.tipo==='codigo'?'verde':''),d.tipo==='codigo'?'Código':'Oferta'));
+      if(d.caduca){var n=dias(d.caduca);e.appendChild(el('span','etq '+(n<=1?'rojo':''),n<0?'Terminó el '+fmt(d.caduca):(n===0?'Termina hoy':'Quedan '+n+(n===1?' día':' días')+' · hasta '+fmt(d.caduca))));}
+      e.appendChild(el('span','etq azul',d.acumulable?'Se suma al cashback':'No acumulable'));
+      var v=d.verificacion;
+      e.appendChild(el('span','etq '+(v&&v.estado==='verificado'?'verde':''),v?(v.estado==='verificado'?'Verificado en la tienda el '+fmt(v.fecha):'No se ha podido verificar ('+fmt(v.fecha)+')'):'Visto en la fuente, sin probar en la tienda'));
+      c.appendChild(e);
+      var cb=CB[d.slug];
+      if(cb&&d.acumulable)c.appendChild(el('div','cashb','Cashback de hoy en esta tienda: '+(cb.hasta?'hasta ':'')+pc(cb.pct)+' con '+cb.plataforma+' (se suma al descuento)'));
+      var f=el('div','fuente');var a=el('a',null,'Ver en Widilo →');a.href=d.fuente;a.rel='noopener nofollow';f.appendChild(a);
+      f.appendChild(document.createTextNode(' · modificada en la fuente el '+fmt(d.modificado_en_fuente)+' · leída el '+fmt(d.leido)));
+      c.appendChild(f);
+      var cmp=el('a','mini','Comparar el cashback de '+d.tienda+' en todas las plataformas →');cmp.href='comparador.html#'+d.slug;cmp.style.color='var(--mint-d)';c.appendChild(cmp);
+      box.appendChild(c);
+    });
+  }
+  Promise.all([fetch('descuentos.json').then(function(r){return r.json();}),fetch('cashback.json').then(function(r){return r.json();}).catch(function(){return null;})]).then(function(r){
+    D=r[0].descuentos;
+    if(r[1])r[1].tiendas.forEach(function(t){var m=null;t.filas.forEach(function(f){if(f.solo_clientes_nuevos||f.primera_compra||f.tipo==='bienvenida')return;if(f.fin&&dias(f.fin)<0)return;if(!m||f.pct>m.pct)m={pct:f.pct,hasta:!!f.hasta_pct,plataforma:f.plataforma};});if(m)CB[t.slug]=m;});
+    document.getElementById('actualizado').textContent='Descuentos leídos el '+fmt(r[0].actualizado)+'.';
+    pinta();
+    document.getElementById('qd').addEventListener('input',pinta);
+    document.getElementById('fCod').addEventListener('click',function(){fc=!fc;this.setAttribute('aria-pressed',fc);pinta();});
+    document.getElementById('fPronto').addEventListener('click',function(){fp=!fp;this.setAttribute('aria-pressed',fp);pinta();});
+  }).catch(function(){document.getElementById('listaDto').textContent='Todavía no hay descuentos publicados.';});
+})();
+</script>
+</body>
+</html>

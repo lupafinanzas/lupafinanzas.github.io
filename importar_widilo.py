@@ -30,10 +30,31 @@ def slugify(s):
 por_slug = {t["slug"]: t for t in data["tiendas"]}
 por_nombre = {norm(t["nombre"]): t for t in data["tiendas"]}
 lectura = {}
+EXCLUIDAS = {"ria"}  # servicios financieros: fuera de este comparador
+MAX_PCT = 50  # cifras mayores (p. ej. 100 %) suelen ser solo para clientes nuevos o primer pedido: revisión manual, no se publican
+
+
+def es(n):
+    return f"{n:g}".replace(".", ",")
+
+
+revisar = []
 for linea in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines():
-    if linea.strip() and linea.count("|") == 6:
+    n = linea.count("|")
+    if not linea.strip() or n not in (4, 6):
+        continue
+    if n == 6:  # formato completo del lector: slug|nombre|pct|subida|habitual|lecturaA|lecturaB
         s, nom, pct, inc, hab, a, b = linea.split("|")
-        lectura[s] = dict(nombre=nom, pct=float(pct), inc=inc == "1", hab=float(hab), a=a, b=b)
+    else:  # formato compacto: slug|nombre|pct|subida|habitual (las dos lecturas ya se comprobaron en el navegador)
+        s, nom, pct, inc, hab = linea.split("|")
+        a = f"{es(float(pct))} % cashback (título o meta de la ficha)"
+        b = f"{es(float(pct))} %" + (f" (antes {es(float(hab))} %)" if inc == "1" else "")
+    if s in EXCLUIDAS:
+        continue
+    if float(pct) > MAX_PCT:
+        revisar.append((s, pct))
+        continue
+    lectura[s] = dict(nombre=nom, pct=float(pct), inc=inc == "1", hab=float(hab), a=a, b=b)
 
 nuevas, descartadas, retiradas = 0, [], 0
 for ws, r in sorted(lectura.items()):
@@ -82,4 +103,7 @@ data["tiendas"].sort(key=lambda t: t["nombre"].lower())
 (base / "cashback.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 with (base.parent / "cashback_cambios.md").open("a", encoding="utf-8") as f:
     f.write(f"\n## Widilo {hoy}: {nuevas} filas añadidas o cambiadas, {retiradas} retiradas, {len(descartadas)} descartadas\n")
-print(f"{nuevas} filas añadidas o cambiadas, {retiradas} retiradas, {len(descartadas)} descartadas")
+if revisar:
+    with (base.parent / "cashback_cambios.md").open("a", encoding="utf-8") as f:
+        f.write("Widilo: no publicadas por superar el 50 % (revisar a mano; suelen ser solo para clientes nuevos): " + ", ".join(f"{a} {b} %" for a, b in revisar) + "\n")
+print(f"{nuevas} filas añadidas o cambiadas, {retiradas} retiradas, {len(descartadas)} descartadas, {len(revisar)} a revisar")

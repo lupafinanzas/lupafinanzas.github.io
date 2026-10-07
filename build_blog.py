@@ -89,7 +89,7 @@ def pagina(ruta, titulo, desc, cuerpo, jsonld=""):
 <header class="top"><div class="wrap">
   <a class="marca" href="{rel}index.html"><img src="{rel}logo.jpg" alt=""><span>Lupa Financiera</span></a>
   <nav class="menu" aria-label="Principal">
-    <a href="{rel}index.html">Inicio</a><a href="{rel}promociones.html">Promociones</a><a href="{rel}cashback.html">Cashback</a><a href="{rel}comparador.html">Comparador</a><a href="{rel}blog/" aria-current="page">Blog</a><a href="{rel}como-lo-hacemos.html">Cómo lo hacemos</a>
+    <a href="{rel}index.html">Inicio</a><a href="{rel}promociones.html">Promociones</a><a href="{rel}cashback.html">Cashback</a><a href="{rel}descuentos.html">Descuentos</a><a href="{rel}comparador.html">Comparador</a><a href="{rel}blog/" aria-current="page">Blog</a><a href="{rel}como-lo-hacemos.html">Cómo lo hacemos</a>
   </nav>
   <a class="x" href="https://x.com/LupaFinanzas">@LupaFinanzas</a>
 </div></header>
@@ -102,7 +102,7 @@ def pagina(ruta, titulo, desc, cuerpo, jsonld=""):
 """
 
 
-urls = [(f"{SITIO}/", None), (f"{SITIO}/promociones.html", None), (f"{SITIO}/cashback.html", None), (f"{SITIO}/comparador.html", None), (f"{SITIO}/como-lo-hacemos.html", None), (f"{SITIO}/blog/", None)]
+urls = [(f"{SITIO}/", None), (f"{SITIO}/promociones.html", None), (f"{SITIO}/cashback.html", None), (f"{SITIO}/descuentos.html", None), (f"{SITIO}/comparador.html", None), (f"{SITIO}/como-lo-hacemos.html", None), (f"{SITIO}/blog/", None)]
 indice = []
 for a in arts:
     cuerpo = "".join(f"<h2>{esc(b['h'])}</h2>\n{b['html']}\n" if "h" in b else b["html"] + "\n" for b in a["bloques"])

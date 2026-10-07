@@ -15,6 +15,8 @@ import pathlib
 import sys
 
 base = pathlib.Path(__file__).parent
+# Fuera de la sección: productos financieros (tienen su ficha en Promociones) y contenido para adultos.
+EXCLUIDAS = {"banco-sabadell", "wyylde"}
 hoy = datetime.date.today()
 destino = base / "descuentos.json"
 # Resultados de las pruebas en carrito (se guardan fuera de web/): {id: {estado, fecha, nota, ...}}
@@ -33,6 +35,8 @@ for linea in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines():
     if linea.count("|") != 8:
         continue
     slug, tienda, valor, tipo, codigo, caduca, modif, titulo, acum = linea.split("|")
+    if slug in EXCLUIDAS:
+        continue
     if not titulo or not valor:
         descartadas += 1
         continue

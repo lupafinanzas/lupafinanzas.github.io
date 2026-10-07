@@ -144,6 +144,40 @@
    }
   },
   {
+   "slug": "iberdrola-igraal",
+   "nombre": "Iberdrola (vía iGraal)",
+   "tipo": "2 · Registro + contratación",
+   "recompensa": "170 € de cashback de iGraal por contratar online una tarifa de luz de Iberdrola desde iGraal, hasta el 8/10/2026.",
+   "requisitos": "Activar el cashback en iGraal antes de contratar y contratar online (si la venta es por teléfono no aparece sola y hay que reclamarla con un ticket; las compras desde la app de Iberdrola no generan cashback). Solo nuevos clientes: no vale si el contrato ya está en Iberdrola y solo cambias de tarifa. iGraal paga 1 cashback por CUPS (punto de suministro) y marca de electricidad al año: si ese punto recibió un cashback en los últimos 12 meses, no se paga. Las ofertas propias de Iberdrola que lista iGraal (saldos y descuentos por plan) tienen sus condiciones en la web de Iberdrola y no se han leído aquí.",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-07",
+   "caduca": "2026-10-08",
+   "gana_corto": "170 €",
+   "gana_sub": "de cashback en iGraal al contratar la luz (hasta el 8/10)",
+   "nota": {
+    "tiempo": 1.5,
+    "importe": 1.5,
+    "letra": 1.5,
+    "permanencia": 1.5
+   },
+   "nota_texto": "Nota provisional: ni el plazo de validación del cashback ni la permanencia de cada tarifa figuran en la ficha de iGraal.",
+   "auto": true,
+   "fuentes": [
+    "https://es.igraal.com/codigos-promocionales/iberdrola",
+    "https://x.com/TuAhorroX/status/2107750274521768035",
+    "https://x.com/InversMallorqui/status/2107896018297606593",
+    "https://x.com/ahorrathor/status/2107730518565343466"
+   ],
+   "fuente_oficial": "https://es.igraal.com/codigos-promocionales/iberdrola",
+   "nota_razon": {
+    "tiempo": "La contratación es online, pero hay que cambiar de compañía de luz y esperar a que Iberdrola valide la operación (plazo no indicado).",
+    "importe": "170 € fijos, pero se cobran tras la validación de Iberdrola y solo si es tu primera contratación con ellos en ese punto de suministro.",
+    "letra": "Varias exclusiones: solo online desde iGraal, nada desde la app, no vale cambiar de tarifa siendo cliente y un cashback por CUPS al año.",
+    "permanencia": "La ficha de iGraal no dice si la tarifa tiene permanencia; depende del plan que elijas en Iberdrola."
+   }
+  },
+  {
    "slug": "twelve",
    "nombre": "twelve. (lista de espera)",
    "tipo": "1 · Solo registro (hoy)",

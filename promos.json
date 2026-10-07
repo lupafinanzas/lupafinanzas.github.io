@@ -10,9 +10,21 @@
    "enlace": "https://newapp.myinvestor.es/do/signup?promotionalCode=RMRHC",
    "estado": "publicada",
    "verificado": "2026-10-06",
-   "nota": null,
+   "nota": {
+    "tiempo": 1.5,
+    "importe": 1.5,
+    "letra": 2,
+    "permanencia": 2
+   },
    "gana_corto": "25 € + 25 €",
-   "gana_sub": "para ti y para quien te invita (importes brutos)"
+   "gana_sub": "para ti y para quien te invita (importes brutos)",
+   "nota_texto": "Nota provisional: el plazo de cobro no está publicado.",
+   "nota_razon": {
+    "tiempo": "El alta es online y tienes 3 meses para cumplir una condición, pero MyInvestor no publica cuándo se abona el premio.",
+    "importe": "25 € brutos fijos para cada uno al cumplir la condición; son brutos y tributan, y quien invita tiene tope de 60 invitados.",
+    "letra": "Las bases son cortas y claras: basta UNA de tres condiciones (invertir 100 €, tener 1.000 € en efectivo o contratar un depósito) y la promoción vale hasta el 31/12/2026.",
+    "permanencia": "No declara permanencia mínima; la condición exige tener el dinero invertido o en cuenta en esos 3 meses, sin plazo de salida indicado."
+   }
   },
   {
    "slug": "trade-republic",
@@ -46,9 +58,21 @@
    "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
    "estado": "publicada",
    "verificado": "2026-10-06",
-   "nota": null,
+   "nota": {
+    "tiempo": 1.5,
+    "importe": 1.5,
+    "letra": 1.5,
+    "permanencia": 2.5
+   },
    "gana_corto": "10 €",
-   "gana_sub": "de bienvenida con la invitación"
+   "gana_sub": "de bienvenida con la invitación",
+   "nota_texto": "Nota provisional: el plazo de validación del bono no está publicado.",
+   "nota_razon": {
+    "tiempo": "Registro rápido, pero el bono llega después de un pedido apto en los 90 días siguientes y de que la tienda lo valide; no hay plazo publicado.",
+    "importe": "10 € de bono, claro y fijo, pero solo si compras algo (pedido de al menos 12,40 € antes de IVA), así que no es dinero sin gastar.",
+    "letra": "Condiciones comprensibles, pero el pedido tiene que ser «apto para cashback»: no vale cualquier compra ni cualquier tienda.",
+    "permanencia": "Sin permanencia ni mantener saldo: te registras, compras y listo."
+   }
   },
   {
    "slug": "revolut",
@@ -109,7 +133,13 @@
     "https://es.igraal.com/codigos-promocionales/banco-sabadell",
     "https://x.com/TuAhorroX"
    ],
-   "fuente_oficial": "https://es.igraal.com/codigos-promocionales/banco-sabadell"
+   "fuente_oficial": "https://es.igraal.com/codigos-promocionales/banco-sabadell",
+   "nota_razon": {
+    "tiempo": "El alta es 100 % online (se estima en 15-20 minutos, sin verificar).",
+    "importe": "150 € condicionados a mantener un saldo medio superior a 300 € durante 3 meses; las reseñas hablan de validación a los ~2 meses.",
+    "letra": "Condiciones claras pero con varias restricciones: abrirla desde la web de iGraal, un cashback por DNI y no tener otra cuenta Sabadell.",
+    "permanencia": "No hay permanencia más allá de mantener el saldo 3 meses."
+   }
   },
   {
    "slug": "twelve",
@@ -134,7 +164,13 @@
     "https://x.com/viajes_globo",
     "https://x.com/InversMallorqui"
    ],
-   "fuente_oficial": "https://twelve.finance"
+   "fuente_oficial": "https://twelve.finance",
+   "nota_razon": {
+    "tiempo": "Apuntarte tarda un minuto, pero cobrar exige que lancen, abrir la cuenta, verificar la identidad y hacer un primer pago con su tarjeta.",
+    "importe": "El dinero no es efectivo, depende de un lanzamiento sin fecha y twelve. puede cancelarlo antes.",
+    "letra": "Condiciones cortas y claras, aunque la empresa puede modificarlas.",
+    "permanencia": "El saldo queda invertido en sus carteras y no se puede retirar en efectivo."
+   }
   }
  ]
 }

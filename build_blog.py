@@ -95,7 +95,7 @@ def pagina(ruta, titulo, desc, cuerpo, jsonld=""):
 </div></header>
 <main class="wrap">
 {cuerpo}
-<footer class="pie"><p>Contenido informativo, no es asesoría financiera. Las cifras cambian a diario: compruébalas en la web de cada plataforma antes de comprar.</p></footer>
+<footer class="pie"><p><a href="{rel}aviso-legal.html">Aviso legal</a> · <a href="{rel}privacidad.html">Política de privacidad</a> · <a href="{rel}cookies.html">Política de cookies</a></p><p>Contenido informativo, no es asesoría financiera. Las cifras cambian a diario: compruébalas en la web de cada plataforma antes de comprar.</p></footer>
 </main>
 </body>
 </html>

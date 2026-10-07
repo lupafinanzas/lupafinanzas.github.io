@@ -11,7 +11,7 @@ window.__fin = false; window.__salida = ''; window.__n = 0; window.__descuentos 
 (async () => {
   const pub = await (await fetch('https://lupafinanzas.github.io/cashback.json?x=' + Date.now())).json();
   const publicado = {};
-  for (const t of pub.tiendas) for (const f of t.filas) if (f.plataforma === 'Widilo') publicado[t.slug] = f;
+  for (const t of pub.tiendas) for (const f of t.filas) if (f.plataforma === 'Widilo') publicado[f.fuente.split('/').pop()] = f;
   const sm = await (await fetch('/shop-sitemap.xml')).text();
   const slugs = [...sm.matchAll(/<loc>https:\/\/www\.widilo\.es\/codigo-descuento\/([a-z0-9-]+)<\/loc>/g)].map(m => m[1]);
   const re = /(\d+(?:,\d+)?)\s?%\s*(?:de\s*)?cashback/i;

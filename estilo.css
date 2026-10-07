@@ -219,3 +219,11 @@ h1,h2,h3{font-weight:800;line-height:1.1;letter-spacing:-.02em}
 .votos-b:disabled{cursor:default;opacity:.7}
 .votos-b.votado{border-color:var(--mint-d);opacity:1}
 .votos-aviso{flex-basis:100%;font-size:.74rem;color:var(--ink2)}
+
+.acciones{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.btn-v,.btn-o{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;font-weight:800;font-size:.92rem;border-radius:999px;padding:11px 18px;line-height:1.2}
+.btn-v{background:var(--mint-d);color:#fff;box-shadow:0 6px 16px -10px rgba(15,122,88,.9)}
+.btn-o{border:1.5px solid var(--mint-d);color:var(--mint-d);background:transparent}
+.btn-v:hover{filter:brightness(1.08)}.btn-o:hover{background:color-mix(in srgb,var(--mint) 14%,transparent)}
+.acciones+.fuente{margin-top:8px}
+@media (prefers-color-scheme:dark){.btn-v{background:var(--mint);color:#04261b}.btn-o{border-color:var(--mint);color:var(--mint)}}

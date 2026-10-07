@@ -121,7 +121,7 @@ for d in vig:
     estado = ("Verificado en la tienda el " + fmt(v["fecha"])) if v and v["estado"] == "verificado" else "Visto en la fuente, sin probar en la tienda"
     out.append(f'<article class="card dto"><div class="cab"><h3>{esc(d["tienda"])}</h3><span class="valor">{esc(d["valor"] or "")}</span></div>'
                f'<div class="tit">{esc(d["titulo"])}</div>' + (f'<div class="cod">Código: {esc(d["codigo"])}</div>' if d.get("codigo") else "") +
-               f'<p class="mini">{"Hasta el " + fmt(d["caduca"]) if d.get("caduca") else "Sin fecha de fin"} · {estado} · <a href="{esc(d["fuente"])}" rel="noopener nofollow">Ver en Widilo</a></p></article>')
+               f'<p class="mini">{"Hasta el " + fmt(d["caduca"]) if d.get("caduca") else "Sin fecha de fin"} · {estado}</p><div class="acciones"><a class="btn-v" href="{esc(d["fuente"])}" rel="noopener nofollow">Ver esta oferta en Widilo →</a><a class="btn-o" href="comparador.html#{esc(d["slug"])}">Comparar cashback de {esc(d["tienda"])}</a></div></article>')
 reemplazar("descuentos.html", "listaDto", "dto", "".join(out))
 
 # ---- cashback: lo mejor de hoy y subidas

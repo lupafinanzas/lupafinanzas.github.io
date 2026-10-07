@@ -6,25 +6,26 @@
    "nombre": "MyInvestor",
    "tipo": "2 · Registro + depósito",
    "recompensa": "25 € brutos para ti y 25 € brutos para quien te invita",
-   "requisitos": "Tú y tu amigo tenéis que cumplir UNA de estas condiciones en los 3 primeros meses: invertir 100 € (cartera indexada, fondos, planes de pensiones, acciones o ETFs), tener 1.000 € en efectivo en la cuenta o contratar un depósito. Los importes son brutos y tributan. Hasta 60 invitados por persona; promoción vigente hasta el 31/12/2026.",
+   "requisitos": "Tú y tu amigo tenéis que cumplir UNA de estas condiciones en los 3 primeros meses desde la apertura de la cuenta: invertir 100 € (cartera indexada, fondos, planes de pensiones, acciones o ETFs), tener 1.000 € en efectivo en la cuenta o contratar un depósito. Los 25 € son brutos: con la retención del 19 % quedan 20,25 € netos. No hace falta mantener la inversión una vez recibido el abono, que se ingresa en tu cuenta de MyInvestor. Si en el momento del abono tu cuenta está en descubierto, pueden no abonarlo. Hasta 60 invitados por persona (1.500 € brutos); según sus bases, vigente hasta el 31/12/2026.",
    "enlace": "https://newapp.myinvestor.es/do/signup?promotionalCode=RMRHC",
    "estado": "publicada",
-   "verificado": "2026-10-06",
+   "verificado": "2026-10-07",
    "nota": {
     "tiempo": 1.5,
     "importe": 1.5,
     "letra": 2,
-    "permanencia": 2
+    "permanencia": 2.5
    },
    "gana_corto": "25 € + 25 €",
-   "gana_sub": "para ti y para quien te invita (importes brutos)",
+   "gana_sub": "para ti y para quien te invita (25 € brutos; 20,25 € netos tras la retención)",
    "nota_texto": "Nota provisional: el plazo de cobro no está publicado.",
    "nota_razon": {
-    "tiempo": "El alta es online y tienes 3 meses para cumplir una condición, pero MyInvestor no publica cuándo se abona el premio.",
-    "importe": "25 € brutos fijos para cada uno al cumplir la condición; son brutos y tributan, y quien invita tiene tope de 60 invitados.",
-    "letra": "Las bases son cortas y claras: basta UNA de tres condiciones (invertir 100 €, tener 1.000 € en efectivo o contratar un depósito) y la promoción vale hasta el 31/12/2026.",
-    "permanencia": "No declara permanencia mínima; la condición exige tener el dinero invertido o en cuenta en esos 3 meses, sin plazo de salida indicado."
-   }
+    "tiempo": "El alta es online y tienes 3 meses desde abrir la cuenta para cumplir una condición, pero MyInvestor no publica cuándo se abona el premio.",
+    "importe": "25 € brutos fijos para cada uno al cumplir la condición; con la retención del 19 % son 20,25 € netos, y quien invita tiene tope de 60 invitados (1.500 € brutos).",
+    "letra": "Las bases son cortas y claras: basta UNA de tres condiciones (invertir 100 €, tener 1.000 € en efectivo o contratar un depósito) y no se puede estar en descubierto al abonar.",
+    "permanencia": "Según su página oficial de preguntas frecuentes, no hay que mantener la inversión más allá del momento en que recibes el abono."
+   },
+   "fuente_condiciones": "https://myinvestor.es/ayuda/preguntas-frecuentes/plan-amigo/"
   },
   {
    "slug": "trade-republic",
@@ -54,10 +55,10 @@
    "nombre": "iGraal",
    "tipo": "6 · Cashback progresivo",
    "recompensa": "10 € de bono de bienvenida para quien se registra con una invitación",
-   "requisitos": "Hay que hacer un pedido de al menos 12,40 € (antes de IVA) apto para cashback en los 90 días siguientes al registro. Quien invita recibe 15 € cuando su amigo acumula 3 € de cashback disponible, más el 10 % de su cashback validado el primer año.",
+   "requisitos": "Hay que hacer un pedido de al menos 12,40 € (sin gastos de envío y antes de IVA; según la marca el mínimo puede ser superior) apto para cashback en los 90 días siguientes al registro. El bono de 10 € se abona junto con el primer cashback validado. Quien invita recibe 15 € cuando su amigo acumula 3 € de cashback disponible, más el 10 % de su cashback validado el primer año.",
    "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
    "estado": "publicada",
-   "verificado": "2026-10-06",
+   "verificado": "2026-10-07",
    "nota": {
     "tiempo": 1.5,
     "importe": 1.5,
@@ -68,11 +69,12 @@
    "gana_sub": "de bienvenida con la invitación",
    "nota_texto": "Nota provisional: el plazo de validación del bono no está publicado.",
    "nota_razon": {
-    "tiempo": "Registro rápido, pero el bono llega después de un pedido apto en los 90 días siguientes y de que la tienda lo valide; no hay plazo publicado.",
+    "tiempo": "Registro rápido, pero el bono llega junto con el primer cashback validado, después de un pedido apto en los 90 días siguientes; iGraal no publica un plazo.",
     "importe": "10 € de bono, claro y fijo, pero solo si compras algo (pedido de al menos 12,40 € antes de IVA), así que no es dinero sin gastar.",
     "letra": "Condiciones comprensibles, pero el pedido tiene que ser «apto para cashback»: no vale cualquier compra ni cualquier tienda.",
     "permanencia": "Sin permanencia ni mantener saldo: te registras, compras y listo."
-   }
+   },
+   "fuente_condiciones": "https://es.igraal.com/padrinazgo"
   },
   {
    "slug": "revolut",

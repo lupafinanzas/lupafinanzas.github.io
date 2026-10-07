@@ -7,6 +7,7 @@ Solo entran fichas que pasaron la doble lectura en el navegador (A = título/met
 Las tiendas se unen a las existentes por slug o por nombre normalizado; las nuevas se crean.
 """
 import datetime
+from util_rutas import registro_cambios
 import json
 import pathlib
 import re
@@ -101,9 +102,9 @@ if "--refrescar" in sys.argv:
 
 data["tiendas"].sort(key=lambda t: t["nombre"].lower())
 (base / "cashback.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
-with (base.parent / "cashback_cambios.md").open("a", encoding="utf-8") as f:
+with (registro_cambios()).open("a", encoding="utf-8") as f:
     f.write(f"\n## Widilo {hoy}: {nuevas} filas añadidas o cambiadas, {retiradas} retiradas, {len(descartadas)} descartadas\n")
 if revisar:
-    with (base.parent / "cashback_cambios.md").open("a", encoding="utf-8") as f:
+    with (registro_cambios()).open("a", encoding="utf-8") as f:
         f.write("Widilo: no publicadas por superar el 50 % (revisar a mano; suelen ser solo para clientes nuevos): " + ", ".join(f"{a} {b} %" for a, b in revisar) + "\n")
 print(f"{nuevas} filas añadidas o cambiadas, {retiradas} retiradas, {len(descartadas)} descartadas, {len(revisar)} a revisar")

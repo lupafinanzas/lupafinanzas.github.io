@@ -95,6 +95,11 @@ if m:
 def reemplazar(archivo, id_contenedor, clave, contenido):
     p = BASE / archivo
     s = p.read_text(encoding="utf-8")
+    ini, fin = f"<!--PRE:{clave}-->", f"<!--/PRE:{clave}-->"
+    if ini in s and fin in s:  # ya prerenderizado: reemplazo exacto entre marcadores (nunca acumula)
+        i, j = s.index(ini), s.index(fin)
+        p.write_text(s[:i] + ini + contenido + s[j:], encoding="utf-8")
+        return
     patron = r'(<div[^>]*id="' + id_contenedor + r'"[^>]*>)(.*?)(</div>\s*(?:<div|<p|</section|<section|<footer))'
     m = re.search(patron, s, flags=re.S)
     if not m:
@@ -123,7 +128,7 @@ for t in cb["tiendas"]:
         if f.get("fin") and dias(f["fin"]) < 0:
             continue
         nuevo = f.get("solo_clientes_nuevos") or f.get("primera_compra") or f["tipo"] == "bienvenida"
-        if len(plats) >= 2 and not nuevo and not f.get("hasta_pct") and f["pct"] < 40:
+        if len(plats) >= 3 and not nuevo and not f.get("hasta_pct") and f["pct"] < 20:
             if t["slug"] not in cand or gana(f) > cand[t["slug"]][0]:
                 cand[t["slug"]] = (gana(f), t, f)
         if f["tipo"] == "aumentado" and f.get("habitual_pct", 99) < f["pct"] and f["pct"] < 40 and not nuevo:

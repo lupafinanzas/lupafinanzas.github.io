@@ -4,11 +4,12 @@ Uso: python importar_descuentos.py descuentos_widilo.txt
 Cada línea: slug|tienda|valor|codigo/oferta|código|caduca|modificado|título|acumulable(1/0)
 Reglas: solo ofertas con fecha de fin vigente o modificadas hace 14 días o menos; nada caducado; sin textos copiados
 de la fuente más allá del título de la oferta y su importe; siempre con enlace a la fuente. El resultado de una prueba
-en carrito se guarda en ../descuentos_verificaciones.json y se aplica en cada ejecución; una oferta con verificacion.estado == "no_funciona" se retira.
+en carrito se guarda en datos/descuentos_verificaciones.json y se aplica en cada ejecución; una oferta con verificacion.estado == "no_funciona" se retira.
 Estados de verificación: "verificado" (el carrito aplicó el descuento), "no_funciona" (se elimina), "no_verificable"
 (no se pudo probar: se publica así, con la fecha). Sin campo "verificacion" = visto en la fuente, sin probar en la tienda.
 """
 import datetime
+from util_rutas import datos
 import hashlib
 import json
 import pathlib
@@ -21,7 +22,7 @@ hoy = datetime.date.today()
 destino = base / "descuentos.json"
 # Resultados de las pruebas en carrito (se guardan fuera de web/): {id: {estado, fecha, nota, ...}}
 verif = {}
-vpath = base.parent / "descuentos_verificaciones.json"
+vpath = datos("descuentos_verificaciones.json")
 if vpath.exists():
     verif = json.loads(vpath.read_text(encoding="utf-8"))
 previo = {}

@@ -6,6 +6,7 @@ Formato: slug|nombre|variante|pct|nuevos(1/0)|tope|lecturaA|lecturaB   (una lín
 Todas las tarifas de una tienda se reemplazan juntas. Las tiendas se unen por slug o nombre normalizado.
 """
 import datetime
+from util_rutas import registro_cambios
 import json
 import pathlib
 import re
@@ -90,6 +91,6 @@ if "--refrescar" in sys.argv:
 
 data["tiendas"].sort(key=lambda t: t["nombre"].lower())
 (base / "cashback.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
-with (base.parent / "cashback_cambios.md").open("a", encoding="utf-8") as f:
+with (registro_cambios()).open("a", encoding="utf-8") as f:
     f.write(f"\n## Beruby {hoy}: {nuevas} tiendas añadidas o cambiadas, {retiradas} filas retiradas, {len(descartadas)} descartadas\n")
 print(f"{nuevas} tiendas añadidas o cambiadas, {retiradas} filas retiradas, {len(descartadas)} descartadas")

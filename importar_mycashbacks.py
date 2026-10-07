@@ -8,6 +8,7 @@ coincidía con la del BLOQUE de cashback, la ficha existía (200, sin redirigir)
 El validador vuelve a comprobar cifra y fuente después.
 """
 import datetime
+from util_rutas import registro_cambios
 import json
 import pathlib
 import re
@@ -86,7 +87,7 @@ if "--refrescar" in sys.argv:
 
 data["tiendas"].sort(key=lambda t: t["nombre"].lower())
 (base / "cashback.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
-log = base.parent / "cashback_cambios.md"
+log = registro_cambios()
 with log.open("a", encoding="utf-8") as f:
     f.write(f"\n## mycashbacks {hoy}: {nuevas} filas añadidas, {len(descartadas)} fichas descartadas (no cuadran las dos lecturas o no existen)\n")
     for s, t, b in descartadas[:200]:

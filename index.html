@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Lupa Financiera · Promos y cashback, comprobados</title>
-<meta name="description" content="Promociones de bancos, cashback y apps comprobadas una a una, con la letra pequeña a la vista y el comparador de cashback tienda a tienda.">
+<meta name="description" content="Promociones de bancos y apps, cashback y comparador tienda a tienda, comprobados uno a uno con la letra pequeña a la vista.">
 <meta name="theme-color" content="#0b2e25">
 <link rel="icon" href="logo.jpg">
 <link rel="stylesheet" href="fuentes.css">
@@ -14,7 +14,7 @@
 <header class="top"><div class="wrap">
   <a class="marca" href="index.html"><img src="logo.jpg" alt=""><span>Lupa Financiera</span></a>
   <nav class="menu" aria-label="Principal">
-    <a href="index.html" aria-current="page">Promos</a><a href="comparador.html">Comparador</a><a href="blog/">Blog</a><a href="como-lo-hacemos.html">Cómo lo hacemos</a>
+    <a href="index.html" aria-current="page">Inicio</a><a href="promociones.html">Promociones</a><a href="cashback.html">Cashback</a><a href="comparador.html">Comparador</a><a href="blog/">Blog</a><a href="como-lo-hacemos.html">Cómo lo hacemos</a>
   </nav>
   <a class="x" href="https://x.com/LupaFinanzas">@LupaFinanzas</a>
 </div></header>
@@ -25,8 +25,8 @@
     <h1>Que no te cuenten el <em>regalo</em> sin enseñarte la letra pequeña</h1>
     <p>Comprobamos cada promo antes de contártela y te decimos cuánto te llevas de verdad.</p>
     <div class="botones">
-      <a class="btn amarillo" href="comparador.html">Comparar cashback</a>
-      <a class="btn claro" href="#promos">Ver promos</a>
+      <a class="btn amarillo" href="promociones.html">Ver promociones</a>
+      <a class="btn claro" href="cashback.html">Ver cashback</a>
     </div>
     <svg class="ilus" viewBox="0 0 340 300" aria-hidden="true">
       <circle cx="150" cy="130" r="96" fill="rgba(255,255,255,.08)" stroke="#ffd23f" stroke-width="16"/>
@@ -38,26 +38,13 @@
     </svg>
   </section>
 
-  <section class="seccion" id="hoy">
-    <h2>Lo mejor de hoy</h2>
-    <p class="sub">Con una compra de 50 €, en tiendas que comparamos en varias plataformas, con cifras exactas (sin «hasta») y sin ser cliente nuevo. Se actualiza cada día.</p>
-    <div class="deslizar" id="picks"><div class="card" style="padding:20px">Cargando…</div></div>
-    <p class="mini" style="margin-top:4px"><a href="comparador.html" style="color:var(--mint-d)">Ver las 13 tiendas →</a></p>
-  </section>
-
-  <section class="seccion" id="subidas">
-    <h2>Promos del día: las subidas</h2>
-    <p class="sub">Cashback que hoy está por encima de su tarifa habitual. Son subidas temporales: cuando acaban, la tarifa vuelve a la de siempre. Cálculo con 50 €.</p>
-    <div class="deslizar" id="podio"><div class="card" style="padding:20px">Cargando…</div></div>
-    <div class="subidas" id="masSubidas"></div>
-    <p class="mini" style="margin-top:8px">Cada cifra se lee por dos vías y lleva su fecha. Mira todas las tiendas en el <a href="comparador.html" style="color:var(--mint-d)">comparador</a>.</p>
-  </section>
-
-  <section class="seccion" id="promos">
-    <h2>Promos comprobadas</h2>
-    <p class="sub">Qué ganas, qué te piden y hasta cuándo.</p>
-    <div class="promos" id="lista"><div class="card" style="padding:20px">Cargando…</div></div>
-    <div class="aviso"><span>📢</span><span><strong>Publicidad.</strong> Algunos enlaces son de afiliado: si te registras con ellos, tú y yo podemos recibir una recompensa, y lo decimos en cada caso. Esto no es asesoría financiera.</span></div>
+  <section class="seccion">
+    <h2>Tres formas de ahorrar</h2>
+    <div class="deslizar" id="puertas">
+      <a class="pick" href="promociones.html"><span class="puesto">Promociones</span><h3>Bancos, neobancos y apps</h3><div class="gran" id="nPromos">…</div><div class="quien">promos activas, con sus condiciones y su Nota Real</div></a>
+      <a class="pick" href="cashback.html"><span class="puesto">Cashback</span><h3>Lo mejor de hoy</h3><div class="gran" id="nSubidas">…</div><div class="quien">subidas de cashback activas hoy</div></a>
+      <a class="pick" href="comparador.html"><span class="puesto">Comparador</span><h3>Tienda a tienda</h3><div class="gran" id="nTiendas">…</div><div class="quien">tiendas comparadas, ordenadas por euros</div></a>
+    </div>
   </section>
 
   <section class="seccion">
@@ -95,9 +82,7 @@
 </main>
 
 <nav class="tabbar" aria-label="Principal">
-  <a href="index.html" aria-current="page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-8 9 8v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>Promos</a>
-  <a href="comparador.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>Comparador</a>
-  <a href="como-lo-hacemos.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v5M12 16.5v.5"/></svg>Cómo lo hacemos</a>
+  <a href="index.html" aria-current="page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-8 9 8v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg>Inicio</a><a href="promociones.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12v8H4v-8M2 7h20v5H2zM12 22V7M12 7H7.5a2.5 2.5 0 1 1 0-5C11 2 12 7 12 7zM12 7h4.5a2.5 2.5 0 1 0 0-5C13 2 12 7 12 7z"/></svg>Promos</a><a href="cashback.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9 15l6-6M9.5 9.5h.01M14.5 14.5h.01"/></svg>Cashback</a><a href="comparador.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>Comparador</a><a href="como-lo-hacemos.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v5M12 16.5v.5"/></svg>Cómo lo hacemos</a>
 </nav>
 
 <script>
@@ -110,85 +95,14 @@
   function gana(f,imp){var v=imp*f.pct/100;if(f.tope!==null&&f.tope!==undefined)v=Math.min(v,f.tope);return v;}
 
   fetch('cashback.json').then(function(r){return r.json();}).then(function(d){
-    var imp=50,c=[];
-    d.tiendas.forEach(function(t){
-      if(new Set(t.filas.map(function(f){return f.plataforma;})).size<2)return;
-      t.filas.forEach(function(f){
-        if(f.solo_clientes_nuevos||f.primera_compra||f.tipo==='bienvenida'||f.hasta_pct)return;
-        var vencida=f.fin&&dias(f.fin)<0;if(vencida)return;
-        c.push({t:t,f:f,v:gana(f,imp)});
-      });
-    });
-    var mejores={};c.forEach(function(x){if(!mejores[x.t.slug]||x.v>mejores[x.t.slug].v)mejores[x.t.slug]=x;});
-    var top=Object.keys(mejores).map(function(k){return mejores[k];}).sort(function(a,b){return b.v-a.v;}).slice(0,3);
-    var box=document.getElementById('picks');box.textContent='';
-    top.forEach(function(x,i){
-      var a=el('a','pick');a.href='comparador.html#'+x.t.slug;
-      a.appendChild(el('span','puesto','Nº '+(i+1)));
-      a.appendChild(el('h3',null,x.t.nombre));
-      var g=el('div','gran',eur(x.v));g.appendChild(el('small',null,'con 50 €'));a.appendChild(g);
-      a.appendChild(el('div','quien','con '+x.f.plataforma));
-      var e=el('div','etq2');
-      e.appendChild(el('span',null,(x.f.hasta_pct?'hasta ':'')+pc(x.f.pct)));
-      if(x.f.tipo==='aumentado')e.appendChild(el('span',null,'Subida temporal'));
-      if(x.f.fin){var n=dias(x.f.fin);e.appendChild(el('span',null,n===0?'Termina hoy':'Quedan '+n+(n===1?' día':' días')));}
-      a.appendChild(e);box.appendChild(a);
-    });
-    // Promos del día: subidas temporales (tarifa de hoy por encima de la habitual)
-    var s=[];
-    d.tiendas.forEach(function(t){
-      t.filas.forEach(function(f){
-        if(f.tipo!=='aumentado'||!(f.habitual_pct<f.pct)||f.solo_clientes_nuevos||f.primera_compra)return;
-        if(f.fin&&dias(f.fin)<0)return;
-        s.push({t:t,f:f,v:gana(f,50)});
-      });
-    });
-    var mj={};s.forEach(function(x){if(!mj[x.t.slug]||x.v>mj[x.t.slug].v)mj[x.t.slug]=x;});
-    var ord=Object.keys(mj).map(function(k){return mj[k];}).sort(function(a,b){return b.v-a.v;});
-    var pod=document.getElementById('podio');pod.textContent='';
-    if(!ord.length){pod.appendChild(el('div','card','Ahora mismo no hay subidas que merezcan el podio.'));pod.firstChild.style.padding='20px';}
-    function antes(x){return 'antes '+pc(x.f.habitual_pct);}
-    function resta(x){if(!x.f.fin)return null;var n=dias(x.f.fin);return n===0?'Termina hoy':'Quedan '+n+(n===1?' día':' días');}
-    ord.slice(0,3).forEach(function(x,i){
-      var a=el('a','pick');a.href='comparador.html#'+x.t.slug;
-      a.appendChild(el('span','puesto','Podio '+(i+1)));
-      a.appendChild(el('h3',null,x.t.nombre));
-      var g=el('div','gran',pc(x.f.pct));g.appendChild(el('small',null,antes(x)));a.appendChild(g);
-      a.appendChild(el('div','quien','con '+x.f.plataforma+' · '+eur(x.v)+' con 50 €'));
-      var e=el('div','etq2');var r=resta(x);if(r)e.appendChild(el('span',null,r));e.appendChild(el('span',null,'Subida temporal'));a.appendChild(e);pod.appendChild(a);
-    });
-    var mas=document.getElementById('masSubidas');mas.textContent='';
-    ord.slice(3,15).forEach(function(x){
-      var a=el('a','sub1');a.href='comparador.html#'+x.t.slug;
-      a.appendChild(el('b',null,x.t.nombre));
-      a.appendChild(el('span','n',pc(x.f.pct)));
-      a.appendChild(el('span','q',x.f.plataforma+' · '+antes(x)+(resta(x)?' · '+resta(x):'')));
-      mas.appendChild(a);
-    });
-  }).catch(function(){document.getElementById('picks').textContent='No se han podido cargar los datos.';});
-
+    document.getElementById('nTiendas').textContent=d.tiendas.length.toLocaleString('es-ES');
+    var s={};d.tiendas.forEach(function(t){t.filas.forEach(function(f){if(f.tipo==='aumentado'&&f.habitual_pct<f.pct&&!f.solo_clientes_nuevos&&!f.primera_compra&&!(f.fin&&dias(f.fin)<0))s[t.slug]=1;});});
+    document.getElementById('nSubidas').textContent=Object.keys(s).length;
+    document.getElementById('actualizado').textContent='Datos de cashback leídos el '+fmt(d.actualizado)+'.';
+  }).catch(function(){});
   fetch('promos.json').then(function(r){return r.json();}).then(function(d){
-    var lista=document.getElementById('lista');lista.textContent='';
-    var vis=d.promos.filter(function(p){return p.estado==='publicada';});
-    if(!vis.length)lista.appendChild(el('p',null,'Ahora mismo no hay promociones publicadas.'));
-    vis.forEach(function(p){
-      var c=el('article','card promo');
-      var cab=el('div','cab');cab.appendChild(el('h3',null,p.nombre));cab.appendChild(el('span','sello',p.tipo));c.appendChild(cab);
-      c.appendChild(el('div','gana',p.gana_corto||p.recompensa));
-      c.appendChild(el('div','det',p.gana_sub||''));
-      c.appendChild(el('p','cond',p.requisitos));
-      var nr=el('div','notaReal');
-      [['tiempo','Tiempo'],['importe','Importe'],['letra','Letra pequeña'],['permanencia','Permanencia']].forEach(function(r){var v=p.nota&&p.nota[r[0]]!==undefined?p.nota[r[0]]:'—';var b=el('div');b.appendChild(el('b',null,String(v)));b.appendChild(el('span',null,r[1]));nr.appendChild(b);});
-      c.appendChild(nr);
-      if(!p.nota)c.appendChild(el('p','det','Nota Real en verificación: no inventamos puntuaciones.'));
-      var pie=el('div','botones');pie.style.margin='4px 0 0';
-      var a=el('a','btn verde','Ir a '+p.nombre+' →');a.href='ir/'+p.slug+'/';a.rel='noopener sponsored nofollow';pie.appendChild(a);
-      if(p.verificado)pie.appendChild(el('span','sello','Comprobado '+fmt(p.verificado)));
-      c.appendChild(pie);c.appendChild(el('span','mini','Publicidad'));
-      lista.appendChild(c);
-    });
-    document.getElementById('actualizado').textContent='Última actualización: '+fmt(d.actualizado)+'.';
-  }).catch(function(){document.getElementById('lista').textContent='No se han podido cargar las promociones.';});
+    document.getElementById('nPromos').textContent=d.promos.filter(function(p){return p.estado==='publicada'&&!(p.caduca&&dias(p.caduca)<0);}).length;
+  }).catch(function(){});
 })();
 </script>
 </body>

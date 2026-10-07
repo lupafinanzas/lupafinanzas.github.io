@@ -1,89 +1,140 @@
 {
-  "actualizado": "2026-10-06",
-  "promos": [
-    {
-      "slug": "myinvestor",
-      "nombre": "MyInvestor",
-      "tipo": "2 · Registro + depósito",
-      "recompensa": "25 € brutos para ti y 25 € brutos para quien te invita",
-      "requisitos": "Tú y tu amigo tenéis que cumplir UNA de estas condiciones en los 3 primeros meses: invertir 100 € (cartera indexada, fondos, planes de pensiones, acciones o ETFs), tener 1.000 € en efectivo en la cuenta o contratar un depósito. Los importes son brutos y tributan. Hasta 60 invitados por persona; promoción vigente hasta el 31/12/2026.",
-      "enlace": "https://newapp.myinvestor.es/do/signup?promotionalCode=RMRHC",
-      "estado": "publicada",
-      "verificado": "2026-10-06",
-      "nota": null,
-      "gana_corto": "25 € + 25 €",
-      "gana_sub": "para ti y para quien te invita (importes brutos)"
-    },
-    {
-      "slug": "trade-republic",
-      "nombre": "Trade Republic",
-      "tipo": "2 · Registro + depósito",
-      "recompensa": "Quien invita recibe un 3 % de interés durante 3 meses por cada amigo (hasta 12 meses); el invitado también recibe una recompensa de bienvenida.",
-      "requisitos": "El amigo debe hacer 3 inversiones e ingresar 100 € en sus primeros 21 días. La recompensa para quien invita es en forma de interés, no un ingreso en efectivo.",
-      "enlace": "",
-      "estado": "no_publicable",
-      "verificado": "2026-09-14",
-      "nota": null,
-      "motivo": "Sus términos prohíben la difusión pública del enlace (YouTube, grupos de mensajería, foros, webs de cupones) y el uso comercial; pueden reclamar el bono."
-    },
-    {
-      "slug": "topcashback",
-      "nombre": "TopCashback",
-      "tipo": "6 · Cashback progresivo",
-      "recompensa": "10 € para quien invita y un bono de registro de 5 € para el invitado",
-      "requisitos": "Quien invita cobra cuando su amigo genera 10 € de cashback en un plazo de 180 días, y solo se puede retirar cuando ese cashback pasa a estado pagable.",
-      "enlace": "https://www.topcashback.es/ref/member9607000856",
-      "estado": "en_verificacion",
-      "verificado": "2026-09-14",
-      "nota": null
-    },
-    {
-      "slug": "igraal",
-      "nombre": "iGraal",
-      "tipo": "6 · Cashback progresivo",
-      "recompensa": "10 € de bono de bienvenida para quien se registra con una invitación",
-      "requisitos": "Hay que hacer un pedido de al menos 12,40 € (antes de IVA) apto para cashback en los 90 días siguientes al registro. Quien invita recibe 15 € cuando su amigo acumula 3 € de cashback disponible, más el 10 % de su cashback validado el primer año.",
-      "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
-      "estado": "publicada",
-      "verificado": "2026-10-06",
-      "nota": null,
-      "gana_corto": "10 €",
-      "gana_sub": "de bienvenida con la invitación"
-    },
-    {
-      "slug": "revolut",
-      "nombre": "Revolut",
-      "tipo": "Por comprobar",
-      "recompensa": "Hasta 100 € según campaña",
-      "requisitos": "Campaña con cupos limitados; hay que comprobar que sigue vigente.",
-      "enlace": "",
-      "estado": "no_publicable",
-      "verificado": null,
-      "nota": null,
-      "motivo": "Solo se permite recomendar a personas con relación personal; prohíbe el marketing masivo."
-    },
-    {
-      "slug": "n26",
-      "nombre": "N26",
-      "tipo": "Por comprobar",
-      "recompensa": "Pendiente de comprobar",
-      "requisitos": "Pendiente de comprobar condiciones del bono.",
-      "enlace": "",
-      "estado": "no_publicable",
-      "verificado": null,
-      "nota": null,
-      "motivo": "Sus términos prohíben usar el enlace con fines comerciales y distribuirlo públicamente."
-    },
-    {
-      "slug": "etoro",
-      "nombre": "eToro",
-      "tipo": "Por comprobar",
-      "recompensa": "Pendiente de comprobar",
-      "requisitos": "Pendiente de comprobar condiciones actuales.",
-      "enlace": "https://etoro.tw/4xWFLqX",
-      "estado": "en_verificacion",
-      "verificado": null,
-      "nota": null
-    }
-  ]
+ "actualizado": "2026-10-07",
+ "promos": [
+  {
+   "slug": "myinvestor",
+   "nombre": "MyInvestor",
+   "tipo": "2 · Registro + depósito",
+   "recompensa": "25 € brutos para ti y 25 € brutos para quien te invita",
+   "requisitos": "Tú y tu amigo tenéis que cumplir UNA de estas condiciones en los 3 primeros meses: invertir 100 € (cartera indexada, fondos, planes de pensiones, acciones o ETFs), tener 1.000 € en efectivo en la cuenta o contratar un depósito. Los importes son brutos y tributan. Hasta 60 invitados por persona; promoción vigente hasta el 31/12/2026.",
+   "enlace": "https://newapp.myinvestor.es/do/signup?promotionalCode=RMRHC",
+   "estado": "publicada",
+   "verificado": "2026-10-06",
+   "nota": null,
+   "gana_corto": "25 € + 25 €",
+   "gana_sub": "para ti y para quien te invita (importes brutos)"
+  },
+  {
+   "slug": "trade-republic",
+   "nombre": "Trade Republic",
+   "tipo": "2 · Registro + depósito",
+   "recompensa": "Quien invita recibe un 3 % de interés durante 3 meses por cada amigo (hasta 12 meses); el invitado también recibe una recompensa de bienvenida.",
+   "requisitos": "El amigo debe hacer 3 inversiones e ingresar 100 € en sus primeros 21 días. La recompensa para quien invita es en forma de interés, no un ingreso en efectivo.",
+   "enlace": "",
+   "estado": "no_publicable",
+   "verificado": "2026-09-14",
+   "nota": null,
+   "motivo": "Sus términos prohíben la difusión pública del enlace (YouTube, grupos de mensajería, foros, webs de cupones) y el uso comercial; pueden reclamar el bono."
+  },
+  {
+   "slug": "topcashback",
+   "nombre": "TopCashback",
+   "tipo": "6 · Cashback progresivo",
+   "recompensa": "10 € para quien invita y un bono de registro de 5 € para el invitado",
+   "requisitos": "Quien invita cobra cuando su amigo genera 10 € de cashback en un plazo de 180 días, y solo se puede retirar cuando ese cashback pasa a estado pagable.",
+   "enlace": "https://www.topcashback.es/ref/member9607000856",
+   "estado": "en_verificacion",
+   "verificado": "2026-09-14",
+   "nota": null
+  },
+  {
+   "slug": "igraal",
+   "nombre": "iGraal",
+   "tipo": "6 · Cashback progresivo",
+   "recompensa": "10 € de bono de bienvenida para quien se registra con una invitación",
+   "requisitos": "Hay que hacer un pedido de al menos 12,40 € (antes de IVA) apto para cashback en los 90 días siguientes al registro. Quien invita recibe 15 € cuando su amigo acumula 3 € de cashback disponible, más el 10 % de su cashback validado el primer año.",
+   "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
+   "estado": "publicada",
+   "verificado": "2026-10-06",
+   "nota": null,
+   "gana_corto": "10 €",
+   "gana_sub": "de bienvenida con la invitación"
+  },
+  {
+   "slug": "revolut",
+   "nombre": "Revolut",
+   "tipo": "Por comprobar",
+   "recompensa": "Hasta 100 € según campaña",
+   "requisitos": "Campaña con cupos limitados; hay que comprobar que sigue vigente.",
+   "enlace": "",
+   "estado": "no_publicable",
+   "verificado": null,
+   "nota": null,
+   "motivo": "Solo se permite recomendar a personas con relación personal; prohíbe el marketing masivo."
+  },
+  {
+   "slug": "n26",
+   "nombre": "N26",
+   "tipo": "Por comprobar",
+   "recompensa": "Pendiente de comprobar",
+   "requisitos": "Pendiente de comprobar condiciones del bono.",
+   "enlace": "",
+   "estado": "no_publicable",
+   "verificado": null,
+   "nota": null,
+   "motivo": "Sus términos prohíben usar el enlace con fines comerciales y distribuirlo públicamente."
+  },
+  {
+   "slug": "etoro",
+   "nombre": "eToro",
+   "tipo": "Por comprobar",
+   "recompensa": "Pendiente de comprobar",
+   "requisitos": "Pendiente de comprobar condiciones actuales.",
+   "enlace": "https://etoro.tw/4xWFLqX",
+   "estado": "en_verificacion",
+   "verificado": null,
+   "nota": null
+  },
+  {
+   "slug": "sabadell-igraal",
+   "nombre": "Sabadell (vía iGraal)",
+   "tipo": "2 · Registro + saldo mínimo",
+   "recompensa": "150 € de cashback de iGraal por abrir la Cuenta Online Sabadell desde la web de iGraal, hasta el 8/10/2026.",
+   "requisitos": "Hay que abrir la cuenta desde la web de iGraal (en navegador, no desde su app ni por teléfono). Saldo medio superior a 300 € durante los 3 meses siguientes al alta; si no, no se valida. No valer si ya tienes otra cuenta Sabadell. Un cashback por DNI. Las reseñas hablan de validación a los ~2 meses. Aparte, Sabadell anuncia 400 € por domiciliar nómina y activar Bizum hasta el 7/10 (exige nómina; no incluido en la nota).",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-07",
+   "caduca": "2026-10-08",
+   "gana_corto": "150 €",
+   "gana_sub": "de cashback en iGraal al abrir la cuenta (hasta el 8/10)",
+   "nota": {
+    "tiempo": 2,
+    "importe": 1.5,
+    "letra": 2,
+    "permanencia": 2
+   },
+   "nota_texto": "Nota provisional: el tiempo del alta es una estimación sin verificar.",
+   "auto": true,
+   "fuentes": [
+    "https://es.igraal.com/codigos-promocionales/banco-sabadell",
+    "https://x.com/TuAhorroX"
+   ],
+   "fuente_oficial": "https://es.igraal.com/codigos-promocionales/banco-sabadell"
+  },
+  {
+   "slug": "twelve",
+   "nombre": "twelve. (lista de espera)",
+   "tipo": "1 · Solo registro (hoy)",
+   "recompensa": "15 € de bienvenida para las 12.000 primeras personas de la lista de espera, y 10 € para ti y 10 € para quien invitas, sin límite.",
+   "requisitos": "Apuntarte solo pide email, pero el dinero NO es efectivo: solo sirve para invertir en las carteras de twelve., y no se puede retirar, canjear ni transferir. Se activa cuando twelve. lance (sin fecha), al abrir la cuenta, pasar la verificación de identidad y hacer el primer pago con su tarjeta; tienes 90 días o caduca. twelve. puede modificar o cancelar los bonos antes del lanzamiento.",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-07",
+   "gana_corto": "15 €",
+   "gana_sub": "solo para invertir con twelve., no retirable",
+   "nota": {
+    "tiempo": 2,
+    "importe": 0.5,
+    "letra": 1.5,
+    "permanencia": 1
+   },
+   "auto": true,
+   "fuentes": [
+    "https://twelve.finance",
+    "https://x.com/viajes_globo",
+    "https://x.com/InversMallorqui"
+   ],
+   "fuente_oficial": "https://twelve.finance"
+  }
+ ]
 }

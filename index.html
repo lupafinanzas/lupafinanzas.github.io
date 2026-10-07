@@ -40,7 +40,7 @@
 
   <section class="seccion" id="hoy">
     <h2>Lo mejor de hoy</h2>
-    <p class="sub">Con una compra de 50 €, sin ser cliente nuevo y sin trucos. Se actualiza cada día.</p>
+    <p class="sub">Con una compra de 50 €, en tiendas que comparamos en varias plataformas, con cifras exactas (sin «hasta») y sin ser cliente nuevo. Se actualiza cada día.</p>
     <div class="deslizar" id="picks"><div class="card" style="padding:20px">Cargando…</div></div>
     <p class="mini" style="margin-top:4px"><a href="comparador.html" style="color:var(--mint-d)">Ver las 13 tiendas →</a></p>
   </section>
@@ -104,8 +104,9 @@
   fetch('cashback.json').then(function(r){return r.json();}).then(function(d){
     var imp=50,c=[];
     d.tiendas.forEach(function(t){
+      if(new Set(t.filas.map(function(f){return f.plataforma;})).size<2)return;
       t.filas.forEach(function(f){
-        if(f.solo_clientes_nuevos||f.primera_compra||f.tipo==='bienvenida')return;
+        if(f.solo_clientes_nuevos||f.primera_compra||f.tipo==='bienvenida'||f.hasta_pct)return;
         var vencida=f.fin&&dias(f.fin)<0;if(vencida)return;
         c.push({t:t,f:f,v:gana(f,imp)});
       });

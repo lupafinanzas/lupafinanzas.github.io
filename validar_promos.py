@@ -2,7 +2,7 @@
 
 Uso: python validar_promos.py
 Reglas: campos obligatorios; las 'publicada' deben tener verificación de hace menos de 7 días; las añadidas
-automáticamente (campo 'auto': true) necesitan al menos 2 fuentes distintas, una oficial, y 'nota' >= 6;
+automáticamente (campo 'auto': true) necesitan al menos 2 fuentes distintas, una oficial, y que lleven nota (cualquier valor, siempre visible);
 ningún enlace de una promo marcada 'no_publicable'; el enlace, si lo hay, debe aparecer en enlaces_referidos.md.
 """
 import datetime
@@ -50,8 +50,10 @@ for p in data["promos"]:
             errores.append(f"{n}: automática con menos de 2 fuentes de dominios distintos")
         if not any(u.startswith("https://") for u in fuentes) or not p.get("fuente_oficial"):
             errores.append(f"{n}: automática sin fuente oficial leída ('fuente_oficial')")
-        if not isinstance(p.get("nota"), (int, float)) or p["nota"] < 6:
-            errores.append(f"{n}: automática con Nota Real menor de 6 o sin nota")
+        nota = p.get("nota")
+        claves = ("tiempo", "importe", "letra", "permanencia")
+        if not isinstance(nota, dict) or not all(isinstance(nota.get(k), (int, float)) and 0 <= nota[k] <= 2.5 for k in claves):
+            errores.append(f"{n}: automática sin Nota Real válida (objeto con tiempo, importe, letra y permanencia, 0-2,5 cada uno)")
 if errores:
     print("ERRORES:")
     for e in errores:

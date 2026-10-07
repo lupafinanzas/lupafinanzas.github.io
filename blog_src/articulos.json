@@ -1,0 +1,111 @@
+[
+ {
+  "slug": "cashback-viajes-hoteles-vuelos",
+  "fecha": "2026-10-06",
+  "titulo": "Cashback en viajes: qué devuelven hoy hoteles, vuelos y alquiler de coche",
+  "descripcion": "Porcentajes de cashback de agencias de viaje, hoteles y alquiler de coche, leídos y comprobados en las fichas públicas, y por qué algunas tiendas famosas no devuelven nada.",
+  "bloques": [
+   {
+    "html": "<p>Antes de reservar un viaje conviene mirar si la web de la agencia o del hotel te devuelve parte del gasto por una plataforma de cashback. La diferencia entre dos plataformas puede ser de varios puntos porcentuales sobre una compra grande.</p><p>Esta tabla recoge lo que muestran hoy las fichas públicas de mycashbacks. Es una de las plataformas que comparamos; en el comparador de la web puedes ver las demás tienda a tienda.</p>"
+   },
+   {
+    "h": "Un ejemplo de lo que NO devuelve nada",
+    "html": "<p>A 6 de octubre de 2026, Booking.com no mostraba cashback en iGraal (su ficha indica cero ofertas de cashback), ni en Beruby (0,00 %), y no tenía ficha en TopCashback ni en mycashbacks. Que una tienda sea muy conocida no significa que pague cashback: hay que comprobarlo cada vez.</p>"
+   },
+   {
+    "h": "Cómo leer estas cifras",
+    "html": "<ul><li><b>«Hasta X %»</b> es un máximo: el porcentaje que te corresponde puede depender de la categoría (hotel, coche, actividades) o de si eres cliente nuevo.</li><li>En viajes el cashback suele confirmarse <b>después de la estancia o del viaje</b>, no al reservar. Cuenta con esa espera.</li><li>Cancelar o modificar la reserva puede anular el cashback.</li></ul>"
+   }
+  ],
+  "tabla": [
+   "agoda",
+   "edreams",
+   "hrs",
+   "lastminute-com",
+   "rumbo",
+   "trip-com",
+   "viator",
+   "klook",
+   "omio",
+   "kiwi-com",
+   "flixbus",
+   "nh-hoteles",
+   "barcelo",
+   "iberostar-hotels",
+   "hostelworld",
+   "expedia",
+   "hertz",
+   "sixt",
+   "europcar",
+   "avis",
+   "ouigo",
+   "logitravel"
+  ],
+  "tabla_titulo": "Cashback en viajes, de mayor a menor"
+ },
+ {
+  "slug": "cashback-moda-y-deporte",
+  "fecha": "2026-10-06",
+  "titulo": "Cashback en moda y deporte: cuánto devuelven las tiendas más buscadas",
+  "descripcion": "Cashback de marcas y tiendas de ropa, calzado y deporte, con las cifras públicas de cada ficha y los fallos más comunes al leerlas.",
+  "bloques": [
+   {
+    "html": "<p>En moda y deporte conviven tiendas con una cifra fija y tiendas con un «hasta X %» que casi nunca es el que te toca. Aquí tienes lo que publican las fichas, ordenado de mayor a menor.</p><p>Fíjate en el detalle: un porcentaje alto con un tope bajo o solo para la primera compra puede darte menos euros que un porcentaje menor sin límite.</p>"
+   },
+   {
+    "h": "Antes de comprar, tres comprobaciones",
+    "html": "<ul><li><b>Tope:</b> algunas ofertas limitan el cashback por compra o por usuario.</li><li><b>Exclusiones:</b> muchas tiendas excluyen outlet, rebajas, tarjetas regalo o ciertas marcas.</li><li><b>Activación:</b> hay que entrar a la tienda desde la plataforma y no usar otras webs de cupones en medio, o el cashback puede no registrarse.</li></ul>"
+   }
+  ],
+  "tabla": [
+   "adidas",
+   "puma",
+   "decathlon",
+   "deporvillage",
+   "zalando-prive",
+   "skechers",
+   "under-armour",
+   "timberland",
+   "columbia",
+   "crocs",
+   "snipes",
+   "sprinter",
+   "camper",
+   "desigual",
+   "levi-s",
+   "lululemon",
+   "g-star",
+   "oakley",
+   "ray-ban",
+   "quiksilver",
+   "roxy",
+   "myprotein"
+  ],
+  "tabla_titulo": "Cashback en moda y deporte, de mayor a menor"
+ },
+ {
+  "slug": "cashback-o-cupon-que-compensa",
+  "fecha": "2026-10-06",
+  "titulo": "Cashback o cupón de descuento: cuál compensa y cuándo se pueden sumar",
+  "descripcion": "Diferencias reales entre un cupón y el cashback, por qué el «hasta X %» engaña y una lista corta para comprobar cada oferta antes de comprar.",
+  "bloques": [
+   {
+    "h": "La diferencia básica",
+    "html": "<p>Un cupón baja el precio en el momento de pagar. El cashback no cambia el precio: te devuelve dinero después, cuando la tienda confirma la compra, y a menudo hay que acumular un mínimo para poder cobrar (en mycashbacks, por ejemplo, desde 1 € confirmado).</p><p>Por eso el cupón es inmediato y el cashback es dinero que llega más tarde, a veces semanas después.</p>"
+   },
+   {
+    "h": "¿Se pueden sumar?",
+    "html": "<p>A menudo sí. Algunas plataformas marcan las ofertas «Acumulables» para indicar que se pueden usar junto con el cashback. Pero no siempre: ciertos cupones desactivan el cashback, así que lo prudente es comprobar la condición de cada plataforma antes de pagar.</p>"
+   },
+   {
+    "h": "Por qué el «hasta X %» engaña",
+    "html": "<p>Dos casos que hemos visto en las fichas: en octubre de 2026 una plataforma mostraba un 100 % en AliExpress que en realidad era solo hasta 10 € y en una única compra; y las subidas temporales de iGraal Days pusieron Temu en un 35 % frente a un 6 % habitual. La cifra grande llama la atención; la condición es lo que decide cuánto cobras.</p>"
+   },
+   {
+    "h": "Lista rápida antes de pagar",
+    "html": "<ul><li>¿Es la tarifa habitual o una subida con fecha de fin?</li><li>¿Solo para clientes nuevos o primera compra?</li><li>¿Hay tope por compra?</li><li>¿Cuánto tarda en confirmarse y cuál es el mínimo para cobrar?</li><li>¿Puedo sumarlo con el cupón que voy a usar?</li></ul>"
+   }
+  ],
+  "cierre": "<p>Si quieres ver el cashback de cada plataforma para tu compra, ordenado por euros y no por porcentaje, está en el comparador.</p>"
+ }
+]

@@ -41,6 +41,11 @@ jobs:
         continue-on-error: true
         run: python leer_beruby.py
 
+      - name: Leer categorías (una vez por semana, los domingos, o si faltan)
+        continue-on-error: true
+        run: |
+          if [ "$(date -u +%u)" = "7" ] || [ ! -f datos/categorias.json ]; then python leer_categorias.py --salida categorias_nueva.json; fi
+
       # 2) Importar con lo último del repositorio (el PC puede haber publicado mientras tanto) y publicar
       - name: Importar, regenerar y publicar
         run: |
@@ -57,10 +62,13 @@ jobs:
             if [ -f cambios_beruby.txt ]; then
               python importar_beruby.py cambios_beruby.txt --refrescar fallos_beruby.txt || echo "Beruby: importación omitida"
             fi
+            if [ -f categorias_nueva.json ]; then cp categorias_nueva.json datos/categorias.json; fi
             python purgar_caducados.py --dias 3
             python actualizar_historial.py
             python build_blog.py
             python build_tiendas.py
+            python build_plataformas.py
+            if [ -f datos/categorias.json ]; then python build_categorias.py; fi
             python prerender.py
             python generar_feed.py
             python validar_cashback.py

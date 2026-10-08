@@ -12770,9 +12770,9 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 5.0,
+     "pct": 2.5,
      "hasta_pct": false,
-     "habitual_pct": 5.0,
+     "habitual_pct": 2.5,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -12782,8 +12782,8 @@
      "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10% código descuento Calvin Klein + 5 % Cashback / octubre",
-      "Tarjeta de la oferta: 5 % de cashback"
+      "Título de la ficha: 10% código descuento Calvin Klein + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 2,5 % de cashback"
      ]
     }
    ]
@@ -13253,6 +13253,24 @@
      "lecturas": [
       "Bloque de la ficha: Reserva online 2,10%",
       "HTML de la ficha: 2,10%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/camping-and-co/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 3%",
+      "HTML de la ficha: 3% (cabecera: hasta 3%)"
      ]
     }
    ]
@@ -14226,6 +14244,120 @@
       "Bloque de la ficha: Compra online 0,70%",
       "HTML de la ficha: 0,70%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Noblechairs",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/caseking/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Noblechairs 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ],
+     "variante": "Noblechairs"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Nitro Concepts",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/caseking/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Nitro Concepts 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ],
+     "variante": "Nitro Concepts"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Endgame Gear",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/caseking/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Endgame Gear 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ],
+     "variante": "Endgame Gear"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Streamplify",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/caseking/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Streamplify 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ],
+     "variante": "Streamplify"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: PC Systems",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/caseking/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: PC Systems 1%",
+      "HTML de la ficha: 1% (cabecera: hasta 5%)"
+     ],
+     "variante": "PC Systems"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Resto de compras online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/caseking/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Resto de compras online 1%",
+      "HTML de la ficha: 1% (cabecera: hasta 5%)"
+     ],
+     "variante": "Resto de compras online"
     }
    ]
   },
@@ -15318,6 +15450,24 @@
       "Bloque de la ficha: Compra online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 10.0,
+     "hasta_pct": false,
+     "habitual_pct": 10.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/chassedance/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 10%",
+      "HTML de la ficha: 10% (cabecera: hasta 10%)"
+     ]
     }
    ]
   },
@@ -15697,6 +15847,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 4,20%",
       "HTML de la ficha: 4,20%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/city-tour/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
     }
    ]
@@ -16761,6 +16929,62 @@
       "Título/meta de la ficha: 3,6 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3,6 %"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.4,
+     "hasta_pct": true,
+     "habitual_pct": 2.4,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/conforama",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 20€ cupón Conforama + 2,4 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 2,4 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Descanso, Decoracion, Muebles",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/conforama/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Descanso, Decoracion, Muebles 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
+     ],
+     "variante": "Descanso, Decoracion, Muebles"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Electrodomestico",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/conforama/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Electrodomestico 4%",
+      "HTML de la ficha: 4% (cabecera: hasta 6%)"
+     ],
+     "variante": "Electrodomestico"
     }
    ]
   },
@@ -18432,6 +18656,42 @@
       "Bloque de la ficha: Compra online 4,90%",
       "HTML de la ficha: 4,90%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.5,
+     "hasta_pct": false,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/d-franklin",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 15% código descuento D.Franklin + 3,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 3,5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 7.0,
+     "hasta_pct": false,
+     "habitual_pct": 7.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/d-franklin/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 7%",
+      "HTML de la ficha: 7% (cabecera: hasta 7%)"
+     ]
     }
    ]
   },
@@ -20061,6 +20321,24 @@
       "Bloque de la ficha: Compra online 4,20%",
       "HTML de la ficha: 4,20%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/diesel/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
+     ]
     }
    ]
   },
@@ -20422,6 +20700,24 @@
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/direct-running/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ]
     }
    ]
   },
@@ -20463,6 +20759,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/direct-volley/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
     }
    ]
@@ -20726,6 +21040,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 2,80%",
       "HTML de la ficha: 2,80%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/disney-store/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 4%",
+      "HTML de la ficha: 4% (cabecera: hasta 4%)"
      ]
     }
    ]
@@ -21094,6 +21426,24 @@
       "Bloque de la ficha: Por compra de curso 14,00%",
       "HTML de la ficha: 14,00%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 20.0,
+     "hasta_pct": true,
+     "habitual_pct": 20.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/domestika",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 20% código descuento Domestika + 20 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 20 % de cashback"
+     ]
     }
    ]
   },
@@ -21301,6 +21651,24 @@
       "Bloque de la ficha: Compra online 4,20%",
       "HTML de la ficha: 4,20%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/dormity/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
+     ]
     }
    ]
   },
@@ -21498,6 +21866,62 @@
       "Título/meta de la ficha: 7,27 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 7,27 %"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 5.0,
+     "hasta_pct": true,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/douglas",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 10% código descuento Douglas + 5 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online utilizando un cupón o código de descuento",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/douglas/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online utilizando un cupón o código de descuento 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 9%)"
+     ],
+     "variante": "Compra online utilizando un cupón o código de descuento"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 9.0,
+     "hasta_pct": false,
+     "habitual_pct": 9.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online sin cupón o código de descuento",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/douglas/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online sin cupón o código de descuento 9%",
+      "HTML de la ficha: 9% (cabecera: hasta 9%)"
+     ],
+     "variante": "Compra online sin cupón o código de descuento"
     }
    ]
   },
@@ -21669,6 +22093,44 @@
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/dr-martens/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ],
+     "variante": "Compra online"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online (con cupones o descuentos)",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/dr-martens/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online (con cupones o descuentos) 1%",
+      "HTML de la ficha: 1% (cabecera: hasta 5%)"
+     ],
+     "variante": "Compra online (con cupones o descuentos)"
     }
    ]
   },
@@ -22494,6 +22956,42 @@
       "Bloque de la ficha: Compra online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 10.0,
+     "hasta_pct": false,
+     "habitual_pct": 10.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/dyson",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 5% código promocional Dyson + 10 % Cashback / octubre",
+      "Tarjeta de la oferta: 10 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online - Excluyendo accesorios.",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/dyson/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online - Excluyendo accesorios. 4%",
+      "HTML de la ficha: 4% (cabecera: hasta 4%)"
+     ]
     }
    ]
   },
@@ -22583,6 +23081,42 @@
      "lecturas": [
       "Bloque de la ficha: Por compra online 4,20%",
       "HTML de la ficha: 4,20%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/eastpak",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 40€ código promocional Eastpak + 3 % Cashback / octubre",
+      "Tarjeta de la oferta: 3 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/eastpak/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
     }
    ]
@@ -23702,6 +24236,24 @@
       "Bloque de la ficha: Compra online 2,10%",
       "HTML de la ficha: 2,10%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/el-rey-leon-el-musical/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 3%",
+      "HTML de la ficha: 3% (cabecera: hasta 3%)"
+     ]
     }
    ]
   },
@@ -24296,6 +24848,24 @@
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/elifexir/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ]
     }
    ]
   },
@@ -24760,6 +25330,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 10,50%",
       "HTML de la ficha: 10,50%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 15.0,
+     "hasta_pct": false,
+     "habitual_pct": 15.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/enjoy-the-wood/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 15%",
+      "HTML de la ficha: 15% (cabecera: hasta 15%)"
      ]
     }
    ]
@@ -26580,6 +27168,42 @@
       "Bloque de la ficha: Por reserva online (sobre tarifa, neto de impuestos y tasas) 1,05%",
       "HTML de la ficha: 1,05%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/eurowings",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 80% código descuento Eurowings + 1 % Cashback / octubre",
+      "Tarjeta de la oferta: 1 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 1.5,
+     "hasta_pct": false,
+     "habitual_pct": 1.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Reserva de vuelos",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/eurowings/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Reserva de vuelos 1,5%",
+      "HTML de la ficha: 1,5% (cabecera: hasta 1,5%)"
+     ]
     }
    ]
   },
@@ -26669,6 +27293,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 4,20%",
       "HTML de la ficha: 4,20%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: En todas las compras online.",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/evvo-home/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: En todas las compras online. 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
     }
    ]
@@ -27599,6 +28241,24 @@
       "Bloque de la ficha: Compra online 1,47%",
       "HTML de la ficha: 1,47%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/farma2go/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 2%",
+      "HTML de la ficha: 2% (cabecera: hasta 2%)"
+     ]
     }
    ]
   },
@@ -28130,6 +28790,42 @@
       "Bloque de la ficha: Compra online 4,20%",
       "HTML de la ficha: 4,20%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/farnell",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 80% código descuento Farnell + 6 % Cashback / octubre",
+      "Tarjeta de la oferta: 6 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/farnell/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 2,5%",
+      "HTML de la ficha: 2,5% (cabecera: hasta 2,5%)"
+     ]
     }
    ]
   },
@@ -28215,6 +28911,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 2,80%",
       "HTML de la ficha: 2,80%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/fc-moto",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 82% cupón FC Moto + 3 % Cashback / octubre",
+      "Tarjeta de la oferta: 3 % de cashback"
      ]
     }
    ]
@@ -28444,6 +29158,24 @@
       "Bloque de la ficha: Reserva online 2,10%",
       "HTML de la ficha: 2,10%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/ferryhopper/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 3%",
+      "HTML de la ficha: 3% (cabecera: hasta 3%)"
+     ]
     }
    ]
   },
@@ -28485,6 +29217,24 @@
      "lecturas": [
       "Bloque de la ficha: Por compra online realizada 2,80%",
       "HTML de la ficha: 2,80%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/feu-vert",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 20€ código promocional Feu Vert + 2 % Cashback / octubre",
+      "Tarjeta de la oferta: 2 % de cashback"
      ]
     }
    ]
@@ -30684,6 +31434,42 @@
       "Bloque de la ficha: Compra online 4,20%",
       "HTML de la ficha: 4,20%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/foreo",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 30% código descuento Foreo + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 2,5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/foreo/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 2%",
+      "HTML de la ficha: 2% (cabecera: hasta 2%)"
+     ]
     }
    ]
   },
@@ -31376,6 +32162,24 @@
       "Bloque de la ficha: Compra online 2,24%",
       "HTML de la ficha: 2,24%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/futbol-emotion",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 80% cupón Fútbol Emotion + 4 % Cashback / octubre",
+      "Tarjeta de la oferta: 4 % de cashback"
+     ]
     }
    ]
   },
@@ -31650,6 +32454,42 @@
       "Bloque de la ficha: Compra online 1,61%",
       "HTML de la ficha: 1,61%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/g2a",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 15% código descuento G2A + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 2,5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/g2a/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ]
     }
    ]
   },
@@ -31848,6 +32688,24 @@
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/galope-store/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ]
     }
    ]
   },
@@ -31961,6 +32819,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.6,
+     "hasta_pct": false,
+     "habitual_pct": 5.6,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/gamivo/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5,6%",
+      "HTML de la ficha: 5,6% (cabecera: hasta 5,6%)"
      ]
     }
    ]
@@ -32338,6 +33214,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/gigsberg/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
     }
    ]
@@ -33009,6 +33903,24 @@
       "Bloque de la ficha: Por compra 5,60%",
       "HTML de la ficha: 5,60%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.5,
+     "hasta_pct": false,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/google-store",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 100€ código promocional Google Store + 3,5 % Cashback / oct.",
+      "Tarjeta de la oferta: 3,5 % de cashback"
+     ]
     }
    ]
   },
@@ -33413,24 +34325,6 @@
      "variante": "Alquiler de un producto"
     },
     {
-     "plataforma": "iGraal",
-     "pct": 4.0,
-     "hasta_pct": true,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/grover",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 30€ cupón Grover + 4 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 4 % de cashback"
-     ]
-    },
-    {
      "plataforma": "BestPrice",
      "pct": 4.0,
      "hasta_pct": true,
@@ -33673,6 +34567,62 @@
       "Título/meta de la ficha: 2 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2 %"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.0,
+     "hasta_pct": true,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/h10-hotels",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 25% código promocional H10 Hotels + 2 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 2 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Sobre el total de tu reserva(s) sin usar cupón.",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/h10-hotels/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Sobre el total de tu reserva(s) sin usar cupón. 4%",
+      "HTML de la ficha: 4% (cabecera: hasta 4%)"
+     ],
+     "variante": "Sobre el total de tu reserva(s) sin usar cupón."
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Sobre el total de tu reserva(s) usando cupón.",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/h10-hotels/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Sobre el total de tu reserva(s) usando cupón. 3%",
+      "HTML de la ficha: 3% (cabecera: hasta 4%)"
+     ],
+     "variante": "Sobre el total de tu reserva(s) usando cupón."
     }
    ]
   },
@@ -33862,6 +34812,24 @@
       "Bloque de la ficha: Compra online 2,10%",
       "HTML de la ficha: 2,10%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: En todas tus compras en la tienda online.",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/halara/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: En todas tus compras en la tienda online. 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ]
     }
    ]
   },
@@ -33904,6 +34872,44 @@
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 2.35,
+     "hasta_pct": false,
+     "habitual_pct": 2.35,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/handball-store/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 2,35%",
+      "HTML de la ficha: 2,35% (cabecera: hasta 2,35%)"
+     ],
+     "variante": "Compra online"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 0.5,
+     "hasta_pct": false,
+     "habitual_pct": 0.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compras asistidas",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/handball-store/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compras asistidas 0,5%",
+      "HTML de la ficha: 0,5% (cabecera: hasta 2,35%)"
+     ],
+     "variante": "Compras asistidas"
     }
    ]
   },
@@ -34260,6 +35266,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/hbm-machines/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
     }
    ]
@@ -34947,6 +35971,24 @@
       "Bloque de la ficha: Por compra online 4,90%",
       "HTML de la ficha: 4,90%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 7.0,
+     "hasta_pct": false,
+     "habitual_pct": 7.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/hivital/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 7%",
+      "HTML de la ficha: 7% (cabecera: hasta 7%)"
+     ]
     }
    ]
   },
@@ -35531,6 +36573,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 5,60%",
       "HTML de la ficha: 5,60%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 8.0,
+     "hasta_pct": false,
+     "habitual_pct": 8.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/homo-naturals/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 8%",
+      "HTML de la ficha: 8% (cabecera: hasta 8%)"
      ]
     }
    ]
@@ -37124,24 +38184,6 @@
      ]
     },
     {
-     "plataforma": "Beruby",
-     "pct": 2.8,
-     "hasta_pct": false,
-     "habitual_pct": 2.8,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de Beruby: Reserva online",
-     "fin": null,
-     "fuente": "https://es.beruby.com/htophotels",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Reserva online 2,80%",
-      "HTML de la ficha: 2,80%"
-     ]
-    },
-    {
      "plataforma": "BestPrice",
      "pct": 2.0,
      "hasta_pct": false,
@@ -37161,6 +38203,24 @@
      "niveles": {
       "Negro": 4.0
      }
+    },
+    {
+     "plataforma": "Beruby",
+     "pct": 2.8,
+     "hasta_pct": false,
+     "habitual_pct": 2.8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Reserva online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/htop-hotels",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Reserva online 2,80%",
+      "HTML de la ficha: 2,80%"
+     ]
     }
    ]
   },
@@ -37457,6 +38517,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra Online 5,60%",
       "HTML de la ficha: 5,60%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 8.0,
+     "hasta_pct": false,
+     "habitual_pct": 8.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/hurley/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 8%",
+      "HTML de la ficha: 8% (cabecera: hasta 8%)"
      ]
     }
    ]
@@ -37985,6 +39063,24 @@
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/iberlibro",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 80% cupón descuento Iberlibro + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 2,5 % de cashback"
+     ]
     }
    ]
   },
@@ -38050,6 +39146,24 @@
      "lecturas": [
       "Bloque de la ficha: Reserva de hotel disfrutada 4,00%",
       "HTML de la ficha: 4,00%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.8,
+     "hasta_pct": false,
+     "habitual_pct": 5.8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Reserva confirmada",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/iberostar/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Reserva confirmada 5,8%",
+      "HTML de la ficha: 5,8% (cabecera: hasta 5,8%)"
      ]
     }
    ]
@@ -38451,6 +39565,42 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/iherb",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 25% cupón iHerb + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 2,5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/iherb/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
     }
    ]
@@ -39306,6 +40456,24 @@
       "Bloque de la ficha: Contratación online de seguro 7,00%",
       "HTML de la ficha: 7,00%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 14.0,
+     "hasta_pct": false,
+     "habitual_pct": 14.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/intermundial",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 10% código descuento InterMundial + 14 % Cashback / octubre",
+      "Tarjeta de la oferta: 14 % de cashback"
+     ]
     }
    ]
   },
@@ -39347,6 +40515,42 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/intex",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 5% código promocional Intex + 5 % Cashback / octubre",
+      "Tarjeta de la oferta: 5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online - Piscinas, Accesorios piscinas, Spas, Infantiles, Colchones, Inicio, Hinchables, Barcas.",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/intex/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online - Piscinas, Accesorios piscinas, Spas, Infantiles, Colchones, Inicio, Hinchables, Barcas. 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
     }
    ]
@@ -39718,6 +40922,24 @@
      "lecturas": [
       "Bloque de la ficha: Por compra online 1,40%",
       "HTML de la ficha: 1,40%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/isinwheel/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
     }
    ]
@@ -44041,6 +45263,24 @@
       "Bloque de la ficha: Compra online 5,60%",
       "HTML de la ficha: 5,60%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/la-casa-de-las-carcasas",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 23€ código descuento La Casa de las Carcasas + 4 % Cashback / octubre 2026",
+      "Tarjeta de la oferta: 4 % de cashback"
+     ]
     }
    ]
   },
@@ -44106,6 +45346,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/la-drogueria-de-percon/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
     }
    ]
@@ -44807,6 +46065,42 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 5,60%",
       "HTML de la ficha: 5,60%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/lancome",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 25% código promocional Lancôme + 4 % Cashback / octubre",
+      "Tarjeta de la oferta: 4 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 8.0,
+     "hasta_pct": false,
+     "habitual_pct": 8.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/lancome/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 8%",
+      "HTML de la ficha: 8% (cabecera: hasta 8%)"
      ]
     }
    ]
@@ -47214,6 +48508,24 @@
       "Bloque de la ficha: Compra online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/logitech",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 40% código promocional Logitech + 2 % Cashback / octubre",
+      "Tarjeta de la oferta: 2 % de cashback"
+     ]
     }
    ]
   },
@@ -48042,6 +49354,24 @@
       "Bloque de la ficha: Compra online 4,20%",
       "HTML de la ficha: 4,20%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/lorena-canals/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
+     ]
     }
    ]
   },
@@ -48478,6 +49808,62 @@
       "Título/meta de la ficha: 2,5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2,5 %"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.5,
+     "hasta_pct": true,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/lululemon",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 29€ código promocional Lululemon + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 2,5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "tipo": "bienvenida",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online - Clientes nuevos",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/lululemon/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online - Clientes nuevos 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ],
+     "variante": "Compra online - Clientes nuevos",
+     "solo_clientes_nuevos": true
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online - Clientes existentes",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/lululemon/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online - Clientes existentes 2%",
+      "HTML de la ficha: 2% (cabecera: hasta 5%)"
+     ],
+     "variante": "Compra online - Clientes existentes"
     }
    ]
   },
@@ -48566,6 +49952,24 @@
      "lecturas": [
       "Bloque de la ficha: Por compra online 2,10%",
       "HTML de la ficha: 2,10%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/lusini/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
     }
    ]
@@ -49097,24 +50501,6 @@
      ]
     },
     {
-     "plataforma": "Widilo",
-     "pct": 3.85,
-     "hasta_pct": false,
-     "habitual_pct": 3.85,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
-     "fin": null,
-     "fuente": "https://www.widilo.es/codigo-descuento/maisons-du-monde",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título/meta de la ficha: 3,85 % cashback (título o meta de la ficha)",
-      "Datos de la ficha: cashback 3,85 %"
-     ]
-    },
-    {
      "plataforma": "Beruby",
      "pct": 4.9,
      "hasta_pct": false,
@@ -49168,6 +50554,24 @@
      "lecturas": [
       "Título de la ficha: 20% código promocional Maisons du Monde + 3,5 % Cashback / octubre 2026",
       "Tarjeta de la oferta: Hasta 3,5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "Widilo",
+     "pct": 5.5,
+     "hasta_pct": false,
+     "habitual_pct": 5.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/maisons-du-monde",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 5,5 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 5,5 %"
      ]
     }
    ]
@@ -49294,6 +50698,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 5,60%",
       "HTML de la ficha: 5,60%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 8.0,
+     "hasta_pct": false,
+     "habitual_pct": 8.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/maletas-greenwich/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 8%",
+      "HTML de la ficha: 8% (cabecera: hasta 8%)"
      ]
     }
    ]
@@ -49469,6 +50891,24 @@
       "Bloque de la ficha: Compra online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/mango-outlet",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 85% código promocional Mango Outlet + 3 % Cashback / oct.",
+      "Tarjeta de la oferta: 3 % de cashback"
+     ]
     }
    ]
   },
@@ -49510,6 +50950,42 @@
      "lecturas": [
       "Bloque de la ficha: por compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 10.0,
+     "hasta_pct": false,
+     "habitual_pct": 10.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/manomano",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 20€ código promocional ManoMano + 10 % Cashback / octubre",
+      "Tarjeta de la oferta: 10 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/manomano/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
     }
    ]
@@ -51031,6 +52507,24 @@
       "Título/meta de la ficha: 2,5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2,5 %"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/merit-beauty/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ]
     }
    ]
   },
@@ -51143,6 +52637,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 2,80%",
       "HTML de la ficha: 2,80%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/meta/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 4%",
+      "HTML de la ficha: 4% (cabecera: hasta 4%)"
      ]
     }
    ]
@@ -52553,6 +54065,24 @@
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 15.0,
+     "hasta_pct": false,
+     "habitual_pct": 15.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Reserva de actividades y experiencias",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/moco-museum-barcelona/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Reserva de actividades y experiencias 15%",
+      "HTML de la ficha: 15% (cabecera: hasta 15%)"
+     ]
     }
    ]
   },
@@ -53085,7 +54615,7 @@
      "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 50% código descuento Motoblouz + 2 % Cashback / octubre",
+      "Título de la ficha: 15% código descuento Motoblouz + 2 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 2 % de cashback"
      ]
     }
@@ -53311,6 +54841,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/motorola/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
     }
    ]
@@ -54115,6 +55663,24 @@
       "Bloque de la ficha: Reserva online 5,25%",
       "HTML de la ficha: 5,25%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.5,
+     "hasta_pct": false,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/musement",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 65% código descuento Musement + 3,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 3,5 % de cashback"
+     ]
     }
    ]
   },
@@ -54156,6 +55722,42 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 4,20%",
       "HTML de la ficha: 4,20%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/mustang",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 50% código promocional Mustang + 3 % Cashback / octubre",
+      "Tarjeta de la oferta: 3 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/mustang/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
     }
    ]
@@ -55829,6 +57431,24 @@
       "Bloque de la ficha: Compra online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/neumaticos-es/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 4%",
+      "HTML de la ficha: 4% (cabecera: hasta 4%)"
+     ]
     }
    ]
   },
@@ -56164,6 +57784,24 @@
      "lecturas": [
       "Bloque de la ficha: Por compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/nixon",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 300€ código descuento NIXON + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 2,5 % de cashback"
      ]
     }
    ]
@@ -56685,6 +58323,24 @@
      "lecturas": [
       "Bloque de la ficha: Reserva en Novotel 3,60%",
       "HTML de la ficha: 3,60%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 15.6,
+     "hasta_pct": false,
+     "habitual_pct": 15.6,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/novotel",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 50% código descuento Novotel + 15,6 % Cashback / octubre",
+      "Tarjeta de la oferta: 15,6 % de cashback"
      ]
     }
    ]
@@ -58044,6 +59700,24 @@
       "Bloque de la ficha: Reserva online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/open-ferry/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 4%",
+      "HTML de la ficha: 4% (cabecera: hasta 4%)"
+     ]
     }
    ]
   },
@@ -58304,6 +59978,24 @@
       "Bloque de la ficha: Compra online 7,00%",
       "HTML de la ficha: 7,00%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 10.0,
+     "hasta_pct": false,
+     "habitual_pct": 10.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/original-flor/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 10%",
+      "HTML de la ficha: 10% (cabecera: hasta 10%)"
+     ]
     }
    ]
   },
@@ -58346,6 +60038,24 @@
       "Bloque de la ficha: Reserva online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/orlando-rent-a-car",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 31,61€ código promocional Orlando Rent a Car + 2 % Cashback / octubre 2026",
+      "Tarjeta de la oferta: 2 % de cashback"
+     ]
     }
    ]
   },
@@ -58386,6 +60096,24 @@
      "lecturas": [
       "Título/meta de la ficha: 2,5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2,5 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 4.0,
+     "hasta_pct": true,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/oscaro",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 60% código promocional Oscaro + 4 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 4 % de cashback"
      ]
     }
    ]
@@ -58587,6 +60315,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/ouigo",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 15€ código promocional OUIGO + 2 % Cashback / octubre",
+      "Tarjeta de la oferta: 2 % de cashback"
      ]
     }
    ]
@@ -61206,6 +62952,24 @@
       "Bloque de la ficha: Compra online 1,40%",
       "HTML de la ficha: 1,40%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/padel-market/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 3%",
+      "HTML de la ficha: 3% (cabecera: hasta 3%)"
+     ]
     }
    ]
   },
@@ -61574,6 +63338,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 6,30%",
       "HTML de la ficha: 6,30%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 7.0,
+     "hasta_pct": false,
+     "habitual_pct": 7.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/palma-aquarium/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 7%",
+      "HTML de la ficha: 7% (cabecera: hasta 7%)"
      ]
     }
    ]
@@ -62156,6 +63938,24 @@
      "lecturas": [
       "Bloque de la ficha: Registro + primer envío de paquetería/mensajería 0,70%",
       "HTML de la ficha: 0,70%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 30.77,
+     "hasta_pct": false,
+     "habitual_pct": 30.77,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/parcel-abc/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 30,77%",
+      "HTML de la ficha: 30,77% (cabecera: hasta 30,77%)"
      ]
     }
    ]
@@ -62775,6 +64575,24 @@
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/patpat/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ]
     }
    ]
   },
@@ -62840,6 +64658,42 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 4,20%",
       "HTML de la ficha: 4,20%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/pcbox",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 100€ código descuento PCBox + 3 % Cashback / octubre",
+      "Tarjeta de la oferta: 3 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/pcbox/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
     }
    ]
@@ -64055,6 +65909,42 @@
       "Bloque de la ficha: Compra online 2,00%",
       "HTML de la ficha: 2,00%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.2,
+     "hasta_pct": false,
+     "habitual_pct": 3.2,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/pikolin",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 5% código descuento Pikolin + 3,2 % Cashback / octubre",
+      "Tarjeta de la oferta: 3,2 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/pikolin/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
+     ]
     }
    ]
   },
@@ -64683,6 +66573,63 @@
       "Título/meta de la ficha: 3 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3 %"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Accesorios",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/playstation-direct/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Accesorios 2%",
+      "HTML de la ficha: 2% (cabecera: hasta 4%)"
+     ],
+     "variante": "Accesorios"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Consolas",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/playstation-direct/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Consolas 1%",
+      "HTML de la ficha: 1% (cabecera: hasta 4%)"
+     ],
+     "variante": "Consolas"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Juegos",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/playstation-direct/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Juegos 4%",
+      "HTML de la ficha: 4% (cabecera: hasta 4%)"
+     ],
+     "variante": "Juegos"
     }
    ]
   },
@@ -64724,6 +66671,24 @@
      "lecturas": [
       "Bloque de la ficha: Reserva online 4,90%",
       "HTML de la ficha: 4,90%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 7.0,
+     "hasta_pct": false,
+     "habitual_pct": 7.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/plusholidays/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 7%",
+      "HTML de la ficha: 7% (cabecera: hasta 7%)"
      ]
     }
    ]
@@ -65561,6 +67526,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online (solo por usuario nuevo) 1,75%",
       "HTML de la ficha: 1,75%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 1.75,
+     "hasta_pct": false,
+     "habitual_pct": 1.75,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/private-sport-shop",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 20% código descuento Private Sport Shop + 1,75 % Cashback / octubre 2026",
+      "Tarjeta de la oferta: 1,75 % de cashback"
      ]
     }
    ]
@@ -66618,6 +68601,24 @@
       "Bloque de la ficha: Compra online 4,90%",
       "HTML de la ficha: 4,90%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.5,
+     "hasta_pct": false,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/quiksilver",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 50% código promocional Quiksilver + 3,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 3,5 % de cashback"
+     ]
     }
    ]
   },
@@ -66961,6 +68962,42 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 1.5,
+     "hasta_pct": false,
+     "habitual_pct": 1.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/ralph-lauren",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: menos de 150€ código promocional Ralph Lauren + 1,5 % Cashback / oct.",
+      "Tarjeta de la oferta: 1,5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/ralph-lauren/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 3%",
+      "HTML de la ficha: 3% (cabecera: hasta 3%)"
      ]
     }
    ]
@@ -67582,6 +69619,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/redbubble",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 85€ cupón Redbubble + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 2,5 % de cashback"
      ]
     }
    ]
@@ -68245,6 +70300,44 @@
       "Título/meta de la ficha: 10 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 10 %"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 20.0,
+     "hasta_pct": false,
+     "tipo": "bienvenida",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Nuevo cliente",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/revolution-soft/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Nuevo cliente 20%",
+      "HTML de la ficha: 20% (cabecera: hasta 20%)"
+     ],
+     "variante": "Nuevo cliente",
+     "solo_clientes_nuevos": true
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Cliente recurrente",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/revolution-soft/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Cliente recurrente 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 20%)"
+     ],
+     "variante": "Cliente recurrente"
     }
    ]
   },
@@ -69027,6 +71120,24 @@
       "Bloque de la ficha: Compra online 4,90%",
       "HTML de la ficha: 4,90%"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.5,
+     "hasta_pct": false,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/roxy",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 10% código promocional Roxy + 3,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 3,5 % de cashback"
+     ]
     }
    ]
   },
@@ -69733,6 +71844,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 7,00%",
       "HTML de la ficha: 7,00%"
+     ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 10.0,
+     "hasta_pct": false,
+     "habitual_pct": 10.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/saily/",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 10%",
+      "HTML de la ficha: 10% (cabecera: hasta 10%)"
      ]
     }
    ]
@@ -72666,6 +74795,24 @@
      "lecturas": [
       "Título/meta de la ficha: 3,5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3,5 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.5,
+     "hasta_pct": false,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/siroko",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 10% código descuento Siroko + 3,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 3,5 % de cashback"
      ]
     }
    ]
@@ -75813,24 +77960,6 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 14.5,
-     "hasta_pct": false,
-     "habitual_pct": 14.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/stylevana",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 19% código descuento Stylevana + 14,5 % Cashback / octubre",
-      "Tarjeta de la oferta: 14,5 % de cashback"
      ]
     },
     {
@@ -79841,6 +81970,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/toysrus",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 70% código descuento ToysRUs + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 2,5 % de cashback"
      ]
     }
    ]

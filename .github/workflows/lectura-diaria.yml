@@ -1,15 +1,15 @@
 name: Lectura diaria (Widilo, Beruby y descuentos)
 
 # Lee Widilo, Beruby, iGraal y TopCashback con scripts de Python (sin navegador), importa los cambios, regenera las páginas y publica.
-# Dos tandas al día (mañana completa, tarde ligera). Las lecturas corren EN PARALELO (un trabajo por fuente, cada una con su pausa de 2 s entre páginas); un último trabajo recoge los
+# Dos tandas al día, las dos con todas las plataformas. Las lecturas corren EN PARALELO (un trabajo por fuente, cada una con su pausa de 2 s entre páginas); un último trabajo recoge los
 # resultados, importa, regenera y publica. Si una fuente falla, las demás siguen.
 # No depende del ordenador del usuario. mycashbacks y BestPrice (que solo se leen con navegador) y las tareas con criterio (X, notas,
 # pruebas de códigos) siguen en la tarea programada del PC. Los datos que no se renueven en 3 días se retiran solos (purgar_caducados.py).
 
 on:
   schedule:
-    - cron: "30 5 * * *"   # tanda de la mañana, completa: 05:30 UTC = 07:30 hora de España (verano) / 06:30 (invierno)
-    - cron: "20 15 * * *"  # tanda de la tarde, ligera (sin Beruby ni categorías): 15:20 UTC = 17:20 hora de España (verano)
+    - cron: "30 5 * * *"   # tanda de la mañana: 05:30 UTC = 07:30 hora de España (verano) / 06:30 (invierno)
+    - cron: "20 15 * * *"  # tanda de la tarde, también con todas las plataformas (las categorías solo en la de la mañana): 15:20 UTC = 17:20 hora de España (verano)
   workflow_dispatch: {}
 
 permissions:
@@ -43,8 +43,6 @@ jobs:
           if-no-files-found: ignore
 
   leer_beruby:
-    # Beruby (más de 1.700 páginas) se lee solo una vez al día, en la tanda de la mañana (y en las ejecuciones manuales)
-    if: ${{ github.event.schedule != '20 15 * * *' }}
     runs-on: ubuntu-latest
     timeout-minutes: 240
     steps:

@@ -22,7 +22,7 @@
 <link rel="stylesheet" href="fuentes.css">
 <link rel="stylesheet" href="estilo.css">
 <style>.lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin:12px 0}.lista a{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:9px 12px;text-decoration:none;font-size:.9rem}</style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Cashback por tienda y plataforma en España", "description": "Porcentaje de cashback que ofrece cada plataforma (mycashbacks, Widilo, Beruby, iGraal, TopCashback, Letyshops y otras) en cada tienda, con condiciones, tope, fecha de lectura y fuente. Cada cifra se lee por dos vías distintas y se valida antes de publicarse.", "url": "https://lupafinanzas.github.io/comparador.html", "inLanguage": "es", "isAccessibleForFree": true, "creator": {"@type": "Organization", "name": "Lupa Financiera", "url": "https://lupafinanzas.github.io/"}, "keywords": ["cashback", "descuentos", "comparador", "España", "plataformas de cashback"], "measurementTechnique": "Lectura de las fichas públicas de cada plataforma con doble comprobación y validación automática", "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://lupafinanzas.github.io/cashback.min.json"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Cashback por tienda y plataforma en España", "description": "Porcentaje de cashback que ofrece cada plataforma (mycashbacks, Widilo, Beruby, iGraal, TopCashback, Letyshops, BestPrice y otras) en cada tienda, con condiciones, tope, fecha de lectura y fuente. Cada cifra se lee por dos vías distintas y se valida antes de publicarse.", "url": "https://lupafinanzas.github.io/comparador.html", "inLanguage": "es", "isAccessibleForFree": true, "creator": {"@type": "Organization", "name": "Lupa Financiera", "url": "https://lupafinanzas.github.io/"}, "keywords": ["cashback", "descuentos", "comparador", "España", "plataformas de cashback"], "measurementTechnique": "Lectura de las fichas públicas de cada plataforma con doble comprobación y validación automática", "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://lupafinanzas.github.io/cashback.min.json"}]}</script>
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -73,7 +73,7 @@
   function conf(t,f){var v=V[t.slug+'|'+f.plataforma];return !!v&&v.pct===f.pct?v:null;}
   function norm(x){return x.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');}
   function visibles(){var q=norm(Q.trim());return D.tiendas.filter(function(t){return !q||norm(t.nombre).indexOf(q)>-1||t.slug.indexOf(q)>-1;});}
-  var COL={iGraal:'#f26a21',TopCashback:'#17a05d',Letyshops:'#e8452c',Klarna:'#e8a3c3',Beruby:'#c9303c',Consupermiso:'#3b6fe0',Widilo:'#7a4fd8',mycashbacks:'#0e8f8f'};
+  var COL={iGraal:'#f26a21',TopCashback:'#17a05d',Letyshops:'#e8452c',Klarna:'#e8a3c3',Beruby:'#c9303c',Consupermiso:'#3b6fe0',Widilo:'#7a4fd8',mycashbacks:'#0e8f8f',BestPrice:'#5b4bd6'};
   function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
   function eur(n){return n.toLocaleString('es-ES',{minimumFractionDigits:2,maximumFractionDigits:2})+' €';}
   function pc(n){return n.toLocaleString('es-ES')+' %';}

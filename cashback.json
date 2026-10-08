@@ -2774,6 +2774,25 @@
       "HTML de la ficha: 0,70%"
      ],
      "variante": "Productos no afiliados"
+    },
+    {
+     "plataforma": "iGraal",
+     "tope": null,
+     "primera_compra": false,
+     "fuente": "https://es.igraal.com/codigos-promocionales/aliexpress",
+     "pct": 6,
+     "hasta_pct": false,
+     "habitual_pct": 1,
+     "tipo": "aumentado",
+     "detalle": "Subida de los iGraal Days",
+     "fin": "2026-10-08",
+     "leido": "2026-10-08",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha (8/10, 12h): 9€ cupón AliExpress + 6 % Cashback",
+      "Tarjeta de la oferta (HTML sin scripts): 6 % de cashback en lugar de 1 %, hasta el 8/10/2026"
+     ],
+     "cambio_confirmado": true
     }
    ]
   },
@@ -40258,20 +40277,20 @@
    "filas": [
     {
      "plataforma": "iGraal",
-     "pct": 2,
-     "hasta_pct": false,
+     "pct": 12,
+     "hasta_pct": true,
      "habitual_pct": 2,
-     "tipo": "habitual",
+     "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa habitual de la ficha (la subida de los iGraal Days terminó el 7/10)",
-     "fin": null,
+     "detalle": "Subida de los iGraal Days",
+     "fin": "2026-10-08",
      "fuente": "https://es.igraal.com/codigos-promocionales/lookfantastic",
      "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Tarjeta de la ficha (8/10): Hasta 16 % de cashback en lugar de 2 %, Hasta el 7/10/2026 (subida ya terminada)",
-      "Relectura de la tarjeta (8/10, texto sin scripts): tarifa habitual 2 %"
+      "Título de la ficha (8/10, 12h): 20% código descuento LOOKFANTASTIC + 12 % Cashback",
+      "Tarjeta de la oferta (HTML sin scripts): Hasta 12 % de cashback en lugar de 2 %, hasta el 8/10/2026"
      ],
      "cambio_confirmado": true
     },
@@ -56397,20 +56416,20 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 1,
+     "pct": 4,
      "hasta_pct": false,
      "habitual_pct": 1,
-     "tipo": "habitual",
+     "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa habitual de la ficha (la subida de los iGraal Days terminó el 7/10)",
-     "fin": null,
+     "detalle": "Subida de los iGraal Days",
+     "fin": "2026-10-08",
      "fuente": "https://es.igraal.com/codigos-promocionales/primor",
      "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Tarjeta de la ficha (8/10): 5 % de cashback en lugar de 1 %, Hasta el 7/10/2026 (subida ya terminada)",
-      "Relectura de la tarjeta (8/10, texto sin scripts): tarifa habitual 1 %"
+      "Título de la ficha (8/10, 12h): 3€ código descuento Primor + 4 % Cashback",
+      "Tarjeta de la oferta (HTML sin scripts): 4 % de cashback en lugar de 1 %, hasta el 8/10/2026"
      ],
      "cambio_confirmado": true
     },
@@ -67008,20 +67027,20 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 6,
-     "hasta_pct": false,
+     "pct": 15,
+     "hasta_pct": true,
      "habitual_pct": 6,
-     "tipo": "habitual",
+     "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa habitual de la ficha (la subida de los iGraal Days terminó el 7/10)",
-     "fin": null,
+     "detalle": "Subida de los iGraal Days",
+     "fin": "2026-10-12",
      "fuente": "https://es.igraal.com/codigos-promocionales/temu",
      "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Tarjeta de la ficha (8/10): Hasta 35 % de cashback en lugar de 6 %, Hasta el 7/10/2026 (subida ya terminada)",
-      "Relectura de la tarjeta (8/10, texto sin scripts): tarifa habitual 6 %"
+      "Título de la ficha (8/10, 12h): 30% cupón Temu + 15 % Cashback",
+      "Tarjeta de la oferta (HTML sin scripts): Hasta 15 % de cashback en lugar de 6 %, hasta el 12/10/2026"
      ],
      "cambio_confirmado": true
     },

@@ -17,11 +17,11 @@ ESTADOS = {"publicada", "en_verificacion", "no_publicable", "caducada"}
 OBLIG = ("slug", "nombre", "tipo", "recompensa", "requisitos", "estado")
 errores = []
 data = json.loads((base / "promos.json").read_text(encoding="utf-8"))
-enlaces = ""
+enlaces = None  # enlaces_referidos.md vive fuera del repositorio: en GitHub Actions no existe y no se comprueba
 try:
     enlaces = (base.parent / "enlaces_referidos.md").read_text(encoding="utf-8")
 except OSError:
-    pass
+    print("Aviso: no está enlaces_referidos.md; se omite la comprobación de enlaces de referido.")
 vistos = set()
 for p in data["promos"]:
     n = p.get("slug", "?")
@@ -42,7 +42,7 @@ for p in data["promos"]:
                 errores.append(f"{n}: publicada pero verificada hace {(hoy - v).days} días")
         except ValueError:
             errores.append(f"{n}: publicada sin fecha de verificación válida")
-    if p.get("enlace") and p["enlace"] not in enlaces:
+    if enlaces is not None and p.get("enlace") and p["enlace"] not in enlaces:
         errores.append(f"{n}: el enlace no figura en enlaces_referidos.md")
     if p.get("auto"):
         fuentes = p.get("fuentes") or []

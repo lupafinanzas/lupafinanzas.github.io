@@ -58,6 +58,90 @@
    "leido": "2026-10-08"
   },
   {
+   "id": "8d18ac12efc6",
+   "slug": "pccomponentes",
+   "tienda": "PcComponentes",
+   "valor": "20%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-08",
+   "modificado_en_fuente": "2026-10-08",
+   "titulo": "Hasta un 20% de descuento en MASCOTAS",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/pccomponentes",
+   "leido": "2026-10-08"
+  },
+  {
+   "id": "0e80fba816e3",
+   "slug": "pccomponentes",
+   "tienda": "PcComponentes",
+   "valor": "30%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-08",
+   "modificado_en_fuente": "2026-10-08",
+   "titulo": "Hasta un 30% de descuento en CUIDADO PERSONAL",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/pccomponentes",
+   "leido": "2026-10-08"
+  },
+  {
+   "id": "0a9df608f1a2",
+   "slug": "pccomponentes",
+   "tienda": "PcComponentes",
+   "valor": "40%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-08",
+   "modificado_en_fuente": "2026-10-08",
+   "titulo": "Hasta un 40% de descuento en GRAN ELECTRODOMÉSTICO",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/pccomponentes",
+   "leido": "2026-10-08"
+  },
+  {
+   "id": "bc7333b20d28",
+   "slug": "pccomponentes",
+   "tienda": "PcComponentes",
+   "valor": "45%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-08",
+   "modificado_en_fuente": "2026-10-08",
+   "titulo": "Hasta un 45% de descuento en HOGAR INTELIGENTE",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/pccomponentes",
+   "leido": "2026-10-08"
+  },
+  {
+   "id": "b2129a3a4003",
+   "slug": "pccomponentes",
+   "tienda": "PcComponentes",
+   "valor": "50%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-08",
+   "modificado_en_fuente": "2026-10-08",
+   "titulo": "Hasta un 50% de descuento en ROBOTS DE LIMPIEZA",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/pccomponentes",
+   "leido": "2026-10-08"
+  },
+  {
+   "id": "19ae09388262",
+   "slug": "pccomponentes",
+   "tienda": "PcComponentes",
+   "valor": "55%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-08",
+   "modificado_en_fuente": "2026-10-08",
+   "titulo": "Hasta un 55% de descuento en COCINA Y CAFÉ",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/pccomponentes",
+   "leido": "2026-10-08"
+  },
+  {
    "id": "4633412f9b58",
    "slug": "private-sport-shop",
    "tienda": "Private Sport Shop",
@@ -111,6 +195,20 @@
    "titulo": "Hasta un 30% de descuento en artículos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/asics",
+   "leido": "2026-10-08"
+  },
+  {
+   "id": "e00a1534c1e7",
+   "slug": "lookfantastic",
+   "tienda": "LOOKFANTASTIC",
+   "valor": "30%",
+   "tipo": "codigo",
+   "codigo": "US5",
+   "caduca": "2026-10-10",
+   "modificado_en_fuente": "2026-10-08",
+   "titulo": "25% DE DESCUENTO + 5% EXTRA",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/lookfantastic",
    "leido": "2026-10-08"
   },
   {
@@ -842,6 +940,20 @@
    "leido": "2026-10-08"
   },
   {
+   "id": "132d17e5d3b0",
+   "slug": "samsung",
+   "tienda": "Samsung",
+   "valor": "720€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-13",
+   "modificado_en_fuente": "2026-10-08",
+   "titulo": "Hasta 720€ de reembolso por tu antiguo dispositivo",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/samsung",
+   "leido": "2026-10-08"
+  },
+  {
    "id": "87ad84b8cf40",
    "slug": "el-corte-ingles",
    "tienda": "El Corte Inglés",
@@ -1119,6 +1231,20 @@
    "titulo": "70€ de descuento en el HUAWEI WATCH GT 7",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/huawei",
+   "leido": "2026-10-08"
+  },
+  {
+   "id": "9d8376ec5556",
+   "slug": "levi-s",
+   "tienda": "Levi's",
+   "valor": "50%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-18",
+   "modificado_en_fuente": "2026-10-08",
+   "titulo": "Ahorra hasta un 50% en las rebajas de mitad de temporada de Levi's",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/levi-s",
    "leido": "2026-10-08"
   },
   {
@@ -3891,6 +4017,20 @@
    "titulo": "Obtén hasta un 86% OFF + 3 meses EXTRA con tu código descuento Surfshark",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/surfshark",
+   "leido": "2026-10-08"
+  },
+  {
+   "id": "0e714ad2ff70",
+   "slug": "the-masie",
+   "tienda": "The Masie",
+   "valor": "10%",
+   "tipo": "codigo",
+   "codigo": "OME",
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-02-12",
+   "titulo": "Recibe un 10% de rebaja en tu primera compra con tu cupón descuento The Masie",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/the-masie",
    "leido": "2026-10-08"
   },
   {

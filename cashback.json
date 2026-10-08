@@ -8651,24 +8651,6 @@
       "Título/meta de la ficha: 5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 5 %"
      ]
-    },
-    {
-     "plataforma": "Beruby",
-     "pct": 2.8,
-     "hasta_pct": false,
-     "habitual_pct": 2.8,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de Beruby: Compra online",
-     "fin": null,
-     "fuente": "https://es.beruby.com/bonprix",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra online 2,80%",
-      "HTML de la ficha: 2,80%"
-     ]
     }
    ]
   },
@@ -31357,7 +31339,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htop-hotels",
+     "fuente": "https://es.beruby.com/htophotels",
      "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
@@ -59287,9 +59269,9 @@
     },
     {
      "plataforma": "Beruby",
-     "pct": 2.8,
+     "pct": 5.6,
      "hasta_pct": false,
-     "habitual_pct": 2.8,
+     "habitual_pct": 5.6,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -59299,8 +59281,8 @@
      "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Bloque de la ficha: Compra online 2,80%",
-      "HTML de la ficha: 2,80%"
+      "Bloque de la ficha: Compra online 5,60%",
+      "HTML de la ficha: 5,60%"
      ]
     }
    ]

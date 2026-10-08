@@ -3110,20 +3110,6 @@
    "leido": "2026-10-08"
   },
   {
-   "id": "edf541897875",
-   "slug": "emp",
-   "tienda": "EMP",
-   "valor": "20%",
-   "tipo": "codigo",
-   "codigo": "E20",
-   "caduca": "2026-12-31",
-   "modificado_en_fuente": "2026-02-12",
-   "titulo": "¡Date un capricho con un 20% con tu código descuento EMP!",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/emp",
-   "leido": "2026-10-08"
-  },
-  {
    "id": "24922e3ebc23",
    "slug": "farmaciasdirect",
    "tienda": "Farmaciasdirect",

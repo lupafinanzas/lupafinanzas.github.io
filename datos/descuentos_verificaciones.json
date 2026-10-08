@@ -5,5 +5,12 @@
   "tienda": "Dyson",
   "codigo": "N10",
   "nota": "La cesta de dyson.es respondió «Código de descuento no válido» con el robot Dyson Spot+Scrub Ai (negro, 1.199 €). No se probó con otros modelos. No se completó ninguna compra."
+ },
+ "edf541897875": {
+  "estado": "no_funciona",
+  "fecha": "2026-10-08",
+  "tienda": "EMP",
+  "codigo": "E20",
+  "nota": "La cesta de emp-online.es respondió «El cheque regalo \"E20\" es inválido» con la camiseta Tool «Lateralus» (talla L, 23,99 €). El total no bajó. Sin iniciar sesión y sin completar ninguna compra."
  }
 }

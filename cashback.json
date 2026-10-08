@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-07",
+ "actualizado": "2026-10-08",
  "nota_metodo": "Datos leídos de las páginas públicas de cada plataforma y comprobados con una segunda lectura independiente. El orden es por lo que recibirías en euros con el importe que elijas, no por comisiones nuestras. No hay enlaces de referido en esta tabla.",
  "tiendas": [
   {
@@ -1072,7 +1072,7 @@
      "detalle": "Subida de los iGraal Days",
      "fin": "2026-10-08",
      "fuente": "https://es.igraal.com/codigos-promocionales/adidas",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Título de la ficha: 75€ código descuento adidas + 12 % Cashback",
@@ -1090,7 +1090,7 @@
      "detalle": "Compra online excluyendo rebajas y outlet",
      "fin": null,
      "fuente": "https://www.topcashback.es/adidas/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 6 %",
@@ -1108,7 +1108,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 4% de reembolso al comprar en Adidas",
@@ -1130,7 +1130,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/adidas-es",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Adidas ES 3 % cashback",
@@ -1148,7 +1148,7 @@
      "detalle": "Solo si compras desde la app de Klarna",
      "fin": null,
      "fuente": "https://www.klarna.com/es/cashback/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Texto de la página: Adidas 2,5% de cashback",
@@ -2379,21 +2379,22 @@
    "filas": [
     {
      "plataforma": "TopCashback",
-     "pct": 100,
-     "hasta_pct": false,
-     "habitual_pct": 100,
-     "tipo": "bienvenida",
-     "tope": 10,
-     "primera_compra": true,
-     "detalle": "Una sola compra por miembro y hasta 10 € de cashback",
+     "pct": 8,
+     "hasta_pct": true,
+     "habitual_pct": 8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Ropa, accesorios y jardín; resto de categorías 6 %, electrónica 2,6 % y productos no afiliados 1 % (ya no figura el 100 % de bienvenida)",
      "fin": null,
      "fuente": "https://www.topcashback.es/aliexpress/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Cabecera de la ficha: reembolso de hasta 100 %",
-      "Tarifa: compra online (hasta 10 € de cashback y limitado a una compra por miembro) 100 %"
-     ]
+      "Cabecera de la ficha: reembolso de hasta 8 %",
+      "Bloque de tarifas: ropa, accesorios y jardín 8 %; resto 6 %; electrónica 2,6 %; no afiliados 1 % (tercera lectura en la página renderizada, igual)"
+     ],
+     "cambio_confirmado": true
     },
     {
      "plataforma": "Letyshops",
@@ -2410,7 +2411,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/aliexpress",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: AliExpress hasta 5 % cashback",
@@ -2428,7 +2429,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 6% de reembolso al comprar en Aliexpress ES",
@@ -15254,7 +15255,7 @@
      "detalle": "Compra online, sin Segunda Vida ni Marketplace",
      "fin": null,
      "fuente": "https://www.topcashback.es/decathlon/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 5 %",
@@ -15272,7 +15273,7 @@
      "detalle": "Subida de los iGraal Days",
      "fin": "2026-10-31",
      "fuente": "https://es.igraal.com/codigos-promocionales/decathlon",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Título de la ficha: 20% código promocional Decathlon + 3 % Cashback",
@@ -15294,7 +15295,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/decathlon-espana",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Decathlon ES 1.5 % cashback",
@@ -17840,7 +17841,7 @@
      "detalle": "Compra online",
      "fin": null,
      "fuente": "https://www.topcashback.es/druni/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 10 %",
@@ -17858,7 +17859,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 5,2% de reembolso al comprar en Druni",
@@ -17898,7 +17899,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/druni-es",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Druni ES hasta 3.25 % cashback",
@@ -17916,7 +17917,7 @@
      "detalle": "Tarifa vigente hasta fin de año",
      "fin": "2026-12-31",
      "fuente": "https://es.igraal.com/codigos-promocionales/druni",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Título de la ficha: 10€ código descuento Druni + 2 % Cashback",
@@ -18588,7 +18589,7 @@
      "detalle": "Compra online",
      "fin": null,
      "fuente": "https://www.topcashback.es/ebay/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 5 %",
@@ -18606,7 +18607,7 @@
      "detalle": "Tarifa fija todo el año",
      "fin": null,
      "fuente": "https://es.igraal.com/codigos-promocionales/ebay",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Título de la ficha: 30€ cupón eBay + 1 % Cashback",
@@ -18628,7 +18629,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/ebay-es",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: eBay ES 1 % cashback",
@@ -22153,7 +22154,7 @@
      "detalle": "Subida de los iGraal Days",
      "fin": "2026-10-08",
      "fuente": "https://es.igraal.com/codigos-promocionales/expedia",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Título de la ficha: 300€ cupón Expedia + 10 % Cashback",
@@ -22189,7 +22190,7 @@
      ],
      "fin": null,
      "fuente": "https://www.topcashback.es/expedia/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 4 %",
@@ -24796,7 +24797,7 @@
      "detalle": "Subida de los iGraal Days",
      "fin": "2026-10-08",
      "fuente": "https://es.igraal.com/codigos-promocionales/fnac",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Título de la ficha: 15 % Cashback",
@@ -24832,7 +24833,7 @@
      ],
      "fin": null,
      "fuente": "https://www.topcashback.es/fnac/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 8 %",
@@ -24880,7 +24881,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/fnac-es",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Fnac hasta 2.5 % cashback",
@@ -34662,7 +34663,7 @@
      "detalle": "Subida de los iGraal Days",
      "fin": "2026-10-08",
      "fuente": "https://es.igraal.com/codigos-promocionales/just-eat",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Título de la ficha: 10€ código descuento Just Eat + 25 % Cashback",
@@ -34682,7 +34683,7 @@
      "detalle": "Compra online o por la app, cliente nuevo",
      "fin": null,
      "fuente": "https://www.topcashback.es/just-eat/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 9 %",
@@ -34706,7 +34707,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/just-eat-es",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Just Eat ES hasta 4.5 % cashback",
@@ -34726,7 +34727,7 @@
      "detalle": "Compra online o por la app, cliente recurrente",
      "fin": null,
      "fuente": "https://www.topcashback.es/just-eat/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Tarifas: compra online o por la app (cliente recurrente) 2 %",
@@ -40275,21 +40276,22 @@
    "filas": [
     {
      "plataforma": "iGraal",
-     "pct": 16,
-     "hasta_pct": true,
+     "pct": 2,
+     "hasta_pct": false,
      "habitual_pct": 2,
-     "tipo": "aumentado",
+     "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Subida de los iGraal Days",
-     "fin": "2026-10-07",
+     "detalle": "Tarifa habitual de la ficha (la subida de los iGraal Days terminó el 7/10)",
+     "fin": null,
      "fuente": "https://es.igraal.com/codigos-promocionales/lookfantastic",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento LOOKFANTASTIC + 16 % Cashback",
-      "Tarjeta de la oferta: hasta 16 % de cashback en lugar de 2 %, hasta el 7/10/2026"
-     ]
+      "Tarjeta de la ficha (8/10): Hasta 16 % de cashback en lugar de 2 %, Hasta el 7/10/2026 (subida ya terminada)",
+      "Relectura de la tarjeta (8/10, texto sin scripts): tarifa habitual 2 %"
+     ],
+     "cambio_confirmado": true
     },
     {
      "plataforma": "TopCashback",
@@ -40316,7 +40318,7 @@
      ],
      "fin": null,
      "fuente": "https://www.topcashback.es/lookfantastic/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 5 %",
@@ -40352,7 +40354,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/lookfantastic-es",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: LOOKFANTASTIC ES hasta 3.5 % cashback",
@@ -43092,7 +43094,7 @@
      "detalle": "Compra online; consolas PS5 y Xbox, 1 %",
      "fin": null,
      "fuente": "https://www.topcashback.es/mediamarkt/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 3 %",
@@ -43124,7 +43126,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/mediamarkt-es",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Media Markt España hasta 3 % cashback",
@@ -43142,7 +43144,7 @@
      "detalle": "Solo si compras desde la app de Klarna",
      "fin": null,
      "fuente": "https://www.klarna.com/es/cashback/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Texto de la página: MediaMarkt 1,5% de cashback",
@@ -56404,7 +56406,7 @@
      "detalle": "Compra online",
      "fin": null,
      "fuente": "https://www.topcashback.es/primor/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 5 %",
@@ -56413,21 +56415,22 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 5,
+     "pct": 1,
      "hasta_pct": false,
      "habitual_pct": 1,
-     "tipo": "aumentado",
+     "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Subida de los iGraal Days",
-     "fin": "2026-10-07",
+     "detalle": "Tarifa habitual de la ficha (la subida de los iGraal Days terminó el 7/10)",
+     "fin": null,
      "fuente": "https://es.igraal.com/codigos-promocionales/primor",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 3€ código descuento Primor + 5 % Cashback",
-      "Tarjeta de la oferta: 5 % de cashback en lugar de 1 %, hasta el 7/10/2026"
-     ]
+      "Tarjeta de la ficha (8/10): 5 % de cashback en lugar de 1 %, Hasta el 7/10/2026 (subida ya terminada)",
+      "Relectura de la tarjeta (8/10, texto sin scripts): tarifa habitual 1 %"
+     ],
+     "cambio_confirmado": true
     },
     {
      "plataforma": "Letyshops",
@@ -56444,7 +56447,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/primor-es",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Primor ES 0.75 % cashback",
@@ -62035,7 +62038,7 @@
      "detalle": "Cliente nuevo en el comerciante",
      "fin": null,
      "fuente": "https://www.topcashback.es/shein/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: reembolso de hasta 15 %",
@@ -62053,7 +62056,7 @@
      "detalle": "Subida de los iGraal Days",
      "fin": "2026-10-08",
      "fuente": "https://es.igraal.com/codigos-promocionales/shein",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Título de la ficha: 35% cupón SHEIN + 12 % Cashback",
@@ -62073,7 +62076,7 @@
      "detalle": "Cliente recurrente",
      "fin": null,
      "fuente": "https://www.topcashback.es/shein/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Tarifas: compra online, cliente recurrente 1 %",
@@ -67038,7 +67041,7 @@
      "detalle": "Hasta 80 € de cashback por transacción; excluye móviles, ordenadores y tabletas",
      "fin": null,
      "fuente": "https://www.topcashback.es/temu/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: hasta 43 %",
@@ -67047,44 +67050,45 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 35,
-     "hasta_pct": true,
+     "pct": 6,
+     "hasta_pct": false,
      "habitual_pct": 6,
-     "tipo": "aumentado",
+     "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Subida de los iGraal Days",
-     "fin": "2026-10-07",
+     "detalle": "Tarifa habitual de la ficha (la subida de los iGraal Days terminó el 7/10)",
+     "fin": null,
      "fuente": "https://es.igraal.com/codigos-promocionales/temu",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 35 % Cashback",
-      "Tarjeta de la oferta: hasta 35 % de cashback en lugar de 6 %, hasta el 7/10/2026"
-     ]
+      "Tarjeta de la ficha (8/10): Hasta 35 % de cashback en lugar de 6 %, Hasta el 7/10/2026 (subida ya terminada)",
+      "Relectura de la tarjeta (8/10, texto sin scripts): tarifa habitual 6 %"
+     ],
+     "cambio_confirmado": true
     },
     {
      "plataforma": "Letyshops",
      "variante": "cliente nuevo en Temu",
-     "pct": 8,
+     "pct": 10,
      "hasta_pct": true,
-     "habitual_pct": 8,
+     "habitual_pct": 10,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
      "solo_clientes_nuevos": true,
-     "detalle": "Para un cliente nuevo de Temu; si ya eres cliente baja al 0,95 %",
+     "detalle": "Para un cliente nuevo de Temu; si ya eres cliente baja al 1 %",
      "plazo_dias": [
       70,
       100
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/temu-eu",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Cabecera de la ficha: Temu Europe hasta 8 % cashback",
-      "Condiciones: 8 % para un nuevo cliente de Temu, 0.95 % cliente existente"
+      "Cabecera de la ficha: Temu Europe hasta 10 % cashback",
+      "Condiciones: 10 % para un nuevo cliente de Temu, 1 % cliente existente"
      ]
     },
     {
@@ -67098,7 +67102,7 @@
      "detalle": "Solo si compras desde la app de Klarna",
      "fin": null,
      "fuente": "https://www.klarna.com/es/cashback/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Texto de la página: Temu 7% de cashback",
@@ -67118,7 +67122,7 @@
      "detalle": "Hasta 80 € de cashback por transacción; excluye móviles, ordenadores y tabletas",
      "fin": null,
      "fuente": "https://www.topcashback.es/temu/",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
       "Bloque de tarifas: cliente recurrente o existente, 5 %",
@@ -67128,9 +67132,9 @@
     {
      "plataforma": "Letyshops",
      "variante": "cliente existente en Temu",
-     "pct": 0.95,
+     "pct": 1,
      "hasta_pct": false,
-     "habitual_pct": 0.95,
+     "habitual_pct": 1,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -67142,11 +67146,11 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/temu-eu",
-     "leido": "2026-10-07",
+     "leido": "2026-10-08",
      "doble_lectura": true,
      "lecturas": [
-      "Condiciones: 0.95 % para un cliente existente de Temu",
-      "Misma ficha: hasta 8 % para nuevos y 0.95 % para existentes"
+      "Condiciones: 1 % para un cliente existente de Temu",
+      "Misma ficha: hasta 10 % para nuevos y 1 % para existentes"
      ]
     },
     {

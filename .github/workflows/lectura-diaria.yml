@@ -1,12 +1,15 @@
 name: Lectura diaria (Widilo, Beruby y descuentos)
 
-# Lee Widilo y Beruby con scripts de Python (sin navegador), importa los cambios, regenera las páginas y publica.
-# No depende del ordenador del usuario. mycashbacks (que bloquea los scripts) y las tareas con criterio (X, notas, pruebas de códigos)
-# siguen en la tarea programada del PC. Los datos de mycashbacks que no se renueven en 3 días se retiran solos (purgar_caducados.py).
+# Lee Widilo, Beruby, iGraal y TopCashback con scripts de Python (sin navegador), importa los cambios, regenera las páginas y publica.
+# Dos tandas al día (mañana completa, tarde ligera). Las lecturas corren EN PARALELO (un trabajo por fuente, cada una con su pausa de 2 s entre páginas); un último trabajo recoge los
+# resultados, importa, regenera y publica. Si una fuente falla, las demás siguen.
+# No depende del ordenador del usuario. mycashbacks y BestPrice (que solo se leen con navegador) y las tareas con criterio (X, notas,
+# pruebas de códigos) siguen en la tarea programada del PC. Los datos que no se renueven en 3 días se retiran solos (purgar_caducados.py).
 
 on:
   schedule:
-    - cron: "30 5 * * *"   # 05:30 UTC = 07:30 hora de España (verano) / 06:30 (invierno)
+    - cron: "30 5 * * *"   # tanda de la mañana, completa: 05:30 UTC = 07:30 hora de España (verano) / 06:30 (invierno)
+    - cron: "20 15 * * *"  # tanda de la tarde, ligera (sin Beruby ni categorías): 15:20 UTC = 17:20 hora de España (verano)
   workflow_dispatch: {}
 
 permissions:
@@ -17,9 +20,119 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  leer:
+  leer_widilo:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install beautifulsoup4
+      - name: Leer Widilo
+        continue-on-error: true
+        run: python leer_widilo.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lectura-widilo
+          path: |
+            cambios_widilo.txt
+            fallos_widilo.txt
+            descuentos_widilo.txt
+          if-no-files-found: ignore
+
+  leer_beruby:
+    # Beruby (más de 1.700 páginas) se lee solo una vez al día, en la tanda de la mañana (y en las ejecuciones manuales)
+    if: ${{ github.event.schedule != '20 15 * * *' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install beautifulsoup4
+      - name: Leer Beruby
+        continue-on-error: true
+        run: python leer_beruby.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lectura-beruby
+          path: |
+            cambios_beruby.txt
+            fallos_beruby.txt
+          if-no-files-found: ignore
+
+  leer_igraal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install beautifulsoup4
+      - name: Leer iGraal
+        continue-on-error: true
+        run: python leer_igraal.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lectura-igraal
+          path: |
+            cambios_igraal.txt
+            fallos_igraal.txt
+          if-no-files-found: ignore
+
+  leer_topcashback:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install beautifulsoup4
+      - name: Leer TopCashback
+        continue-on-error: true
+        run: python leer_topcashback.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lectura-topcashback
+          path: |
+            cambios_topcashback.txt
+            fallos_topcashback.txt
+          if-no-files-found: ignore
+
+  leer_categorias:
+    if: ${{ github.event.schedule != '20 15 * * *' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install beautifulsoup4
+      - name: Leer categorías (una vez por semana, los domingos, o si faltan)
+        continue-on-error: true
+        run: |
+          if [ "$(date -u +%u)" = "7" ] || [ ! -f datos/categorias.json ]; then python leer_categorias.py --salida categorias_nueva.json; fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lectura-categorias
+          path: categorias_nueva.json
+          if-no-files-found: ignore
+
+  publicar:
+    needs: [leer_widilo, leer_beruby, leer_igraal, leer_topcashback, leer_categorias]
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -30,37 +143,19 @@ jobs:
       - name: Instalar dependencias
         run: pip install beautifulsoup4
 
-      # 1) Lectura (larga, no toca el repositorio). Si una fuente falla, la otra sigue.
-      - name: Leer Widilo
-        id: widilo
-        continue-on-error: true
-        run: python leer_widilo.py
+      # Recoge los resultados de las lecturas (los que existan) en la carpeta de trabajo
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: lectura-*
+          merge-multiple: true
+          path: .
 
-      - name: Leer Beruby
-        id: beruby
-        continue-on-error: true
-        run: python leer_beruby.py
-
-      - name: Leer iGraal
-        id: igraal
-        continue-on-error: true
-        run: python leer_igraal.py
-
-      - name: Leer TopCashback
-        id: topcashback
-        continue-on-error: true
-        run: python leer_topcashback.py
-
-      - name: Leer categorías (una vez por semana, los domingos, o si faltan)
-        continue-on-error: true
-        run: |
-          if [ "$(date -u +%u)" = "7" ] || [ ! -f datos/categorias.json ]; then python leer_categorias.py --salida categorias_nueva.json; fi
-
-      # 2) Importar con lo último del repositorio (el PC puede haber publicado mientras tanto) y publicar
+      # Importar con lo último del repositorio (el PC puede haber publicado mientras tanto) y publicar
       - name: Importar, regenerar y publicar
         run: |
           git config user.name "lupafinanzas-bot"
           git config user.email "actions@users.noreply.github.com"
+          ls -la cambios_*.txt fallos_*.txt categorias_nueva.json 2>/dev/null || echo "Sin archivos de lectura"
           for intento in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
@@ -91,7 +186,7 @@ jobs:
             python validar_promos.py
             git add -A
             if git diff --cached --quiet; then echo "Sin cambios que publicar"; exit 0; fi
-            git commit -m "Lectura diaria $(date -u +%F): Widilo, Beruby, descuentos y páginas regeneradas"
+            git commit -m "Lectura diaria $(date -u +%F): Widilo, Beruby, iGraal, TopCashback, descuentos y páginas regeneradas"
             if git push origin HEAD:main; then exit 0; fi
             echo "Push rechazado (alguien publicó a la vez); reintento $intento"
           done

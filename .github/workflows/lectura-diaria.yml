@@ -41,6 +41,16 @@ jobs:
         continue-on-error: true
         run: python leer_beruby.py
 
+      - name: Leer iGraal
+        id: igraal
+        continue-on-error: true
+        run: python leer_igraal.py
+
+      - name: Leer TopCashback
+        id: topcashback
+        continue-on-error: true
+        run: python leer_topcashback.py
+
       - name: Leer categorías (una vez por semana, los domingos, o si faltan)
         continue-on-error: true
         run: |
@@ -61,6 +71,12 @@ jobs:
             fi
             if [ -f cambios_beruby.txt ]; then
               python importar_beruby.py cambios_beruby.txt --refrescar fallos_beruby.txt || echo "Beruby: importación omitida"
+            fi
+            if [ -f cambios_igraal.txt ]; then
+              python importar_igraal.py cambios_igraal.txt --refrescar fallos_igraal.txt || echo "iGraal: importación omitida"
+            fi
+            if [ -f cambios_topcashback.txt ]; then
+              python importar_topcashback.py cambios_topcashback.txt --refrescar fallos_topcashback.txt || echo "TopCashback: importación omitida"
             fi
             if [ -f categorias_nueva.json ]; then cp categorias_nueva.json datos/categorias.json; fi
             python purgar_caducados.py --dias 3

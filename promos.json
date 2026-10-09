@@ -248,6 +248,40 @@
     "letra": "Condiciones cortas y claras, aunque la empresa puede modificarlas.",
     "permanencia": "El saldo queda invertido en sus carteras y no se puede retirar en efectivo."
    }
+  },
+  {
+   "slug": "openbank-plan-amigo",
+   "nombre": "Openbank Plan Amigo",
+   "tipo": "2 · Registro + depósito",
+   "recompensa": "70 € para el nuevo cliente que abre cuenta con el código de invitación de un amigo, y 70 € para quien invita (hasta 10 amigos, máximo 700 €). Según Openbank el importe es neto: aplica la retención y te ingresa el resultado.",
+   "requisitos": "Hacerte cliente con el código de un amigo hasta el 29/10/2026 (incluido); ingresar al menos 70 € en la cuenta y activar la tarjeta en los 30 días siguientes a abrirla; y que los dos tengáis Bizum en Openbank al menos 3 meses. Se cobra en tres pagos (30 €, 20 € y 20 €) entre los días 15 y 20 de cada mes; el 2.º y el 3.º exigen seguir con Bizum. No vale si fuiste cliente de Openbank en los 12 meses anteriores ni si te diste de alta en otra promoción de Bizum en los últimos 12 meses, y no se combina con OPEN275. Las bases consideran uso inadecuado publicar los códigos en redes, foros o webs, y Openbank puede no pagar o retirar lo abonado: aquí no hay código. Hay que declararlo en el IRPF.",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-09",
+   "caduca": "2026-10-29",
+   "gana_corto": "70 €",
+   "gana_sub": "en 3 pagos, con Bizum en Openbank 3 meses",
+   "nota": {
+    "tiempo": 1.5,
+    "importe": 2,
+    "letra": 1.5,
+    "permanencia": 2
+   },
+   "nota_razon": {
+    "tiempo": "El alta es rápida, pero el pago completo tarda tres meses (30 + 20 + 20 €).",
+    "importe": "Dinero en efectivo y retirable, aunque llega en tres plazos y tributa.",
+    "letra": "Clara, pero exige código de un amigo, Bizum de los dos durante 3 meses y excluye a quien hizo otra promo de Bizum en el último año.",
+    "permanencia": "Solo mantener Bizum 3 meses; no se publica saldo mínimo tras el ingreso inicial."
+   },
+   "auto": true,
+   "fuentes": [
+    "https://www.openbank.es/plan-amigo-hasta-700-euros",
+    "https://x.com/ahorrathor",
+    "https://x.com/AnniLoInforma",
+    "https://x.com/FinanzasAlej_"
+   ],
+   "fuente_oficial": "https://www.openbank.es/plan-amigo-hasta-700-euros",
+   "fuente_condiciones": "https://www.openbank.es/plan-amigo-hasta-700-euros"
   }
  ]
 }

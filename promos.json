@@ -282,6 +282,38 @@
    ],
    "fuente_oficial": "https://www.openbank.es/plan-amigo-hasta-700-euros",
    "fuente_condiciones": "https://www.openbank.es/plan-amigo-hasta-700-euros"
+  },
+  {
+   "slug": "bbva-plan-amigo",
+   "nombre": "BBVA Plan Amigo",
+   "tipo": "3 · Registro + uso de tarjeta",
+   "recompensa": "Hasta 50 € para el nuevo cliente que abre la cuenta con el código de invitación de un cliente de BBVA y usa su Tarjeta Aqua Débito; 400 € más si domicilia nómina o pensión de más de 800 €, la cuota de autónomos o mantiene 15.000 € de saldo (hasta 450 € en total). Quien invita gana 50 € por el primer amigo, 60 € por el 2.º y el 3.º y 70 € del 4.º al 10.º (hasta 660 € al año).",
+   "requisitos": "No ser cliente de BBVA ni haberlo sido en los últimos 6 meses; abrir la Cuenta Online Sin Comisiones o la Cuenta Nómina en bbva.es o la app (no vale con dos titulares); validar el código de un amigo cliente de BBVA durante el alta; usar Bizum; y hacer compras con la Tarjeta Aqua Débito que sumen 50 € en los 45 días siguientes (las preguntas frecuentes hablan de «un pago con tarjeta desde 50 €»). Si el invitado no cumple el segundo paso en plazo, los dos pierden el premio. Plan permanente, sin fecha de fin. La web no detalla cuándo se abona ni la fiscalidad: en verificación (mira las bases legales antes). Aquí no hay código.",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-09",
+   "gana_corto": "50 €",
+   "gana_sub": "por usar la tarjeta; +400 € con nómina, autónomos o 15.000 €",
+   "nota": {
+    "tiempo": 1.5,
+    "importe": 1.5,
+    "letra": 1.5,
+    "permanencia": 2
+   },
+   "nota_razon": {
+    "tiempo": "Alta online y 45 días para las compras; la web no dice cuándo se cobra.",
+    "importe": "50 € para el invitado, pero exige gastar 50 € con la tarjeta y no se publica la fiscalidad; los 400 € piden nómina, autónomos o 15.000 €.",
+    "letra": "Hace falta el código de un cliente, Bizum, no haber sido cliente en 6 meses y no vale con dos titulares; la web describe la compra de dos formas distintas.",
+    "permanencia": "Para los 50 € no se publica permanencia ni saldo mínimo."
+   },
+   "auto": true,
+   "fuentes": [
+    "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html",
+    "https://x.com/AnniLoInforma/status/2108442334711222388",
+    "https://x.com/SacandoPartido/status/2108209328712741111"
+   ],
+   "fuente_oficial": "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html",
+   "fuente_condiciones": "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html"
   }
  ]
 }

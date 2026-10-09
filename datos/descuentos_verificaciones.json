@@ -12,5 +12,12 @@
   "tienda": "EMP",
   "codigo": "E20",
   "nota": "La cesta de emp-online.es respondió «El cheque regalo \"E20\" es inválido» con la camiseta Tool «Lateralus» (talla L, 23,99 €). El total no bajó. Sin iniciar sesión y sin completar ninguna compra."
+ },
+ "e00a1534c1e7": {
+  "estado": "no_verificable",
+  "fecha": "2026-10-09",
+  "tienda": "LOOKFANTASTIC",
+  "codigo": "US5",
+  "nota": "La cesta de lookfantastic.es (champú Color Wow 250 ml, 21,62 €) respondió «El código de descuento que has introducido no es válido o no es aplicable al contenido de tu cesta» con US5. OJO: US5 es la vista previa de 3 caracteres que Widilo enseña antes de pulsar «Ver el código» (--code-preview), no el código completo; todos los códigos de descuentos.json tienen 3 caracteres. Sin iniciar sesión ni completar compra."
  }
 }

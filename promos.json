@@ -73,8 +73,8 @@
    "slug": "igraal",
    "nombre": "iGraal",
    "tipo": "6 · Cashback progresivo",
-   "recompensa": "10 € de bono de bienvenida para quien se registra con una invitación",
-   "requisitos": "Hay que hacer un pedido de al menos 12,40 € (sin gastos de envío y antes de IVA; según la marca el mínimo puede ser superior) apto para cashback en los 90 días siguientes al registro. El bono de 10 € se abona junto con el primer cashback validado. Quien invita recibe 15 € cuando su amigo acumula 3 € de cashback disponible, más el 10 % de su cashback validado el primer año.",
+   "recompensa": "Bono de bienvenida de hasta 10 € para quien se registra con una invitación (importe según campaña)",
+   "requisitos": "La página de invitación de iGraal anuncia 10 € de bono con un pedido de al menos 12,40 € (sin gastos de envío ni IVA) en los 90 días siguientes al registro, vinculado a los iGraal Days. Las condiciones generales del programa que figuran en el área de cliente indican 5 € con un pedido de al menos 8,26 €. Aplica la que figure cuando te registras; compruébalo en la página de invitación. El bono se abona junto con el primer cashback validado. Quien invita (yo) recibe 3 € cuando su amigo acumula 1 € de cashback disponible, más el 10 % de su cashback validado el primer año (la página de invitación llegó a anunciar 15 € a los 3 €).",
    "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
    "estado": "publicada",
    "verificado": "2026-10-09",
@@ -84,8 +84,8 @@
     "letra": 1.5,
     "permanencia": 2.5
    },
-   "gana_corto": "10 €",
-   "gana_sub": "de bienvenida con la invitación",
+   "gana_corto": "Hasta 10 €",
+   "gana_sub": "de bienvenida con la invitación, según la campaña vigente",
    "nota_texto": "Nota provisional: el plazo de validación del bono no está publicado.",
    "nota_razon": {
     "tiempo": "Registro rápido, pero el bono llega junto con el primer cashback validado, después de un pedido apto en los 90 días siguientes; iGraal no publica un plazo.",

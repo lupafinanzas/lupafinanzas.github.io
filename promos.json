@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-08",
+ "actualizado": "2026-10-09",
  "promos": [
   {
    "slug": "myinvestor",
@@ -9,7 +9,7 @@
    "requisitos": "Tú y tu amigo tenéis que cumplir UNA de estas condiciones en los 3 primeros meses desde la apertura de la cuenta: invertir 100 € (cartera indexada, fondos, planes de pensiones, acciones o ETFs), tener 1.000 € en efectivo en la cuenta o contratar un depósito. Los 25 € son brutos: con la retención del 19 % quedan 20,25 € netos. No hace falta mantener la inversión una vez recibido el abono, que se ingresa en tu cuenta de MyInvestor. Si en el momento del abono tu cuenta está en descubierto, pueden no abonarlo. Hasta 60 invitados por persona (1.500 € brutos); según sus bases, vigente hasta el 31/12/2026.",
    "enlace": "https://newapp.myinvestor.es/do/signup?promotionalCode=RMRHC",
    "estado": "publicada",
-   "verificado": "2026-10-08",
+   "verificado": "2026-10-09",
    "nota": {
     "tiempo": 1.5,
     "importe": 1.5,
@@ -47,7 +47,7 @@
    "requisitos": "Debes registrarte como nuevo usuario con el enlace de invitación y en la misma sesión, verificar tu cuenta y ganar al menos 5 € de cashback en marcas participantes dentro de los 180 días siguientes al registro. El bono es el que figure publicado cuando te registras, aunque cambie después. No cuentan para el umbral los bonos adicionales de registro, las promociones de bonificación, las ofertas para nuevos miembros ni el cashback de las marcas excluidas. El bono se abona cuando se aprueban las transacciones que alcanzan el umbral y se retira por transferencia bancaria o PayPal. Quien invita (yo) recibe 10 € cuando el invitado gana al menos 10 € de cashback en 180 días.",
    "enlace": "https://www.topcashback.es/ref/member9607000856",
    "estado": "publicada",
-   "verificado": "2026-10-08",
+   "verificado": "2026-10-09",
    "nota": {
     "tiempo": 1.5,
     "importe": 1,
@@ -77,7 +77,7 @@
    "requisitos": "Hay que hacer un pedido de al menos 12,40 € (sin gastos de envío y antes de IVA; según la marca el mínimo puede ser superior) apto para cashback en los 90 días siguientes al registro. El bono de 10 € se abona junto con el primer cashback validado. Quien invita recibe 15 € cuando su amigo acumula 3 € de cashback disponible, más el 10 % de su cashback validado el primer año.",
    "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
    "estado": "publicada",
-   "verificado": "2026-10-08",
+   "verificado": "2026-10-09",
    "nota": {
     "tiempo": 1.5,
     "importe": 1.5,
@@ -127,7 +127,7 @@
    "requisitos": "Para que la invitación cuente, el invitado debe ser un cliente nuevo de eToro (Europe) Ltd., residente en un país incluido (España lo está), verificar su cuenta y, en los 90 días siguientes al registro, hacer un primer depósito de al menos 100 USD y abrir operaciones por al menos 100 USD en total. Según las bases del 10/09/2026, el programa no se puede combinar con otras promociones y eToro puede cambiarlo o cancelarlo en cualquier momento. La recompensa de quien invita se acredita en su cuenta de eToro y no se puede retirar durante 90 días.",
    "enlace": "https://etoro.tw/4xWFLqX",
    "estado": "publicada",
-   "verificado": "2026-10-08",
+   "verificado": "2026-10-09",
    "nota": {
     "tiempo": 1,
     "importe": 0,
@@ -189,7 +189,7 @@
    "recompensa": "170 € de cashback de iGraal por contratar online una tarifa de luz de Iberdrola desde iGraal, hasta el 8/10/2026.",
    "requisitos": "Activar el cashback en iGraal antes de contratar y contratar online (si la venta es por teléfono no aparece sola y hay que reclamarla con un ticket; las compras desde la app de Iberdrola no generan cashback). Solo nuevos clientes: no vale si el contrato ya está en Iberdrola y solo cambias de tarifa. iGraal paga 1 cashback por CUPS (punto de suministro) y marca de electricidad al año: si ese punto recibió un cashback en los últimos 12 meses, no se paga. Las ofertas propias de Iberdrola que lista iGraal (saldos y descuentos por plan) tienen sus condiciones en la web de Iberdrola y no se han leído aquí.",
    "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
-   "estado": "publicada",
+   "estado": "caducada",
    "verificado": "2026-10-08",
    "caduca": "2026-10-08",
    "gana_corto": "170 €",
@@ -226,7 +226,7 @@
    "requisitos": "Apuntarte solo pide email, pero el dinero NO es efectivo: solo sirve para invertir en las carteras de twelve., y no se puede retirar, canjear ni transferir. Se activa cuando twelve. lance (sin fecha), al abrir la cuenta, pasar la verificación de identidad y hacer el primer pago con su tarjeta; tienes 90 días o caduca. twelve. puede modificar o cancelar los bonos antes del lanzamiento.",
    "enlace": "",
    "estado": "publicada",
-   "verificado": "2026-10-08",
+   "verificado": "2026-10-09",
    "gana_corto": "15 €",
    "gana_sub": "solo para invertir con twelve., no retirable",
    "nota": {

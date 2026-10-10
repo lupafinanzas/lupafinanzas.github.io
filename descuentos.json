@@ -1,76 +1,6 @@
 {
- "actualizado": "2026-10-09",
+ "actualizado": "2026-10-10",
  "descuentos": [
-  {
-   "id": "addba5634e7d",
-   "slug": "asics",
-   "tienda": "Asics",
-   "valor": "30%",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": "2026-10-09",
-   "modificado_en_fuente": "2026-10-05",
-   "titulo": "Hasta un 30% de descuento en artículos seleccionados",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/asics",
-   "leido": "2026-10-09"
-  },
-  {
-   "id": "d9fac0718930",
-   "slug": "decathlon",
-   "tienda": "Decathlon",
-   "valor": "10%",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": "2026-10-09",
-   "modificado_en_fuente": "2026-10-08",
-   "titulo": "No dejes perder un 10% de descuento en esta selección en los Play Days",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
-   "leido": "2026-10-09"
-  },
-  {
-   "id": "18c6f3552ff1",
-   "slug": "decathlon",
-   "tienda": "Decathlon",
-   "valor": "15%",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": "2026-10-09",
-   "modificado_en_fuente": "2026-10-08",
-   "titulo": "Aprovecha el 15% de descuento en los Play Days",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
-   "leido": "2026-10-09"
-  },
-  {
-   "id": "52e40312e8c3",
-   "slug": "decathlon",
-   "tienda": "Decathlon",
-   "valor": "20%",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": "2026-10-09",
-   "modificado_en_fuente": "2026-10-08",
-   "titulo": "20% de descuento en esta selección en los Play Days",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
-   "leido": "2026-10-09"
-  },
-  {
-   "id": "a875cff73dba",
-   "slug": "decathlon",
-   "tienda": "Decathlon",
-   "valor": "5%",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": "2026-10-09",
-   "modificado_en_fuente": "2026-10-08",
-   "titulo": "Aprovecha un -5% en una selección de productos en los Play Days",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
-   "leido": "2026-10-09"
-  },
   {
    "id": "e00a1534c1e7",
    "slug": "lookfantastic",
@@ -83,7 +13,7 @@
    "titulo": "25% DE DESCUENTO + 5% EXTRA",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lookfantastic",
-   "leido": "2026-10-09",
+   "leido": "2026-10-10",
    "verificacion": {
     "estado": "no_verificable",
     "fecha": "2026-10-09",
@@ -102,7 +32,7 @@
    "titulo": "2 € de descuento en compras de 29 €",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miravia",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f94323889c18",
@@ -116,7 +46,7 @@
    "titulo": "4 € de descuento en compras a partir de 29 €",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miravia",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "37e742564902",
@@ -130,7 +60,7 @@
    "titulo": "4 € de descuento en compras a partir de 45 €",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miravia",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e9c462ff3610",
@@ -144,7 +74,7 @@
    "titulo": "6 € de descuento en compras a partir de 39 €",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miravia",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "6e380a4deef0",
@@ -158,7 +88,7 @@
    "titulo": "40% de descuento en artículos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/about-you",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a5690de83b0f",
@@ -172,7 +102,7 @@
    "titulo": "€10 de descuento en compras mínimas de €99",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/aliexpress",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3f9cf9305e21",
@@ -186,7 +116,7 @@
    "titulo": "€15 de descuento en compras mínimas de €139",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/aliexpress",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "dc45abdf0e3c",
@@ -200,7 +130,7 @@
    "titulo": "€4 de descuento en compras mínimas de €35",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/aliexpress",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c0826a1e9581",
@@ -214,7 +144,7 @@
    "titulo": "Día de marcas ¡Ahorra hasta un 60% en tus compras!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/aliexpress",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9e138bcbbf4c",
@@ -228,7 +158,7 @@
    "titulo": "€6 de descuento en compras mínimas de €59",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/aliexpress",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4f81d58471e2",
@@ -242,7 +172,7 @@
    "titulo": "25% de descuento para tu escapada de otoño",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/centauro",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "eb0dce90c18c",
@@ -256,7 +186,7 @@
    "titulo": "Rebajas Desigual: Hasta 30% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/desigual",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b178b0f84b48",
@@ -270,7 +200,7 @@
    "titulo": "Mid Season Sale: hasta un 30%",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/desigual",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e5882f3c3b34",
@@ -284,7 +214,7 @@
    "titulo": "40% de descuento en la 2ª unidad de Neoretin",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/dosfarma",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3ad98b5602d8",
@@ -298,7 +228,7 @@
    "titulo": "Renta un auto con hasta 50% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hertz",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4adc3f208210",
@@ -312,7 +242,7 @@
    "titulo": "-11% de descuento en el Google Pixel 11 Pro XL",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c91833d31e5a",
@@ -326,7 +256,7 @@
    "titulo": "16% de descuento en el Motorola Edge 60 12GB + 512GB (Shamrock)",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4c2cf5008d0f",
@@ -340,7 +270,7 @@
    "titulo": "18% de descuento en el Motorola Edge 60 12GB + 512GB (Gibraltar Sea)",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2438b75af5da",
@@ -354,7 +284,7 @@
    "titulo": "-24% de descuento en el Samsung Galaxy S26 Ultra 1 TB",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "15dd575a4f25",
@@ -368,7 +298,7 @@
    "titulo": "-28% de descuento en el Realme 14T 8 GB + 256 GB (Black)",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "6c2796fd7228",
@@ -382,7 +312,7 @@
    "titulo": "-28% de descuento en el Realme 14T 8 GB + 256 GB (Purple)",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "bed8863ed3cf",
@@ -396,7 +326,7 @@
    "titulo": "-5% de descuento en el Google Pixel 11 Pro",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3d40e09715e6",
@@ -410,7 +340,7 @@
    "titulo": "20% OFF en Torriden + 5% EXTRA con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miin-cosmetics",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f1c91f63ff05",
@@ -424,7 +354,7 @@
    "titulo": "Hasta un 40% dto. en Descuentos de primera",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miravia",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "94bfbabf5945",
@@ -438,7 +368,7 @@
    "titulo": "Equipa tu hogar para la limpieza con descuentos de hasta 600€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mova",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f02ac7e4f73b",
@@ -452,7 +382,7 @@
    "titulo": "Hasta un 30% de descuento en los suplementos más deseados de N2",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/n2naturalnutrition",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "22f13c1235a2",
@@ -466,7 +396,7 @@
    "titulo": "Hasta un 20% de descuento en marcas y productos seleccionados con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/notino",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e152eab5490b",
@@ -480,7 +410,7 @@
    "titulo": "¡Aprovecha hasta un 50% de descuento en gafas de sol seleccionadas en Oakley.com!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/oakley",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "d49eab9f4c12",
@@ -494,7 +424,7 @@
    "titulo": "Hasta un 60% de descuento en tecnología y hogar",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/pccomponentes",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2c24f50ed0f1",
@@ -508,7 +438,7 @@
    "titulo": "Hasta un -40% en muchísimos productos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/pixartprinting",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e36b6a7557e0",
@@ -522,7 +452,21 @@
    "titulo": "20% de dto. EXTRA en barras de sonido con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/samsung",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
+  },
+  {
+   "id": "31d2a5d94454",
+   "slug": "sharkninja",
+   "tienda": "SharkNinja",
+   "valor": "15%",
+   "tipo": "codigo",
+   "codigo": "L15",
+   "caduca": "2026-10-11",
+   "modificado_en_fuente": "2026-10-07",
+   "titulo": "-15% de descuento en Air Fryer Dobles",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/sharkninja",
+   "leido": "2026-10-10"
   },
   {
    "id": "23839f327455",
@@ -536,7 +480,7 @@
    "titulo": "Descuentos de hasta -200€ en Aspiradoras",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/sharkninja",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3a98a6f29eb0",
@@ -550,7 +494,7 @@
    "titulo": "Descuentos de hasta el -30% en las ofertas de Otoño",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/sharkninja",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "334587008276",
@@ -564,7 +508,7 @@
    "titulo": "10% de descuento con el cupón",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/virbac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a1e8a006ef66",
@@ -578,7 +522,7 @@
    "titulo": "Rebajas de otoño de Voghion: hasta un 50 % de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/voghion",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "590c57c58ad0",
@@ -592,7 +536,7 @@
    "titulo": "5% de descuento EXTRA en ciclismo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/365rider",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "6ee7ffd78373",
@@ -606,7 +550,7 @@
    "titulo": "6% de descuento EXTRA en running",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/365rider",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "cf6a0be2e31d",
@@ -620,7 +564,7 @@
    "titulo": "Envío gratis + 10€ en AliExpress Choice",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/aliexpress",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "d32c489b93dc",
@@ -634,7 +578,7 @@
    "titulo": "Promoción de mitad de temporada: hasta un 30% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/calvin-klein",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c6fef1ca3aa6",
@@ -648,7 +592,7 @@
    "titulo": "Disfruta de ahorros exclusivos de hasta un 25%",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/delonghi",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3e3948d7aab1",
@@ -662,7 +606,7 @@
    "titulo": "30% de descuento en rebajas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/desigual",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f50495f94b32",
@@ -676,7 +620,7 @@
    "titulo": "Hasta un -50 % + 5% extra para miembros FLX",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/foot-locker",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c991d66ebda6",
@@ -690,7 +634,7 @@
    "titulo": "Hasta un 40 % de descuento en rutas seleccionadas al reservar a través de Club Express",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iberia-express",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2642a73cee06",
@@ -704,7 +648,7 @@
    "titulo": "Hasta un 30% de descuento en productos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/kenwood",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4b5dda32f47b",
@@ -718,7 +662,7 @@
    "titulo": "Hasta 30% de descuento en productos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/moulinex",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "7b031107ccb2",
@@ -732,7 +676,7 @@
    "titulo": "20% de descuento en toda la web",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/nars",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8b9198fd1967",
@@ -746,7 +690,7 @@
    "titulo": "Hasta un 30% de descuento en una selección de productos para labios",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/nars",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f86fd9be0143",
@@ -760,7 +704,7 @@
    "titulo": "Hasta 30% de descuento en productos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/rowenta",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "737bc1f0a133",
@@ -774,7 +718,7 @@
    "titulo": "Hasta un 40 % de descuento en los planes Standard y Premium durante 6 meses",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/skyshowtime",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "7fb455707bb9",
@@ -788,7 +732,7 @@
    "titulo": "AHORRA UN 40% EN LOS PLANES ESTÁNDAR Y PRÉMIUM",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/skyshowtime",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "92217a96d670",
@@ -802,21 +746,7 @@
    "titulo": "Hasta 30% de descuento en productos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/tefal",
-   "leido": "2026-10-09"
-  },
-  {
-   "id": "c3bfea62eac1",
-   "slug": "yesstyle",
-   "tienda": "Yesstyle",
-   "valor": "15%",
-   "tipo": "codigo",
-   "codigo": "W26",
-   "caduca": "2026-10-12",
-   "modificado_en_fuente": "2026-10-06",
-   "titulo": "Hasta un 15% de descuento adicional",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/yesstyle",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "af53b951924e",
@@ -830,7 +760,7 @@
    "titulo": "Mid Season Sales: Hasta 30% de descuento en una selección de artículos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/adidas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3038305d9fb5",
@@ -844,7 +774,7 @@
    "titulo": "Ofertas con hasta un 50% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iherb",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e251551d42d9",
@@ -858,7 +788,7 @@
    "titulo": "Disfruta de descuentos de hasta 50% en toda la web, tanto en Moda como Hogar",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/la-redoute",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5621a3a46572",
@@ -872,7 +802,7 @@
    "titulo": "Grandes Viajes con hasta 200€ de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/logitravel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "7812b8255235",
@@ -886,7 +816,7 @@
    "titulo": "Hoteles con hasta 200€ de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/logitravel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3b072e17a6f6",
@@ -900,7 +830,7 @@
    "titulo": "Paquetes vacacionales con hasta 200€ de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/logitravel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1ea9ca1ff660",
@@ -914,7 +844,7 @@
    "titulo": "Hasta un 50% de descuento en las ofertas de Oktubre",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a81c032e21e2",
@@ -928,7 +858,7 @@
    "titulo": "Hasta 55% de descuento en la Semana Web",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3f7fd3dc33f9",
@@ -942,7 +872,7 @@
    "titulo": "10% de dto. EXTRA en Samsung Shop App con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/samsung",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "132d17e5d3b0",
@@ -956,7 +886,7 @@
    "titulo": "Hasta 720€ de reembolso por tu antiguo dispositivo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/samsung",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9a1bd0c3862b",
@@ -970,7 +900,7 @@
    "titulo": "Cupón de 15% de descuento adicional válido durante 96 horas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/yesstyle",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "87ad84b8cf40",
@@ -984,7 +914,7 @@
    "titulo": "Hasta un 30% de descuento en Under Armour",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e7aaf07735f4",
@@ -998,7 +928,7 @@
    "titulo": "30% de descuento en las rebajas de mitad de temporada",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/havaianas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "132a973a9793",
@@ -1012,7 +942,7 @@
    "titulo": "20% de descuento en Doctor’s Best",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iherb",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "ba77577cd9fb",
@@ -1026,7 +956,7 @@
    "titulo": "15% de descuento en franquicia de riesgo elevado",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/goldcar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "bb98baa88d9a",
@@ -1040,7 +970,7 @@
    "titulo": "50% de descuento en Añadir conductor",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/goldcar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "28c2a14cac00",
@@ -1054,7 +984,7 @@
    "titulo": "50% de descuento en Check-in prioritario",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/goldcar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c36b4f615832",
@@ -1068,7 +998,7 @@
    "titulo": "50% de descuento en franquicia de riesgo medio",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/goldcar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5ade97c844df",
@@ -1082,7 +1012,7 @@
    "titulo": "La mejor oferta de Black Friday de la historia, con hasta un 50% de descuento en todo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/gymshark",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "03e9442349d2",
@@ -1096,7 +1026,7 @@
    "titulo": "Hasta un 50% de descuento y los socios obtienen +5% adicional",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/snipes",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "d233c222e1e1",
@@ -1110,7 +1040,7 @@
    "titulo": "Añade un segundo producto a tu cesta y disfruta al instante de un 50% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/yves-rocher",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "184e43c7696a",
@@ -1124,7 +1054,7 @@
    "titulo": "Elige 2 productos y ¡desbloquea un -50 %!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/yves-rocher",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "ec29e474aaaf",
@@ -1138,7 +1068,7 @@
    "titulo": "Hasta un 20 % en Europcar",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/europcar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3b00b0248605",
@@ -1152,7 +1082,7 @@
    "titulo": "5% de descuento en recambios y accesorios con el codigo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/motointegrator",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "eedd16e236e0",
@@ -1166,7 +1096,7 @@
    "titulo": "-10% de descuento EXTRA con el código promocional",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/barcelo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "dd96d120f070",
@@ -1180,7 +1110,7 @@
    "titulo": "Hasta un 50% dto en complementos de descanso en Bed's",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/bed-s",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4a4f94523cbe",
@@ -1194,7 +1124,7 @@
    "titulo": "Hasta un 30% de descuento en productos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/braun",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9835471bd28f",
@@ -1208,7 +1138,7 @@
    "titulo": "Hasta el 30% de descuento en una selección de productos de Bienestar Deportivo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/dosfarma",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "afb35813cd36",
@@ -1222,7 +1152,7 @@
    "titulo": "-25% de descuento en LEGO",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "089d1749d176",
@@ -1236,7 +1166,7 @@
    "titulo": "¡Mid Season Sale con hasta el 40% de descuento en miles de productos!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/futbol-emotion",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8646ffb8157c",
@@ -1250,7 +1180,7 @@
    "titulo": "70€ de descuento en el HUAWEI WATCH GT 7",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/huawei",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e4b6b4173d1c",
@@ -1264,7 +1194,7 @@
    "titulo": "Cómodas y mesillas de noche, con 20% de descuento directo compras mínimas de 150€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ikea",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9d8376ec5556",
@@ -1278,7 +1208,7 @@
    "titulo": "Ahorra hasta un 50% en las rebajas de mitad de temporada de Levi's",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/levi-s",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "bfc1c21da4ef",
@@ -1292,7 +1222,7 @@
    "titulo": "Hasta 282€ de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/oral-b",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2f2e52c2534a",
@@ -1306,7 +1236,7 @@
    "titulo": "Hasta un 30% de descuento en las Mid Season Sales",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/polo-club",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "37cc7b17611a",
@@ -1320,7 +1250,7 @@
    "titulo": "Disfruta de los nuevos SUPER CHOLLOS con hasta -60% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/carrefour",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "065b7b9b41b6",
@@ -1334,7 +1264,7 @@
    "titulo": "Código descuento Farma2Go: Ahorra un 5% en tu siguiente compra",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/farma2go",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f3856fba136c",
@@ -1348,7 +1278,7 @@
    "titulo": "Ahorra un 5% con el código de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/farma2go",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "04ac1d9e188b",
@@ -1362,7 +1292,7 @@
    "titulo": "Ahorra 100€ al comprar un Pixel 11 Pro XL",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/google-store",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e4dae3850e94",
@@ -1376,7 +1306,7 @@
    "titulo": "Ahorra 100€ al comprar un Pixel 11 Pro",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/google-store",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "af642478ca85",
@@ -1390,7 +1320,7 @@
    "titulo": "Ahorra 100€ al comprar un Pixel 11",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/google-store",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "20a92b89848e",
@@ -1404,7 +1334,7 @@
    "titulo": "-40% en cuadros personalizados y calendarios personalizados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hofmann",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "689f7c5aa683",
@@ -1418,7 +1348,7 @@
    "titulo": "Disfruta de un -40% en puzzles, imanes y tazas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hofmann",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "87fb428a4d93",
@@ -1432,7 +1362,7 @@
    "titulo": "-35% en el Móvil Samsung Galaxy S25 6,2\" Qualcomm Snapdragon 8 Elite",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "170b029b9e78",
@@ -1446,7 +1376,7 @@
    "titulo": "-50% en la TV Micro RGB 163cm (65\") Samsung",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f9b0514e0d4c",
@@ -1460,7 +1390,7 @@
    "titulo": "Celebra el comienzo de una nueva temporada con un -20% a partir de una pulsera y 2 charms",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/pandora",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "37874ed692b7",
@@ -1474,7 +1404,7 @@
    "titulo": "Hasta 25% de descuento en iluminación por la compra de 2 o más productos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/philips-hue",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "adedb276a043",
@@ -1488,7 +1418,7 @@
    "titulo": "25€ de descuento a partir de 300€ en artículos seleccionados con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a241bc8b50ba",
@@ -1502,7 +1432,7 @@
    "titulo": "30€ de descuento a partir de 400€ en artículos seleccionados con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8866cbb7b8ca",
@@ -1516,7 +1446,7 @@
    "titulo": "Hasta un 52 % de descuento en productos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/asus",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1d0f9caeae68",
@@ -1530,7 +1460,7 @@
    "titulo": "10€ en Key'n Go con un mínimo de 100€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/goldcar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b783ff3097ed",
@@ -1544,7 +1474,7 @@
    "titulo": "30€ de descuento con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/huawei",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c1214bd7e5d2",
@@ -1558,7 +1488,7 @@
    "titulo": "Obtén hasta un 50% de ahorro en esta selección de almohadas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/emma",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "ad65f4ccd63f",
@@ -1572,7 +1502,7 @@
    "titulo": "Compra tu cama Emma con hasta un 60% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/emma",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "6d0cfa6d467e",
@@ -1586,7 +1516,7 @@
    "titulo": "Disfruta de hasta un 65% de descuento en colchones",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/emma",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "512d74237dde",
@@ -1600,7 +1530,7 @@
    "titulo": "Hasta 65% de descuento en las Rebajas de Otoño",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/emma",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "13c04513713a",
@@ -1614,7 +1544,7 @@
    "titulo": "-30% en cuadros, calendarios, regalos y tarjetas en pedidos a partir de 35€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hofmann",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "fc340b9708e2",
@@ -1628,7 +1558,7 @@
    "titulo": "-40% en álbumes en pedidos a partir de 35€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hofmann",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3a5fd427e041",
@@ -1642,7 +1572,7 @@
    "titulo": "Cruceros con hasta 500€ de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/logitravel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1ab4a0830f0d",
@@ -1656,7 +1586,7 @@
    "titulo": "-25% en una selección de marcas solo en la App con el cupón",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/douglas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9aa2cdf0f744",
@@ -1670,7 +1600,7 @@
    "titulo": "Hasta -30% en selección Telefonía",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f41a8f1412fc",
@@ -1684,7 +1614,7 @@
    "titulo": "Hasta -35% en selección Imagen",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3ad9c92ff0c5",
@@ -1698,7 +1628,7 @@
    "titulo": "Hasta -35% en selección Informática",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "dac8352423ca",
@@ -1712,7 +1642,7 @@
    "titulo": "Hasta -40% en selección Fotografía",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "640032cd85b5",
@@ -1726,7 +1656,7 @@
    "titulo": "Hasta -45% en selección Hogar",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b27909043e42",
@@ -1740,7 +1670,7 @@
    "titulo": "Hasta -50% en selección Gaming",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e83c344c3a50",
@@ -1754,7 +1684,7 @@
    "titulo": "Hasta -50% en selección Sonido",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5180cb27e4d5",
@@ -1768,7 +1698,7 @@
    "titulo": "20% de descuento en Trenitalia Francia",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/trainline",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "83ef86fa2fce",
@@ -1782,7 +1712,7 @@
    "titulo": "20% de descuento en Trenitalia Italia",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/trainline",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "ad58aa982da2",
@@ -1796,7 +1726,7 @@
    "titulo": "20% de descuento en Iryo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/trainline",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c9bd73301111",
@@ -1810,7 +1740,7 @@
    "titulo": "Hasta -50% en muebles atemporales diseñados para perdurar en el tiempo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/banak",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "dfbe78134cb9",
@@ -1824,7 +1754,7 @@
    "titulo": "Cine Yelmo con hasta 30% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/groupon",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "56bf55a93c31",
@@ -1838,7 +1768,7 @@
    "titulo": "Compra tus gafas de vista y aprovecha el 30% de descuento en una amplia selección de marcas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/amevista",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1a1a5029b7da",
@@ -1852,7 +1782,7 @@
    "titulo": "10 € de descuento a partir de 100 € en toda la web con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3b844dddc546",
@@ -1866,7 +1796,7 @@
    "titulo": "15 € de descuento a partir de 150 € en toda la web con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3e03297cfcfc",
@@ -1880,7 +1810,7 @@
    "titulo": "3 € de descuento a partir de 30 € en toda la web con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e23a3047a1de",
@@ -1894,7 +1824,7 @@
    "titulo": "5 € de descuento a partir de 50 € en toda la web con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8528dcbd9c27",
@@ -1908,7 +1838,7 @@
    "titulo": "15% de descuento en TODO",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/cult-beauty",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f32bbdda0e19",
@@ -1922,7 +1852,7 @@
    "titulo": "15% de descuento en casi todo el catálogo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/cult-beauty",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "ad4aa917aa82",
@@ -1936,7 +1866,7 @@
    "titulo": "-30€ de descuento en los Skechers Slip-Ins Summits Dream Mujer",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "71382bbbcb9c",
@@ -1950,7 +1880,7 @@
    "titulo": "-30€ de descuento en los Skechers Slip-Ins Summits Hombre",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "7535ca6b8bb0",
@@ -1964,7 +1894,7 @@
    "titulo": "-40€ de descuento en los Skechers Max cushioning Hombre",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9eae69c0924b",
@@ -1978,7 +1908,7 @@
    "titulo": "-42€ de descuento en los Skechers Uno Hombre",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "6914abf31f8a",
@@ -1992,7 +1922,7 @@
    "titulo": "Aprovecha las ofertas eBay con hasta 80% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ebay",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "16edf910293c",
@@ -2006,7 +1936,7 @@
    "titulo": "Oportunidad: Reserva tu Vuelo + Hotel juntos y ahorra hasta un 40%",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/edreams",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "dca93d560414",
@@ -2020,7 +1950,7 @@
    "titulo": "Ofertas del mes hasta -50% en la 2ªud en alimentación, accesorios, higiene y salud",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "6dcededa30a6",
@@ -2034,7 +1964,7 @@
    "titulo": "Hasta un 35% de descuento en cafeteras",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5e6d949afe6d",
@@ -2048,7 +1978,7 @@
    "titulo": "Hasta un 55% de descuento en Mid Season Sale",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/footdistrict",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e366069f6019",
@@ -2062,7 +1992,7 @@
    "titulo": "Plan de Cine Completo con entradas, palomitas y bebida en Cines ABC con hasta un 52% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/groupon",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1db49491d775",
@@ -2076,7 +2006,7 @@
    "titulo": "Hasta un 40% de descuento en Iberostar República Dominica",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iberostar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c86ab90aed5d",
@@ -2090,7 +2020,7 @@
    "titulo": "Hasta un 40% de descuento en Iberostar Selection Zanzíbar",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iberostar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "21af41ffddcd",
@@ -2104,7 +2034,7 @@
    "titulo": "Hasta un 60% de descuento en Iberostar Mexico",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iberostar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f982b7f3ea97",
@@ -2118,7 +2048,7 @@
    "titulo": "5% de descuento en lavadoras en compras superiores a 150€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lg",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3ea91477905e",
@@ -2132,7 +2062,7 @@
    "titulo": "Prepara tu jardín para el otoño con hasta 60% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/manomano",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "bf5dbcfd19de",
@@ -2146,7 +2076,7 @@
    "titulo": "Compra tus gafas con IA desde 247€ o solo 21€ al mes",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/meta",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8f90d6fbdf99",
@@ -2160,7 +2090,7 @@
    "titulo": "10% OFF en los esenciales coreanos perfectos para el verano",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miin-cosmetics",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "31ac88d4add0",
@@ -2174,7 +2104,7 @@
    "titulo": "2% de descuento inmediato en toda la web",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/oscaro",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "853c0e3a78d0",
@@ -2188,7 +2118,7 @@
    "titulo": "100€ de descuento con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/pcbox",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "eb8e4e408f30",
@@ -2202,7 +2132,7 @@
    "titulo": "50€ de descuento con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/pcbox",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5019774a8cf6",
@@ -2216,7 +2146,7 @@
    "titulo": "Hasta un 45% de descuento en Bioderma",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b98f9857080b",
@@ -2230,7 +2160,7 @@
    "titulo": "Disfruta de 5€ de dto en productos de maquillaje",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "29aba91f1304",
@@ -2244,7 +2174,7 @@
    "titulo": "Hasta 20% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/plaud-ai",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "290833c93f3b",
@@ -2258,7 +2188,7 @@
    "titulo": "5€ de descuento con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/saludonnet",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9f89127161fb",
@@ -2272,7 +2202,7 @@
    "titulo": "30% de descuento en libros y libros electrónicos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/springer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0905ca3ef47f",
@@ -2286,7 +2216,7 @@
    "titulo": "OFERTAS DESTACADAS: 30% de descuento en libros y libros electrónicos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/springer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c6d2fc29a280",
@@ -2300,7 +2230,7 @@
    "titulo": "-67% en el Adelgazamiento relámpago",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/tummytox",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b07cbed55a63",
@@ -2314,7 +2244,7 @@
    "titulo": "-15 % en comida húmeda Pro Plan para nuevos clientes",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/zooplus",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "225997796543",
@@ -2328,7 +2258,7 @@
    "titulo": "20 % de descuento en comida para perros Cesar",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/zooplus",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "669930f2bb11",
@@ -2342,7 +2272,7 @@
    "titulo": "19% en la Robot Roomba Plus 675 Combo con Base AutoWash - Negro",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/irobot",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "517349088619",
@@ -2356,7 +2286,7 @@
    "titulo": "22% en la Robot Roomba Max 775 Combo con Base AutoWash - Blanco",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/irobot",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b564d9f961e0",
@@ -2370,7 +2300,7 @@
    "titulo": "25% en la Robot Roomba Max 875 Combo con Base AutoWash - Negro",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/irobot",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "bd207bb9b128",
@@ -2384,7 +2314,7 @@
    "titulo": "300€ de descuento en pedidos superiores a 900€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hp",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b9ca3ce036a6",
@@ -2398,7 +2328,7 @@
    "titulo": "450€ de descuento en pedidos superiores a 1.200€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hp",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "dc6d431bc013",
@@ -2412,7 +2342,7 @@
    "titulo": "50€ extra de descuento al comprar un monitor, accesorio, impresora o Care Pack junto con un equipo HP",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hp",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e71956f62721",
@@ -2426,7 +2356,7 @@
    "titulo": "600€ de descuento en pedidos superiores a 1.600€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hp",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "6b687310b2b4",
@@ -2440,7 +2370,7 @@
    "titulo": "KALLAX accesorios y estructuras inferiores, con 20% de descuento directo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ikea",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0fdc755bcbb2",
@@ -2454,7 +2384,7 @@
    "titulo": "Colchones individuales 80x200cm y 90x200cm, segunda unidad al 50%",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ikea",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "62c7219bc525",
@@ -2468,7 +2398,7 @@
    "titulo": "50º Aniversario de Acer: HASTA 30% DE DESCUENTO",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/acer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e3f4ac1447e3",
@@ -2482,7 +2412,7 @@
    "titulo": "HASTA 30% DE DESCUENTO en accesorios seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/acer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "32aa8a818256",
@@ -2496,7 +2426,7 @@
    "titulo": "HASTA 30% DE DESCUENTO en determinados portátiles",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/acer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3b834169953f",
@@ -2510,7 +2440,7 @@
    "titulo": "HASTA 30% DE DESCUENTO en monitores seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/acer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "af205fd2cb46",
@@ -2524,7 +2454,7 @@
    "titulo": "HASTA 30% DE DESCUENTO en ordenadores de sobremesa seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/acer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e15548ee012f",
@@ -2538,7 +2468,7 @@
    "titulo": "HASTA 30% DE DESCUENTO en productos de juegos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/acer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4a89aa1e131b",
@@ -2552,7 +2482,7 @@
    "titulo": "Hasta 300€ de descuento por camarote",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/costa-cruceros",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f22e672e4a37",
@@ -2566,7 +2496,7 @@
    "titulo": "20% de descuento en Esimflag",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/esim-flag",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "236a66d582f1",
@@ -2580,7 +2510,7 @@
    "titulo": "Disfruta de un -25% en piezas seleccionadas de la temporada OI26 por tiempo limitado",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/farfetch",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "d47d6a0c8355",
@@ -2594,7 +2524,7 @@
    "titulo": "Descuentos TOP Deportes hasta -30%",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f1ab1aa254f7",
@@ -2608,7 +2538,7 @@
    "titulo": "El clásico MAMMA MIA desde 19.39€ ¡Canta la música de ABBA!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/entradas-com",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4949f40a89ec",
@@ -2622,7 +2552,7 @@
    "titulo": "Alquila un auto y obtén hasta un 50 % de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hertz",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e37beb5c6ed3",
@@ -2636,7 +2566,7 @@
    "titulo": "Hasta -80% en nuestra selección de bicicletas de Trekking",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/upway",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f3513a728558",
@@ -2650,7 +2580,7 @@
    "titulo": "Hasta un 70% en el Archive Sale",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/footdistrict",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "bbaa966de77d",
@@ -2664,7 +2594,7 @@
    "titulo": "Preparate para el invierno con hasta 60% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/manomano",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "deee1d0c6843",
@@ -2678,7 +2608,7 @@
    "titulo": "Descuentos de hasta el 70% en productos seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ohgar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8adbefd01a41",
@@ -2692,7 +2622,7 @@
    "titulo": "Ahorra 20% en tu suscripción con este cupón OKMobility",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/okmobility",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "7812b1b78437",
@@ -2706,7 +2636,7 @@
    "titulo": "10 % de descuento para nuevos clientes en la aplicación",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/omio",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "67861ec4b515",
@@ -2720,7 +2650,7 @@
    "titulo": "10 % de descuento para nuevos clientes",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/omio",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "182c9a64cc52",
@@ -2734,7 +2664,7 @@
    "titulo": "Ahorra hasta 150€ de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/oral-b",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "89ed31699c77",
@@ -2748,7 +2678,7 @@
    "titulo": "Consigue un 10% de descuento en todos los libros y libros electrónicos en inglés",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/springer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "16c46d502866",
@@ -2762,7 +2692,7 @@
    "titulo": "15% de descuento para los nuevos clientes de la tienda SpringerLink",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/springer",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "90eeda9d6dc4",
@@ -2776,7 +2706,7 @@
    "titulo": "Nuevas rutas en España con hasta un 15% de descuento ¡Vamos!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/wizz",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b5d9092b6100",
@@ -2790,7 +2720,7 @@
    "titulo": "¡Código descuento Vivo! Consigue hasta -10% con tu promoción exclusiva",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/vivo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "57d3080287ae",
@@ -2804,7 +2734,7 @@
    "titulo": "Botas NIKE con 70% de descuento con el cupón",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/futbolmania",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3a30d7e6830c",
@@ -2818,7 +2748,7 @@
    "titulo": "Reserva tu estancia en Lopesan Hotels, Punta Cana, y obtén hasta un 30% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lopesan-hoteles",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "68b5103c1cdf",
@@ -2832,7 +2762,7 @@
    "titulo": "Consigue hasta un 30% de descuento en estancias",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lopesan-hoteles",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "aea53e578e12",
@@ -2846,7 +2776,7 @@
    "titulo": "25% de descuento, pagando 6,69 € al mes durante 12 meses",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/skyshowtime",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0b81651b65c8",
@@ -2860,7 +2790,7 @@
    "titulo": "¡OPORTUNIDAD! Hasta un -15% de ahorro a Peregrinos del Camino de Santiago",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/paradores",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2d968ff0298d",
@@ -2874,7 +2804,7 @@
    "titulo": "¡Oferta! La Cuenta Online ofrece hasta 1.200€ a los nuevos clientes",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/bbva",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b7ef17595165",
@@ -2888,7 +2818,7 @@
    "titulo": "Aprovecha tu CÓDIGO DESCUENTO Lenstore: Llévate hasta 5% en tus compras",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lenstore",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a0b1be5a6f66",
@@ -2902,7 +2832,7 @@
    "titulo": "¡Hasta 30% menos en tus compras!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/loop-earplugs",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b87d5b45c203",
@@ -2916,7 +2846,7 @@
    "titulo": "Aprovecha para ver a Harry Styles en concierto por solo 129€ ¡Ahora o nunca!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/p1-travel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0f1e69fd0a3b",
@@ -2930,7 +2860,7 @@
    "titulo": "Aprovecha hasta un 3% de ahorro en la web ¡Código descuento Autodoc!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/autodoc",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "82dd453b271b",
@@ -2944,7 +2874,7 @@
    "titulo": "Cupón promocional: -5% de descuento en Hoteles",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lastminute",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "41c456f28de6",
@@ -2958,7 +2888,7 @@
    "titulo": "5% de descuento en Hoteles con tu código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lastminute",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5508211a2da1",
@@ -2972,7 +2902,7 @@
    "titulo": "Oportunidad: Participa en el sorteo y gana hasta 10.000€ ¡Aprovecha!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/profesional-dj",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "d2a4e3a19d23",
@@ -2986,7 +2916,7 @@
    "titulo": "Cupón promocional STIHL: 5% ahorro",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/stihl",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2de749e0f74f",
@@ -3000,7 +2930,7 @@
    "titulo": "Código descuento Vinatis: Consigue -10€ en tu primer pedido",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/vinatis",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a019d5b495d3",
@@ -3014,7 +2944,7 @@
    "titulo": "Consigue tu limpiador con hasta un 30% de descuento en la 2ª unidad",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/yves-rocher",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0622c21a5d8a",
@@ -3028,7 +2958,7 @@
    "titulo": "Código descuento Yves Rocher: Oferta de bienvenida -50% en el primer producto",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/yves-rocher",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "865f6d202746",
@@ -3042,7 +2972,7 @@
    "titulo": "Disfruta tu código descuento Yves Rocher: -50% en el primer producto de la cesta",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/yves-rocher",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "06b8a326b937",
@@ -3056,7 +2986,7 @@
    "titulo": "Ahorra hasta un 10% EXTRA en eSIMs con tu código descuento Airalo ¡ACTÍVALO!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/airalo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "89fe19f2f5bb",
@@ -3070,7 +3000,7 @@
    "titulo": "-15% en tu primera compra con este código descuento Airalo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/airalo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c08246b6f47e",
@@ -3084,7 +3014,7 @@
    "titulo": "Lentes graduadas con 15% de descuento usando tu cupón Amevista",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/amevista",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8be8abe3b9cd",
@@ -3098,7 +3028,7 @@
    "titulo": "Canjea este cupón Amevista y obtén -40% en el segundo par de gafas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/amevista",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0642002977bf",
@@ -3112,7 +3042,7 @@
    "titulo": "Descarga la app y llévate un -20% con el código descuento ASOS",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/asos",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "92d29b620573",
@@ -3126,7 +3056,7 @@
    "titulo": "Hasta el 35% en alquileres de coches en todo el mundo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/autoeurope",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "53ccfa8bf3ac",
@@ -3140,7 +3070,7 @@
    "titulo": "Ahorra un 5% en AXA Seguros de Viaje",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/axa-assistance",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1deafbbef495",
@@ -3154,7 +3084,7 @@
    "titulo": "Ofertas exclusivas Hapiness Sale con hasta el 50% de ahorro",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/bahia-principe",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5bf1215d2b21",
@@ -3168,7 +3098,7 @@
    "titulo": "Oferta FLASH: -40% de descuento en el destino Caribe en Barcelo Hoteles",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/barcelo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b363310c0622",
@@ -3182,7 +3112,7 @@
    "titulo": "Ahorra un 5% en Barceló Hotels & Resorts",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/barcelo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "eb96f9f2f1e5",
@@ -3196,7 +3126,7 @@
    "titulo": "Reserva en la app Barceló Benefits y tendrás un 5% de descuento adicional.",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/barcelo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "75a3456423ab",
@@ -3210,7 +3140,7 @@
    "titulo": "Hasta un 20% de ofertas exclusivas en bebidas, alimentación y accesorios",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/big-crafters",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e3806b1ed02f",
@@ -3224,7 +3154,7 @@
    "titulo": "Early Bird: 90€ de descuento en tu reserva desde 999€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/camperdays",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "34209fdac472",
@@ -3238,7 +3168,7 @@
    "titulo": "Calendario de Adviento «Hollywood Beauty Wonderland» con un ahorro de más del 47 %",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/charlotte-tilbury",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a09b8f0ca765",
@@ -3252,7 +3182,7 @@
    "titulo": "Hazte con tu -15% código descuento Cult Beauty al suscribirte a la newsletter",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/cult-beauty",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9c2f54a8ff3f",
@@ -3266,7 +3196,7 @@
    "titulo": "25% de descuento en NFL Game Pass",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/dazn",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a8d44d9a6532",
@@ -3280,7 +3210,7 @@
    "titulo": "Ahorra hasta un 30% en tus reservas de invierno 2026-2027",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/dunas-hotels-resorts",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5dd176177b31",
@@ -3294,7 +3224,7 @@
    "titulo": "35% de descuento en hoteles en Oporto",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/edreams",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "865051cd1615",
@@ -3308,7 +3238,7 @@
    "titulo": "Con este cupón EMP obtendrás hasta -15€ en tu primera compra por la app",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/emp",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "24922e3ebc23",
@@ -3322,7 +3252,7 @@
    "titulo": "-5€ en tu compra con este código descuento Farmaciasdirect",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/farmaciasdirect",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4e03a740c14a",
@@ -3336,7 +3266,7 @@
    "titulo": "Oferta de GNV: 40% de descuento en ferries para 2026",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ferryhopper",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0b079f7b8163",
@@ -3350,7 +3280,7 @@
    "titulo": "Adidas Camiseta Local Argelia 2026 por 100,83€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/foot-store",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "030c1936c843",
@@ -3364,7 +3294,7 @@
    "titulo": "Camiseta OM Special Edition 2025/26 puma desde 100,83 €",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/foot-store",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c16bc85a64eb",
@@ -3378,7 +3308,7 @@
    "titulo": "Colchón Hero Luxe con 89% de descuento + Envío gratis",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/groupon",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "d218e141bca3",
@@ -3392,7 +3322,7 @@
    "titulo": "Hasta 90% de descuento en Colchones Nordikflex",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/groupon",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "99571ed98cd4",
@@ -3406,7 +3336,7 @@
    "titulo": "Oferta: 10% de descuento en compras mayores a 60€ con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iherb",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "540aed194d5f",
@@ -3420,7 +3350,7 @@
    "titulo": "Oferta de Bienvenida: 15% de descuento para nuevos clientes",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iherb",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "81b901782015",
@@ -3434,7 +3364,7 @@
    "titulo": "Consigue hasta 20% de descuento con tu cupón en selección de suplementos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iherb",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "87c17f11ca43",
@@ -3448,7 +3378,7 @@
    "titulo": "10% de descuento en toda la web con el código Incapto",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/incapto",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c3e00583b9a3",
@@ -3462,7 +3392,7 @@
    "titulo": "-20€ para tus pedidos con este cupón Incapto ¡VIP!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/incapto",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5bca621f9dde",
@@ -3476,7 +3406,7 @@
    "titulo": "Ahorra 127€ en el NUEVO Calendario de Adviento KIKO Milano 2026",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/kiko-milano",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "52ffb13a1324",
@@ -3490,7 +3420,7 @@
    "titulo": "Hasta 250€ de reembolso en cafeteras automáticas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/kitchenaid",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2aa9e72c24c6",
@@ -3504,7 +3434,7 @@
    "titulo": "Entrada Esencial con 25% dto en franja de tarde",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/la-pedrera-casa-mila",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "23ce3da2a11b",
@@ -3518,7 +3448,7 @@
    "titulo": "44% de descuento en el Night Experience para Residentes",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/la-pedrera-casa-mila",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "ca8c1a8f66a5",
@@ -3532,7 +3462,7 @@
    "titulo": "Código descuento: -5% de descuento en Hoteles con 100€ de mínimo de compra",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lastminute",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1c86dd3d3bb7",
@@ -3546,7 +3476,7 @@
    "titulo": "-20% con este código descuento LOOKFANTASTIC",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lookfantastic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2ef32d281e02",
@@ -3560,7 +3490,7 @@
    "titulo": "-5% EXTRA en artículos ya rebajas con este cupón LOOKFANTASTIC",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lookfantastic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "bce125038a92",
@@ -3574,7 +3504,7 @@
    "titulo": "El calendario de Adviento de belleza con ahorro del 82%",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lookfantastic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0c75497488ee",
@@ -3588,7 +3518,7 @@
    "titulo": "Oferta de invierno: Alojamiento en las Islas Canarias con hasta un 20% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/lopesan-hoteles",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1490aa978c29",
@@ -3602,7 +3532,7 @@
    "titulo": "12% de descuento con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/merkal",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9a43b9d12d3c",
@@ -3616,7 +3546,7 @@
    "titulo": "6€ de descuento con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/merkal",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "ac81b198a718",
@@ -3630,7 +3560,7 @@
    "titulo": "Aplica exclusivamente al código de nuevo usuario y ahorra hasta -10%",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miin-cosmetics",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a376fb25b0ea",
@@ -3644,7 +3574,7 @@
    "titulo": "-15€ para nuevos usuarios con este código descuento MiiN Cosmetics",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miin-cosmetics",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "84f1bce220cd",
@@ -3658,7 +3588,7 @@
    "titulo": "-5% en productos para crear tu rutina con este cupón MiiN Cosmetics",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miin-cosmetics",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "92cbc5310449",
@@ -3672,7 +3602,7 @@
    "titulo": "Ofertas Flash ¡Hasta 50% en selección de cosmética coreana!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miin-cosmetics",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a00403fd6a44",
@@ -3686,7 +3616,7 @@
    "titulo": "10€ menos en la versión digital del juego Donkey Kong Bananza",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/nintendo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "e8e89bc76e4b",
@@ -3700,7 +3630,7 @@
    "titulo": "Hasta 20% OFF en precio base con este código descuento OkMobility",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/okmobility",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "184ea354f646",
@@ -3714,7 +3644,7 @@
    "titulo": "Hasta un -10% EXTRA con tu código descuento Perfumería Comas ¡Aprovéchalo!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4134a065c6bd",
@@ -3728,7 +3658,7 @@
    "titulo": "Disfruta de un 10% de Descuento en Perfumes Niche",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "319bbf07b9f9",
@@ -3742,7 +3672,7 @@
    "titulo": "Suscríbete a la Newsletter y recibe un 10% dto extra para tu próxima compra. ¡No te lo pierdas!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f1124384622a",
@@ -3756,7 +3686,7 @@
    "titulo": "Disfruta de -10€ de descuento en fragancias",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "de52e3d4d771",
@@ -3770,7 +3700,7 @@
    "titulo": "Hasta un 30% dto en Sensai",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "115ec52f8708",
@@ -3784,7 +3714,7 @@
    "titulo": "¡OFERTA de Clarins! Hasta un 35% OFF en esta marca",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "d3a78531f3dd",
@@ -3798,7 +3728,7 @@
    "titulo": "CLARINS - Hasta un 35% DTO",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b634a30d65ae",
@@ -3812,7 +3742,7 @@
    "titulo": "Hasta un 35% DTO en SVR",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5e48feeaad3b",
@@ -3826,7 +3756,7 @@
    "titulo": "¡Hasta un 40% de descuento en Uriage!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "7e18c115b78e",
@@ -3840,7 +3770,7 @@
    "titulo": "¡Hasta un 45% de descuento en Eucerin!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9c7ef7df062f",
@@ -3854,7 +3784,7 @@
    "titulo": "Disfruta de hasta un 54% de descuento en productos Lancome",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f8700c194261",
@@ -3868,7 +3798,7 @@
    "titulo": "¡Hasta un 55% DTO en Avène!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "52a103129c40",
@@ -3882,7 +3812,7 @@
    "titulo": "Hasta un 25% dto + 30% dto EXTRA en Jeanne Piaubert",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "10fd621fdb3d",
@@ -3896,7 +3826,7 @@
    "titulo": "¡Disfruta de un 7% DTO extra en tus favoritos!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2af4a58ad791",
@@ -3910,7 +3840,7 @@
    "titulo": "Disfruta de un 7% de descuento extra en tus compras. ¡Aprovecha!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3dd2a195add5",
@@ -3924,7 +3854,7 @@
    "titulo": "¡Obtén 10% OFF con este código descuento ProfesorCBD!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/profesor-cbd",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "56b9a586f069",
@@ -3938,7 +3868,7 @@
    "titulo": "Código descuento Prozis: ¡Ahorra hasta 20% en dos productos!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/prozis",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "fdb1e6c03e68",
@@ -3952,7 +3882,7 @@
    "titulo": "Ofertas del día: Ahorra hasta un 40% en estancias en hoteles",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/radisson-hotels",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8dd82f8b2746",
@@ -3966,7 +3896,7 @@
    "titulo": "Llévate tu Kaspersky Standard 2026 desde solo 22,90€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/revolution-soft",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "d00a113674bb",
@@ -3980,7 +3910,7 @@
    "titulo": "10% de descuento con el código en frigoríficos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/samsung",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "dc35c9b8c420",
@@ -3994,7 +3924,7 @@
    "titulo": "100€ de descuento con Bizum en el próximo Galaxy",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/samsung",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "7a7975e21a35",
@@ -4008,7 +3938,7 @@
    "titulo": "Aprovecha un 5% de descuento con el código en electrodomésticos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/samsung",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "4a20a3c7b7ff",
@@ -4022,7 +3952,7 @@
    "titulo": "30% de descuento en la categoría de últimas unidades",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/shiseido",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c1d8a30a84a1",
@@ -4036,7 +3966,7 @@
    "titulo": "10% de descuento en reservas seleccionadas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/sixt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0e92afa109ce",
@@ -4050,7 +3980,7 @@
    "titulo": "15% de descuento en coches de lujo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/sixt",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "72fe26224231",
@@ -4064,7 +3994,7 @@
    "titulo": "-20% en toda la web al se miembro ¡Actívalo!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/stylevana",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5a4403828aa3",
@@ -4078,7 +4008,7 @@
    "titulo": "-22% EXTRA en top ventas de K-Beauty ¡Exclusivo miembros!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/stylevana",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "eb3624d487ce",
@@ -4092,7 +4022,7 @@
    "titulo": "Obtén hasta un 86% OFF + 3 meses EXTRA con tu código descuento Surfshark",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/surfshark",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "0e714ad2ff70",
@@ -4106,7 +4036,7 @@
    "titulo": "Recibe un 10% de rebaja en tu primera compra con tu cupón descuento The Masie",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/the-masie",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "46a580563857",
@@ -4120,7 +4050,7 @@
    "titulo": "Con este cupón descuento Tienda Shoke tendrás un 5% de rebaja",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/tienda-shoke",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a4a01da4124a",
@@ -4134,7 +4064,7 @@
    "titulo": "Ahorra hasta un 15 % en hoteles",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/trip-com",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "030a17afb004",
@@ -4148,7 +4078,7 @@
    "titulo": "Ofertas en hoteles nuevos: Ahorra hasta un 20% en hoteles seleccionados",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/trip-com",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "46a89a8013c4",
@@ -4162,7 +4092,7 @@
    "titulo": "Consigue -6€ OFF en trenes con tu cupón descuento para nuevos usuarios",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/trip-com",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "9a41812f66fc",
@@ -4176,7 +4106,7 @@
    "titulo": "Hazte con tu cupón descuento Ufesa y obtén -5% en tu primera compra",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ufesa",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "559305bad116",
@@ -4190,7 +4120,7 @@
    "titulo": "Consigue hasta un 10% OFF con tu código descuento Uno de 50 ¡OFERTA!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/uno-de-50",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2143c13753a9",
@@ -4204,7 +4134,7 @@
    "titulo": "Disfruta de un 10% de rebaja con tu código descuento Vivo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/vivo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c4e6081f5823",
@@ -4218,7 +4148,7 @@
    "titulo": "Cupón Voghion: 18% de reducción en tus compras de más de 159€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/voghion",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "71f5d28f6ed9",
@@ -4232,7 +4162,7 @@
    "titulo": "Tus escapadas de fin de semana a un SPA por 10€ menos con el cupón",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/weekendesk",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "6bdca37b866d",
@@ -4246,7 +4176,7 @@
    "titulo": "AHORRA 30% al comprar 2 o más libros de la serie \"¿Dónde estás?\"",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/wonderbly",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "cdaa55d8fbd7",
@@ -4260,7 +4190,7 @@
    "titulo": "15% de descuento y descubre K-beauty, J-beauty y más",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/yesstyle",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "807a0529c12a",
@@ -4274,7 +4204,7 @@
    "titulo": "Hasta un 60% de descuento en productos seleccionados ¡edición limitada!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/yves-rocher",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1e73666a39ad",
@@ -4288,7 +4218,7 @@
    "titulo": "20 % de descuento en Hill's Science Plan para nuevos clientes",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/zooplus",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "22d598e55d4f",
@@ -4302,7 +4232,7 @@
    "titulo": "12% de descuento para nuevos clientes en Japón",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/omio",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b884e1971d35",
@@ -4316,7 +4246,7 @@
    "titulo": "Descuento del 25% para nuevos clientes en Brasil",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/omio",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "55bfe1bf5c31",
@@ -4330,7 +4260,7 @@
    "titulo": "¡Descuento de 18€ por persona en la entrada de 2 días!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/futuroscope",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "75288c2dde9b",
@@ -4344,7 +4274,7 @@
    "titulo": "¡Descuento de 9€ por persona en la entrada de un día!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/futuroscope",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "bb1c419e59a9",
@@ -4358,7 +4288,7 @@
    "titulo": "-20% al reservar en Heritage Grand Mencey con el código descuento Iberostar",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iberostar",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a5c795e96cbc",
@@ -4372,7 +4302,7 @@
    "titulo": "14 € de descuento en compras de 129 € con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/voghion",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "512d370c993c",
@@ -4386,7 +4316,7 @@
    "titulo": "21 € de descuento en compras de 189 € con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/voghion",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1f95bf505a80",
@@ -4400,7 +4330,7 @@
    "titulo": "8 € de descuento en compras de 79 € con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/voghion",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2b59483d3e0e",
@@ -4414,7 +4344,7 @@
    "titulo": "20€ de descuento en el próximo alquiler con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/grover",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "73334b687669",
@@ -4428,7 +4358,7 @@
    "titulo": "Entradas al Pola Park con 52% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/groupon",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "b32b2d8fe44e",
@@ -4442,7 +4372,7 @@
    "titulo": "Descuento del 12 % para nuevos clientes en Australia",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/omio",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "fc88fb84b9bd",
@@ -4456,7 +4386,7 @@
    "titulo": "Entradas para la Champions League desde 25€ ¡No te lo pierdas!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ticombo",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "cb668937c514",
@@ -4470,7 +4400,7 @@
    "titulo": "Tu 2º limpiador al -30% en la 2ª unidad comprada",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/yves-rocher",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "cd632c22901c",
@@ -4484,7 +4414,7 @@
    "titulo": "MUSA KITS VIRTUALES HASTA 20% DTO",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/farmaciasdirect",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8523616a92e5",
@@ -4498,7 +4428,7 @@
    "titulo": "15% OFF en una selección de productos con tu cupón Miin Cosmetics",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miin-cosmetics",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "92464c3fc355",
@@ -4512,7 +4442,7 @@
    "titulo": "¡10% de DESCUENTO en Perfumes NICHE!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/perfumeria-comas",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "2c20cfc42f4e",
@@ -4526,7 +4456,7 @@
    "titulo": "Anycubic Kobra X por 269€ ¡Ahorra 120€!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "f49491a76f4a",
@@ -4540,7 +4470,7 @@
    "titulo": "Consigue hasta -20% en resina y materiales para tu impresora 3D",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "c3c9afb7efa8",
@@ -4554,7 +4484,7 @@
    "titulo": "Rebajas de hasta el 50% en impresoras 3D de resina. ¡Vive el futuro!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "5aa17f84782a",
@@ -4568,7 +4498,7 @@
    "titulo": "Hasta 150€ de descuento en las Ofertas especiales",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/google-store",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "793ca15df16d",
@@ -4582,7 +4512,7 @@
    "titulo": "Disfruta de 10€ de descuento en tu primer pedido con Just Eat",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/just-eat",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "197012aafbf4",
@@ -4596,7 +4526,7 @@
    "titulo": "Vaqueros en ofertas desde solo 1,99€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mango-outlet",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "45bced399f71",
@@ -4610,7 +4540,7 @@
    "titulo": "Tus favoritos de la colección DENIM desde solo 11,99€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mango-outlet",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "ef7af02aeb96",
@@ -4624,7 +4554,7 @@
    "titulo": "Colección de zapatos con hasta un 30% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mango-outlet",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "aa2669da467c",
@@ -4638,7 +4568,7 @@
    "titulo": "Tallas PLUS de mujer ¡Prenas y accesorios a partir de 4,99€!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mango-outlet",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "1a785f54480a",
@@ -4652,7 +4582,7 @@
    "titulo": "Nueva Colección ... moda y accesorios a partir de 6€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mango-outlet",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "20a0dd8b9faf",
@@ -4666,7 +4596,7 @@
    "titulo": "REBAJAS en moda y accesorio de fiestas y bodas desde solo 7,99€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mango-outlet",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3102c9bf61c8",
@@ -4680,7 +4610,7 @@
    "titulo": "Descubre estos PRECIOS ESPECIALES en línea de hogar ¡Hasta -75%!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mango-outlet",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "937f3194aa72",
@@ -4694,7 +4624,7 @@
    "titulo": "Descuentos ESPECIALES ¡Ahorra hasta un 80% en esta selección!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mango-outlet",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "a6a11fa3bb90",
@@ -4708,21 +4638,7 @@
    "titulo": "Ahorra hasta un 40% con las mejores ofertas de MediaMarkt",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
-   "leido": "2026-10-09"
-  },
-  {
-   "id": "6f3117c71b0a",
-   "slug": "my-nintendo-store",
-   "tienda": "My Nintendo Store",
-   "valor": "10€",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": null,
-   "modificado_en_fuente": "2026-09-25",
-   "titulo": "10€ de descuento en el formato digital de The Legend of Zelda: Ocarina of Time",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/my-nintendo-store",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "3ee09b85b57d",
@@ -4736,7 +4652,7 @@
    "titulo": "45% de descuento en Packs de Pádel",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ofertas-de-padel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "662357a302fd",
@@ -4750,7 +4666,7 @@
    "titulo": "50% de descuento en Accesorios Pádel",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ofertas-de-padel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "269abf70c16c",
@@ -4764,7 +4680,7 @@
    "titulo": "Hasta 50% de descuento en Paleteros y Mochilas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ofertas-de-padel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "862e4bbd00fd",
@@ -4778,7 +4694,7 @@
    "titulo": "Hasta 60% de descuento en Zapatillas de Pádel",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ofertas-de-padel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "8b2c684004b7",
@@ -4792,7 +4708,7 @@
    "titulo": "Hasta un 60% de descuento en las mejores palas de padel",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ofertas-de-padel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "26021ca38da3",
@@ -4806,7 +4722,7 @@
    "titulo": "-85% de descuento en Ropa de pádel",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ofertas-de-padel",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "61b76e84592f",
@@ -4820,7 +4736,7 @@
    "titulo": "Ahorro de 125€ de media cada año",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/qualitas-auto",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "7186134cc4f4",
@@ -4834,7 +4750,7 @@
    "titulo": "Llévate tu Seguro a Terceros desde 146€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/qualitas-auto",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "aa5bdce4bff5",
@@ -4848,7 +4764,7 @@
    "titulo": "Consigue tu Seguro Todo Riesgo desde 211€",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/qualitas-auto",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "276e6d6f00d0",
@@ -4862,7 +4778,7 @@
    "titulo": "Hasta -30% de Descuento al contratar Online",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/qualitas-auto",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   },
   {
    "id": "210bd969a408",
@@ -4876,21 +4792,7 @@
    "titulo": "Hazte con tu seguro de coche todo riesgo sin Franquicia por solo 347€ ¡Promo!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/qualitas-auto",
-   "leido": "2026-10-09"
-  },
-  {
-   "id": "50d8d39d881b",
-   "slug": "sharkninja",
-   "tienda": "SharkNinja",
-   "valor": "10%",
-   "tipo": "codigo",
-   "codigo": "O10",
-   "caduca": null,
-   "modificado_en_fuente": "2026-10-05",
-   "titulo": "-10% en toda la web de SharkNinja con el código exclusivo",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/sharkninja",
-   "leido": "2026-10-09"
+   "leido": "2026-10-10"
   }
  ]
 }

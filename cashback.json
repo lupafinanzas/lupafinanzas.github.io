@@ -366,27 +366,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.12,
-     "hasta_pct": true,
-     "habitual_pct": 2.12,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 2,12 % en el nivel de entrada de BestPrice; nivel Negro: 4,23 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/365rider",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,12% cashback | Negro:4,23",
-      "Carga 2 de la ficha: 2,12% cashback | Negro:4,23"
-     ],
-     "niveles": {
-      "Negro": 4.23
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 2.69,
      "hasta_pct": false,
@@ -480,6 +459,27 @@
       "HTML de la ficha: 4,23% (cabecera: hasta 4,23%)"
      ],
      "variante": "Compra online"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.12,
+     "hasta_pct": true,
+     "habitual_pct": 2.12,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 2,12 % en el nivel de entrada de BestPrice; nivel Negro: 4,23 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/365rider",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,12% cashback | Negro:4,23",
+      "Carga 2 de la ficha: 2,12% cashback | Negro:4,23"
+     ],
+     "niveles": {
+      "Negro": 4.23
+     }
     }
    ]
   },
@@ -1045,27 +1045,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/acer",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -1100,6 +1079,27 @@
       "Título de la ficha: 10% código descuento Acer + 2,5 % Cashback / octubre",
       "Tarjeta de la oferta: 2,5 % de cashback"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/acer",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -1421,27 +1421,6 @@
      "variante": "Compras de productos Outlet"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 3.0,
-     "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/adidas",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 3% cashback | Negro:6",
-      "Carga 2 de la ficha: 3% cashback | Negro:6"
-     ],
-     "niveles": {
-      "Negro": 6.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 6.0,
      "hasta_pct": false,
@@ -1496,6 +1475,27 @@
       "Título de la ficha: 75€ código descuento adidas + 3 % Cashback / octubre",
       "Tarjeta de la oferta: 3 % de cashback"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/adidas",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -2758,7 +2758,7 @@
      "detalle": "Hasta 3,45 % en el nivel de entrada de BestPrice; nivel Negro: 6,91 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/alibaba",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 3,45% cashback | Negro:6,91",
@@ -2848,27 +2848,6 @@
       "Título/meta de la ficha: 6,38 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 6,38 % (antes 2,55 %)"
      ]
-    },
-    {
-     "plataforma": "BestPrice",
-     "pct": 4.0,
-     "hasta_pct": true,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/aliexpress",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 4% cashback | Negro:8",
-      "Carga 2 de la ficha: 4% cashback | Negro:8"
-     ],
-     "niveles": {
-      "Negro": 8.0
-     }
     },
     {
      "plataforma": "TopCashback",
@@ -3267,6 +3246,27 @@
       "HTML de la ficha: 1,00%"
      ],
      "variante": "Productos no afiliados"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.0,
+     "hasta_pct": true,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/aliexpress",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4% cashback | Negro:8",
+      "Carga 2 de la ficha: 4% cashback | Negro:8"
+     ],
+     "niveles": {
+      "Negro": 8.0
+     }
     }
    ]
   },
@@ -3696,27 +3696,6 @@
      "variante": "Compra online"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 5.0,
-     "hasta_pct": true,
-     "habitual_pct": 5.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/american-tourister",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 5% cashback | Negro:10",
-      "Carga 2 de la ficha: 5% cashback | Negro:10"
-     ],
-     "niveles": {
-      "Negro": 10.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 10.0,
      "hasta_pct": false,
@@ -3772,6 +3751,27 @@
       "HTML de la ficha: 8% (cabecera: hasta 10%)"
      ],
      "variante": "Compra online - Artículos no rebajados"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 5.0,
+     "hasta_pct": true,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/american-tourister",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 5% cashback | Negro:10",
+      "Carga 2 de la ficha: 5% cashback | Negro:10"
+     ],
+     "niveles": {
+      "Negro": 10.0
+     }
     }
    ]
   },
@@ -4261,27 +4261,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.75,
-     "hasta_pct": true,
-     "habitual_pct": 2.75,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 2,75 % en el nivel de entrada de BestPrice; nivel Negro: 5,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/aosom",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,75% cashback | Negro:5,50",
-      "Carga 2 de la ficha: 2,75% cashback | Negro:5,50"
-     ],
-     "niveles": {
-      "Negro": 5.5
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 7.0,
      "hasta_pct": false,
@@ -4394,6 +4373,27 @@
       "HTML de la ficha: 4,6% (cabecera: hasta 8%)"
      ],
      "variante": "Compra online"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.75,
+     "hasta_pct": true,
+     "habitual_pct": 2.75,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 2,75 % en el nivel de entrada de BestPrice; nivel Negro: 5,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/aosom",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,75% cashback | Negro:5,50",
+      "Carga 2 de la ficha: 2,75% cashback | Negro:5,50"
+     ],
+     "niveles": {
+      "Negro": 5.5
+     }
     }
    ]
   },
@@ -4796,6 +4796,27 @@
       "HTML de la ficha: 8% (cabecera: hasta 10%)"
      ],
      "variante": "Compra online (cliente recurrente)"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 5.0,
+     "hasta_pct": true,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/arganour",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 5% cashback | Negro:10",
+      "Carga 2 de la ficha: 5% cashback | Negro:10"
+     ],
+     "niveles": {
+      "Negro": 10.0
+     }
     }
    ]
   },
@@ -4899,27 +4920,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 3.85,
-     "hasta_pct": true,
-     "habitual_pct": 3.85,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 3,85 % en el nivel de entrada de BestPrice; nivel Negro: 7,7 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/armeria-alvarez",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 3,85% cashback | Negro:7,70",
-      "Carga 2 de la ficha: 3,85% cashback | Negro:7,70"
-     ],
-     "niveles": {
-      "Negro": 7.7
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 7.7,
      "hasta_pct": false,
@@ -4956,6 +4956,27 @@
       "HTML de la ficha: 3,9% (cabecera: hasta 7,7%)"
      ],
      "variante": "En resto de productos de la tienda online."
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.85,
+     "hasta_pct": true,
+     "habitual_pct": 3.85,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3,85 % en el nivel de entrada de BestPrice; nivel Negro: 7,7 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/armeria-alvarez",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,85% cashback | Negro:7,70",
+      "Carga 2 de la ficha: 3,85% cashback | Negro:7,70"
+     ],
+     "niveles": {
+      "Negro": 7.7
+     }
     }
    ]
   },
@@ -5211,27 +5232,6 @@
      "variante": "Ok"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 0.88,
-     "hasta_pct": true,
-     "habitual_pct": 0.88,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 0,88 % en el nivel de entrada de BestPrice; nivel Negro: 1,75 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/asgoodasnew",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 0,88% cashback | Negro:1,75",
-      "Carga 2 de la ficha: 0,88% cashback | Negro:1,75"
-     ],
-     "niveles": {
-      "Negro": 1.75
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 0.5,
      "hasta_pct": false,
@@ -5249,6 +5249,27 @@
      ],
      "variante": "Compra online de productos en condición \"Nuevo\", \"Casi nuevo",
      "solo_clientes_nuevos": true
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 0.88,
+     "hasta_pct": true,
+     "habitual_pct": 0.88,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 0,88 % en el nivel de entrada de BestPrice; nivel Negro: 1,75 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/asgoodasnew",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 0,88% cashback | Negro:1,75",
+      "Carga 2 de la ficha: 0,88% cashback | Negro:1,75"
+     ],
+     "niveles": {
+      "Negro": 1.75
+     }
     }
    ]
   },
@@ -5681,6 +5702,27 @@
       "Bloque de la ficha: Compra online 0,5%",
       "HTML de la ficha: 0,5% (cabecera: hasta 0,5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 0.25,
+     "hasta_pct": false,
+     "habitual_pct": 0.25,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "0,25 % en el nivel de entrada de BestPrice; nivel Negro: 0,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/asus",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 0,25% cashback | Negro:0,50",
+      "Carga 2 de la ficha: 0,25% cashback | Negro:0,50"
+     ],
+     "niveles": {
+      "Negro": 0.5
+     }
     }
    ]
   },
@@ -6082,6 +6124,63 @@
      ]
     },
     {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/atmosfera-sport/",
+     "leido": "2026-10-09",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ],
+     "variante": "Compra online"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/atmosfera-sport/",
+     "leido": "2026-10-09",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ],
+     "variante": "Compra online"
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/atmosfera-sport/",
+     "leido": "2026-10-09",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 5%",
+      "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ],
+     "variante": "Compra online"
+    },
+    {
      "plataforma": "BestPrice",
      "pct": 5.0,
      "hasta_pct": true,
@@ -6092,7 +6191,7 @@
      "detalle": "Hasta 5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/atmosfera-sport",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 5% cashback | Negro:10",
@@ -6101,63 +6200,6 @@
      "niveles": {
       "Negro": 10.0
      }
-    },
-    {
-     "plataforma": "TopCashback",
-     "pct": 5.0,
-     "hasta_pct": false,
-     "habitual_pct": 5.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
-     "fin": null,
-     "fuente": "https://www.topcashback.es/atmosfera-sport/",
-     "leido": "2026-10-09",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra online 5%",
-      "HTML de la ficha: 5% (cabecera: hasta 5%)"
-     ],
-     "variante": "Compra online"
-    },
-    {
-     "plataforma": "TopCashback",
-     "pct": 5.0,
-     "hasta_pct": false,
-     "habitual_pct": 5.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
-     "fin": null,
-     "fuente": "https://www.topcashback.es/atmosfera-sport/",
-     "leido": "2026-10-09",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra online 5%",
-      "HTML de la ficha: 5% (cabecera: hasta 5%)"
-     ],
-     "variante": "Compra online"
-    },
-    {
-     "plataforma": "TopCashback",
-     "pct": 5.0,
-     "hasta_pct": false,
-     "habitual_pct": 5.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
-     "fin": null,
-     "fuente": "https://www.topcashback.es/atmosfera-sport/",
-     "leido": "2026-10-09",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra online 5%",
-      "HTML de la ficha: 5% (cabecera: hasta 5%)"
-     ],
-     "variante": "Compra online"
     }
    ]
   },
@@ -6514,27 +6556,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 4.03,
-     "hasta_pct": true,
-     "habitual_pct": 4.03,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 4,03 % en el nivel de entrada de BestPrice; nivel Negro: 8,05 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/autodoc",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 4,03% cashback | Negro:8,05",
-      "Carga 2 de la ficha: 4,03% cashback | Negro:8,05"
-     ],
-     "niveles": {
-      "Negro": 8.05
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 8.0,
      "hasta_pct": false,
@@ -6590,6 +6611,27 @@
       "HTML de la ficha: 1% (cabecera: hasta 8%)"
      ],
      "variante": "En las compras de Neumaticos."
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.03,
+     "hasta_pct": true,
+     "habitual_pct": 4.03,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 4,03 % en el nivel de entrada de BestPrice; nivel Negro: 8,05 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/autodoc",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4,03% cashback | Negro:8,05",
+      "Carga 2 de la ficha: 4,03% cashback | Negro:8,05"
+     ],
+     "niveles": {
+      "Negro": 8.05
+     }
     }
    ]
   },
@@ -6652,27 +6694,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.25,
-     "hasta_pct": false,
-     "habitual_pct": 2.25,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2,25 % en el nivel de entrada de BestPrice; nivel Negro: 4,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/autoeurope",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,25% cashback | Negro:4,50",
-      "Carga 2 de la ficha: 2,25% cashback | Negro:4,50"
-     ],
-     "niveles": {
-      "Negro": 4.5
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 4.5,
      "hasta_pct": false,
@@ -6689,6 +6710,27 @@
       "Bloque de la ficha: Reserva confirmada 4,5%",
       "HTML de la ficha: 4,5% (cabecera: hasta 4,5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.25,
+     "hasta_pct": false,
+     "habitual_pct": 2.25,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,25 % en el nivel de entrada de BestPrice; nivel Negro: 4,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/autoeurope",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,25% cashback | Negro:4,50",
+      "Carga 2 de la ficha: 2,25% cashback | Negro:4,50"
+     ],
+     "niveles": {
+      "Negro": 4.5
+     }
     }
    ]
   },
@@ -7557,27 +7599,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": true,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/balay",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -7594,6 +7615,27 @@
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": true,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/balay",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -8101,6 +8143,27 @@
       "HTML de la ficha: 3% (cabecera: hasta 9%)"
      ],
      "variante": "Compra online en telefonos y tablets"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 6.5,
+     "hasta_pct": true,
+     "habitual_pct": 6.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 6,5 % en el nivel de entrada de BestPrice; nivel Negro: 13 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/banggood",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 6,50% cashback | Negro:13",
+      "Carga 2 de la ficha: 6,50% cashback | Negro:13"
+     ],
+     "niveles": {
+      "Negro": 13.0
+     }
     }
    ]
   },
@@ -8556,7 +8619,7 @@
      "detalle": "5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/bears-with-benefits",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 5% cashback | Negro:10",
@@ -10984,27 +11047,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": true,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/bosch",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -11021,6 +11063,27 @@
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": true,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/bosch",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -11284,6 +11347,27 @@
       "Bloque de la ficha: Compra online 6%",
       "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": true,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/braun",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -11494,27 +11578,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 3.0,
-     "hasta_pct": true,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/brico-depot",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 3% cashback | Negro:6",
-      "Carga 2 de la ficha: 3% cashback | Negro:6"
-     ],
-     "niveles": {
-      "Negro": 6.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 3.0,
      "hasta_pct": false,
@@ -11570,6 +11633,27 @@
       "HTML de la ficha: 5% (cabecera: hasta 6%)"
      ],
      "variante": "Compra online - Jardinería, herramientas y electricidad"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": true,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/brico-depot",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -12910,6 +12994,27 @@
       "Bloque de la ficha: Compra online 9%",
       "HTML de la ficha: 9% (cabecera: hasta 9%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.58,
+     "hasta_pct": true,
+     "habitual_pct": 3.58,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3,58 % en el nivel de entrada de BestPrice; nivel Negro: 7,15 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/calzedonia",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,58% cashback | Negro:7,15",
+      "Carga 2 de la ficha: 3,58% cashback | Negro:7,15"
+     ],
+     "niveles": {
+      "Negro": 7.15
+     }
     }
    ]
   },
@@ -13033,27 +13138,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 4.0,
-     "hasta_pct": true,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/camper",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 4% cashback | Negro:8",
-      "Carga 2 de la ficha: 4% cashback | Negro:8"
-     ],
-     "niveles": {
-      "Negro": 8.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 8.0,
      "hasta_pct": false,
@@ -13090,6 +13174,27 @@
       "HTML de la ficha: 6% (cabecera: hasta 8%)"
      ],
      "variante": "En Productos rebajados, con ofertas o descuentos."
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.0,
+     "hasta_pct": true,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/camper",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4% cashback | Negro:8",
+      "Carga 2 de la ficha: 4% cashback | Negro:8"
+     ],
+     "niveles": {
+      "Negro": 8.0
+     }
     }
    ]
   },
@@ -13187,6 +13292,27 @@
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ],
      "variante": "Compra online - Artículos no rebajados"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 1.5,
+     "hasta_pct": false,
+     "habitual_pct": 1.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "1,5 % en el nivel de entrada de BestPrice; nivel Negro: 3 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/camperdays",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 1,50% cashback | Negro:3",
+      "Carga 2 de la ficha: 1,50% cashback | Negro:3"
+     ],
+     "niveles": {
+      "Negro": 3.0
+     }
     }
    ]
   },
@@ -13973,27 +14099,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/casa-del-libro",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 7.0,
      "hasta_pct": false,
@@ -14087,6 +14192,27 @@
       "HTML de la ficha: 13% (cabecera: hasta 13%)"
      ],
      "variante": "Compra online (más de 50 €)"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/casa-del-libro",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -15927,27 +16053,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/clarel",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -15964,6 +16069,27 @@
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/clarel",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -16984,6 +17110,27 @@
       "HTML de la ficha: 4% (cabecera: hasta 6%)"
      ],
      "variante": "Electrodomestico"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": true,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/conforama",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -18910,7 +19057,7 @@
      "detalle": "Hasta 5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/dazn",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 5% cashback | Negro:10",
@@ -19123,27 +19270,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 1.5,
-     "hasta_pct": false,
-     "habitual_pct": 1.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "1,5 % en el nivel de entrada de BestPrice; nivel Negro: 3 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/decathlon",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 1,50% cashback | Negro:3",
-      "Carga 2 de la ficha: 1,50% cashback | Negro:3"
-     ],
-     "niveles": {
-      "Negro": 3.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -19160,6 +19286,27 @@
       "Bloque de la ficha: Compra online (Excluyendo Segunda Vida y Marketplace) 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 1.5,
+     "hasta_pct": false,
+     "habitual_pct": 1.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "1,5 % en el nivel de entrada de BestPrice; nivel Negro: 3 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/decathlon",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 1,50% cashback | Negro:3",
+      "Carga 2 de la ficha: 1,50% cashback | Negro:3"
+     ],
+     "niveles": {
+      "Negro": 3.0
+     }
     }
    ]
   },
@@ -19270,7 +19417,7 @@
      "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/decimas",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 3% cashback | Negro:6",
@@ -19467,27 +19614,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 3.0,
-     "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/delonghi",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 3% cashback | Negro:6",
-      "Carga 2 de la ficha: 3% cashback | Negro:6"
-     ],
-     "niveles": {
-      "Negro": 6.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 6.0,
      "hasta_pct": false,
@@ -19504,6 +19630,27 @@
       "Bloque de la ficha: Compra online 6%",
       "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/delonghi",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -19741,27 +19888,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.0,
-     "hasta_pct": false,
-     "habitual_pct": 2.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/deporvillage",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2% cashback | Negro:4",
-      "Carga 2 de la ficha: 2% cashback | Negro:4"
-     ],
-     "niveles": {
-      "Negro": 4.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 4.0,
      "hasta_pct": false,
@@ -19778,6 +19904,27 @@
       "Bloque de la ficha: Compra online 4%",
       "HTML de la ficha: 4% (cabecera: hasta 4%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/deporvillage",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2% cashback | Negro:4",
+      "Carga 2 de la ficha: 2% cashback | Negro:4"
+     ],
+     "niveles": {
+      "Negro": 4.0
+     }
     }
    ]
   },
@@ -19992,27 +20139,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 3.85,
-     "hasta_pct": false,
-     "habitual_pct": 3.85,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "3,85 % en el nivel de entrada de BestPrice; nivel Negro: 7,7 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/desigual",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 3,85% cashback | Negro:7,70",
-      "Carga 2 de la ficha: 3,85% cashback | Negro:7,70"
-     ],
-     "niveles": {
-      "Negro": 7.7
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 7.7,
      "hasta_pct": false,
@@ -20029,6 +20155,27 @@
       "Bloque de la ficha: Compra online 7,7%",
       "HTML de la ficha: 7,7% (cabecera: hasta 7,7%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.85,
+     "hasta_pct": false,
+     "habitual_pct": 3.85,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3,85 % en el nivel de entrada de BestPrice; nivel Negro: 7,7 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/desigual",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,85% cashback | Negro:7,70",
+      "Carga 2 de la ficha: 3,85% cashback | Negro:7,70"
+     ],
+     "niveles": {
+      "Negro": 7.7
+     }
     }
    ]
   },
@@ -20217,27 +20364,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 1.0,
-     "hasta_pct": false,
-     "habitual_pct": 1.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "1 % en el nivel de entrada de BestPrice; nivel Negro: 2 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/dhgate",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 1% cashback | Negro:2",
-      "Carga 2 de la ficha: 1% cashback | Negro:2"
-     ],
-     "niveles": {
-      "Negro": 2.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 2.0,
      "hasta_pct": false,
@@ -20254,6 +20380,27 @@
       "Bloque de la ficha: Compra del resto de productos en la tienda online. 2%",
       "HTML de la ficha: 2% (cabecera: hasta 2%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "1 % en el nivel de entrada de BestPrice; nivel Negro: 2 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/dhgate",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 1% cashback | Negro:2",
+      "Carga 2 de la ficha: 1% cashback | Negro:2"
+     ],
+     "niveles": {
+      "Negro": 2.0
+     }
     }
    ]
   },
@@ -20891,7 +21038,7 @@
      "detalle": "Hasta 2,25 % en el nivel de entrada de BestPrice; nivel Negro: 4,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/discover-cars",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 2,25% cashback | Negro:4,50",
@@ -21168,27 +21315,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 0.5,
-     "hasta_pct": true,
-     "habitual_pct": 0.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 0,5 % en el nivel de entrada de BestPrice; nivel Negro: 1 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/diversual",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 0,50% cashback | Negro:1",
-      "Carga 2 de la ficha: 0,50% cashback | Negro:1"
-     ],
-     "niveles": {
-      "Negro": 1.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 1.0,
      "hasta_pct": false,
@@ -21205,6 +21331,27 @@
       "Bloque de la ficha: Compra online 1%",
       "HTML de la ficha: 1% (cabecera: hasta 1%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 0.5,
+     "hasta_pct": true,
+     "habitual_pct": 0.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 0,5 % en el nivel de entrada de BestPrice; nivel Negro: 1 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/diversual",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 0,50% cashback | Negro:1",
+      "Carga 2 de la ficha: 0,50% cashback | Negro:1"
+     ],
+     "niveles": {
+      "Negro": 1.0
+     }
     }
    ]
   },
@@ -21571,27 +21718,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 3.5,
-     "hasta_pct": true,
-     "habitual_pct": 3.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 3,5 % en el nivel de entrada de BestPrice; nivel Negro: 7 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/dooers",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 3,50% cashback | Negro:7",
-      "Carga 2 de la ficha: 3,50% cashback | Negro:7"
-     ],
-     "niveles": {
-      "Negro": 7.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 7.0,
      "hasta_pct": false,
@@ -21608,6 +21734,27 @@
       "Bloque de la ficha: Compra online 7%",
       "HTML de la ficha: 7% (cabecera: hasta 7%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.5,
+     "hasta_pct": true,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3,5 % en el nivel de entrada de BestPrice; nivel Negro: 7 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/dooers",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,50% cashback | Negro:7",
+      "Carga 2 de la ficha: 3,50% cashback | Negro:7"
+     ],
+     "niveles": {
+      "Negro": 7.0
+     }
     }
    ]
   },
@@ -21767,27 +21914,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 4.0,
-     "hasta_pct": false,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/dosfarma",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 4% cashback | Negro:8",
-      "Carga 2 de la ficha: 4% cashback | Negro:8"
-     ],
-     "niveles": {
-      "Negro": 8.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 8.0,
      "hasta_pct": false,
@@ -21824,6 +21950,27 @@
       "HTML de la ficha: 4% (cabecera: hasta 8%)"
      ],
      "variante": "Compra online - clientes existentes"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/dosfarma",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4% cashback | Negro:8",
+      "Carga 2 de la ficha: 4% cashback | Negro:8"
+     ],
+     "niveles": {
+      "Negro": 8.0
+     }
     }
    ]
   },
@@ -22544,27 +22691,6 @@
      "variante": "Perfumes"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 3.25,
-     "hasta_pct": true,
-     "habitual_pct": 3.25,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 3,25 % en el nivel de entrada de BestPrice; nivel Negro: 6,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/druni",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 3,25% cashback | Negro:6,50",
-      "Carga 2 de la ficha: 3,25% cashback | Negro:6,50"
-     ],
-     "niveles": {
-      "Negro": 6.5
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 10.0,
      "hasta_pct": false,
@@ -22581,6 +22707,27 @@
       "Bloque de la ficha: Compra online 10%",
       "HTML de la ficha: 10% (cabecera: hasta 10%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.25,
+     "hasta_pct": true,
+     "habitual_pct": 3.25,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3,25 % en el nivel de entrada de BestPrice; nivel Negro: 6,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/druni",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,25% cashback | Negro:6,50",
+      "Carga 2 de la ficha: 3,25% cashback | Negro:6,50"
+     ],
+     "niveles": {
+      "Negro": 6.5
+     }
     }
    ]
   },
@@ -23717,27 +23864,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 3.0,
-     "hasta_pct": true,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/edreams",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 3% cashback | Negro:6",
-      "Carga 2 de la ficha: 3% cashback | Negro:6"
-     ],
-     "niveles": {
-      "Negro": 6.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 6.0,
      "hasta_pct": false,
@@ -23850,6 +23976,27 @@
       "HTML de la ficha: 3% (cabecera: hasta 6%)"
      ],
      "variante": "Reserva de Hotel con eDreams Prime"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": true,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/edreams",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -25766,27 +25913,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.31,
-     "hasta_pct": true,
-     "habitual_pct": 2.31,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 2,31 % en el nivel de entrada de BestPrice; nivel Negro: 4,61 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/esdemarca",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,31% cashback | Negro:4,61",
-      "Carga 2 de la ficha: 2,31% cashback | Negro:4,61"
-     ],
-     "niveles": {
-      "Negro": 4.61
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 6.0,
      "hasta_pct": false,
@@ -25823,6 +25949,27 @@
       "HTML de la ficha: 3% (cabecera: hasta 6%)"
      ],
      "variante": "Compra online - Cliente Existente"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.31,
+     "hasta_pct": true,
+     "habitual_pct": 2.31,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 2,31 % en el nivel de entrada de BestPrice; nivel Negro: 4,61 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/esdemarca",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,31% cashback | Negro:4,61",
+      "Carga 2 de la ficha: 2,31% cashback | Negro:4,61"
+     ],
+     "niveles": {
+      "Negro": 4.61
+     }
     }
    ]
   },
@@ -26336,7 +26483,7 @@
      "detalle": "Hasta 4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/etam",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 4% cashback | Negro:8",
@@ -26790,27 +26937,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 10.0,
-     "hasta_pct": true,
-     "habitual_pct": 10.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 10 % en el nivel de entrada de BestPrice; nivel Negro: 20 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/europ-assistance",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 10% cashback | Negro:20",
-      "Carga 2 de la ficha: 10% cashback | Negro:20"
-     ],
-     "niveles": {
-      "Negro": 20.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 20.0,
      "hasta_pct": false,
@@ -26827,6 +26953,27 @@
       "Bloque de la ficha: Compra online 20%",
       "HTML de la ficha: 20% (cabecera: hasta 20%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 10.0,
+     "hasta_pct": true,
+     "habitual_pct": 10.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 10 % en el nivel de entrada de BestPrice; nivel Negro: 20 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/europ-assistance",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 10% cashback | Negro:20",
+      "Carga 2 de la ficha: 10% cashback | Negro:20"
+     ],
+     "niveles": {
+      "Negro": 20.0
+     }
     }
    ]
   },
@@ -27040,27 +27187,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 4.0,
-     "hasta_pct": true,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/europcar",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 4% cashback | Negro:8",
-      "Carga 2 de la ficha: 4% cashback | Negro:8"
-     ],
-     "niveles": {
-      "Negro": 8.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 7.0,
      "hasta_pct": false,
@@ -27077,6 +27203,27 @@
       "Bloque de la ficha: Compra online 7%",
       "HTML de la ficha: 7% (cabecera: hasta 7%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.0,
+     "hasta_pct": true,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/europcar",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4% cashback | Negro:8",
+      "Carga 2 de la ficha: 4% cashback | Negro:8"
+     ],
+     "niveles": {
+      "Negro": 8.0
+     }
     }
    ]
   },
@@ -27455,27 +27602,6 @@
      "variante": "Paquetes vacacionales / Reserva de paquete"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.0,
-     "hasta_pct": true,
-     "habitual_pct": 2.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/expedia",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2% cashback | Negro:4",
-      "Carga 2 de la ficha: 2% cashback | Negro:4"
-     ],
-     "niveles": {
-      "Negro": 4.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 2.0,
      "hasta_pct": false,
@@ -27550,6 +27676,27 @@
       "HTML de la ficha: 4% (cabecera: hasta 4%)"
      ],
      "variante": "Reserva de actividades y experiencias"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.0,
+     "hasta_pct": true,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/expedia",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2% cashback | Negro:4",
+      "Carga 2 de la ficha: 2% cashback | Negro:4"
+     ],
+     "niveles": {
+      "Negro": 4.0
+     }
     }
    ]
   },
@@ -28368,27 +28515,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.0,
-     "hasta_pct": false,
-     "habitual_pct": 2.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/farmacia-angulo",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2% cashback | Negro:4",
-      "Carga 2 de la ficha: 2% cashback | Negro:4"
-     ],
-     "niveles": {
-      "Negro": 4.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 4.0,
      "hasta_pct": false,
@@ -28405,6 +28531,27 @@
       "Bloque de la ficha: Compra online 4%",
       "HTML de la ficha: 4% (cabecera: hasta 4%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/farmacia-angulo",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2% cashback | Negro:4",
+      "Carga 2 de la ficha: 2% cashback | Negro:4"
+     ],
+     "niveles": {
+      "Negro": 4.0
+     }
     }
    ]
   },
@@ -28666,27 +28813,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.0,
-     "hasta_pct": true,
-     "habitual_pct": 2.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/farmacias-direct",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2% cashback | Negro:4",
-      "Carga 2 de la ficha: 2% cashback | Negro:4"
-     ],
-     "niveles": {
-      "Negro": 4.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 4.0,
      "hasta_pct": false,
@@ -28723,6 +28849,27 @@
       "HTML de la ficha: 2% (cabecera: hasta 4%)"
      ],
      "variante": "Cliente recurrente"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.0,
+     "hasta_pct": true,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/farmacias-direct",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2% cashback | Negro:4",
+      "Carga 2 de la ficha: 2% cashback | Negro:4"
+     ],
+     "niveles": {
+      "Negro": 4.0
+     }
     }
    ]
   },
@@ -29326,7 +29473,7 @@
      "detalle": "Hasta 5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/fever",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 5% cashback | Negro:10",
@@ -30284,7 +30431,7 @@
      "detalle": "Hasta 2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/flixbus",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 2,50% cashback | Negro:5",
@@ -30844,27 +30991,6 @@
      "variante": "Mobiliario"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": true,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/fnac",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 3.0,
      "hasta_pct": false,
@@ -30939,6 +31065,27 @@
       "HTML de la ficha: 8% (cabecera: hasta 8%)"
      ],
      "variante": "Libros, papeleria, regalos y experiencias"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": true,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/fnac",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -31212,27 +31359,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/foot-store",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -31249,6 +31375,27 @@
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/foot-store",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -31858,27 +32005,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 5.0,
-     "hasta_pct": true,
-     "habitual_pct": 5.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/freshly-cosmetics",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 5% cashback | Negro:10",
-      "Carga 2 de la ficha: 5% cashback | Negro:10"
-     ],
-     "niveles": {
-      "Negro": 10.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 2.46,
      "hasta_pct": false,
@@ -31915,6 +32041,27 @@
      ],
      "variante": "Nuevo cliente",
      "solo_clientes_nuevos": true
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 5.0,
+     "hasta_pct": true,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/freshly-cosmetics",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 5% cashback | Negro:10",
+      "Carga 2 de la ficha: 5% cashback | Negro:10"
+     ],
+     "niveles": {
+      "Negro": 10.0
+     }
     }
    ]
   },
@@ -33462,27 +33609,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.0,
-     "hasta_pct": false,
-     "habitual_pct": 2.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/gocity",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2% cashback | Negro:4",
-      "Carga 2 de la ficha: 2% cashback | Negro:4"
-     ],
-     "niveles": {
-      "Negro": 4.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 4.0,
      "hasta_pct": false,
@@ -33499,6 +33625,27 @@
       "Bloque de la ficha: Compra online 4%",
       "HTML de la ficha: 4% (cabecera: hasta 4%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/gocity",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2% cashback | Negro:4",
+      "Carga 2 de la ficha: 2% cashback | Negro:4"
+     ],
+     "niveles": {
+      "Negro": 4.0
+     }
     }
    ]
   },
@@ -34324,27 +34471,6 @@
      "variante": "Alquiler de un producto"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 4.0,
-     "hasta_pct": true,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/grover",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 4% cashback | Negro:8",
-      "Carga 2 de la ficha: 4% cashback | Negro:8"
-     ],
-     "niveles": {
-      "Negro": 8.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 8.0,
      "hasta_pct": false,
@@ -34399,6 +34525,27 @@
       "Título de la ficha: 30€ cupón Grover + 4 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 4 % de cashback"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.0,
+     "hasta_pct": true,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/grover",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4% cashback | Negro:8",
+      "Carga 2 de la ficha: 4% cashback | Negro:8"
+     ],
+     "niveles": {
+      "Negro": 8.0
+     }
     }
    ]
   },
@@ -34750,27 +34897,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 5.0,
-     "hasta_pct": false,
-     "habitual_pct": 5.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/hairburst",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 5% cashback | Negro:10",
-      "Carga 2 de la ficha: 5% cashback | Negro:10"
-     ],
-     "niveles": {
-      "Negro": 10.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 10.0,
      "hasta_pct": false,
@@ -34787,6 +34913,27 @@
       "Bloque de la ficha: Compra online 10%",
       "HTML de la ficha: 10% (cabecera: hasta 10%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/hairburst",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 5% cashback | Negro:10",
+      "Carga 2 de la ficha: 5% cashback | Negro:10"
+     ],
+     "niveles": {
+      "Negro": 10.0
+     }
     }
    ]
   },
@@ -35185,27 +35332,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 6.5,
-     "hasta_pct": true,
-     "habitual_pct": 6.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 6,5 % en el nivel de entrada de BestPrice; nivel Negro: 13 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/hawkers",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 6,50% cashback | Negro:13",
-      "Carga 2 de la ficha: 6,50% cashback | Negro:13"
-     ],
-     "niveles": {
-      "Negro": 13.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 10.0,
      "hasta_pct": false,
@@ -35242,6 +35368,27 @@
       "HTML de la ficha: 13% (cabecera: hasta 13%)"
      ],
      "variante": "Compra online de lentillas"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 6.5,
+     "hasta_pct": true,
+     "habitual_pct": 6.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 6,5 % en el nivel de entrada de BestPrice; nivel Negro: 13 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/hawkers",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 6,50% cashback | Negro:13",
+      "Carga 2 de la ficha: 6,50% cashback | Negro:13"
+     ],
+     "niveles": {
+      "Negro": 13.0
+     }
     }
    ]
   },
@@ -36330,27 +36477,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/holidu",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -36367,6 +36493,27 @@
       "Bloque de la ficha: Reservas finalizadas y pagadas al completo 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/holidu",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -36804,27 +36951,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/honor",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -36841,6 +36967,27 @@
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/honor",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -37250,27 +37397,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 20.0,
-     "hasta_pct": true,
-     "habitual_pct": 20.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 20 % en el nivel de entrada de BestPrice; nivel Negro: 40 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/hostinger",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 20% cashback | Negro:40",
-      "Carga 2 de la ficha: 20% cashback | Negro:40"
-     ],
-     "niveles": {
-      "Negro": 40.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 40.0,
      "hasta_pct": false,
@@ -37307,6 +37433,27 @@
       "HTML de la ficha: 10% (cabecera: hasta 40%)"
      ],
      "variante": "Compra online - Dominios"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 20.0,
+     "hasta_pct": true,
+     "habitual_pct": 20.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 20 % en el nivel de entrada de BestPrice; nivel Negro: 40 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/hostinger",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 20% cashback | Negro:40",
+      "Carga 2 de la ficha: 20% cashback | Negro:40"
+     ],
+     "niveles": {
+      "Negro": 40.0
+     }
     }
    ]
   },
@@ -38201,27 +38348,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.0,
-     "hasta_pct": false,
-     "habitual_pct": 2.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/htophotels",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2% cashback | Negro:4",
-      "Carga 2 de la ficha: 2% cashback | Negro:4"
-     ],
-     "niveles": {
-      "Negro": 4.0
-     }
-    },
-    {
      "plataforma": "Beruby",
      "pct": 2.8,
      "hasta_pct": false,
@@ -38238,6 +38364,27 @@
       "Bloque de la ficha: Reserva online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/htophotels",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2% cashback | Negro:4",
+      "Carga 2 de la ficha: 2% cashback | Negro:4"
+     ],
+     "niveles": {
+      "Negro": 4.0
+     }
     }
    ]
   },
@@ -38318,27 +38465,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/huawei",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
-      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
-     ],
-     "niveles": {
-      "Negro": 5.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -38355,6 +38481,27 @@
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/huawei",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -39005,7 +39152,7 @@
      "detalle": "0,88 % en el nivel de entrada de BestPrice; nivel Negro: 1,75 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/iberia-express",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 0,88% cashback | Negro:1,75",
@@ -39782,7 +39929,7 @@
      "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
      "fin": null,
      "fuente": "https://bestprice.com/es-es/store/ikea",
-     "leido": "2026-10-08",
+     "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
       "Carga 1 de la ficha: 2,50% cashback | Negro:5",
@@ -41059,27 +41206,6 @@
      "variante": "Por reserva de vuelo Nacional"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 4.23,
-     "hasta_pct": true,
-     "habitual_pct": 4.23,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 4,23 % en el nivel de entrada de BestPrice; nivel Negro: 8,46 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/ita-airways",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 4,23% cashback | Negro:8,46",
-      "Carga 2 de la ficha: 4,23% cashback | Negro:8,46"
-     ],
-     "niveles": {
-      "Negro": 8.46
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 8.46,
      "hasta_pct": false,
@@ -41135,6 +41261,27 @@
       "HTML de la ficha: 6,92% (cabecera: hasta 8,46%)"
      ],
      "variante": "Vuelos nacionales"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.23,
+     "hasta_pct": true,
+     "habitual_pct": 4.23,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 4,23 % en el nivel de entrada de BestPrice; nivel Negro: 8,46 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/ita-airways",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4,23% cashback | Negro:8,46",
+      "Carga 2 de la ficha: 4,23% cashback | Negro:8,46"
+     ],
+     "niveles": {
+      "Negro": 8.46
+     }
     }
    ]
   },
@@ -41889,27 +42036,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 10.0,
-     "hasta_pct": true,
-     "habitual_pct": 10.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 10 % en el nivel de entrada de BestPrice; nivel Negro: 20 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/joom",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 10% cashback | Negro:20",
-      "Carga 2 de la ficha: 10% cashback | Negro:20"
-     ],
-     "niveles": {
-      "Negro": 20.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 2.0,
      "hasta_pct": false,
@@ -42022,6 +42148,27 @@
       "HTML de la ficha: 5% (cabecera: hasta 15%)"
      ],
      "variante": "Relojes, vitaminas, suplementos, productos de limpieza, DIY,"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 10.0,
+     "hasta_pct": true,
+     "habitual_pct": 10.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 10 % en el nivel de entrada de BestPrice; nivel Negro: 20 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/joom",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 10% cashback | Negro:20",
+      "Carga 2 de la ficha: 10% cashback | Negro:20"
+     ],
+     "niveles": {
+      "Negro": 20.0
+     }
     }
    ]
   },
@@ -42339,27 +42486,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 4.5,
-     "hasta_pct": true,
-     "habitual_pct": 4.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 4,5 % en el nivel de entrada de BestPrice; nivel Negro: 9 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/just-eat",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 4,50% cashback | Negro:9",
-      "Carga 2 de la ficha: 4,50% cashback | Negro:9"
-     ],
-     "niveles": {
-      "Negro": 9.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 9.0,
      "hasta_pct": false,
@@ -42396,6 +42522,27 @@
       "HTML de la ficha: 2% (cabecera: hasta 9%)"
      ],
      "variante": "Compra online o a través de la app (cliente recurrente)"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.5,
+     "hasta_pct": true,
+     "habitual_pct": 4.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 4,5 % en el nivel de entrada de BestPrice; nivel Negro: 9 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/just-eat",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4,50% cashback | Negro:9",
+      "Carga 2 de la ficha: 4,50% cashback | Negro:9"
+     ],
+     "niveles": {
+      "Negro": 9.0
+     }
     }
    ]
   },
@@ -43063,6 +43210,27 @@
       "Bloque de la ficha: Compra online 20%",
       "HTML de la ficha: 20% (cabecera: hasta 20%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 10.0,
+     "hasta_pct": true,
+     "habitual_pct": 10.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 10 % en el nivel de entrada de BestPrice; nivel Negro: 20 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/kaspersky",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 10% cashback | Negro:20",
+      "Carga 2 de la ficha: 10% cashback | Negro:20"
+     ],
+     "niveles": {
+      "Negro": 20.0
+     }
     }
    ]
   },
@@ -43338,6 +43506,27 @@
       "Bloque de la ficha: Compra online 6%",
       "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": true,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/kenwood",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -43653,6 +43842,27 @@
       "HTML de la ficha: 7% (cabecera: hasta 9%)"
      ],
      "variante": "Cliente recurrente"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.5,
+     "hasta_pct": true,
+     "habitual_pct": 4.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 4,5 % en el nivel de entrada de BestPrice; nivel Negro: 9 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/kiehls",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4,50% cashback | Negro:9",
+      "Carga 2 de la ficha: 4,50% cashback | Negro:9"
+     ],
+     "niveles": {
+      "Negro": 9.0
+     }
     }
    ]
   },
@@ -44368,6 +44578,27 @@
      ],
      "variante": "Nuevo cliente",
      "solo_clientes_nuevos": true
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.5,
+     "hasta_pct": true,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3,5 % en el nivel de entrada de BestPrice; nivel Negro: 7 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/kiwoko",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,50% cashback | Negro:7",
+      "Carga 2 de la ficha: 3,50% cashback | Negro:7"
+     ],
+     "niveles": {
+      "Negro": 7.0
+     }
     }
    ]
   },
@@ -49105,27 +49336,6 @@
      "variante": "Compra con uso de cupones"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 3.5,
-     "hasta_pct": true,
-     "habitual_pct": 3.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 3,5 % en el nivel de entrada de BestPrice; nivel Negro: 7 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/lookfantastic",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 3,50% cashback | Negro:7",
-      "Carga 2 de la ficha: 3,50% cashback | Negro:7"
-     ],
-     "niveles": {
-      "Negro": 7.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 2.0,
      "hasta_pct": false,
@@ -49181,6 +49391,27 @@
      ],
      "variante": "Compra online (cliente nuevo)",
      "solo_clientes_nuevos": true
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.5,
+     "hasta_pct": true,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3,5 % en el nivel de entrada de BestPrice; nivel Negro: 7 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/lookfantastic",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,50% cashback | Negro:7",
+      "Carga 2 de la ficha: 3,50% cashback | Negro:7"
+     ],
+     "niveles": {
+      "Negro": 7.0
+     }
     }
    ]
   },
@@ -51651,6 +51882,27 @@
       "Bloque de la ficha: Compra online 4,61%",
       "HTML de la ficha: 4,61% (cabecera: hasta 4,61%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.31,
+     "hasta_pct": false,
+     "habitual_pct": 2.31,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,31 % en el nivel de entrada de BestPrice; nivel Negro: 4,61 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/marypaz",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,31% cashback | Negro:4,61",
+      "Carga 2 de la ficha: 2,31% cashback | Negro:4,61"
+     ],
+     "niveles": {
+      "Negro": 4.61
+     }
     }
    ]
   },
@@ -52209,27 +52461,6 @@
      "variante": "Productos reacondicionados"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 1.5,
-     "hasta_pct": true,
-     "habitual_pct": 1.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 1,5 % en el nivel de entrada de BestPrice; nivel Negro: 3 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/mediamarkt",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 1,50% cashback | Negro:3",
-      "Carga 2 de la ficha: 1,50% cashback | Negro:3"
-     ],
-     "niveles": {
-      "Negro": 3.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 3.0,
      "hasta_pct": false,
@@ -52266,6 +52497,27 @@
       "HTML de la ficha: 1% (cabecera: hasta 3%)"
      ],
      "variante": "Compra online (Consolas PS5 y XBOX X)"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 1.5,
+     "hasta_pct": true,
+     "habitual_pct": 1.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 1,5 % en el nivel de entrada de BestPrice; nivel Negro: 3 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/mediamarkt",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 1,50% cashback | Negro:3",
+      "Carga 2 de la ficha: 1,50% cashback | Negro:3"
+     ],
+     "niveles": {
+      "Negro": 3.0
+     }
     }
    ]
   },
@@ -52975,6 +53227,27 @@
       "Bloque de la ficha: Compra online 3%",
       "HTML de la ficha: 3% (cabecera: hasta 3%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 1.5,
+     "hasta_pct": false,
+     "habitual_pct": 1.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "1,5 % en el nivel de entrada de BestPrice; nivel Negro: 3 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/michael-kors",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 1,50% cashback | Negro:3",
+      "Carga 2 de la ficha: 1,50% cashback | Negro:3"
+     ],
+     "niveles": {
+      "Negro": 3.0
+     }
     }
    ]
   },
@@ -53138,6 +53411,27 @@
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/miin-cosmetics",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -53253,6 +53547,27 @@
       "Bloque de la ficha: Compra online 10%",
       "HTML de la ficha: 10% (cabecera: hasta 10%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/miliboo",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 5% cashback | Negro:10",
+      "Carga 2 de la ficha: 5% cashback | Negro:10"
+     ],
+     "niveles": {
+      "Negro": 10.0
+     }
     }
    ]
   },
@@ -54733,6 +55048,27 @@
       "Bloque de la ficha: En todas las compras en la tienda online. 4%",
       "HTML de la ficha: 4% (cabecera: hasta 4%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/motocard",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2% cashback | Negro:4",
+      "Carga 2 de la ficha: 2% cashback | Negro:4"
+     ],
+     "niveles": {
+      "Negro": 4.0
+     }
     }
    ]
   },
@@ -54975,6 +55311,27 @@
       "Bloque de la ficha: Compra online 6%",
       "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/moulinex",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -56129,6 +56486,27 @@
       "Bloque de la ficha: Compra online 1%",
       "HTML de la ficha: 1% (cabecera: hasta 1%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 6.0,
+     "hasta_pct": true,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 6 % en el nivel de entrada de BestPrice; nivel Negro: 12 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/myprotein",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 6% cashback | Negro:12",
+      "Carga 2 de la ficha: 6% cashback | Negro:12"
+     ],
+     "niveles": {
+      "Negro": 12.0
+     }
     }
    ]
   },
@@ -63125,6 +63503,27 @@
       "HTML de la ficha: 5% (cabecera: hasta 6%)"
      ],
      "variante": "Compra online - Con cupones"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.75,
+     "hasta_pct": true,
+     "habitual_pct": 3.75,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3,75 % en el nivel de entrada de BestPrice; nivel Negro: 7,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/padel-nuestro",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,75% cashback | Negro:7,50",
+      "Carga 2 de la ficha: 3,75% cashback | Negro:7,50"
+     ],
+     "niveles": {
+      "Negro": 7.5
+     }
     }
    ]
   },
@@ -63598,6 +63997,27 @@
       "Bloque de la ficha: Compra online 6%",
       "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/pandora",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -64174,6 +64594,27 @@
       "HTML de la ficha: 5% (cabecera: hasta 10%)"
      ],
      "variante": "Compra online (con código)"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/parfumdreams",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -66061,6 +66502,27 @@
       "Bloque de la ficha: Compra online 7%",
       "HTML de la ficha: 7% (cabecera: hasta 7%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/pikolinos",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -66951,6 +67413,27 @@
       "Bloque de la ficha: Compra online 7,9%",
       "HTML de la ficha: 7,9% (cabecera: hasta 7,9%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.85,
+     "hasta_pct": false,
+     "habitual_pct": 3.85,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3,85 % en el nivel de entrada de BestPrice; nivel Negro: 7,7 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/polo-club",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,85% cashback | Negro:7,70",
+      "Carga 2 de la ficha: 3,85% cashback | Negro:7,70"
+     ],
+     "niveles": {
+      "Negro": 7.7
+     }
     }
    ]
   },
@@ -67299,6 +67782,27 @@
       "HTML de la ficha: 2,61% (cabecera: hasta 5,22%)"
      ],
      "variante": "Compra online - Con código de descuento"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.61,
+     "hasta_pct": true,
+     "habitual_pct": 3.61,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3,61 % en el nivel de entrada de BestPrice; nivel Negro: 7,22 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/primeriti",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3,61% cashback | Negro:7,22",
+      "Carga 2 de la ficha: 3,61% cashback | Negro:7,22"
+     ],
+     "niveles": {
+      "Negro": 7.22
+     }
     }
    ]
   },
@@ -67402,27 +67906,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 0.78,
-     "hasta_pct": false,
-     "habitual_pct": 0.78,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "0,78 % en el nivel de entrada de BestPrice; nivel Negro: 1,56 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/primor",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 0,78% cashback | Negro:1,56",
-      "Carga 2 de la ficha: 0,78% cashback | Negro:1,56"
-     ],
-     "niveles": {
-      "Negro": 1.56
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -67439,6 +67922,27 @@
       "Bloque de la ficha: Compra Online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 0.78,
+     "hasta_pct": false,
+     "habitual_pct": 0.78,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "0,78 % en el nivel de entrada de BestPrice; nivel Negro: 1,56 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/primor",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 0,78% cashback | Negro:1,56",
+      "Carga 2 de la ficha: 0,78% cashback | Negro:1,56"
+     ],
+     "niveles": {
+      "Negro": 1.56
+     }
     }
    ]
   },
@@ -67968,6 +68472,27 @@
       "HTML de la ficha: 5% (cabecera: hasta 8,5%)"
      ],
      "variante": "Cliente recurrente"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/promofarma",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -68247,6 +68772,27 @@
       "HTML de la ficha: 3% (cabecera: hasta 4%)"
      ],
      "variante": "Compra online de productos rebajados"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "1 % en el nivel de entrada de BestPrice; nivel Negro: 2 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/puma",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 1% cashback | Negro:2",
+      "Carga 2 de la ficha: 1% cashback | Negro:2"
+     ],
+     "niveles": {
+      "Negro": 2.0
+     }
     }
    ]
   },
@@ -68807,6 +69353,27 @@
       "Bloque de la ficha: En reservas Colección Roja y Azul de Radisson, Park Inn, Park Plaza, Art´Otels, Edwardian Hotels, Country Inn, Radisson Hotels. 4%",
       "HTML de la ficha: 4% (cabecera: hasta 4%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2 % en el nivel de entrada de BestPrice; nivel Negro: 4 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/radisson-hotels",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2% cashback | Negro:4",
+      "Carga 2 de la ficha: 2% cashback | Negro:4"
+     ],
+     "niveles": {
+      "Negro": 4.0
+     }
     }
    ]
   },
@@ -71098,6 +71665,27 @@
       "Bloque de la ficha: Compra online 6%",
       "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/rowenta",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -71569,6 +72157,27 @@
       "HTML de la ficha: 1% (cabecera: hasta 5,5%)"
      ],
      "variante": "Vuelos y trenes"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": true,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/rumbo",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -72365,6 +72974,27 @@
       "HTML de la ficha: 2% (cabecera: hasta 10%)"
      ],
      "variante": "Compra online - Educación"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/samsung",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -73431,6 +74061,27 @@
       "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ],
      "variante": "Resto de compras online"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 6.5,
+     "hasta_pct": true,
+     "habitual_pct": 6.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 6,5 % en el nivel de entrada de BestPrice; nivel Negro: 13 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/sensilab",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 6,50% cashback | Negro:13",
+      "Carga 2 de la ficha: 6,50% cashback | Negro:13"
+     ],
+     "niveles": {
+      "Negro": 13.0
+     }
     }
    ]
   },
@@ -73882,27 +74533,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 7.5,
-     "hasta_pct": true,
-     "habitual_pct": 7.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 7,5 % en el nivel de entrada de BestPrice; nivel Negro: 15 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/shein",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 7,50% cashback | Negro:15",
-      "Carga 2 de la ficha: 7,50% cashback | Negro:15"
-     ],
-     "niveles": {
-      "Negro": 15.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 1.0,
      "hasta_pct": false,
@@ -73939,6 +74569,27 @@
      ],
      "variante": "Compra online - Cliente nuevo en el comerciante.",
      "solo_clientes_nuevos": true
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 7.5,
+     "hasta_pct": true,
+     "habitual_pct": 7.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 7,5 % en el nivel de entrada de BestPrice; nivel Negro: 15 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/shein",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 7,50% cashback | Negro:15",
+      "Carga 2 de la ficha: 7,50% cashback | Negro:15"
+     ],
+     "niveles": {
+      "Negro": 15.0
+     }
     }
    ]
   },
@@ -74682,6 +75333,27 @@
       "Bloque de la ficha: Compra online 10%",
       "HTML de la ficha: 10% (cabecera: hasta 10%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 5.0,
+     "hasta_pct": true,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 5 % en el nivel de entrada de BestPrice; nivel Negro: 10 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/sinmaletas",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 5% cashback | Negro:10",
+      "Carga 2 de la ficha: 5% cashback | Negro:10"
+     ],
+     "niveles": {
+      "Negro": 10.0
+     }
     }
    ]
   },
@@ -75102,27 +75774,6 @@
      ]
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 4.25,
-     "hasta_pct": true,
-     "habitual_pct": 4.25,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 4,25 % en el nivel de entrada de BestPrice; nivel Negro: 8,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/skechers",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 4,25% cashback | Negro:8,50",
-      "Carga 2 de la ficha: 4,25% cashback | Negro:8,50"
-     ],
-     "niveles": {
-      "Negro": 8.5
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -75139,6 +75790,27 @@
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.25,
+     "hasta_pct": true,
+     "habitual_pct": 4.25,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 4,25 % en el nivel de entrada de BestPrice; nivel Negro: 8,5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/skechers",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4,25% cashback | Negro:8,50",
+      "Carga 2 de la ficha: 4,25% cashback | Negro:8,50"
+     ],
+     "niveles": {
+      "Negro": 8.5
+     }
     }
    ]
   },
@@ -77373,6 +78045,27 @@
       "Bloque de la ficha: Compra online 8%",
       "HTML de la ficha: 8% (cabecera: hasta 8%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "4 % en el nivel de entrada de BestPrice; nivel Negro: 8 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/sprinter",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 4% cashback | Negro:8",
+      "Carga 2 de la ficha: 4% cashback | Negro:8"
+     ],
+     "niveles": {
+      "Negro": 8.0
+     }
     }
    ]
   },
@@ -78163,6 +78856,27 @@
       "Título de la ficha: 19% código descuento Stylevana + 14,5 % Cashback / octubre",
       "Tarjeta de la oferta: 14,5 % de cashback"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/stylevana",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -79409,6 +80123,27 @@
       "Bloque de la ficha: Compra online 6%",
       "HTML de la ficha: 6% (cabecera: hasta 6%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/taurus",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -79859,27 +80594,6 @@
      "variante": "Compra cliente ya existente"
     },
     {
-     "plataforma": "BestPrice",
-     "pct": 15.0,
-     "hasta_pct": true,
-     "habitual_pct": 15.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Hasta 15 % en el nivel de entrada de BestPrice; nivel Negro: 30 % (solo al llegar a ese nivel de su programa de fidelidad)",
-     "fin": null,
-     "fuente": "https://bestprice.com/es-es/store/temu",
-     "leido": "2026-10-08",
-     "doble_lectura": true,
-     "lecturas": [
-      "Carga 1 de la ficha: 15% cashback | Negro:30",
-      "Carga 2 de la ficha: 15% cashback | Negro:30"
-     ],
-     "niveles": {
-      "Negro": 30.0
-     }
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 43.0,
      "hasta_pct": false,
@@ -79916,6 +80630,27 @@
       "HTML de la ficha: 5% (cabecera: hasta 43%)"
      ],
      "variante": "Compra online (Cliente recurrente o existente en Temu)- hast"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 15.0,
+     "hasta_pct": true,
+     "habitual_pct": 15.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 15 % en el nivel de entrada de BestPrice; nivel Negro: 30 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/temu",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 15% cashback | Negro:30",
+      "Carga 2 de la ficha: 15% cashback | Negro:30"
+     ],
+     "niveles": {
+      "Negro": 30.0
+     }
     }
    ]
   },
@@ -81360,6 +82095,27 @@
       "HTML de la ficha: 3% (cabecera: hasta 6%)"
      ],
      "variante": "Cliente recurrente"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 3.0,
+     "hasta_pct": true,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 3 % en el nivel de entrada de BestPrice; nivel Negro: 6 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/tiendanimal",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 3% cashback | Negro:6",
+      "Carga 2 de la ficha: 3% cashback | Negro:6"
+     ],
+     "niveles": {
+      "Negro": 6.0
+     }
     }
    ]
   },
@@ -81773,6 +82529,27 @@
       "Bloque de la ficha: Reserva confirmada 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": true,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/tiqets",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -82448,6 +83225,27 @@
       "Título de la ficha: 70% código descuento ToysRUs + 2,5 % Cashback / octubre",
       "Tarjeta de la oferta: 2,5 % de cashback"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "2,5 % en el nivel de entrada de BestPrice; nivel Negro: 5 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/toysrus",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 2,50% cashback | Negro:5",
+      "Carga 2 de la ficha: 2,50% cashback | Negro:5"
+     ],
+     "niveles": {
+      "Negro": 5.0
+     }
     }
    ]
   },
@@ -87613,6 +88411,27 @@
       "HTML de la ficha: 1,92% (cabecera: hasta 3,07%)"
      ],
      "variante": "TEL"
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 1.53,
+     "hasta_pct": true,
+     "habitual_pct": 1.53,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Hasta 1,53 % en el nivel de entrada de BestPrice; nivel Negro: 3,07 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/wakkap",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 1,53% cashback | Negro:3,07",
+      "Carga 2 de la ficha: 1,53% cashback | Negro:3,07"
+     ],
+     "niveles": {
+      "Negro": 3.07
+     }
     }
    ]
   },
@@ -88613,6 +89432,27 @@
       "Bloque de la ficha: Compra online 2%",
       "HTML de la ficha: 2% (cabecera: hasta 2%)"
      ]
+    },
+    {
+     "plataforma": "BestPrice",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "1 % en el nivel de entrada de BestPrice; nivel Negro: 2 % (solo al llegar a ese nivel de su programa de fidelidad)",
+     "fin": null,
+     "fuente": "https://bestprice.com/es-es/store/xiaomi",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Carga 1 de la ficha: 1% cashback | Negro:2",
+      "Carga 2 de la ficha: 1% cashback | Negro:2"
+     ],
+     "niveles": {
+      "Negro": 2.0
+     }
     }
    ]
   },

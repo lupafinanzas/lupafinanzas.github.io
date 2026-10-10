@@ -314,6 +314,40 @@
    ],
    "fuente_oficial": "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html",
    "fuente_condiciones": "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html"
+  },
+  {
+   "slug": "n26-widilo",
+   "nombre": "N26 (vía Widilo)",
+   "tipo": "2 · Registro + contratación",
+   "recompensa": "30 € de cashback de Widilo por abrir la cuenta de N26 activando antes el cashback en la ficha de N26 de Widilo. Aparte, hasta el 11/10/2026 Widilo sube su bono de referidos: 10 € para quien se registra invitado (lo habitual son 5 €) y 10 € para quien invita (lo habitual son 3 €).",
+   "requisitos": "Hay que estar registrado en Widilo, pulsar «Activar el cashback» en la ficha de N26 y abrir la cuenta en esa misma visita. Widilo no detalla en la ficha qué exige N26 para validar el cashback (cliente nuevo, ingreso mínimo, plazos): en verificación, pregunta a Widilo antes si te importa. El bono de referidos solo se paga cuando hay un cashback validado («cashback validado = bono para ti y tu referido»). Las reseñas de la propia ficha hablan de validaciones de entre 10 días y varias semanas, alguna tras abrir una incidencia. Aquí no hay enlace ni código.",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-10",
+   "gana_corto": "30 €",
+   "gana_sub": "de cashback en Widilo al abrir N26 (+10 € de bono invitado hasta el 11/10)",
+   "nota": {
+    "tiempo": 1.5,
+    "importe": 1.5,
+    "letra": 1,
+    "permanencia": 2
+   },
+   "nota_razon": {
+    "tiempo": "Alta online en las dos plataformas, pero Widilo no publica el plazo de validación y las reseñas hablan de 10 días a varias semanas.",
+    "importe": "30 € fijos en la ficha de Widilo; cobrarlo depende de que N26 valide el alta y el bono de 10 € solo llega con un cashback validado.",
+    "letra": "La ficha no detalla las condiciones de validación (cliente nuevo, ingreso mínimo): hay partes que no se pueden leer.",
+    "permanencia": "Widilo no publica permanencia ni saldo mínimo para este cashback."
+   },
+   "nota_texto": "Nota provisional: Widilo no publica las condiciones de validación de este cashback.",
+   "auto": true,
+   "fuentes": [
+    "https://www.widilo.es/codigo-descuento/n26",
+    "https://x.com/TuAhorroX/status/2108814413218390120",
+    "https://x.com/FinanzasAlej_/status/2108841492957777942",
+    "https://x.com/SacandoPartido/status/2108846337592545444"
+   ],
+   "fuente_oficial": "https://www.widilo.es/codigo-descuento/n26",
+   "fuente_condiciones": "https://www.widilo.es/codigo-descuento/n26"
   }
  ]
 }

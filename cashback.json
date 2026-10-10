@@ -12010,7 +12010,7 @@
      "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10% código descuento BSTN + 4 % Cashback / octubre",
+      "Título de la ficha: 70% código descuento BSTN + 4 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 4 % de cashback"
      ]
     },
@@ -31003,24 +31003,6 @@
      "niveles": {
       "Negro": 5.0
      }
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 6.5,
-     "hasta_pct": true,
-     "habitual_pct": 6.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/fnac",
-     "leido": "2026-10-10",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 10€ código descuento Fnac + 6,5 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 6,5 % de cashback"
-     ]
     }
    ]
   },
@@ -33963,9 +33945,9 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 10.0,
+     "pct": 3.5,
      "hasta_pct": false,
-     "habitual_pct": 10.0,
+     "habitual_pct": 3.5,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -33975,8 +33957,8 @@
      "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 100€ código promocional Google Store + 10 % Cashback / oct.",
-      "Tarjeta de la oferta: 10 % de cashback"
+      "Título de la ficha: 100€ código promocional Google Store + 3,5 % Cashback / oct.",
+      "Tarjeta de la oferta: 3,5 % de cashback"
      ]
     }
    ]
@@ -34298,7 +34280,7 @@
      "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 25% código promocional Groupon + 3,5 % Cashback / octubre",
+      "Título de la ficha: 30% código promocional Groupon + 3,5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 3,5 % de cashback"
      ]
     }
@@ -35282,6 +35264,24 @@
      "niveles": {
       "Negro": 13.0
      }
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/hawkers",
+     "leido": "2026-10-10",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 2x1 código promocional Hawkers + 5 % Cashback / octubre",
+      "Tarjeta de la oferta: 5 % de cashback"
+     ]
     }
    ]
   },
@@ -38271,7 +38271,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htop-hotels",
+     "fuente": "https://es.beruby.com/htophotels",
      "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
@@ -80579,7 +80579,7 @@
      "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento Tennis Point + 3 % Cashback / octubre",
+      "Título de la ficha: 15% código descuento Tennis Point + 3 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 3 % de cashback"
      ]
     },
@@ -83455,9 +83455,9 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 2.5,
+     "pct": 8.0,
      "hasta_pct": false,
-     "habitual_pct": 2.5,
+     "habitual_pct": 8.0,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -83467,10 +83467,9 @@
      "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 15% código promocional TrainPal + 2,5 % Cashback / octubre",
-      "Tarjeta de la oferta: 2,5 % de cashback"
-     ],
-     "cambio_confirmado": true
+      "Título de la ficha: 15% código promocional TrainPal + 8 % Cashback / octubre",
+      "Tarjeta de la oferta: 8 % de cashback"
+     ]
     }
    ]
   },
@@ -88222,7 +88221,7 @@
      "leido": "2026-10-10",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 29,90€ código descuento Wakkap + 1,5 % Cashback / octubre",
+      "Título de la ficha: 5€ código descuento Wakkap + 1,5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 1,5 % de cashback"
      ]
     },

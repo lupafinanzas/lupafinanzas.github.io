@@ -38456,7 +38456,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htop-hotels",
+     "fuente": "https://es.beruby.com/htophotels",
      "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
@@ -59093,7 +59093,7 @@
      "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 15% código descuento Notino + 1 % Cashback / octubre",
+      "Título de la ficha: 65% código descuento Notino + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     },
@@ -60763,7 +60763,7 @@
      "doble_lectura": true,
      "lecturas": [
       "Título de la ficha: 12% código descuento Oral-B + 5 % Cashback / octubre",
-      "Tarjeta de la oferta: EN AUMENTO, Hasta el 31/10/2026, 5 % de cashback"
+      "Tarjeta de la oferta: 5 % de cashback"
      ],
      "cambio_confirmado": true
     }
@@ -90053,6 +90053,24 @@
      "lecturas": [
       "Bloque de la ficha: Por compra online 21,00%",
       "HTML de la ficha: 21,00%"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 15.0,
+     "hasta_pct": false,
+     "habitual_pct": 15.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/wondershare",
+     "leido": "2026-10-11",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 100€ cupón Wondershare + 15 % Cashback / octubre",
+      "Tarjeta de la oferta: 15 % de cashback"
      ]
     }
    ]

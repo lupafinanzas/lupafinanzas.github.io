@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-10",
+ "actualizado": "2026-10-11",
  "nota_metodo": "Datos leídos de las páginas públicas de cada plataforma y comprobados con una segunda lectura independiente. El orden es por lo que recibirías en euros con el importe que elijas, no por comisiones nuestras. No hay enlaces de referido en esta tabla.",
  "tiendas": [
   {
@@ -1281,7 +1281,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 4% de reembolso al comprar en Adidas",
@@ -1303,7 +1303,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/adidas-es",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Adidas ES 3 % cashback",
@@ -1321,7 +1321,7 @@
      "detalle": "Solo si compras desde la app de Klarna",
      "fin": null,
      "fuente": "https://www.klarna.com/es/cashback/",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Texto de la página: Adidas 2,5% de cashback",
@@ -2772,7 +2772,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/aliexpress",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: AliExpress hasta 5 % cashback",
@@ -2790,7 +2790,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 6% de reembolso al comprar en Aliexpress ES",
@@ -19143,7 +19143,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/decathlon-espana",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Decathlon ES 1.5 % cashback",
@@ -22466,7 +22466,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 5,2% de reembolso al comprar en Druni",
@@ -22506,7 +22506,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/druni-es",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Druni ES hasta 3.25 % cashback",
@@ -23329,7 +23329,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/ebay-es",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: eBay ES 1 % cashback",
@@ -30561,7 +30561,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/fnac-es",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Fnac hasta 2.5 % cashback",
@@ -42295,7 +42295,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/just-eat-es",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Just Eat ES hasta 4.5 % cashback",
@@ -49072,7 +49072,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/lookfantastic-es",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: LOOKFANTASTIC ES hasta 3.5 % cashback",
@@ -52217,7 +52217,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/mediamarkt-es",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Media Markt España hasta 3 % cashback",
@@ -52235,7 +52235,7 @@
      "detalle": "Solo si compras desde la app de Klarna",
      "fin": null,
      "fuente": "https://www.klarna.com/es/cashback/",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Texto de la página: MediaMarkt 1,5% de cashback",
@@ -60166,20 +60166,20 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 20.0,
+     "pct": 5.0,
      "hasta_pct": false,
      "habitual_pct": 2.5,
      "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Supercashback del día de iGraal (solo el 10/10)",
-     "fin": "2026-10-10",
+     "detalle": "Subida temporal de iGraal: 5 % en toda la tienda online (habitual 2,5 %). El supercashback del 20 % terminó el 10/10",
+     "fin": "2026-10-31",
      "fuente": "https://es.igraal.com/codigos-promocionales/oral-b",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 12% código descuento Oral-B + 20 % Cashback / octubre",
-      "Tarjeta de la oferta: 20 % de cashback"
+      "Título de la ficha: 12% código descuento Oral-B + 5 % Cashback / octubre",
+      "Tarjeta de la oferta: EN AUMENTO, Hasta el 31/10/2026, 5 % de cashback"
      ],
      "cambio_confirmado": true
     }
@@ -67716,7 +67716,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/primor-es",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Primor ES 0.75 % cashback",
@@ -80343,7 +80343,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/temu-eu",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Temu Europe hasta 8 % cashback",
@@ -80361,7 +80361,7 @@
      "detalle": "Solo si compras desde la app de Klarna",
      "fin": null,
      "fuente": "https://www.klarna.com/es/cashback/",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Texto de la página: Temu 7% de cashback",
@@ -80385,7 +80385,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/temu-eu",
-     "leido": "2026-10-10",
+     "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
       "Condiciones (página renderizada): 0.95 % para un cliente existente de Temu",

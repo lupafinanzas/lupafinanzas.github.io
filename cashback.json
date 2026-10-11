@@ -23380,24 +23380,6 @@
    "nombre": "eBay",
    "filas": [
     {
-     "plataforma": "iGraal",
-     "pct": 1,
-     "hasta_pct": false,
-     "habitual_pct": 1,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa fija todo el año",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/ebay",
-     "leido": "2026-10-11",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% cupón eBay + 1 % Cashback / octubre",
-      "Tarjeta de la oferta: 1 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Letyshops",
      "pct": 1,
      "hasta_pct": false,
@@ -38456,7 +38438,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htophotels",
+     "fuente": "https://es.beruby.com/htop-hotels",
      "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
@@ -59093,7 +59075,7 @@
      "leido": "2026-10-11",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 65% código descuento Notino + 1 % Cashback / octubre",
+      "Título de la ficha: 15% código descuento Notino + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     },

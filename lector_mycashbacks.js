@@ -8,7 +8,7 @@ window.__fin = false; window.__salida = ''; window.__n = 0;
 (async () => {
   const pub = await (await fetch('https://lupafinanzas.github.io/cashback.json')).json();
   const publicado = {};
-  for (const t of pub.tiendas) for (const f of t.filas) if (f.plataforma === 'mycashbacks') publicado[t.slug] = f;
+  for (const t of pub.tiendas) for (const f of t.filas) if (f.plataforma === 'mycashbacks') publicado[((f.fuente || '').match(/mycashbacks\.com\/es\/([a-z0-9-]+)\/?$/) || [0, t.slug])[1]] = f;  // slug de la ficha de mycashbacks (puede no ser el de la tienda)
   const x = await (await fetch('/es/sitemap/sitemap-0.xml')).text();
   const noTienda = /quienes-somos|condiciones|aviso|privacidad|cashbacks|cupones|promociones|encuestas|guide|asi-funciona|app|finder|milesandmore|legal|contacto|faq|ayuda|blog|cookies|prensa|empleo|user|search|downloads|lead/;
   const EXCL = new Set(['bitpanda', 'coinbase', 'ria']);

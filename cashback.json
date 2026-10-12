@@ -6054,6 +6054,23 @@
       "Sello de la tarjeta: 12%"
      ],
      "clave_fuente": "mifarma"
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 5.6,
+     "hasta_pct": true,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/mifarma-by-atidaplus/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: mifarma by atidaplus cashback 5,6%",
+      "Bloque de la ficha: Hasta el 5,6%"
+     ]
     }
    ]
   },
@@ -53843,29 +53860,6 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 8,40%",
       "HTML de la ficha: 8,40%"
-     ]
-    }
-   ]
-  },
-  {
-   "slug": "mifarma-by-atidaplus",
-   "nombre": "mifarma by atidaplus",
-   "filas": [
-    {
-     "plataforma": "mycashbacks",
-     "pct": 5.6,
-     "hasta_pct": true,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
-     "fin": null,
-     "fuente": "https://www.mycashbacks.com/es/mifarma-by-atidaplus/",
-     "leido": "2026-10-12",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: mifarma by atidaplus cashback 5,6%",
-      "Bloque de la ficha: Hasta el 5,6%"
      ]
     }
    ]

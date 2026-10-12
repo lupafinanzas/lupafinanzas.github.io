@@ -17,6 +17,16 @@ import sys
 base = pathlib.Path(__file__).parent
 hoy = datetime.date.today().isoformat()
 EXCLUIDAS = {"bitpanda", "coinbase", "ria"}  # servicios financieros: fuera de este comparador
+# fichas de mycashbacks cuya tienda ya existe en el comparador con otro slug: slug de mycashbacks -> slug nuestro
+ALIAS = {"mifarma-by-atidaplus": "atida-mifarma"}
+
+
+def slug_fuente(f, t):
+    """Slug de la ficha de mycashbacks de una fila (el de su dirección), que puede no coincidir con el de la tienda."""
+    m = re.search(r"mycashbacks\.com/es/([a-z0-9-]+)/?$", f.get("fuente") or "")
+    return m.group(1) if m else t["slug"]
+
+
 lectura = {}
 for linea in pathlib.Path(sys.argv[1]).read_text(encoding="utf-8").splitlines():
     if linea.strip():
@@ -52,7 +62,7 @@ for slug, r in sorted(lectura.items()):
         "fin": None, "fuente": f"https://www.mycashbacks.com/es/{slug}/", "leido": hoy, "doble_lectura": True,
         "lecturas": [f"Título de la ficha: {r['title']}", f"Bloque de la ficha: {'Hasta el ' if hasta else 'CASHBACK '}{r['b']}%"],
     })
-    t = tiendas.get(slug)
+    t = tiendas.get(ALIAS.get(slug, slug))
     if t is None:
         nom = nombre(r["title"])
         if not nom:
@@ -75,8 +85,8 @@ if "--refrescar" in sys.argv:
     for t in data["tiendas"]:
         nuevas_filas = []
         for f in t["filas"]:
-            if f["plataforma"] == "mycashbacks" and t["slug"] not in lectura:
-                if t["slug"] in fallos:
+            if f["plataforma"] == "mycashbacks" and slug_fuente(f, t) not in lectura:
+                if slug_fuente(f, t) in fallos:
                     retiradas += 1
                     continue
                 f["leido"] = hoy

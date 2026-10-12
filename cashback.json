@@ -1285,7 +1285,7 @@
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 4% de reembolso al comprar en Adidas",
-      "Búsqueda en el contenido: 4% de reembolso al comprar en Adidas"
+      "Sello de la tarjeta: 4%"
      ]
     },
     {
@@ -1308,7 +1308,8 @@
      "lecturas": [
       "Cabecera de la ficha: Adidas ES 3 % cashback",
       "Listado de tiendas: 3 % cashback, ropa y zapatos, adidas-es"
-     ]
+     ],
+     "firma": "0-70d84edd48ed"
     },
     {
      "plataforma": "Klarna",
@@ -1324,8 +1325,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Texto de la página: Adidas 2,5% de cashback",
-      "Búsqueda en el contenido: Adidas 2,5% de cashback"
+      "Tarjeta de la página: Adidas 2,5 % de cashback",
+      "Dato incrustado de la tienda: 2,5 % cashback"
      ]
     },
     {
@@ -2795,7 +2796,8 @@
      "lecturas": [
       "Cabecera de la ficha: AliExpress hasta 5 % cashback",
       "Condiciones: 5 % algunos artículos de accesorios móviles, ropa, interior y jardín; 1 % los demás"
-     ]
+     ],
+     "firma": "3-739133acbeac"
     },
     {
      "plataforma": "Consupermiso",
@@ -2812,7 +2814,7 @@
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 6% de reembolso al comprar en Aliexpress ES",
-      "Búsqueda en el contenido: 6% de reembolso al comprar en Aliexpress ES"
+      "Sello de la tarjeta: 6%"
      ]
     },
     {
@@ -19193,7 +19195,8 @@
      "lecturas": [
       "Cabecera de la ficha: Decathlon ES 1.5 % cashback",
       "Listado de tiendas: 1.5 % cashback, ropa, deporte, decathlon-espana"
-     ]
+     ],
+     "firma": "0-803cb963ff6f"
     },
     {
      "plataforma": "mycashbacks",
@@ -22536,7 +22539,7 @@
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 5,2% de reembolso al comprar en Druni",
-      "Búsqueda en el contenido: 5,2% de reembolso al comprar en Druni"
+      "Sello de la tarjeta: 5,2%"
      ]
     },
     {
@@ -22577,7 +22580,8 @@
      "lecturas": [
       "Cabecera de la ficha: Druni ES hasta 3.25 % cashback",
       "Condiciones: 3.25 % complementos; 2.75 % perfumes; 2.5 % cliente nuevo; 2.25 % cliente existente"
-     ]
+     ],
+     "firma": "4-9c81385cfffc"
     },
     {
      "plataforma": "Widilo",
@@ -23383,7 +23387,8 @@
      "lecturas": [
       "Cabecera de la ficha: eBay ES 1 % cashback",
       "Listado de tiendas: 1 % cashback, tiendas por departamentos, ebay-es"
-     ]
+     ],
+     "firma": "0-3261771a4ba7"
     },
     {
      "plataforma": "Widilo",
@@ -30675,7 +30680,8 @@
      "lecturas": [
       "Cabecera de la ficha: Fnac hasta 2.5 % cashback",
       "Condiciones: 2.5 % libros y papelería; 2 % mobiliario; 1.75 % belleza; 1.5 % música y cine; 1.25 % foto y hogar; 0.75 % imagen y hardware"
-     ]
+     ],
+     "firma": "8-dcfaff7df111"
     },
     {
      "plataforma": "Widilo",
@@ -42553,7 +42559,8 @@
      "lecturas": [
       "Cabecera de la ficha: Just Eat ES hasta 4.5 % cashback",
       "Condiciones: 4.5 % usuario nuevo por la web; 1 % usuario existente por la web"
-     ]
+     ],
+     "firma": "2-946f6fe019d4"
     },
     {
      "plataforma": "Beruby",
@@ -49498,7 +49505,8 @@
      "lecturas": [
       "Cabecera de la ficha: LOOKFANTASTIC ES hasta 3.5 % cashback",
       "Condiciones: 3.5 % cliente nuevo; 1.5 % cliente existente; 1.5 % Beauty Box; 2.5 % Black Friday box"
-     ]
+     ],
+     "firma": "7-6dcfefda68de"
     },
     {
      "plataforma": "Widilo",
@@ -52707,7 +52715,8 @@
      "lecturas": [
       "Cabecera de la ficha: Media Markt España hasta 3 % cashback",
       "Condiciones: 3 % cables, regletas y hubs; 1.65 % resto de categorías"
-     ]
+     ],
+     "firma": "3-bbeedf6313b6"
     },
     {
      "plataforma": "Klarna",
@@ -52723,8 +52732,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Texto de la página: MediaMarkt 1,5% de cashback",
-      "Búsqueda en el contenido: MediaMarkt 1,5% de cashback"
+      "Tarjeta de la página: MediaMarkt 1,5 % de cashback",
+      "Dato incrustado de la tienda: 1,5 % cashback"
      ]
     },
     {
@@ -68416,7 +68425,8 @@
      "lecturas": [
       "Cabecera de la ficha: Primor ES 0.75 % cashback",
       "Listado de tiendas: 0.75 % cashback, salud y belleza, primor-es"
-     ]
+     ],
+     "firma": "0-cb3b483d06ca"
     },
     {
      "plataforma": "Widilo",
@@ -81275,13 +81285,14 @@
      "lecturas": [
       "Cabecera de la ficha: Temu Europe hasta 8 % cashback",
       "Condiciones: 8 % para un nuevo cliente de Temu, 0.95 % cliente existente"
-     ]
+     ],
+     "firma": "2-c140ea6a8891"
     },
     {
      "plataforma": "Klarna",
-     "pct": 7,
-     "hasta_pct": false,
-     "habitual_pct": 7,
+     "pct": 7.0,
+     "hasta_pct": true,
+     "habitual_pct": 7.0,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -81291,8 +81302,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Texto de la página: Temu 7% de cashback",
-      "Búsqueda en el contenido: Adidas 2,5% de cashback Temu 7% de cashback"
+      "Tarjeta de la página: Temu 7 % de cashback",
+      "Dato incrustado de la tienda: Hasta 7 % cashback"
      ]
     },
     {
@@ -81317,7 +81328,8 @@
      "lecturas": [
       "Condiciones (página renderizada): 0.95 % para un cliente existente de Temu",
       "Condiciones (HTML sin scripts): 8 % Para un nuevo cliente de Temu 0.95 % Para un cliente existente de Temu"
-     ]
+     ],
+     "firma": "2-c140ea6a8891"
     },
     {
      "plataforma": "mycashbacks",

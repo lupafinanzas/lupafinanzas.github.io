@@ -1,6 +1,6 @@
 name: Lectura diaria (Widilo, Beruby y descuentos)
 
-# Lee Widilo, Beruby, iGraal y TopCashback con scripts de Python (sin navegador), importa los cambios, regenera las páginas y publica.
+# Lee Widilo, Beruby, iGraal, TopCashback, Letyshops, Klarna y Consupermiso con scripts de Python (sin navegador), importa los cambios, regenera las páginas y publica.
 # Dos tandas al día, las dos con todas las plataformas. Las lecturas corren EN PARALELO (un trabajo por fuente, cada una con su pausa de 2 s entre páginas); un último trabajo recoge los
 # resultados, importa, regenera y publica. Si una fuente falla, las demás siguen.
 # No depende del ordenador del usuario. mycashbacks y BestPrice (que solo se leen con navegador) y las tareas con criterio (X, notas,
@@ -105,6 +105,24 @@ jobs:
             fallos_topcashback.txt
           if-no-files-found: ignore
 
+  leer_menores:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Leer Letyshops, Klarna y Consupermiso
+        continue-on-error: true
+        run: python leer_menores.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lectura-menores
+          path: lectura_menores.json
+          if-no-files-found: ignore
+
   leer_categorias:
     if: ${{ github.event.schedule != '20 15 * * *' }}
     runs-on: ubuntu-latest
@@ -127,7 +145,7 @@ jobs:
           if-no-files-found: ignore
 
   publicar:
-    needs: [leer_widilo, leer_beruby, leer_igraal, leer_topcashback, leer_categorias]
+    needs: [leer_widilo, leer_beruby, leer_igraal, leer_topcashback, leer_menores, leer_categorias]
     if: ${{ always() }}
     runs-on: ubuntu-latest
     timeout-minutes: 60
@@ -153,7 +171,7 @@ jobs:
         run: |
           git config user.name "lupafinanzas-bot"
           git config user.email "actions@users.noreply.github.com"
-          ls -la cambios_*.txt fallos_*.txt categorias_nueva.json 2>/dev/null || echo "Sin archivos de lectura"
+          ls -la cambios_*.txt fallos_*.txt lectura_menores.json categorias_nueva.json 2>/dev/null || echo "Sin archivos de lectura"
           for intento in 1 2 3; do
             git fetch origin main
             git reset --hard origin/main
@@ -171,6 +189,9 @@ jobs:
             if [ -f cambios_topcashback.txt ]; then
               python importar_topcashback.py cambios_topcashback.txt --refrescar fallos_topcashback.txt || echo "TopCashback: importación omitida"
             fi
+            if [ -f lectura_menores.json ]; then
+              python importar_menores.py lectura_menores.json || echo "Letyshops, Klarna y Consupermiso: importación omitida"
+            fi
             if [ -f categorias_nueva.json ]; then cp categorias_nueva.json datos/categorias.json; fi
             python purgar_caducados.py --dias 3
             python actualizar_historial.py
@@ -184,7 +205,7 @@ jobs:
             python validar_promos.py
             git add -A
             if git diff --cached --quiet; then echo "Sin cambios que publicar"; exit 0; fi
-            git commit -m "Lectura diaria $(date -u +%F): Widilo, Beruby, iGraal, TopCashback, descuentos y páginas regeneradas"
+            git commit -m "Lectura diaria $(date -u +%F): Widilo, Beruby, iGraal, TopCashback, Letyshops, Klarna, Consupermiso, descuentos y páginas regeneradas"
             if git push origin HEAD:main; then exit 0; fi
             echo "Push rechazado (alguien publicó a la vez); reintento $intento"
           done

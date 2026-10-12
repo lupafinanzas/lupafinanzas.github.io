@@ -1493,8 +1493,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 75€ código descuento adidas + 7 % Cashback | octubre",
-      "Tarjeta de la oferta: 7 % de cashback en lugar de 3 % EN AUMENTO Hasta el 12/10/2026"
+      "Título de la ficha: 75€ código descuento adidas + 7 % Cashback / octubre",
+      "Tarjeta de la oferta: 7 % de cashback"
      ],
      "cambio_confirmado": true
     }
@@ -19169,7 +19169,7 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código promocional Decathlon + 3 % Cashback / octubre",
+      "Título de la ficha: 70€ código promocional Decathlon + 3 % Cashback / octubre",
       "Tarjeta de la oferta: 3 % de cashback"
      ]
     },
@@ -22726,8 +22726,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10€ código descuento Druni + 5 % Cashback | octubre",
-      "Tarjeta de la oferta: 5 % de cashback en lugar de 2,5 % EN AUMENTO Hasta el 12/10/2026"
+      "Título de la ficha: 10€ código descuento Druni + 5 % Cashback / octubre",
+      "Tarjeta de la oferta: 5 % de cashback"
      ],
      "cambio_confirmado": true
     }
@@ -34449,7 +34449,7 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 25% código promocional Groupon + 3,5 % Cashback / octubre",
+      "Título de la ficha: 80% código promocional Groupon + 3,5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 3,5 % de cashback"
      ]
     }
@@ -38440,7 +38440,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htophotels",
+     "fuente": "https://es.beruby.com/htop-hotels",
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
@@ -42664,8 +42664,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10€ código descuento Just Eat + 7,5 % Cashback | octubre",
-      "Tarjeta de la oferta: Hasta 7,5 % de cashback en lugar de 4,5 % EN AUMENTO Hasta el 15/10/2026"
+      "Título de la ficha: 10€ código descuento Just Eat + 7,5 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 7,5 % de cashback"
      ],
      "variante": "cliente nuevo en Just Eat",
      "solo_clientes_nuevos": true
@@ -44903,8 +44903,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10€ código descuento Klast + 12 % Cashback | octubre",
-      "Tarjeta de la oferta: 12 % de cashback en lugar de 4 % EN AUMENTO Hasta el 13/10/2026"
+      "Título de la ficha: 10€ código descuento Klast + 12 % Cashback / octubre",
+      "Tarjeta de la oferta: 12 % de cashback"
      ],
      "cambio_confirmado": true
     }
@@ -51493,8 +51493,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 85% código promocional Mango Outlet + 8 % Cashback | oct.",
-      "Tarjeta de la oferta: 8 % de cashback en lugar de 3 % EN AUMENTO Hasta el 12/10/2026"
+      "Título de la ficha: 85% código promocional Mango Outlet + 8 % Cashback / oct.",
+      "Tarjeta de la oferta: 8 % de cashback"
      ],
      "cambio_confirmado": true
     }
@@ -54365,7 +54365,7 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 8€ código descuento Miravia + 6,6 % Cashback / octubre",
+      "Título de la ficha: 70% código descuento Miravia + 6,6 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 6,6 % de cashback"
      ]
     },
@@ -60935,6 +60935,24 @@
      "lecturas": [
       "Título/meta de la ficha: 2,5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2,5 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 4.0,
+     "hasta_pct": true,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/oscaro",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 60% código promocional Oscaro + 4 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 4 % de cashback"
      ]
     }
    ]
@@ -75086,8 +75104,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 35% cupón SHEIN + 15 % Cashback | octubre",
-      "Tarjeta de la oferta: Hasta 15 % de cashback en lugar de 7,5 % EN AUMENTO Hasta el 12/10/2026"
+      "Título de la ficha: 35% cupón SHEIN + 15 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 15 % de cashback"
      ],
      "cambio_confirmado": true
     },
@@ -81230,8 +81248,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 30% cupón Temu + 15 % Cashback | octubre",
-      "Tarjeta de la oferta: Hasta 15 % de cashback en lugar de 6 % EN AUMENTO Hasta el 12/10/2026"
+      "Título de la ficha: 30% cupón Temu + 15 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 15 % de cashback"
      ],
      "cambio_confirmado": true
     },
@@ -84462,8 +84480,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 15% código promocional TrainPal + 11 % Cashback | octubre",
-      "Tarjeta de la oferta: 11 % de cashback en lugar de 2,5 % EN AUMENTO Hasta el 12/10/2026"
+      "Título de la ficha: 15% código promocional TrainPal + 11 % Cashback / octubre",
+      "Tarjeta de la oferta: 11 % de cashback"
      ]
     }
    ]
@@ -91973,8 +91991,8 @@
      "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% cupón zooplus + 8,5 % Cashback | octubre",
-      "Tarjeta de la oferta: Hasta 8,5 % de cashback en lugar de 3 % EN AUMENTO Hasta el 12/10/2026"
+      "Título de la ficha: 20% cupón zooplus + 8,5 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 8,5 % de cashback"
      ],
      "cambio_confirmado": true
     }

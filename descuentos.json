@@ -86,6 +86,34 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "99d3248b9b70",
+   "slug": "dosfarma",
+   "tienda": "Dosfarma",
+   "valor": "5€",
+   "tipo": "codigo",
+   "codigo": "ER5",
+   "caduca": "2026-10-12",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "5€ de descuento EXTRA en tus compras",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/dosfarma",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "79b3500b012a",
+   "slug": "flexispot",
+   "tienda": "Flexispot",
+   "valor": "8%",
+   "tipo": "codigo",
+   "codigo": "FN8",
+   "caduca": "2026-10-12",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "¡8% de descuento en toda la tienda!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/flexispot",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "f50495f94b32",
    "slug": "foot-locker",
    "tienda": "Foot Locker",
@@ -97,6 +125,20 @@
    "titulo": "Hasta un -50 % + 5% extra para miembros FLX",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/foot-locker",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "9f63aa7d03e0",
+   "slug": "hoppa",
+   "tienda": "Hoppa",
+   "valor": "20%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-12",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "20% de descuento en traslados al aeropuerto reservables con antelación en todo el mundo",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/hoppa",
    "leido": "2026-10-12"
   },
   {
@@ -226,6 +268,20 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "aa7a5af8119e",
+   "slug": "urban-outfitters",
+   "tienda": "Urban Outfitters",
+   "valor": "15€",
+   "tipo": "codigo",
+   "codigo": "HER",
+   "caduca": "2026-10-12",
+   "modificado_en_fuente": "2026-10-05",
+   "titulo": "-15€ con el CÓDIGO",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/urban-outfitters",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "af53b951924e",
    "slug": "adidas",
    "tienda": "adidas",
@@ -237,6 +293,20 @@
    "titulo": "Mid Season Sales: Hasta 30% de descuento en una selección de artículos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/adidas",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "f879a6626cfb",
+   "slug": "black-limba",
+   "tienda": "Black Limba",
+   "valor": "25%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-13",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Marketing Off: ¡25% en toda la web!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/black-limba",
    "leido": "2026-10-12"
   },
   {
@@ -310,6 +380,20 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "feb3b1f60df7",
+   "slug": "mediamarkt",
+   "tienda": "MediaMarkt",
+   "valor": "15%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-13",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "LG Days con hasta -15% de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "1ea9ca1ff660",
    "slug": "mediamarkt",
    "tienda": "MediaMarkt",
@@ -335,6 +419,20 @@
    "titulo": "Hasta 55% de descuento en la Semana Web",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/mediamarkt",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "73f1f20f3aeb",
+   "slug": "primor",
+   "tienda": "Primor",
+   "valor": "10%",
+   "tipo": "codigo",
+   "codigo": "MOR",
+   "caduca": "2026-10-13",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "10% de descuento en perfumes, parafarmacia y cabello",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/primor",
    "leido": "2026-10-12"
   },
   {
@@ -380,6 +478,34 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "498cca256d60",
+   "slug": "zumub",
+   "tienda": "Zumub",
+   "valor": "30%",
+   "tipo": "codigo",
+   "codigo": "-30",
+   "caduca": "2026-10-13",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "30% de descuento en Mass Gainers Zumub",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/zumub",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "c036755342a6",
+   "slug": "agoda",
+   "tienda": "Agoda",
+   "valor": "15%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-14",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "¡Aprovecha un descuento EXTRA del 15% en las mejores estancias!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/agoda",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "87ad84b8cf40",
    "slug": "el-corte-ingles",
    "tienda": "El Corte Inglés",
@@ -391,6 +517,34 @@
    "titulo": "Hasta un 30% de descuento en Under Armour",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "2e3cf3b856df",
+   "slug": "eurowings",
+   "tienda": "Eurowings",
+   "valor": "10%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-14",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Reserva y ahorra hasta un 10%",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/eurowings",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "a73340e71fd8",
+   "slug": "eurowings",
+   "tienda": "Eurowings",
+   "valor": "15%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-14",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Ahorra hasta un 15% como miembro de myEurowings",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/eurowings",
    "leido": "2026-10-12"
   },
   {
@@ -419,6 +573,20 @@
    "titulo": "20% de descuento en Doctor’s Best",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iherb",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "1599a7fa0d2c",
+   "slug": "primor",
+   "tienda": "Primor",
+   "valor": "12%",
+   "tipo": "codigo",
+   "codigo": "R12",
+   "caduca": "2026-10-14",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "12% de descuento en productos para hombre",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/primor",
    "leido": "2026-10-12"
   },
   {
@@ -489,6 +657,62 @@
    "titulo": "La mejor oferta de Black Friday de la historia, con hasta un 50% de descuento en todo",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/gymshark",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "cd4c61e2ddbc",
+   "slug": "maisons-du-monde",
+   "tienda": "Maisons du Monde",
+   "valor": "10€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-15",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Hasta 10€ de descuento inmediato en una amplia selección de productos Maisons du Monde",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/maisons-du-monde",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "c72ced908bc8",
+   "slug": "maisons-du-monde",
+   "tienda": "Maisons du Monde",
+   "valor": "150€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-15",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Hasta 150€ de descuento inmediato en una amplia selección de productos Maisons du Monde",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/maisons-du-monde",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "e1aac5788c70",
+   "slug": "manomano",
+   "tienda": "ManoMano",
+   "valor": "15€",
+   "tipo": "codigo",
+   "codigo": "S15",
+   "caduca": "2026-10-15",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "15€ DTO en compras superiores a 250€",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/manomano",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "26be1ca135be",
+   "slug": "sabina-store",
+   "tienda": "Sabina Store",
+   "valor": "45%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-15",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Beauty Days: hasta 45% de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/sabina-store",
    "leido": "2026-10-12"
   },
   {
@@ -702,6 +926,20 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "b30d858aac04",
+   "slug": "myprotein",
+   "tienda": "MyProtein",
+   "valor": "45%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-18",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Hasta un 45% de descuento en la web",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/myprotein",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "bfc1c21da4ef",
    "slug": "oral-b",
    "tienda": "Oral-B",
@@ -727,6 +965,20 @@
    "titulo": "Hasta un 30% de descuento en las Mid Season Sales",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/polo-club",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "0f19557f363a",
+   "slug": "zumub",
+   "tienda": "Zumub",
+   "valor": "15%",
+   "tipo": "codigo",
+   "codigo": "-15",
+   "caduca": "2026-10-18",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "15% de cashback en todo el sitio",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/zumub",
    "leido": "2026-10-12"
   },
   {
@@ -870,6 +1122,20 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "4174dee839e4",
+   "slug": "giglio",
+   "tienda": "Giglio",
+   "valor": "35%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-21",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Rebajas de mitad de temporada: hasta un 35% de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/giglio",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "f9b0514e0d4c",
    "slug": "pandora",
    "tienda": "Pandora",
@@ -895,6 +1161,20 @@
    "titulo": "Hasta 25% de descuento en iluminación por la compra de 2 o más productos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/philips-hue",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "454d606ebe26",
+   "slug": "agoda",
+   "tienda": "Agoda",
+   "valor": "15%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-25",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "¡Ofertas de mitad de mes! 15% de descuento con Agoda",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/agoda",
    "leido": "2026-10-12"
   },
   {
@@ -1024,6 +1304,20 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "836226cfa323",
+   "slug": "flexispot",
+   "tienda": "Flexispot",
+   "valor": "33%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-26",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "¡Cinta fitness WP01 con un 33% de descuento!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/flexispot",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "13c04513713a",
    "slug": "hofmann",
    "tienda": "Hofmann",
@@ -1063,6 +1357,20 @@
    "titulo": "Cruceros con hasta 500€ de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/logitravel",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "1ab4a0830f0d",
+   "slug": "douglas",
+   "tienda": "Douglas",
+   "valor": "25%",
+   "tipo": "codigo",
+   "codigo": "P25",
+   "caduca": "2026-10-27",
+   "modificado_en_fuente": "2026-09-24",
+   "titulo": "-25% en una selección de marcas solo en la App con el cupón",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/douglas",
    "leido": "2026-10-12"
   },
   {
@@ -1304,6 +1612,20 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "1a751ad0d8dd",
+   "slug": "ataa-cars",
+   "tienda": "Ataa Cars",
+   "valor": "35%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "¡Halloween: descuentos desde -10% hasta -35%!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/ataa-cars",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "8528dcbd9c27",
    "slug": "cult-beauty",
    "tienda": "Cult Beauty",
@@ -1327,6 +1649,20 @@
    "caduca": "2026-10-31",
    "modificado_en_fuente": "2026-09-30",
    "titulo": "15% de descuento en casi todo el catálogo",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/cult-beauty",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "72a288ad7452",
+   "slug": "cult-beauty",
+   "tienda": "Cult Beauty",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "AFF",
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-05",
+   "titulo": "-20% en productos exclusivos Cult Beauty",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/cult-beauty",
    "leido": "2026-10-12"
@@ -1542,6 +1878,20 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "cf195d43708e",
+   "slug": "lastminute",
+   "tienda": "Lastminute",
+   "valor": "30€",
+   "tipo": "codigo",
+   "codigo": "BRE",
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-09-30",
+   "titulo": "30€ de descuento en VUELO + HOTEL con 900€",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/lastminute",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "f982b7f3ea97",
    "slug": "lg",
    "tienda": "LG",
@@ -1595,6 +1945,20 @@
    "titulo": "10% OFF en los esenciales coreanos perfectos para el verano",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/miin-cosmetics",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "93b95dee629e",
+   "slug": "myprotein",
+   "tienda": "MyProtein",
+   "valor": "10%",
+   "tipo": "codigo",
+   "codigo": "ODE",
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Extra 10% de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/myprotein",
    "leido": "2026-10-12"
   },
   {
@@ -1763,6 +2127,20 @@
    "titulo": "20 % de descuento en comida para perros Cesar",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/zooplus",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "7a22d6e0b93a",
+   "slug": "flexispot",
+   "tienda": "Flexispot",
+   "valor": "35%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Escritorio elevable E1 PRO con un 35% de dto",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/flexispot",
    "leido": "2026-10-12"
   },
   {
@@ -2004,6 +2382,20 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "021796a394ef",
+   "slug": "lastminute",
+   "tienda": "Lastminute",
+   "valor": "50€",
+   "tipo": "codigo",
+   "codigo": "N50",
+   "caduca": "2026-11-04",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "50€ de descuento en Vuelo + Hotel",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/lastminute",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "236a66d582f1",
    "slug": "farfetch",
    "tienda": "Farfetch",
@@ -2055,6 +2447,20 @@
    "caduca": "2026-11-10",
    "modificado_en_fuente": "2026-09-10",
    "titulo": "Alquila un auto y obtén hasta un 50 % de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/hertz",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "847d1182a87e",
+   "slug": "hertz",
+   "tienda": "Hertz",
+   "valor": "50%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-10",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "Alquila un coche online y obtén hasta un 50% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hertz",
    "leido": "2026-10-12"
@@ -3138,6 +3544,20 @@
    "leido": "2026-10-12"
   },
   {
+   "id": "bb9d31775537",
+   "slug": "parallels",
+   "tienda": "Parallels",
+   "valor": "35%",
+   "tipo": "codigo",
+   "codigo": "D35",
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-10-12",
+   "titulo": "35% de descuento en la edición Business con el código de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/parallels",
+   "leido": "2026-10-12"
+  },
+  {
    "id": "184ea354f646",
    "slug": "perfumeria-comas",
    "tienda": "Perfumería Comas",
@@ -3443,6 +3863,20 @@
    "titulo": "Aprovecha un 5% de descuento con el código en electrodomésticos",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/samsung",
+   "leido": "2026-10-12"
+  },
+  {
+   "id": "8540ac8f69bb",
+   "slug": "sarenza",
+   "tienda": "Sarenza",
+   "valor": "20€",
+   "tipo": "codigo",
+   "codigo": "O20",
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-02-24",
+   "titulo": "Ahorra 20€ con este código descuento Sarenza",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/sarenza",
    "leido": "2026-10-12"
   },
   {

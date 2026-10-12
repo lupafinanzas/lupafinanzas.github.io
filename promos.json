@@ -382,6 +382,89 @@
    ],
    "fuente_oficial": "https://www.bancosantander.es/particulares/cuentas-bancarias/cuenta-online-sin-comisiones/",
    "fuente_condiciones": "https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:97f4c3aa-c31e-4d1a-bc59-c19103cacad5/original/as/ES_BBLL_campana-santander-mas_sorteos-promocionesWEB.pdf"
+  },
+  {
+   "slug": "unicaja-nomina",
+   "nombre": "Unicaja (nómina o pensión)",
+   "tipo": "4 · Registro + domiciliación",
+   "recompensa": "Hasta 450 € brutos en 12 meses por domiciliar la nómina, la pensión o la cuota de autónomos: 30,38 € netos al mes con ingresos de 1.200 € o más, o 23,63 € netos al mes con ingresos de 600 € a 1.199 €.",
+   "requisitos": "Vale para clientes nuevos y actuales que domicilien una nómina o pensión de 600 € netos al mes o más, o la cuota de autónomos de 50 € o más, siempre que no la hayan tenido domiciliada en Unicaja en los últimos 12 meses. El abono es mensual: 30,38 € netos si la nómina o pensión es de 1.200 € o más, o si domicilias la cuota de autónomos; 23,63 € netos si está entre 600 € y 1.199 €. Se cobra durante un máximo de 12 meses y solo los meses en que cumples: no es acumulativo ni retroactivo. Sin permanencia. Promoción válida hasta el 31/01/2027. Aquí no hay enlace ni código.",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-12",
+   "caduca": "2027-01-31",
+   "gana_corto": "Hasta 450 €",
+   "gana_sub": "brutos en 12 meses (30,38 € netos al mes con nómina desde 1.200 €)",
+   "nota": {
+    "tiempo": 1.5,
+    "importe": 1.5,
+    "letra": 2,
+    "permanencia": 2.5
+   },
+   "nota_razon": {
+    "tiempo": "Se cobra mes a mes durante 12 meses: el total tarda un año en llegar.",
+    "importe": "Es dinero en cuenta, pero el máximo exige una nómina de 1.200 € o más (o cuota de autónomos) y cumplir todos los meses.",
+    "letra": "Condiciones cortas y claras en su web; el mes que no cumples no se cobra ni se recupera.",
+    "permanencia": "Su web lo dice expresamente: sin permanencia."
+   },
+   "nota_texto": "Calculada con las condiciones publicadas en la web de Unicaja, leídas el 12/10/2026.",
+   "fuente_oficial": "https://www.unicajabanco.es/es/particulares",
+   "fuente_condiciones": "https://www.unicajabanco.es/es/particulares"
+  },
+  {
+   "slug": "abanca-nomina",
+   "nombre": "ABANCA (Cuenta Online Nómina)",
+   "tipo": "4 · Registro + domiciliación",
+   "recompensa": "500 € brutos (405 € netos) por domiciliar una nómina de 1.200 € o más, o 185 € si la nómina está entre 800 € y 1.199 €. Con menos de 800 € no hay incentivo.",
+   "requisitos": "Solo para clientes nuevos: no puedes ser cliente de ABANCA. Hay que abrir la Cuenta Online Nómina y domiciliar una nómina nueva de 800 € o más. El dinero se ingresa a los pocos días de recibir la primera nómina, pero a cambio hay que mantener la nómina domiciliada 24 meses: si la retiras antes, ABANCA te pide devolver la parte proporcional de los meses que falten (por ejemplo, a los 12 meses solo has consolidado la mitad). La web la anuncia «por tiempo limitado», sin fecha de fin. Aquí no hay enlace ni código.",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-12",
+   "gana_corto": "500 €",
+   "gana_sub": "brutos (405 € netos) con nómina desde 1.200 €, a cambio de 24 meses",
+   "nota": {
+    "tiempo": 2.5,
+    "importe": 2,
+    "letra": 1.5,
+    "permanencia": 0.5
+   },
+   "nota_razon": {
+    "tiempo": "El abono llega a los pocos días de recibir la primera nómina.",
+    "importe": "Dinero en cuenta de una vez; los 500 € exigen una nómina de 1.200 € o más y son brutos (405 € netos).",
+    "letra": "La web lo explica con claridad, pero no da fecha de fin y excluye a quien ya es cliente.",
+    "permanencia": "24 meses con la nómina domiciliada; si te vas antes devuelves la parte proporcional."
+   },
+   "nota_texto": "Calculada con las condiciones de la página de la Cuenta Online Nómina de ABANCA, leídas el 12/10/2026.",
+   "fuente_oficial": "https://www.abanca.com/es/cuentas/cuenta-online/",
+   "fuente_condiciones": "https://www.abanca.com/es/cuentas/cuenta-online/"
+  },
+  {
+   "slug": "kutxabank-linka",
+   "nombre": "Kutxabank (Linka!, invitación de un amigo)",
+   "tipo": "3 · Registro + uso de tarjeta",
+   "recompensa": "100 € brutos para quien se hace cliente con el código de un amigo y 50 € brutos para quien invita (máximo 10 invitaciones, 500 € brutos).",
+   "requisitos": "Necesitas el código Linka! de alguien que ya sea cliente de Kutxabank: se pega durante el alta online desde la app. Después tienes 2 meses desde el alta para activar la cuenta, la tarjeta joven y Bizum. El programa está en la sección de jóvenes de su web y pide la tarjeta joven; la página no indica el rango de edad ni cuándo se abona el dinero, así que compruébalo antes en la app o con el banco. Oferta válida hasta el 31/10/2026. Aquí no hay código.",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-12",
+   "caduca": "2026-10-31",
+   "gana_corto": "100 €",
+   "gana_sub": "brutos al hacerte cliente con el código de un amigo",
+   "nota": {
+    "tiempo": 2,
+    "importe": 2,
+    "letra": 1,
+    "permanencia": 2
+   },
+   "nota_razon": {
+    "tiempo": "Alta online y 2 meses para activar cuenta, tarjeta y Bizum; la página no dice cuándo se abona.",
+    "importe": "100 € brutos en la cuenta nueva, sin pedir nómina ni un gasto mínimo.",
+    "letra": "La página no detalla la edad exigida ni el plazo de abono, y hace falta el código de un cliente.",
+    "permanencia": "La página no menciona permanencia ni saldo mínimo."
+   },
+   "nota_texto": "Nota provisional: la página de Kutxabank no detalla la edad exigida ni el plazo de abono.",
+   "fuente_oficial": "https://clientes.kutxabank.es/es/linka/joven/invita.html",
+   "fuente_condiciones": "https://clientes.kutxabank.es/es/linka/joven/invita.html"
   }
  ]
 }

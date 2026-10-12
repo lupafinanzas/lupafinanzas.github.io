@@ -1,7 +1,8 @@
 """Aplica a cashback.json la lectura de Letyshops, Klarna y Consupermiso (leer_menores.py).
 
 Uso: python importar_menores.py lectura_menores.json
-Solo renueva o corrige filas que YA existen de esas plataformas; no crea tiendas ni filas nuevas (las redacta a mano la tarea del PC).
+De Letyshops solo renueva o corrige filas que YA existen (las redacta a mano la tarea del PC). De Klarna y Consupermiso, además, añade
+las tiendas nuevas que aparezcan en su página: a la tienda del comparador con el mismo nombre o, si no existe, creando la tienda.
 
 - Klarna y Consupermiso (una cifra por tienda): si la doble lectura coincide, se actualiza la cifra y la fecha. Si la tienda ya no
   aparece en la página, la fila no se renueva y la purga la retira a los 3 días.
@@ -17,6 +18,7 @@ import json
 import pathlib
 import re
 import sys
+import unicodedata
 
 from util_rutas import registro_cambios
 
@@ -26,11 +28,17 @@ data = json.loads((base / "cashback.json").read_text(encoding="utf-8"))
 lectura = json.loads(pathlib.Path(sys.argv[1]).read_text(encoding="utf-8"))
 RE_LETY = re.compile(r"https://letyshops\.com/es/shops/([a-z0-9-]+)$")
 # cómo se llama la tienda en la dirección de la plataforma cuando no coincide con nuestro slug
-ALIAS = {"Klarna": {}, "Consupermiso": {}}
+ALIAS = {"Klarna": {}, "Consupermiso": {"tienda-real-madrid": "realmadrid", "atida-mifarma": "mifarma"}}
+URL = {"Klarna": "https://www.klarna.com/es/cashback/", "Consupermiso": "https://www.consupermiso.com/ofertas-cashback"}
+DETALLE = {"Klarna": "Solo si compras desde la app de Klarna", "Consupermiso": "Porcentaje máximo anunciado en su listado"}
 
 
 def clave(s):
     return re.sub(r"[^a-z0-9]", "", s.lower())
+
+
+def slugify(s):
+    return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", "".join(x for x in unicodedata.normalize("NFD", s.lower()) if not unicodedata.combining(x)))).strip("-")
 
 
 def firma(r):
@@ -38,7 +46,7 @@ def firma(r):
     return f"{len(r['conds'])}-" + hashlib.sha1(texto.encode("utf-8")).hexdigest()[:12]  # nº de líneas de condiciones + resumen
 
 
-renovadas, cambiadas, revisar, sin_lectura = 0, [], [], []
+renovadas, cambiadas, revisar, sin_lectura, usadas = 0, [], [], [], {"Klarna": set(), "Consupermiso": set()}
 
 for t in data["tiendas"]:
     for f in t["filas"]:
@@ -49,7 +57,9 @@ for t in data["tiendas"]:
                 sin_lectura.append(nombre)
                 continue
             porclave = {clave(k): v for k, v in lectura[plataforma].items()}
-            r = porclave.get(clave(f.get("clave_fuente") or ALIAS[plataforma].get(t["slug"], t["slug"])))
+            k = clave(f.get("clave_fuente") or ALIAS[plataforma].get(t["slug"], t["slug"]))
+            r = porclave.get(k)
+            usadas[plataforma].add(k)
             if r is None or not 0 < r["pct"] <= 100:
                 sin_lectura.append(nombre + " (ya no aparece en la página o su lectura no coincide)")
                 continue
@@ -91,6 +101,29 @@ for t in data["tiendas"]:
                 cambiadas.append(f"{nombre}: plazo de confirmación {f.get('plazo_dias')} -> {r['plazo']} días")
                 f["plazo_dias"] = r["plazo"]
             f["firma"], f["leido"], f["doble_lectura"] = hoy_firma, hoy, True
+
+# tiendas de Klarna y Consupermiso que todavía no tienen fila
+por_clave = {}
+for t in data["tiendas"]:
+    por_clave.setdefault(clave(t["slug"]), t)
+    por_clave.setdefault(clave(t["nombre"]), t)
+for plataforma in ("Klarna", "Consupermiso"):
+    if not lectura["paginas_ok"].get(plataforma):
+        continue
+    inverso = {clave(v): k for k, v in ALIAS[plataforma].items()}
+    for s, r in sorted(lectura[plataforma].items()):
+        if clave(s) in usadas[plataforma] or not 0 < r["pct"] <= 100:
+            continue
+        t = por_clave.get(clave(inverso[clave(s)])) if clave(s) in inverso else (por_clave.get(clave(s)) or por_clave.get(clave(r["nombre"])))
+        if t is None:
+            t = {"slug": slugify(r["nombre"]) or s, "nombre": r["nombre"], "filas": []}
+            data["tiendas"].append(t)
+            por_clave[clave(t["slug"])] = por_clave[clave(t["nombre"])] = t
+        t["filas"].append({"plataforma": plataforma, "pct": r["pct"], "hasta_pct": r["hasta"], "habitual_pct": r["pct"], "tipo": "habitual", "tope": None,
+                           "primera_compra": False, "detalle": DETALLE[plataforma], "fin": None, "fuente": URL[plataforma], "leido": hoy,
+                           "doble_lectura": True, "lecturas": [r["a"], r["b"]], "clave_fuente": s})
+        cambiadas.append(f"{t['nombre']} / {plataforma}: fila nueva, {'hasta ' if r['hasta'] else ''}{r['pct']:g} %")
+data["tiendas"].sort(key=lambda t: t["nombre"].lower())
 
 (base / "cashback.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 with registro_cambios().open("a", encoding="utf-8") as reg:

@@ -4511,6 +4511,31 @@
    ]
   },
   {
+   "slug": "apple",
+   "nombre": "Apple",
+   "filas": [
+    {
+     "plataforma": "Klarna",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Solo si compras desde la app de Klarna",
+     "fin": null,
+     "fuente": "https://www.klarna.com/es/cashback/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Tarjeta de la página: Apple 1 % de cashback",
+      "Dato incrustado de la tienda: 1 % cashback"
+     ],
+     "clave_fuente": "apple"
+    }
+   ]
+  },
+  {
    "slug": "aqua-hotel",
    "nombre": "Aqua Hotel",
    "filas": [
@@ -6010,6 +6035,25 @@
       "Título de la ficha: 20€ cupón Atida / Mifarma + 3,5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 3,5 % de cashback"
      ]
+    },
+    {
+     "plataforma": "Consupermiso",
+     "pct": 12.0,
+     "hasta_pct": true,
+     "habitual_pct": 12.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 12% de reembolso al comprar en Mifarma",
+      "Sello de la tarjeta: 12%"
+     ],
+     "clave_fuente": "mifarma"
     }
    ]
   },
@@ -17116,6 +17160,25 @@
      "niveles": {
       "Negro": 6.0
      }
+    },
+    {
+     "plataforma": "Klarna",
+     "pct": 2.0,
+     "hasta_pct": true,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Solo si compras desde la app de Klarna",
+     "fin": null,
+     "fuente": "https://www.klarna.com/es/cashback/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Tarjeta de la página: Conforama 2 % de cashback",
+      "Dato incrustado de la tienda: Hasta 2 % cashback"
+     ],
+     "clave_fuente": "conforama"
     }
    ]
   },
@@ -23144,6 +23207,25 @@
       "Título de la ficha: 5% código promocional Dyson + 3 % Cashback / octubre",
       "Tarjeta de la oferta: 3 % de cashback"
      ]
+    },
+    {
+     "plataforma": "Consupermiso",
+     "pct": 4.8,
+     "hasta_pct": true,
+     "habitual_pct": 4.8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 4,8% de reembolso al comprar en Dyson",
+      "Sello de la tarjeta: 4,8%"
+     ],
+     "clave_fuente": "dyson"
     }
    ]
   },
@@ -24004,6 +24086,25 @@
      "niveles": {
       "Negro": 6.0
      }
+    },
+    {
+     "plataforma": "Klarna",
+     "pct": 2.0,
+     "hasta_pct": true,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Solo si compras desde la app de Klarna",
+     "fin": null,
+     "fuente": "https://www.klarna.com/es/cashback/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Tarjeta de la página: eDreams 2 % de cashback",
+      "Dato incrustado de la tienda: Hasta 2 % cashback"
+     ],
+     "clave_fuente": "edreams"
     }
    ]
   },
@@ -27725,6 +27826,25 @@
      "niveles": {
       "Negro": 4.0
      }
+    },
+    {
+     "plataforma": "Consupermiso",
+     "pct": 3.2,
+     "hasta_pct": true,
+     "habitual_pct": 3.2,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 3,2% de reembolso al comprar en Expedia",
+      "Sello de la tarjeta: 3,2%"
+     ],
+     "clave_fuente": "expedia"
     }
    ]
   },
@@ -34686,6 +34806,31 @@
       "Bloque de la ficha: Reserva online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    }
+   ]
+  },
+  {
+   "slug": "guess",
+   "nombre": "Guess",
+   "filas": [
+    {
+     "plataforma": "Klarna",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Solo si compras desde la app de Klarna",
+     "fin": null,
+     "fuente": "https://www.klarna.com/es/cashback/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Tarjeta de la página: Guess 2,5 % de cashback",
+      "Dato incrustado de la tienda: 2,5 % cashback"
+     ],
+     "clave_fuente": "guess"
     }
    ]
   },
@@ -41905,6 +42050,25 @@
       "Título/meta de la ficha: 6,5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 6,5 % (antes 2,17 %)"
      ]
+    },
+    {
+     "plataforma": "Klarna",
+     "pct": 2.0,
+     "hasta_pct": false,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Solo si compras desde la app de Klarna",
+     "fin": null,
+     "fuente": "https://www.klarna.com/es/cashback/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Tarjeta de la página: JD Sports 2 % de cashback",
+      "Dato incrustado de la tienda: 2 % cashback"
+     ],
+     "clave_fuente": "jd-sports"
     }
    ]
   },
@@ -46639,6 +46803,25 @@
       "Título/meta de la ficha: 4,58 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 4,58 %"
      ]
+    },
+    {
+     "plataforma": "Consupermiso",
+     "pct": 5.2,
+     "hasta_pct": true,
+     "habitual_pct": 5.2,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 5,2% de reembolso al comprar en Lastminute",
+      "Sello de la tarjeta: 5,2%"
+     ],
+     "clave_fuente": "lastminute"
     }
    ]
   },
@@ -56093,6 +56276,31 @@
    ]
   },
   {
+   "slug": "mr-wonderful",
+   "nombre": "Mr. Wonderful",
+   "filas": [
+    {
+     "plataforma": "Consupermiso",
+     "pct": 8.0,
+     "hasta_pct": true,
+     "habitual_pct": 8.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 8% de reembolso al comprar en Mr. Wonderful",
+      "Sello de la tarjeta: 8%"
+     ],
+     "clave_fuente": "mrwonderful"
+    }
+   ]
+  },
+  {
    "slug": "msi",
    "nombre": "MSI",
    "filas": [
@@ -58433,6 +58641,31 @@
       "Título/meta de la ficha: 4,8 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 4,8 %"
      ]
+    }
+   ]
+  },
+  {
+   "slug": "nike",
+   "nombre": "Nike",
+   "filas": [
+    {
+     "plataforma": "Klarna",
+     "pct": 2.0,
+     "hasta_pct": true,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Solo si compras desde la app de Klarna",
+     "fin": null,
+     "fuente": "https://www.klarna.com/es/cashback/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Tarjeta de la página: Nike 2 % de cashback",
+      "Dato incrustado de la tienda: Hasta 2 % cashback"
+     ],
+     "clave_fuente": "nike"
     }
    ]
   },
@@ -68726,6 +68959,25 @@
       "Bloque de la ficha: Compra online - Excluyendo vouchers no válidos. 8%",
       "HTML de la ficha: 8% (cabecera: hasta 8%)"
      ]
+    },
+    {
+     "plataforma": "Klarna",
+     "pct": 4.0,
+     "hasta_pct": true,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Solo si compras desde la app de Klarna",
+     "fin": null,
+     "fuente": "https://www.klarna.com/es/cashback/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Tarjeta de la página: Privé by Zalando 4 % de cashback",
+      "Dato incrustado de la tienda: Hasta 4 % cashback"
+     ],
+     "clave_fuente": "prive-by-zalando"
     }
    ]
   },
@@ -71126,6 +71378,31 @@
       "Bloque de la ficha: Reserva online 2,80%",
       "HTML de la ficha: 2,80%"
      ]
+    }
+   ]
+  },
+  {
+   "slug": "rentalcars",
+   "nombre": "Rentalcars",
+   "filas": [
+    {
+     "plataforma": "Consupermiso",
+     "pct": 4.8,
+     "hasta_pct": true,
+     "habitual_pct": 4.8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 4,8% de reembolso al comprar en Rentalcars",
+      "Sello de la tarjeta: 4,8%"
+     ],
+     "clave_fuente": "rentalcars"
     }
    ]
   },
@@ -73635,6 +73912,25 @@
      "niveles": {
       "Negro": 6.0
      }
+    },
+    {
+     "plataforma": "Klarna",
+     "pct": 2.0,
+     "hasta_pct": true,
+     "habitual_pct": 2.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Solo si compras desde la app de Klarna",
+     "fin": null,
+     "fuente": "https://www.klarna.com/es/cashback/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Tarjeta de la página: Samsung 2 % de cashback",
+      "Dato incrustado de la tienda: Hasta 2 % cashback"
+     ],
+     "clave_fuente": "samsung"
     }
    ]
   },
@@ -74770,6 +75066,31 @@
       "Título de la ficha: SentryPC cashback 32%",
       "Bloque de la ficha: CASHBACK 32%"
      ]
+    }
+   ]
+  },
+  {
+   "slug": "sephora",
+   "nombre": "Sephora",
+   "filas": [
+    {
+     "plataforma": "Consupermiso",
+     "pct": 6.4,
+     "hasta_pct": true,
+     "habitual_pct": 6.4,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 6,4% de reembolso al comprar en Sephora",
+      "Sello de la tarjeta: 6,4%"
+     ],
+     "clave_fuente": "sephora"
     }
    ]
   },
@@ -78812,6 +79133,25 @@
      "niveles": {
       "Negro": 8.0
      }
+    },
+    {
+     "plataforma": "Klarna",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Solo si compras desde la app de Klarna",
+     "fin": null,
+     "fuente": "https://www.klarna.com/es/cashback/",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Tarjeta de la página: Sprinter 3 % de cashback",
+      "Dato incrustado de la tienda: 3 % cashback"
+     ],
+     "clave_fuente": "sprinter"
     }
    ]
   },
@@ -82006,6 +82346,31 @@
    ]
   },
   {
+   "slug": "the-body-shop",
+   "nombre": "The Body Shop",
+   "filas": [
+    {
+     "plataforma": "Consupermiso",
+     "pct": 8.0,
+     "hasta_pct": true,
+     "habitual_pct": 8.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 8% de reembolso al comprar en The Body Shop",
+      "Sello de la tarjeta: 8%"
+     ],
+     "clave_fuente": "the-body-shop"
+    }
+   ]
+  },
+  {
    "slug": "the-founded",
    "nombre": "The Founded",
    "filas": [
@@ -82751,6 +83116,25 @@
       "HTML de la ficha: 0,70%"
      ],
      "variante": "Productos rebajados"
+    },
+    {
+     "plataforma": "Consupermiso",
+     "pct": 4.0,
+     "hasta_pct": true,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 4% de reembolso al comprar en Real Madrid",
+      "Sello de la tarjeta: 4%"
+     ],
+     "clave_fuente": "realmadrid"
     }
    ]
   },
@@ -87362,6 +87746,25 @@
       "Título/meta de la ficha: 3,25 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3,25 %"
      ]
+    },
+    {
+     "plataforma": "Consupermiso",
+     "pct": 4.8,
+     "hasta_pct": true,
+     "habitual_pct": 4.8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 4,8% de reembolso al comprar en Viajes El Corte Inglés",
+      "Sello de la tarjeta: 4,8%"
+     ],
+     "clave_fuente": "viajeselcorteingles"
     }
    ]
   },
@@ -88873,6 +89276,25 @@
       "Título de la ficha: Volcom cashback 5,6%",
       "Bloque de la ficha: CASHBACK 5,6%"
      ]
+    },
+    {
+     "plataforma": "Consupermiso",
+     "pct": 5.6,
+     "hasta_pct": true,
+     "habitual_pct": 5.6,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Porcentaje máximo anunciado en su listado",
+     "fin": null,
+     "fuente": "https://www.consupermiso.com/ofertas-cashback",
+     "leido": "2026-10-12",
+     "doble_lectura": true,
+     "lecturas": [
+      "Listado: Gana hasta un 5,6% de reembolso al comprar en Volcom",
+      "Sello de la tarjeta: 5,6%"
+     ],
+     "clave_fuente": "volcom"
     }
    ]
   },

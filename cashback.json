@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-11",
+ "actualizado": "2026-10-12",
  "nota_metodo": "Datos leídos de las páginas públicas de cada plataforma y comprobados con una segunda lectura independiente. El orden es por lo que recibirías en euros con el importe que elijas, no por comisiones nuestras. No hay enlaces de referido en esta tabla.",
  "tiendas": [
   {
@@ -1281,7 +1281,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 4% de reembolso al comprar en Adidas",
@@ -1303,7 +1303,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/adidas-es",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Adidas ES 3 % cashback",
@@ -1321,7 +1321,7 @@
      "detalle": "Solo si compras desde la app de Klarna",
      "fin": null,
      "fuente": "https://www.klarna.com/es/cashback/",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Texto de la página: Adidas 2,5% de cashback",
@@ -1460,21 +1460,22 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 3.0,
+     "pct": 7,
      "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
+     "habitual_pct": 3,
+     "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
+     "detalle": "Subida temporal de iGraal («Súper Lunes»)",
+     "fin": "2026-10-12",
      "fuente": "https://es.igraal.com/codigos-promocionales/adidas",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 75€ código descuento adidas + 3 % Cashback / octubre",
-      "Tarjeta de la oferta: 3 % de cashback"
-     ]
+      "Título de la ficha: 75€ código descuento adidas + 7 % Cashback | octubre",
+      "Tarjeta de la oferta: 7 % de cashback en lugar de 3 % EN AUMENTO Hasta el 12/10/2026"
+     ],
+     "cambio_confirmado": true
     },
     {
      "plataforma": "BestPrice",
@@ -2789,7 +2790,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/aliexpress",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: AliExpress hasta 5 % cashback",
@@ -2807,7 +2808,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 6% de reembolso al comprar en Aliexpress ES",
@@ -19205,7 +19206,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/decathlon-espana",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Decathlon ES 1.5 % cashback",
@@ -22549,7 +22550,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 5,2% de reembolso al comprar en Druni",
@@ -22589,7 +22590,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/druni-es",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Druni ES hasta 3.25 % cashback",
@@ -22598,21 +22599,22 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 2,
+     "pct": 5,
      "hasta_pct": false,
-     "habitual_pct": 2,
-     "tipo": "habitual",
+     "habitual_pct": 2.5,
+     "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa vigente hasta fin de año",
-     "fin": "2026-12-31",
+     "detalle": "Subida temporal de iGraal («Súper Lunes»)",
+     "fin": "2026-10-12",
      "fuente": "https://es.igraal.com/codigos-promocionales/druni",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10€ código descuento Druni + 2 % Cashback / octubre",
-      "Tarjeta de la oferta: 2 % de cashback"
-     ]
+      "Título de la ficha: 10€ código descuento Druni + 5 % Cashback | octubre",
+      "Tarjeta de la oferta: 5 % de cashback en lugar de 2,5 % EN AUMENTO Hasta el 12/10/2026"
+     ],
+     "cambio_confirmado": true
     },
     {
      "plataforma": "Widilo",
@@ -23394,7 +23396,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/ebay-es",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: eBay ES 1 % cashback",
@@ -30668,7 +30670,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/fnac-es",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Fnac hasta 2.5 % cashback",
@@ -42546,7 +42548,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/just-eat-es",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Just Eat ES hasta 4.5 % cashback",
@@ -42650,24 +42652,23 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 12.5,
+     "pct": 7.5,
      "hasta_pct": true,
      "habitual_pct": 4.5,
      "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Subida temporal: 12,5 % por pedido de usuarios nuevos de Just Eat; 2,5 % si ya estás registrado o pides por la app",
-     "fin": "2026-10-11",
+     "detalle": "Subida temporal de iGraal: hasta 7,5 % (habitual hasta 4,5 %). El 12,5 % terminó el 11/10. La cifra máxima es para pedidos de usuarios nuevos de Just Eat (condición leída el 11/10)",
+     "fin": "2026-10-15",
      "fuente": "https://es.igraal.com/codigos-promocionales/just-eat",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10€ código descuento Just Eat + 12,5 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 12,5 % de cashback"
+      "Título de la ficha: 10€ código descuento Just Eat + 7,5 % Cashback | octubre",
+      "Tarjeta de la oferta: Hasta 7,5 % de cashback en lugar de 4,5 % EN AUMENTO Hasta el 15/10/2026"
      ],
      "variante": "cliente nuevo en Just Eat",
-     "solo_clientes_nuevos": true,
-     "cambio_confirmado": true
+     "solo_clientes_nuevos": true
     },
     {
      "plataforma": "BestPrice",
@@ -44852,21 +44853,22 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 5.0,
-     "hasta_pct": true,
-     "habitual_pct": 5.0,
-     "tipo": "habitual",
+     "pct": 12,
+     "hasta_pct": false,
+     "habitual_pct": 4,
+     "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
+     "detalle": "Subida temporal de iGraal («Súper Lunes»)",
+     "fin": "2026-10-13",
      "fuente": "https://es.igraal.com/codigos-promocionales/klast",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10€ código descuento Klast + 5 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 5 % de cashback"
-     ]
+      "Título de la ficha: 10€ código descuento Klast + 12 % Cashback | octubre",
+      "Tarjeta de la oferta: 12 % de cashback en lugar de 4 % EN AUMENTO Hasta el 13/10/2026"
+     ],
+     "cambio_confirmado": true
     },
     {
      "plataforma": "TopCashback",
@@ -49491,7 +49493,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/lookfantastic-es",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: LOOKFANTASTIC ES hasta 3.5 % cashback",
@@ -51479,21 +51481,22 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 3.0,
+     "pct": 8,
      "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
+     "habitual_pct": 3,
+     "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
+     "detalle": "Subida temporal de iGraal («Súper Lunes»)",
+     "fin": "2026-10-12",
      "fuente": "https://es.igraal.com/codigos-promocionales/mango-outlet",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 85% código promocional Mango Outlet + 3 % Cashback / oct.",
-      "Tarjeta de la oferta: 3 % de cashback"
-     ]
+      "Título de la ficha: 85% código promocional Mango Outlet + 8 % Cashback | oct.",
+      "Tarjeta de la oferta: 8 % de cashback en lugar de 3 % EN AUMENTO Hasta el 12/10/2026"
+     ],
+     "cambio_confirmado": true
     }
    ]
   },
@@ -52699,7 +52702,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/mediamarkt-es",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Media Markt España hasta 3 % cashback",
@@ -52717,7 +52720,7 @@
      "detalle": "Solo si compras desde la app de Klarna",
      "fin": null,
      "fuente": "https://www.klarna.com/es/cashback/",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Texto de la página: MediaMarkt 1,5% de cashback",
@@ -68408,7 +68411,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/primor-es",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Primor ES 0.75 % cashback",
@@ -75089,21 +75092,22 @@
    "filas": [
     {
      "plataforma": "iGraal",
-     "pct": 7.5,
+     "pct": 15,
      "hasta_pct": true,
      "habitual_pct": 7.5,
-     "tipo": "habitual",
+     "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
+     "detalle": "Subida temporal de iGraal («Súper Lunes»)",
+     "fin": "2026-10-12",
      "fuente": "https://es.igraal.com/codigos-promocionales/shein",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 35% cupón SHEIN + 7,5 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 7,5 % de cashback"
-     ]
+      "Título de la ficha: 35% cupón SHEIN + 15 % Cashback | octubre",
+      "Tarjeta de la oferta: Hasta 15 % de cashback en lugar de 7,5 % EN AUMENTO Hasta el 12/10/2026"
+     ],
+     "cambio_confirmado": true
     },
     {
      "plataforma": "Widilo",
@@ -81199,11 +81203,11 @@
      "detalle": "Subida de los iGraal Days",
      "fin": "2026-10-12",
      "fuente": "https://es.igraal.com/codigos-promocionales/temu",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 30% cupón Temu + 15 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 15 % de cashback"
+      "Título de la ficha: 30% cupón Temu + 15 % Cashback | octubre",
+      "Tarjeta de la oferta: Hasta 15 % de cashback en lugar de 6 % EN AUMENTO Hasta el 12/10/2026"
      ],
      "cambio_confirmado": true
     },
@@ -81224,7 +81228,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/temu-eu",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Temu Europe hasta 8 % cashback",
@@ -81242,7 +81246,7 @@
      "detalle": "Solo si compras desde la app de Klarna",
      "fin": null,
      "fuente": "https://www.klarna.com/es/cashback/",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Texto de la página: Temu 7% de cashback",
@@ -81266,7 +81270,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/temu-eu",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
       "Condiciones (página renderizada): 0.95 % para un cliente existente de Temu",
@@ -84338,20 +84342,20 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 8.0,
+     "pct": 11,
      "hasta_pct": false,
-     "habitual_pct": 8.0,
-     "tipo": "habitual",
+     "habitual_pct": 2.5,
+     "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
+     "detalle": "Subida temporal de iGraal («Súper Lunes»)",
+     "fin": "2026-10-12",
      "fuente": "https://es.igraal.com/codigos-promocionales/trainpal",
-     "leido": "2026-10-11",
+     "leido": "2026-10-12",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 15% código promocional TrainPal + 8 % Cashback / octubre",
-      "Tarjeta de la oferta: 8 % de cashback"
+      "Título de la ficha: 15% código promocional TrainPal + 11 % Cashback | octubre",
+      "Tarjeta de la oferta: 11 % de cashback en lugar de 2,5 % EN AUMENTO Hasta el 12/10/2026"
      ]
     }
    ]

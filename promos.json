@@ -465,6 +465,33 @@
    "nota_texto": "Nota provisional: la página de Kutxabank no detalla la edad exigida ni el plazo de abono.",
    "fuente_oficial": "https://clientes.kutxabank.es/es/linka/joven/invita.html",
    "fuente_condiciones": "https://clientes.kutxabank.es/es/linka/joven/invita.html"
+  },
+  {
+   "slug": "imagin",
+   "nombre": "imagin (nómina y código de un amigo)",
+   "tipo": "4 · Registro + domiciliación",
+   "recompensa": "Hasta 250 € netos por domiciliar la nómina (250 € con nómina de 1.500 € o más; 150 € con nómina de 900 € a 1.499,99 €). Aparte, un cupón de 50 € para la Shop Facilitea si te das de alta con el código de un amigo.",
+   "requisitos": "Nómina: hazte cliente desde la app y domicilia la nómina antes de que pasen 4 meses; el ingreso llega «en pocos días». A cambio hay 48 meses de permanencia. Las transferencias no cuentan como nómina, y no vale si la nómina viene de otra cuenta de CaixaBank ni se acumula a otras promociones de domiciliación de ingresos posteriores al 01/01/2024. Los importes son netos, pero pueden afectar a tu declaración de la renta. Cupón: tienes que darte de alta con el código de un amigo, tener al menos 50 € en la cuenta, hacer tres movimientos con tarjeta y activar Bizum. No es dinero: es un cupón de 50 € para la Shop Facilitea, válido hasta el 31/12/2026, que se gasta de una vez en una compra de 50 € o más, no sirve para outlet, reacondicionados ni seguros o alarmas, y tributa en el IRPF. La página no da fecha de fin para la oferta de la nómina. Aquí no hay enlace ni código.",
+   "enlace": "",
+   "estado": "publicada",
+   "verificado": "2026-10-12",
+   "gana_corto": "Hasta 250 €",
+   "gana_sub": "netos por la nómina, con 48 meses de permanencia (+ cupón de 50 € en Facilitea)",
+   "nota": {
+    "tiempo": 2,
+    "importe": 1.5,
+    "letra": 1,
+    "permanencia": 0
+   },
+   "nota_razon": {
+    "tiempo": "Tienes 4 meses para domiciliar la nómina y el ingreso llega en pocos días.",
+    "importe": "Dinero en cuenta y en neto, pero los 250 € piden una nómina de 1.500 € o más; los 50 € del amigo son un cupón de tienda, no efectivo.",
+    "letra": "Las transferencias no cuentan como nómina, no se acumula a otras promociones y la página no da fecha de fin ni explica qué pasa si te vas antes.",
+    "permanencia": "48 meses de permanencia: la más larga de las promociones que tenemos publicadas."
+   },
+   "nota_texto": "Calculada con las condiciones de la página del plan amigo de imagin, leídas el 12/10/2026.",
+   "fuente_oficial": "https://www.imagin.com/plan-amigo-imagin-unete",
+   "fuente_condiciones": "https://www.imagin.com/plan-amigo-imagin-unete"
   }
  ]
 }

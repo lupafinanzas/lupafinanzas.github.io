@@ -1,5 +1,5 @@
 {
- "verificado": "2026-10-07",
+ "verificado": "2026-10-12",
  "metodo": {
   "tiempo": "Cuánto tarda en cobrarse el cashback desde la compra, según lo que publica la plataforma. 2,5: hasta 30 días; 2: hasta 60 días; 1,5: unos 90 días o plazo no publicado; 1: más de 110 días.",
   "importe": "Lo que cuesta llegar a cobrar: mínimo para retirar y comisiones. 2,5: mínimo de 1 € o menos y sin costes; 2: hasta 10 € sin costes; 1,5: 20 € o costes para retiradas pequeñas; 1: más de 20 € y costes.",
@@ -14,7 +14,7 @@
     "tiempo": "El cashback pasa de «pendiente» a «a pagar» cuando el comercio paga la comisión; no hay un plazo fijo, solo una fecha estimada por tienda.",
     "importe": "Se puede retirar desde 0,01 € por transferencia o PayPal, sin coste (algún método puede fijar un mínimo propio).",
     "letra": "Condiciones claras: el comercio puede denegar el cashback si devuelves o cancelas el pedido, y TopCashback no garantiza el cobro de la comisión.",
-    "permanencia": "Gratuita; las cuentas inactivas pueden inhabilitarse (sin plazo concreto publicado) y, al cancelar, el cashback no confirmado no se paga."},
+    "permanencia": "Gratuita; la cuenta puede inhabilitarse por inactividad si no inicias sesión al menos una vez cada 2 años (no hace falta comprar) y, al cancelar, el cashback no confirmado o pendiente no se paga."},
    "fuentes": ["https://www.topcashback.es/terminos/"]},
   "iGraal": {
    "nota": {"tiempo": 1.5, "importe": 2, "letra": 2, "permanencia": 2},
@@ -26,13 +26,13 @@
     "permanencia": "El cashback caduca dos años después del final del año natural en que se abonó como pendiente; al rescindir la cuenta hay un mes para cobrar el validado."},
    "fuentes": ["https://es.igraal.com/condiciones", "https://es.igraal.com/padrinazgo"]},
   "mycashbacks": {
-   "nota": {"tiempo": 1.5, "importe": 2.5, "letra": 1.5, "permanencia": 2},
+   "nota": {"tiempo": 1.5, "importe": 2.5, "letra": 1.5, "permanencia": 1.5},
    "provisional": null,
    "razon": {
     "tiempo": "Pasa hasta 14 días en aparecer como pendiente y el pago de la comisión puede tardar «semanas o meses»; no publica un plazo concreto.",
     "importe": "Pago automático mensual desde 1 € de cashback confirmado, sin cuota. Hace falta una cuenta bancaria española o PayPal.",
     "letra": "Las tarifas indicadas «no son vinculantes» y pueden adaptarse a posteriori si la tienda cambia la comisión; el cashback válido es el vigente cuando se paga la comisión.",
-    "permanencia": "Gratuita; se reserva el derecho de borrar cuentas inactivas (sin plazo publicado). Al rescindir, el cashback pendiente se abona."},
+    "permanencia": "Gratuita; puede borrar las cuentas con más de 6 meses sin ninguna acción: avisa antes por correo y, si no respondes en 14 días (una compra cuenta como respuesta), elimina la cuenta y retiene el cashback que quede en ella."},
    "fuentes": ["https://www.mycashbacks.com/es/legal/terminos-y-condiciones/"]},
   "Widilo": {
    "nota": {"tiempo": 2, "importe": 1.5, "letra": 1.5, "permanencia": 2},
@@ -40,7 +40,7 @@
    "razon": {
     "tiempo": "Publica el plazo de validación: de 30 a 90 días según la tienda (hasta 90 días después de terminar la estancia en viajes); la solicitud de pago se procesa en un máximo de 15 días y el banco tarda hasta 5 días laborables.",
     "importe": "Hay que llegar a 20 € de ganancias validadas para retirar por transferencia o PayPal (PayPal solo tras un primer retiro a banco).",
-    "letra": "Las FAQ son claras (estados, rechazos, plazos). Valoración «Excelente» con unas 22.400 reseñas (según su web). No hemos podido comprobar sus condiciones generales completas.",
+    "letra": "Las FAQ son claras (estados, rechazos, plazos). Valoración «Excelente» con unas 22.500 reseñas (según su web). No hemos podido comprobar sus condiciones generales completas.",
     "permanencia": "No hemos encontrado cuotas ni caducidad del saldo en las páginas leídas; pendiente de leer sus condiciones generales."},
    "fuentes": ["https://www.widilo.es/faq/mis-ingresos-y-pagos/todo-lo-que-necesitas-saber-sobre-el-pago-de-tu-monedero", "https://www.widilo.es/faq/mi-cashback/por-que-el-estado-de-mi-devolucion-es-pendiente-el-importe-es-incorrecto"]},
   "Beruby": {

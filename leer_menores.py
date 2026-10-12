@@ -122,6 +122,11 @@ for plataforma, url, lector in (("Klarna", URL_KLARNA, leer_klarna), ("Consuperm
         if st == 200:
             res[plataforma] = lector(h)
             res["paginas_ok"][plataforma] = bool(res[plataforma])  # una página sin ninguna tarjeta legible no cuenta como leída
+        if not res[plataforma]:  # diagnóstico: qué ha devuelto la página cuando no se reconoce ninguna tarjeta
+            titulo = re.search(r"<title[^>]*>(.*?)</title>", h, re.S)
+            print(f"{plataforma}: estado {st}, {len(h)} caracteres, título «{limpia(titulo.group(1))[:80] if titulo else ''}», "
+                  f"{h.count('de cashback')} «de cashback», {h.count('storeKrn')} storeKrn, {h.count('/es/store/')} enlaces de tienda, "
+                  f"{h.count('prv-cashback')} tarjetas prv-cashback", flush=True)
     except Exception as e:
         print("error en", plataforma, type(e).__name__, e, flush=True)
     time.sleep(PAUSA)

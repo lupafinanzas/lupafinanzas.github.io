@@ -1,6 +1,6 @@
 name: Lectura diaria (Widilo, Beruby y descuentos)
 
-# Lee Widilo, Beruby, iGraal, TopCashback, Letyshops, Klarna y Consupermiso con scripts de Python (sin navegador), importa los cambios, regenera las páginas y publica.
+# Lee Widilo, Beruby, iGraal, TopCashback, Letyshops y Consupermiso con scripts de Python (sin navegador; Klarna no responde a los servidores de GitHub y la renueva el PC), importa los cambios, regenera las páginas y publica.
 # Dos tandas al día, las dos con todas las plataformas. Las lecturas corren EN PARALELO (un trabajo por fuente, cada una con su pausa de 2 s entre páginas); un último trabajo recoge los
 # resultados, importa, regenera y publica. Si una fuente falla, las demás siguen.
 # No depende del ordenador del usuario. mycashbacks y BestPrice (que solo se leen con navegador) y las tareas con criterio (X, notas,

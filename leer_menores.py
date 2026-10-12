@@ -3,7 +3,9 @@
 Uso: python leer_menores.py     (unas 15 páginas; menos de 1 minuto con la pausa de 2 s)
 Después: python importar_menores.py lectura_menores.json
 Su robots.txt permite estas páginas al agente genérico. Se identifica con su User-Agent, no usa sesión.
-Solo se releen las tiendas que ya tienen fila de estas plataformas en cashback.json (son pocas y están escritas a mano).
+De Letyshops solo se releen las fichas que ya tienen fila en cashback.json (están escritas a mano).
+OJO: Klarna responde 202 sin contenido a los servidores de GitHub Actions (protección contra robots, comprobado el 12/10/2026): allí
+queda como no leída y no se toca. Sus filas las renueva la tarea del PC ejecutando este mismo script una vez al día.
 
 Doble lectura (dos sitios distintos de la misma página; si no coinciden, la tienda no se incluye):
 - Letyshops, ficha https://letyshops.com/es/shops/<slug>: A = tarifa de la cabecera («[hasta] X % cashback»), B = frase del pie

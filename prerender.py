@@ -63,6 +63,7 @@ def poner(archivo, clave, contenido, contenedor_re):
 
 # ---- promociones
 vis = [p for p in promos if p["estado"] == "publicada" and not (p.get("caduca") and dias(p["caduca"]) < 0)]
+vis.sort(key=lambda p: -(sum(p["nota"].values()) if p.get("nota") else -1))  # mejor Nota Real primero; sin nota, al final
 out = []
 for p in vis:
     nota = ""

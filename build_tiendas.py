@@ -228,12 +228,12 @@ for t, filas, dtos in paginas:
     if vigentes:
         fd = []
         for d in vigentes[:12]:
-            cod = f"<b>{esc(d['codigo'])}</b>" if d.get("codigo") else "—"
+            cod = f"termina en <b>…{esc(d['codigo'])}</b>" if d.get("codigo") else "—"
             ver = d.get("verificacion")
             estado = ("verificado en la tienda el " + fecha(ver["fecha"])) if ver and ver["estado"] == "verificado" else "visto en la fuente, sin probar en la tienda"
             fd.append(f"<tr><td>{esc(d['valor'] or '—')}</td><td>{esc(d['titulo'])}</td><td>{cod}</td><td>{fecha(d['caduca']) if d.get('caduca') else 'sin fecha de fin'}</td><td>{estado}</td></tr>")
         bloque_dto = ('<h2>Descuentos y códigos vigentes</h2><div class="tabla"><table><thead><tr><th>Descuento</th><th>Oferta</th><th>Código</th><th>Hasta</th><th>Estado</th></tr></thead><tbody>'
-                      + "".join(fd) + "</tbody></table></div><p class=\"mini\">Fuente: <a href=\"" + esc(vigentes[0]["fuente"]) + "\" rel=\"noopener nofollow\">Widilo</a>. Los códigos pueden haber caducado o no ser válidos para tu pedido: se muestran con la fecha en que los leímos.</p>")
+                      + "".join(fd) + "</tbody></table></div><p class=\"mini\">Fuente: <a href=\"" + esc(vigentes[0]["fuente"]) + "\" rel=\"noopener nofollow\">Widilo</a>. Widilo solo publica el final de cada código; el código completo se ve en su web. Los códigos pueden haber caducado o no ser válidos para tu pedido: se muestran con la fecha en que los leímos.</p>")
 
     # preguntas frecuentes (todas con datos propios)
     faq = [

@@ -524,6 +524,40 @@
       ],
       "fuente_oficial": "https://octopusenergy.es/blog/nuevo-programa-de-referidos",
       "fuente_condiciones": "https://octopusenergy.es/blog/nuevo-programa-de-referidos"
+    },
+    {
+      "slug": "kutxabank-cuenta-remunerada",
+      "nombre": "Kutxabank (Cuenta Remunerada)",
+      "tipo": "2 · Registro + depósito",
+      "recompensa": "3,10 % TAE el primer año (3,056 % TIN) para saldos de hasta 100.000 €, con abono mensual, y 0,75 % TAE el segundo año. Con 10.000 € de saldo medio: 305,68 € brutos el primer año y 74,74 € el segundo.",
+      "requisitos": "Solo para nuevos clientes digitales que no tengan relación comercial vigente ni un estudio de financiación en curso con Kutxabank, y que activen la cuenta entre el 05/10/2026 y el 22/11/2026. Alta 100 % desde la app, sin comisiones y con tarjeta Visa Debit sin comisión de emisión ni mantenimiento. Pasado el segundo año pasa a ser una cuenta de ahorro ordinaria. Aparte, Kutxabank ofrece hasta 600 € brutos por domiciliar nómina por primera vez, pero con permanencia de 36 meses (12 meses para menores de 31 años), saldo mínimo de 250 € y Bizum asociado: no forma parte de esta ficha. Aquí no hay enlace ni código.",
+      "enlace": "",
+      "estado": "publicada",
+      "auto": true,
+      "fuentes": [
+        "https://portal.kutxabank.es/cs/Satellite/kb/es/particulares/cuenta-remunerada/pys",
+        "https://x.com/viajes_globo/status/2109191744948453574",
+        "https://x.com/TuAhorroX/status/2109961682449469693"
+      ],
+      "verificado": "2026-10-13",
+      "caduca": "2026-11-22",
+      "gana_corto": "3,10 % TAE",
+      "gana_sub": "el primer año, hasta 100.000 € (0,75 % el segundo)",
+      "nota": {
+        "tiempo": 2,
+        "importe": 2,
+        "letra": 1.5,
+        "permanencia": 2.5
+      },
+      "nota_razon": {
+        "tiempo": "Los intereses se abonan cada mes desde el primer mes.",
+        "importe": "Interés garantizado sobre tu propio saldo, sin tope de ingreso hasta 100.000 €; pero es rentabilidad, no un bono.",
+        "letra": "Solo nuevos clientes digitales y hay que activarla antes del 22/11; el tipo baja a 0,75 % el segundo año.",
+        "permanencia": "La web no pide permanencia ni condiciones en la cuenta remunerada (la permanencia es solo del bono de nómina, aparte)."
+      },
+      "nota_texto": "Calculada con las condiciones de la página Cuenta Remunerada de Kutxabank, leídas el 13/10/2026.",
+      "fuente_oficial": "https://portal.kutxabank.es/cs/Satellite/kb/es/particulares/cuenta-remunerada/pys",
+      "fuente_condiciones": "https://portal.kutxabank.es/cs/Satellite/kb/es/particulares/cuenta-remunerada/pys"
     }
   ]
 }

@@ -11,7 +11,13 @@ import pathlib
 base = pathlib.Path(__file__).parent
 data = json.loads((base / "promos.json").read_text(encoding="utf-8"))
 
-for p in data["promos"]:
+# Referidos que no son una promo de promos.json pero también deben pasar por /ir/ (cuentan clic y salen con tarjeta en X)
+EXTRA = [
+    {"slug": "widilo", "nombre": "Widilo", "enlace": "https://www.widilo.es/i/QA0BTS"},
+    {"slug": "beruby", "nombre": "Beruby", "enlace": "https://es.beruby.com/promocode/lupafinanzas"},
+]
+
+for p in data["promos"] + EXTRA:
     if not p.get("enlace"):
         continue
     url = html.escape(p["enlace"], quote=True)
@@ -20,6 +26,10 @@ for p in data["promos"]:
 <html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
+<meta property="og:title" content="Invitación a {nombre} · Publicidad">
+<meta property="og:description" content="Enlace de invitación de Lupa Financiera. Condiciones y alternativas en la web.">
+<meta property="og:image" content="https://lupafinanzas.github.io/og.png">
+<meta name="twitter:card" content="summary_large_image">
 <meta http-equiv="refresh" content="3; url={url}">
 <title>Redirigiendo a {nombre}…</title></head>
 <body style="font-family:system-ui,sans-serif;padding:2rem">

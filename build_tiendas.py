@@ -85,6 +85,16 @@ for t in data["tiendas"]:
     if len(plats) >= 2 or dtos:
         paginas.append((t, sorted(t["filas"], key=lambda f: -gana(f)), dtos))
 
+REF_SLUG = {"iGraal": "igraal", "TopCashback": "topcashback"}
+
+
+def ref_link(plat, rel):
+    sl = REF_SLUG.get(plat)
+    return (f' <a class="mini" href="{rel}ir/{sl}/" rel="noopener sponsored nofollow" title="Enlace de invitación (publicidad)">· registrarte con mi invitación (publicidad)</a>' if sl else "")
+
+
+TOPCB_CAJA = '<div class="caja"><b>Publicidad.</b> ¿Todavía no usas TopCashback? Puedes registrarte con <a href="{rel}ir/topcashback/" rel="noopener sponsored nofollow">mi invitación</a>; yo recibo una recompensa si lo haces. Las condiciones del bono de bienvenida están en su web.</div>'
+
 IGRAAL_CAJA = '<div class="caja"><b>Publicidad.</b> ¿Todavía no tienes iGraal? Si te registras con <a href="{rel}ir/igraal/" rel="noopener sponsored nofollow">mi invitación</a> recibes un bono de 10 € con tu primer pedido de al menos 12,40 € (en 90 días). Yo recibo una recompensa si lo haces. Las condiciones completas están en la web de iGraal.</div>'
 
 CSS = """<style>
@@ -218,7 +228,7 @@ for t, filas, dtos in paginas:
     filas_html = []
     for f in filas:
         var = f" ({esc(f['variante'])})" if f.get("variante") else ""
-        filas_html.append(f'<tr><td><a href="{esc(f["fuente"])}" rel="noopener nofollow">{esc(f["plataforma"])}</a>{nota_plat(f["plataforma"], rel)}{var}</td>'
+        filas_html.append(f'<tr><td><a href="{esc(f["fuente"])}" rel="noopener nofollow">{esc(f["plataforma"])}</a>{nota_plat(f["plataforma"], rel)}{ref_link(f["plataforma"], rel)}{var}</td>'
                           f'<td><b>{"hasta " if f.get("hasta_pct") else ""}{pc(f["pct"])}</b></td><td>{eur(gana(f))}</td><td>{esc(etiquetas(f))}</td><td>{fecha(f["leido"])}</td></tr>')
     tabla = ('<div class="tabla"><table><thead><tr><th>Plataforma</th><th>Cashback</th><th>Con 50 €</th><th>Condiciones</th><th>Leído</th></tr></thead><tbody>'
              + "".join(filas_html) + "</tbody></table></div>")
@@ -255,7 +265,7 @@ for t, filas, dtos in paginas:
               f'<h2>Cashback en {esc(n)} por plataforma</h2>{tabla}'
               f'<p class="mini">Cálculo orientativo con 50 € y sin IVA ni envío. Cada cifra se lee en la ficha pública de la plataforma, con doble comprobación. Datos leídos el {fecha(leido)}.</p>'
               f'{hist_html}{bloque_dto}'
-              + (IGRAAL_CAJA.format(rel=rel) if 'iGraal' in plats else '') +
+              + (IGRAAL_CAJA.format(rel=rel) if 'iGraal' in plats else '') + (TOPCB_CAJA.format(rel=rel) if 'TopCashback' in plats else '') +
               f''
               f'<h2>Preguntas frecuentes sobre {esc(n)}</h2>{faq_html}'
               f'<div class="caja"><b>Compáralo con tu importe.</b> <a href="{rel}comparador.html#{esc(t["slug"])}">Abre el comparador</a> y cambia la cantidad para ver los euros que recibirías en cada plataforma.</div>'

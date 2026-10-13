@@ -1,497 +1,529 @@
 {
- "actualizado": "2026-10-13",
- "promos": [
-  {
-   "slug": "myinvestor",
-   "nombre": "MyInvestor",
-   "tipo": "2 · Registro + depósito",
-   "recompensa": "25 € brutos para ti y 25 € brutos para quien te invita",
-   "requisitos": "Tú y tu amigo tenéis que cumplir UNA de estas condiciones en los 3 primeros meses desde la apertura de la cuenta: invertir 100 € (cartera indexada, fondos, planes de pensiones, acciones o ETFs), tener 1.000 € en efectivo en la cuenta o contratar un depósito. Los 25 € son brutos: con la retención del 19 % quedan 20,25 € netos. Según sus preguntas frecuentes, el ingreso se hace en el mes en que se cumple la condición (el primero, el segundo o el tercero desde la apertura). No hace falta mantener la inversión una vez recibido el abono, que se ingresa en tu cuenta de MyInvestor. Si en el momento del abono tu cuenta está en descubierto, pueden no abonarlo. Hasta 60 invitados por persona (1.500 € brutos); según sus bases, vigente hasta el 31/12/2026.",
-   "enlace": "https://newapp.myinvestor.es/do/signup?promotionalCode=RMRHC",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "nota": {
-    "tiempo": 2,
-    "importe": 1.5,
-    "letra": 2,
-    "permanencia": 2.5
-   },
-   "gana_corto": "25 € + 25 €",
-   "gana_sub": "para ti y para quien te invita (25 € brutos; 20,25 € netos tras la retención)",
-   "nota_texto": "Calculada con las preguntas frecuentes oficiales del Plan Amigo de MyInvestor.",
-   "nota_razon": {
-    "tiempo": "El alta es online y tienes 3 meses desde abrir la cuenta para cumplir una condición; según sus preguntas frecuentes, el ingreso se hace en el mes en que la cumples.",
-    "importe": "25 € brutos fijos para cada uno al cumplir la condición; con la retención del 19 % son 20,25 € netos, y quien invita tiene tope de 60 invitados (1.500 € brutos).",
-    "letra": "Las bases son cortas y claras: basta UNA de tres condiciones (invertir 100 €, tener 1.000 € en efectivo o contratar un depósito) y no se puede estar en descubierto al abonar.",
-    "permanencia": "Según su página oficial de preguntas frecuentes, no hay que mantener la inversión más allá del momento en que recibes el abono."
-   },
-   "fuente_condiciones": "https://myinvestor.es/ayuda/preguntas-frecuentes/plan-amigo/"
-  },
-  {
-   "slug": "trade-republic",
-   "nombre": "Trade Republic",
-   "tipo": "2 · Registro + depósito",
-   "recompensa": "Quien invita recibe un 3 % de interés durante 3 meses por cada amigo (hasta 12 meses); el invitado también recibe una recompensa de bienvenida.",
-   "requisitos": "El amigo debe hacer 3 inversiones e ingresar 100 € en sus primeros 21 días. La recompensa para quien invita es en forma de interés, no un ingreso en efectivo.",
-   "enlace": "",
-   "estado": "no_publicable",
-   "verificado": "2026-09-14",
-   "nota": null,
-   "motivo": "Sus términos prohíben la difusión pública del enlace (YouTube, grupos de mensajería, foros, webs de cupones) y el uso comercial; pueden reclamar el bono."
-  },
-  {
-   "slug": "topcashback",
-   "nombre": "TopCashback",
-   "tipo": "6 · Cashback progresivo",
-   "recompensa": "5 € de bono de registro si te registras con mi invitación hasta el 31/12/2026. Yo recibo 10 € si cumples las condiciones; tú, los 5 €.",
-   "requisitos": "Debes registrarte como nuevo usuario con el enlace de invitación y en la misma sesión, verificar tu cuenta y ganar al menos 5 € de cashback en marcas participantes dentro de los 180 días siguientes al registro. El bono es el que figure publicado cuando te registras, aunque cambie después. No cuentan para el umbral los bonos adicionales de registro, las promociones de bonificación, las ofertas para nuevos miembros ni el cashback de las marcas excluidas. El bono se abona cuando se aprueban las transacciones que alcanzan el umbral y se retira por transferencia bancaria o PayPal. Quien invita (yo) recibe 10 € cuando el invitado gana al menos 10 € de cashback en 180 días.",
-   "enlace": "https://www.topcashback.es/ref/member9607000856",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "nota": {
-    "tiempo": 1.5,
-    "importe": 1,
-    "letra": 1.5,
-    "permanencia": 2.5
-   },
-   "caduca": "2026-12-31",
-   "gana_corto": "5 €",
-   "gana_sub": "de bono de registro con la invitación (hasta el 31/12/2026)",
-   "aviso": "Publicidad: si te registras con mi enlace, yo recibo una recompensa de TopCashback (10 €); tú recibes el bono de registro indicado mientras esté vigente.",
-   "nota_texto": "Nota provisional: no hay plazo de abono publicado.",
-   "nota_razon": {
-    "tiempo": "Tienes 180 días para ganar el cashback mínimo y el bono se abona cuando se aprueban esas compras; TopCashback no publica un plazo concreto.",
-    "importe": "Solo 5 € para ti, y exige haber ganado 5 € de cashback, es decir, comprar en marcas participantes.",
-    "letra": "Reglas claras pero con matices: el bono depende de la fecha de registro, hay marcas excluidas y no cuentan los bonos ni las ofertas para nuevos miembros.",
-    "permanencia": "Sin permanencia ni saldo mínimo que mantener."
-   },
-   "fuente_condiciones": "https://www.topcashback.es/referidos/terminos/",
-   "fuente_oficial": "https://www.topcashback.es/invita-y-gana/",
-   "boton": "Registrarme en TopCashback con la invitación →"
-  },
-  {
-   "slug": "igraal",
-   "nombre": "iGraal",
-   "tipo": "6 · Cashback progresivo",
-   "recompensa": "Bono de bienvenida de 5 € para quien se registra con una invitación",
-   "requisitos": "La página de invitación de iGraal anuncia un bono de 5 € con un pedido de al menos 8,26 € (antes de IVA y sin gastos de envío) en los 90 días siguientes al registro. Los iGraal Days, en los que la invitación anunciaba 10 € con un pedido de 12,40 €, ya terminaron; el importe depende de la campaña vigente cuando te registras. El bono se abona junto con el primer cashback validado. Quien invita (yo) recibe 3 € cuando su amigo acumula 1 € de cashback disponible, más el 10 % de su cashback validado el primer año.",
-   "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
-   "estado": "publicada",
-   "verificado": "2026-10-11",
-   "nota": {
-    "tiempo": 1.5,
-    "importe": 1,
-    "letra": 1.5,
-    "permanencia": 2.5
-   },
-   "gana_corto": "5 €",
-   "gana_sub": "de bienvenida con la invitación, tras un pedido de al menos 8,26 €",
-   "nota_texto": "Nota provisional: el plazo de validación del bono no está publicado.",
-   "nota_razon": {
-    "tiempo": "Registro rápido, pero el bono llega junto con el primer cashback validado, después de un pedido apto en los 90 días siguientes; iGraal no publica un plazo.",
-    "importe": "5 € de bono, claro y fijo, pero solo si compras algo (pedido de al menos 8,26 € antes de IVA), así que no es dinero sin gastar.",
-    "letra": "Condiciones comprensibles, pero el pedido tiene que ser «apto para cashback»: no vale cualquier compra ni cualquier tienda.",
-    "permanencia": "Sin permanencia ni mantener saldo: te registras, compras y listo."
-   },
-   "fuente_condiciones": "https://es.igraal.com/padrinazgo"
-  },
-  {
-   "slug": "revolut",
-   "nombre": "Revolut",
-   "tipo": "Por comprobar",
-   "recompensa": "Hasta 100 € según campaña",
-   "requisitos": "Campaña con cupos limitados; hay que comprobar que sigue vigente.",
-   "enlace": "",
-   "estado": "no_publicable",
-   "verificado": null,
-   "nota": null,
-   "motivo": "Solo se permite recomendar a personas con relación personal; prohíbe el marketing masivo."
-  },
-  {
-   "slug": "n26",
-   "nombre": "N26",
-   "tipo": "Por comprobar",
-   "recompensa": "Pendiente de comprobar",
-   "requisitos": "Pendiente de comprobar condiciones del bono.",
-   "enlace": "",
-   "estado": "no_publicable",
-   "verificado": null,
-   "nota": null,
-   "motivo": "Sus términos prohíben usar el enlace con fines comerciales y distribuirlo públicamente."
-  },
-  {
-   "slug": "etoro",
-   "nombre": "eToro",
-   "tipo": "2 · Registro + depósito",
-   "recompensa": "Sin bono para ti: la recompensa del programa Refer a Friend es solo para quien invita (50 a 250 USD según su saldo).",
-   "requisitos": "Para que la invitación cuente, el invitado debe ser un cliente nuevo de eToro (Europe) Ltd., residente en un país incluido (España lo está), verificar su cuenta y, en los 90 días siguientes al registro, hacer un primer depósito de al menos 100 USD y abrir operaciones por al menos 100 USD en total. Según las bases del 10/09/2026, el programa no se puede combinar con otras promociones y eToro puede cambiarlo o cancelarlo en cualquier momento. La recompensa de quien invita se acredita en su cuenta de eToro y no se puede retirar durante 90 días.",
-   "enlace": "https://etoro.tw/4xWFLqX",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "nota": {
-    "tiempo": 1,
-    "importe": 0,
-    "letra": 1,
-    "permanencia": 1.5
-   },
-   "gana_corto": "Sin bono para ti",
-   "gana_sub": "la recompensa es para quien invita; tú no recibes nada por este programa",
-   "aviso": "Publicidad: si abres cuenta con mi enlace y cumples las condiciones, yo recibo una recompensa de eToro; tú no recibes bono. Invertir conlleva riesgo: el valor de tus inversiones puede subir o bajar y tu capital está en riesgo. Esto no es asesoramiento financiero.",
-   "nota_texto": "Calculada con las bases oficiales de eToro del 10/09/2026; puntúa lo que recibes tú, que es nada.",
-   "nota_razon": {
-    "tiempo": "Hay que verificar la cuenta, depositar al menos 100 USD y operar al menos 100 USD en 90 días; no hay nada que cobrar antes.",
-    "importe": "El programa no da ningún bono al invitado: la recompensa es solo para quien invita.",
-    "letra": "Es un servicio de inversión con riesgo de pérdida de capital; las condiciones del programa se pueden cambiar o cancelar en cualquier momento.",
-    "permanencia": "Exige depositar y operar, y los fondos quedan expuestos al mercado; no hay compromiso de permanencia, pero tampoco ninguna ventaja."
-   },
-   "fuente_condiciones": "https://www.etoro.com/wp-content/uploads/2026/09/RAF-Program-TCs-September-2026.pdf",
-   "fuente_oficial": "https://www.etoro.com/es/",
-   "boton": "Abrir cuenta en eToro con mi enlace →"
-  },
-  {
-   "slug": "sabadell-igraal",
-   "nombre": "Sabadell (vía iGraal)",
-   "tipo": "2 · Registro + saldo mínimo",
-   "recompensa": "150 € de cashback de iGraal por abrir la Cuenta Online Sabadell desde la web de iGraal, hasta el 7/10/2026 (iGraal adelantó el fin; antes indicaba el 8/10).",
-   "requisitos": "Hay que abrir la cuenta desde la web de iGraal (en navegador, no desde su app ni por teléfono). Saldo medio superior a 300 € durante los 3 meses siguientes al alta; si no, no se valida. No valer si ya tienes otra cuenta Sabadell. Un cashback por DNI. Las reseñas hablan de validación a los ~2 meses. Aparte, Sabadell anuncia 400 € por domiciliar nómina y activar Bizum hasta el 7/10 (exige nómina; no incluido en la nota).",
-   "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
-   "estado": "caducada",
-   "verificado": "2026-10-08",
-   "caduca": "2026-10-07",
-   "gana_corto": "150 €",
-   "gana_sub": "de cashback en iGraal al abrir la cuenta (hasta el 7/10)",
-   "nota": {
-    "tiempo": 2,
-    "importe": 1.5,
-    "letra": 2,
-    "permanencia": 2
-   },
-   "nota_texto": "Nota provisional: el tiempo del alta es una estimación sin verificar.",
-   "auto": true,
-   "fuentes": [
-    "https://es.igraal.com/codigos-promocionales/banco-sabadell",
-    "https://x.com/TuAhorroX"
-   ],
-   "fuente_oficial": "https://es.igraal.com/codigos-promocionales/banco-sabadell",
-   "nota_razon": {
-    "tiempo": "El alta es 100 % online (se estima en 15-20 minutos, sin verificar).",
-    "importe": "150 € condicionados a mantener un saldo medio superior a 300 € durante 3 meses; las reseñas hablan de validación a los ~2 meses.",
-    "letra": "Condiciones claras pero con varias restricciones: abrirla desde la web de iGraal, un cashback por DNI y no tener otra cuenta Sabadell.",
-    "permanencia": "No hay permanencia más allá de mantener el saldo 3 meses."
-   },
-   "boton": "Hazte socio de iGraal con mi invitación (10 €) →",
-   "aviso": "Publicidad: iGraal te da un bono de 10 € con tu primer pedido de al menos 12,40 € si te registras con mi invitación, y yo recibo una recompensa. Para el cashback de Sabadell tienes que ser socio de iGraal y abrir la cuenta desde su web."
-  },
-  {
-   "slug": "iberdrola-igraal",
-   "nombre": "Iberdrola (vía iGraal)",
-   "tipo": "2 · Registro + contratación",
-   "recompensa": "170 € de cashback de iGraal por contratar online una tarifa de luz de Iberdrola desde iGraal, hasta el 8/10/2026.",
-   "requisitos": "Activar el cashback en iGraal antes de contratar y contratar online (si la venta es por teléfono no aparece sola y hay que reclamarla con un ticket; las compras desde la app de Iberdrola no generan cashback). Solo nuevos clientes: no vale si el contrato ya está en Iberdrola y solo cambias de tarifa. iGraal paga 1 cashback por CUPS (punto de suministro) y marca de electricidad al año: si ese punto recibió un cashback en los últimos 12 meses, no se paga. Las ofertas propias de Iberdrola que lista iGraal (saldos y descuentos por plan) tienen sus condiciones en la web de Iberdrola y no se han leído aquí.",
-   "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
-   "estado": "caducada",
-   "verificado": "2026-10-08",
-   "caduca": "2026-10-08",
-   "gana_corto": "170 €",
-   "gana_sub": "de cashback en iGraal al contratar la luz (hasta el 8/10)",
-   "nota": {
-    "tiempo": 1.5,
-    "importe": 1.5,
-    "letra": 1.5,
-    "permanencia": 1.5
-   },
-   "nota_texto": "Nota provisional: ni el plazo de validación del cashback ni la permanencia de cada tarifa figuran en la ficha de iGraal.",
-   "auto": true,
-   "fuentes": [
-    "https://es.igraal.com/codigos-promocionales/iberdrola",
-    "https://x.com/TuAhorroX/status/2107750274521768035",
-    "https://x.com/InversMallorqui/status/2107896018297606593",
-    "https://x.com/ahorrathor/status/2107730518565343466"
-   ],
-   "fuente_oficial": "https://es.igraal.com/codigos-promocionales/iberdrola",
-   "nota_razon": {
-    "tiempo": "La contratación es online, pero hay que cambiar de compañía de luz y esperar a que Iberdrola valide la operación (plazo no indicado).",
-    "importe": "170 € fijos, pero se cobran tras la validación de Iberdrola y solo si es tu primera contratación con ellos en ese punto de suministro.",
-    "letra": "Varias exclusiones: solo online desde iGraal, nada desde la app, no vale cambiar de tarifa siendo cliente y un cashback por CUPS al año.",
-    "permanencia": "La ficha de iGraal no dice si la tarifa tiene permanencia; depende del plan que elijas en Iberdrola."
-   },
-   "boton": "Hazte socio de iGraal con mi invitación (10 €) →",
-   "aviso": "Publicidad: iGraal te da un bono de 10 € con tu primer pedido de al menos 12,40 € si te registras con mi invitación, y yo recibo una recompensa. Para el cashback de Iberdrola tienes que ser socio de iGraal y contratar desde su web."
-  },
-  {
-   "slug": "twelve",
-   "nombre": "twelve. (lista de espera)",
-   "tipo": "1 · Solo registro (hoy)",
-   "recompensa": "15 € de bienvenida para las 12.000 primeras personas de la lista de espera, y 10 € para ti y 10 € para quien invitas, sin límite.",
-   "requisitos": "Apuntarte solo pide email, pero el dinero NO es efectivo: solo sirve para invertir en las carteras de twelve., y no se puede retirar, canjear ni transferir. Se activa cuando twelve. lance (sin fecha), al abrir la cuenta, pasar la verificación de identidad y hacer el primer pago con su tarjeta; tienes 90 días o caduca. twelve. puede modificar o cancelar los bonos antes del lanzamiento.",
-   "enlace": "https://twelve.finance/i/VUB452Z",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "gana_corto": "15 €",
-   "gana_sub": "solo para invertir con twelve., no retirable",
-   "nota": {
-    "tiempo": 2,
-    "importe": 0.5,
-    "letra": 1.5,
-    "permanencia": 1
-   },
-   "auto": true,
-   "fuentes": [
-    "https://twelve.finance",
-    "https://x.com/viajes_globo",
-    "https://x.com/InversMallorqui"
-   ],
-   "fuente_oficial": "https://twelve.finance",
-   "nota_razon": {
-    "tiempo": "Apuntarte tarda un minuto, pero cobrar exige que lancen, abrir la cuenta, verificar la identidad y hacer un primer pago con su tarjeta.",
-    "importe": "El dinero no es efectivo, depende de un lanzamiento sin fecha y twelve. puede cancelarlo antes.",
-    "letra": "Condiciones cortas y claras, aunque la empresa puede modificarlas.",
-    "permanencia": "El saldo queda invertido en sus carteras y no se puede retirar en efectivo."
-   }
-  },
-  {
-   "slug": "openbank-plan-amigo",
-   "nombre": "Openbank Plan Amigo",
-   "tipo": "2 · Registro + depósito",
-   "recompensa": "70 € para el nuevo cliente que abre cuenta con el código de invitación de un amigo, y 70 € para quien invita (hasta 10 amigos, máximo 700 €). Según Openbank el importe es neto: aplica la retención y te ingresa el resultado.",
-   "requisitos": "Hacerte cliente con el código de un amigo hasta el 29/10/2026 (incluido); ingresar al menos 70 € en la cuenta y activar la tarjeta en los 30 días siguientes a abrirla; y que los dos tengáis Bizum en Openbank al menos 3 meses. Se cobra en tres pagos (30 €, 20 € y 20 €) entre los días 15 y 20 de cada mes; el 2.º y el 3.º exigen seguir con Bizum. No vale si fuiste cliente de Openbank en los 12 meses anteriores ni si te diste de alta en otra promoción de Bizum en los últimos 12 meses, y no se combina con OPEN275. Las bases consideran uso inadecuado publicar los códigos en redes, foros o webs, y Openbank puede no pagar o retirar lo abonado: aquí no hay código. Hay que declararlo en el IRPF.",
-   "enlace": "",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "caduca": "2026-10-29",
-   "gana_corto": "70 €",
-   "gana_sub": "en 3 pagos, con Bizum en Openbank 3 meses",
-   "nota": {
-    "tiempo": 1.5,
-    "importe": 2,
-    "letra": 1.5,
-    "permanencia": 2
-   },
-   "nota_razon": {
-    "tiempo": "El alta es rápida, pero el pago completo tarda tres meses (30 + 20 + 20 €).",
-    "importe": "Dinero en efectivo y retirable, aunque llega en tres plazos y tributa.",
-    "letra": "Clara, pero exige código de un amigo, Bizum de los dos durante 3 meses y excluye a quien hizo otra promo de Bizum en el último año.",
-    "permanencia": "Solo mantener Bizum 3 meses; no se publica saldo mínimo tras el ingreso inicial."
-   },
-   "auto": true,
-   "fuentes": [
-    "https://www.openbank.es/plan-amigo-hasta-700-euros",
-    "https://x.com/ahorrathor",
-    "https://x.com/AnniLoInforma",
-    "https://x.com/FinanzasAlej_"
-   ],
-   "fuente_oficial": "https://www.openbank.es/plan-amigo-hasta-700-euros",
-   "fuente_condiciones": "https://www.openbank.es/plan-amigo-hasta-700-euros"
-  },
-  {
-   "slug": "bbva-plan-amigo",
-   "nombre": "BBVA Plan Amigo",
-   "tipo": "3 · Registro + uso de tarjeta",
-   "recompensa": "Hasta 50 € para el nuevo cliente que abre la cuenta con el código de invitación de un cliente de BBVA y usa su Tarjeta Aqua Débito; 400 € más si domicilia nómina o pensión de más de 800 €, la cuota de autónomos o mantiene 15.000 € de saldo (hasta 450 € en total). Quien invita gana 50 € por el primer amigo, 60 € por el 2.º y el 3.º y 70 € del 4.º al 10.º (hasta 660 € al año).",
-   "requisitos": "No ser cliente de BBVA ni haberlo sido en los últimos 6 meses; abrir la Cuenta Online Sin Comisiones o la Cuenta Nómina en bbva.es o la app (no vale con dos titulares); validar el código de un amigo cliente de BBVA durante el alta; usar Bizum; y hacer compras con la Tarjeta Aqua Débito que sumen 50 € en los 45 días siguientes (las preguntas frecuentes hablan de «un pago con tarjeta desde 50 €»). Si el invitado no cumple el segundo paso en plazo, los dos pierden el premio. Plan permanente, sin fecha de fin. La web no detalla cuándo se abona ni la fiscalidad: en verificación (mira las bases legales antes). Aquí no hay código.",
-   "enlace": "",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "gana_corto": "50 €",
-   "gana_sub": "por usar la tarjeta; +400 € con nómina, autónomos o 15.000 €",
-   "nota": {
-    "tiempo": 1.5,
-    "importe": 1.5,
-    "letra": 1.5,
-    "permanencia": 2
-   },
-   "nota_razon": {
-    "tiempo": "Alta online y 45 días para las compras; la web no dice cuándo se cobra.",
-    "importe": "50 € para el invitado, pero exige gastar 50 € con la tarjeta y no se publica la fiscalidad; los 400 € piden nómina, autónomos o 15.000 €.",
-    "letra": "Hace falta el código de un cliente, Bizum, no haber sido cliente en 6 meses y no vale con dos titulares; la web describe la compra de dos formas distintas.",
-    "permanencia": "Para los 50 € no se publica permanencia ni saldo mínimo."
-   },
-   "auto": true,
-   "fuentes": [
-    "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html",
-    "https://x.com/AnniLoInforma/status/2108442334711222388",
-    "https://x.com/SacandoPartido/status/2108209328712741111"
-   ],
-   "fuente_oficial": "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html",
-   "fuente_condiciones": "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html"
-  },
-  {
-   "slug": "n26-widilo",
-   "nombre": "N26 (vía Widilo)",
-   "tipo": "2 · Registro + contratación",
-   "recompensa": "30 € de cashback de Widilo por abrir la cuenta de N26 activando antes el cashback en la ficha de N26 de Widilo. Aparte, el bono de referidos de Widilo ha vuelto a lo habitual: 5 € para quien se registra invitado y 3 € para quien invita (la subida a 10 € terminó el 11/10/2026).",
-   "requisitos": "Hay que estar registrado en Widilo, pulsar «Activar el cashback» en la ficha de N26 y abrir la cuenta en esa misma visita. Widilo no detalla en la ficha qué exige N26 para validar el cashback (cliente nuevo, ingreso mínimo, plazos): en verificación, pregunta a Widilo antes si te importa. El bono de referidos solo se paga cuando hay un cashback validado («cashback validado = bono para ti y tu referido»). Las reseñas de la propia ficha hablan de validaciones de entre 10 días y varias semanas, alguna tras abrir una incidencia. Aquí no hay enlace ni código.",
-   "enlace": "",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "gana_corto": "30 €",
-   "gana_sub": "de cashback en Widilo al abrir N26 (+5 € de bono invitado)",
-   "nota": {
-    "tiempo": 1.5,
-    "importe": 1.5,
-    "letra": 1,
-    "permanencia": 2
-   },
-   "nota_razon": {
-    "tiempo": "Alta online en las dos plataformas, pero Widilo no publica el plazo de validación y las reseñas hablan de 10 días a varias semanas.",
-    "importe": "30 € fijos en la ficha de Widilo; cobrarlo depende de que N26 valide el alta y el bono de 5 € solo llega con un cashback validado.",
-    "letra": "La ficha no detalla las condiciones de validación (cliente nuevo, ingreso mínimo): hay partes que no se pueden leer.",
-    "permanencia": "Widilo no publica permanencia ni saldo mínimo para este cashback."
-   },
-   "nota_texto": "Nota provisional: Widilo no publica las condiciones de validación de este cashback.",
-   "auto": true,
-   "fuentes": [
-    "https://www.widilo.es/codigo-descuento/n26",
-    "https://x.com/TuAhorroX/status/2108814413218390120",
-    "https://x.com/FinanzasAlej_/status/2108841492957777942",
-    "https://x.com/SacandoPartido/status/2108846337592545444"
-   ],
-   "fuente_oficial": "https://www.widilo.es/codigo-descuento/n26",
-   "fuente_condiciones": "https://www.widilo.es/codigo-descuento/n26"
-  },
-  {
-   "slug": "santander-mas",
-   "nombre": "Santander (Campaña Santander Más)",
-   "tipo": "4 · Registro + domiciliación",
-   "recompensa": "Hasta 35 € brutos al mes (28,35 € netos) durante un máximo de 24 meses: hasta 840 € brutos (680,40 € netos) con ingresos desde 1.500 €, o hasta 720 € brutos (583,20 € netos) con ingresos de 800 € a 1.499 €.",
-   "requisitos": "Hay que apuntarse a la campaña entre el 23/04/2026 y el 30/10/2026 (en oficina, app o web) y aceptarla expresamente: sin esa adhesión no hay bonificación. Vale para clientes nuevos y actuales con Cuenta Santander, Cuenta Online, Cuenta Negocios o Cuenta Colectivos, siempre que no tuvieran la nómina, pensión o cuota de autónomos domiciliada en el banco antes de la campaña. En un máximo de 4 meses desde la adhesión hay que domiciliar uno de estos ingresos: nómina, pensión de la Seguridad Social, cuota de autónomos (o mutualidad alternativa admitida) o un ingreso recurrente de al menos 800 € en un único abono mensual por transferencia o cheque; varios abonos del mismo mes no se suman. Con la cuota de autónomos no se exige importe mínimo y cuenta como tramo alto. El pago es mes a mes y por partes: 15 € (ingresos desde 1.500 €) o 10 € (de 800 € a 1.499 €) por el ingreso, 10 € por hacer 3 envíos de Bizum al mes o 1 movimiento con una tarjeta de crédito Santander, y 10 € por tener 2 recibos mensuales domiciliados. Si un mes no entra el ingreso, ese mes no se cobra nada, y no se recupera después; los 24 meses cuentan desde el primer ingreso válido y no se alargan. Las bases dicen que no hay penalización por dejar de cumplir. El banco revisa el día 8 y paga en los primeros 15 días del mes. Importes brutos, con retención del 19 %. Solo cobra un titular por cuenta y es incompatible con otras campañas de nómina del banco. Aquí no hay enlace ni código.",
-   "enlace": "",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "gana_corto": "Hasta 840 €",
-   "gana_sub": "brutos en 24 meses (680,40 € netos), a 35 € al mes como máximo",
-   "nota": {
-    "tiempo": 1,
-    "importe": 1.5,
-    "letra": 1.5,
-    "permanencia": 2.5
-   },
-   "nota_razon": {
-    "tiempo": "Se cobra mes a mes durante 24 meses: el total tarda dos años en llegar.",
-    "importe": "Es dinero en cuenta, pero el máximo exige ingresos desde 1.500 € y cumplir cada mes Bizum o tarjeta y dos recibos; son importes brutos.",
-    "letra": "Las bases son claras, pero hay que apuntarse expresamente antes del 30/10, traer ingresos que no estuvieran ya en el banco y un mes sin ingreso no se recupera.",
-    "permanencia": "Las bases dicen que no hay penalización si dejas de cumplir: solo dejas de cobrar ese mes."
-   },
-   "nota_texto": "Calculada con las bases legales de la «Campaña Santander Más» leídas el 12/10/2026.",
-   "auto": true,
-   "fuentes": [
-    "https://www.bancosantander.es/particulares/cuentas-bancarias/cuenta-online-sin-comisiones/",
-    "https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:97f4c3aa-c31e-4d1a-bc59-c19103cacad5/original/as/ES_BBLL_campana-santander-mas_sorteos-promocionesWEB.pdf",
-    "https://x.com/AhorroYAprendo/status/2108630589020733944",
-    "https://x.com/IvancgfinX/status/2109541466666070348"
-   ],
-   "fuente_oficial": "https://www.bancosantander.es/particulares/cuentas-bancarias/cuenta-online-sin-comisiones/",
-   "fuente_condiciones": "https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:97f4c3aa-c31e-4d1a-bc59-c19103cacad5/original/as/ES_BBLL_campana-santander-mas_sorteos-promocionesWEB.pdf"
-  },
-  {
-   "slug": "unicaja-nomina",
-   "nombre": "Unicaja (nómina o pensión)",
-   "tipo": "4 · Registro + domiciliación",
-   "recompensa": "Hasta 450 € brutos en 12 meses por domiciliar la nómina, la pensión o la cuota de autónomos: 30,38 € netos al mes con ingresos de 1.200 € o más, o 23,63 € netos al mes con ingresos de 600 € a 1.199 €.",
-   "requisitos": "Vale para clientes nuevos y actuales que domicilien una nómina o pensión de 600 € netos al mes o más, o la cuota de autónomos de 50 € o más, siempre que no la hayan tenido domiciliada en Unicaja en los últimos 12 meses. El abono es mensual: 30,38 € netos si la nómina o pensión es de 1.200 € o más, o si domicilias la cuota de autónomos; 23,63 € netos si está entre 600 € y 1.199 €. Se cobra durante un máximo de 12 meses y solo los meses en que cumples: no es acumulativo ni retroactivo. Sin permanencia. Promoción válida hasta el 31/01/2027. Aquí no hay enlace ni código.",
-   "enlace": "",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "caduca": "2027-01-31",
-   "gana_corto": "Hasta 450 €",
-   "gana_sub": "brutos en 12 meses (30,38 € netos al mes con nómina desde 1.200 €)",
-   "nota": {
-    "tiempo": 1.5,
-    "importe": 1.5,
-    "letra": 2,
-    "permanencia": 2.5
-   },
-   "nota_razon": {
-    "tiempo": "Se cobra mes a mes durante 12 meses: el total tarda un año en llegar.",
-    "importe": "Es dinero en cuenta, pero el máximo exige una nómina de 1.200 € o más (o cuota de autónomos) y cumplir todos los meses.",
-    "letra": "Condiciones cortas y claras en su web; el mes que no cumples no se cobra ni se recupera.",
-    "permanencia": "Su web lo dice expresamente: sin permanencia."
-   },
-   "nota_texto": "Calculada con las condiciones publicadas en la web de Unicaja, leídas el 12/10/2026.",
-   "fuente_oficial": "https://www.unicajabanco.es/es/particulares",
-   "fuente_condiciones": "https://www.unicajabanco.es/es/particulares"
-  },
-  {
-   "slug": "abanca-nomina",
-   "nombre": "ABANCA (Cuenta Online Nómina)",
-   "tipo": "4 · Registro + domiciliación",
-   "recompensa": "500 € brutos (405 € netos) por domiciliar una nómina de 1.200 € o más, o 185 € si la nómina está entre 800 € y 1.199 €. Con menos de 800 € no hay incentivo.",
-   "requisitos": "Solo para clientes nuevos: no puedes ser cliente de ABANCA. Hay que abrir la Cuenta Online Nómina y domiciliar una nómina nueva de 800 € o más. El dinero se ingresa a los pocos días de recibir la primera nómina, pero a cambio hay que mantener la nómina domiciliada 24 meses: si la retiras antes, ABANCA te pide devolver la parte proporcional de los meses que falten (por ejemplo, a los 12 meses solo has consolidado la mitad). La web la anuncia «por tiempo limitado», sin fecha de fin. Aquí no hay enlace ni código.",
-   "enlace": "",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "gana_corto": "500 €",
-   "gana_sub": "brutos (405 € netos) con nómina desde 1.200 €, a cambio de 24 meses",
-   "nota": {
-    "tiempo": 2.5,
-    "importe": 2,
-    "letra": 1.5,
-    "permanencia": 0.5
-   },
-   "nota_razon": {
-    "tiempo": "El abono llega a los pocos días de recibir la primera nómina.",
-    "importe": "Dinero en cuenta de una vez; los 500 € exigen una nómina de 1.200 € o más y son brutos (405 € netos).",
-    "letra": "La web lo explica con claridad, pero no da fecha de fin y excluye a quien ya es cliente.",
-    "permanencia": "24 meses con la nómina domiciliada; si te vas antes devuelves la parte proporcional."
-   },
-   "nota_texto": "Calculada con las condiciones de la página de la Cuenta Online Nómina de ABANCA, leídas el 12/10/2026.",
-   "fuente_oficial": "https://www.abanca.com/es/cuentas/cuenta-online/",
-   "fuente_condiciones": "https://www.abanca.com/es/cuentas/cuenta-online/"
-  },
-  {
-   "slug": "kutxabank-linka",
-   "nombre": "Kutxabank (Linka!, invitación de un amigo)",
-   "tipo": "3 · Registro + uso de tarjeta",
-   "recompensa": "100 € brutos para quien se hace cliente con el código de un amigo y 50 € brutos para quien invita (máximo 10 invitaciones, 500 € brutos).",
-   "requisitos": "Necesitas el código Linka! de alguien que ya sea cliente de Kutxabank: se pega durante el alta online desde la app. Tienes que tener entre 18 y 30 años y no haber sido cliente del grupo Kutxabank en los 6 meses anteriores. En un máximo de 2 meses desde el alta hay que contratar la cuenta con un saldo mínimo de 50 €, y tener activos la tarjeta Korner y Bizum, y mantenerlo con una permanencia mínima de 12 meses. La página no indica cuándo se abona el dinero. Oferta válida hasta el 31/10/2026. Aquí no hay código.",
-   "enlace": "",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "caduca": "2026-10-31",
-   "gana_corto": "100 €",
-   "gana_sub": "brutos al hacerte cliente (18-30 años) con el código de un amigo",
-   "nota": {
-    "tiempo": 2,
-    "importe": 2,
-    "letra": 1.5,
-    "permanencia": 1
-   },
-   "nota_razon": {
-    "tiempo": "Alta online y 2 meses para activar cuenta, tarjeta y Bizum; la página no dice cuándo se abona.",
-    "importe": "100 € brutos en la cuenta nueva, sin pedir nómina ni un gasto mínimo, pero con un saldo mínimo de 50 €.",
-    "letra": "Solo de 18 a 30 años, hace falta el código de un cliente y la página no detalla el plazo de abono.",
-    "permanencia": "Permanencia mínima de 12 meses según la propia página."
-   },
-   "nota_texto": "Calculada con las condiciones de la página de Kutxabank, releídas el 13/10/2026.",
-   "fuente_oficial": "https://clientes.kutxabank.es/es/linka/joven/invita.html",
-   "fuente_condiciones": "https://clientes.kutxabank.es/es/linka/joven/invita.html"
-  },
-  {
-   "slug": "imagin",
-   "nombre": "imagin (nómina y código de un amigo)",
-   "tipo": "4 · Registro + domiciliación",
-   "recompensa": "Hasta 250 € netos por domiciliar la nómina (250 € con nómina de 1.500 € o más; 150 € con nómina de 900 € a 1.499,99 €). Aparte, un cupón de 50 € para la Shop Facilitea si te das de alta con el código de un amigo.",
-   "requisitos": "Nómina: hazte cliente desde la app y domicilia la nómina antes de que pasen 4 meses; el ingreso llega «en pocos días». A cambio hay 48 meses de permanencia. Las transferencias no cuentan como nómina, y no vale si la nómina viene de otra cuenta de CaixaBank ni se acumula a otras promociones de domiciliación de ingresos posteriores al 01/01/2024. Los importes son netos, pero pueden afectar a tu declaración de la renta. Cupón: tienes que darte de alta con el código de un amigo, tener al menos 50 € en la cuenta, hacer tres movimientos con tarjeta y activar Bizum. No es dinero: es un cupón de 50 € para la Shop Facilitea, válido hasta el 31/12/2026, que se gasta de una vez en una compra de 50 € o más, no sirve para outlet, reacondicionados ni seguros o alarmas, y tributa en el IRPF. La página no da fecha de fin para la oferta de la nómina. Aquí no hay enlace ni código.",
-   "enlace": "",
-   "estado": "publicada",
-   "verificado": "2026-10-13",
-   "gana_corto": "Hasta 250 €",
-   "gana_sub": "netos por la nómina, con 48 meses de permanencia (+ cupón de 50 € en Facilitea)",
-   "nota": {
-    "tiempo": 2,
-    "importe": 1.5,
-    "letra": 1,
-    "permanencia": 0
-   },
-   "nota_razon": {
-    "tiempo": "Tienes 4 meses para domiciliar la nómina y el ingreso llega en pocos días.",
-    "importe": "Dinero en cuenta y en neto, pero los 250 € piden una nómina de 1.500 € o más; los 50 € del amigo son un cupón de tienda, no efectivo.",
-    "letra": "Las transferencias no cuentan como nómina, no se acumula a otras promociones y la página no da fecha de fin ni explica qué pasa si te vas antes.",
-    "permanencia": "48 meses de permanencia: la más larga de las promociones que tenemos publicadas."
-   },
-   "nota_texto": "Calculada con las condiciones de la página del plan amigo de imagin, leídas el 12/10/2026.",
-   "fuente_oficial": "https://www.imagin.com/plan-amigo-imagin-unete",
-   "fuente_condiciones": "https://www.imagin.com/plan-amigo-imagin-unete"
-  }
- ]
+  "actualizado": "2026-10-13",
+  "promos": [
+    {
+      "slug": "myinvestor",
+      "nombre": "MyInvestor",
+      "tipo": "2 · Registro + depósito",
+      "recompensa": "25 € brutos para ti y 25 € brutos para quien te invita",
+      "requisitos": "Tú y tu amigo tenéis que cumplir UNA de estas condiciones en los 3 primeros meses desde la apertura de la cuenta: invertir 100 € (cartera indexada, fondos, planes de pensiones, acciones o ETFs), tener 1.000 € en efectivo en la cuenta o contratar un depósito. Los 25 € son brutos: con la retención del 19 % quedan 20,25 € netos. Según sus preguntas frecuentes, el ingreso se hace en el mes en que se cumple la condición (el primero, el segundo o el tercero desde la apertura). No hace falta mantener la inversión una vez recibido el abono, que se ingresa en tu cuenta de MyInvestor. Si en el momento del abono tu cuenta está en descubierto, pueden no abonarlo. Hasta 60 invitados por persona (1.500 € brutos); según sus bases, vigente hasta el 31/12/2026.",
+      "enlace": "https://newapp.myinvestor.es/do/signup?promotionalCode=RMRHC",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "nota": {
+        "tiempo": 2,
+        "importe": 1.5,
+        "letra": 2,
+        "permanencia": 2.5
+      },
+      "gana_corto": "25 € + 25 €",
+      "gana_sub": "para ti y para quien te invita (25 € brutos; 20,25 € netos tras la retención)",
+      "nota_texto": "Calculada con las preguntas frecuentes oficiales del Plan Amigo de MyInvestor.",
+      "nota_razon": {
+        "tiempo": "El alta es online y tienes 3 meses desde abrir la cuenta para cumplir una condición; según sus preguntas frecuentes, el ingreso se hace en el mes en que la cumples.",
+        "importe": "25 € brutos fijos para cada uno al cumplir la condición; con la retención del 19 % son 20,25 € netos, y quien invita tiene tope de 60 invitados (1.500 € brutos).",
+        "letra": "Las bases son cortas y claras: basta UNA de tres condiciones (invertir 100 €, tener 1.000 € en efectivo o contratar un depósito) y no se puede estar en descubierto al abonar.",
+        "permanencia": "Según su página oficial de preguntas frecuentes, no hay que mantener la inversión más allá del momento en que recibes el abono."
+      },
+      "fuente_condiciones": "https://myinvestor.es/ayuda/preguntas-frecuentes/plan-amigo/"
+    },
+    {
+      "slug": "trade-republic",
+      "nombre": "Trade Republic",
+      "tipo": "2 · Registro + depósito",
+      "recompensa": "Quien invita recibe un 3 % de interés durante 3 meses por cada amigo (hasta 12 meses); el invitado también recibe una recompensa de bienvenida.",
+      "requisitos": "El amigo debe hacer 3 inversiones e ingresar 100 € en sus primeros 21 días. La recompensa para quien invita es en forma de interés, no un ingreso en efectivo.",
+      "enlace": "",
+      "estado": "no_publicable",
+      "verificado": "2026-09-14",
+      "nota": null,
+      "motivo": "Sus términos prohíben la difusión pública del enlace (YouTube, grupos de mensajería, foros, webs de cupones) y el uso comercial; pueden reclamar el bono."
+    },
+    {
+      "slug": "topcashback",
+      "nombre": "TopCashback",
+      "tipo": "6 · Cashback progresivo",
+      "recompensa": "5 € de bono de registro si te registras con mi invitación hasta el 31/12/2026. Yo recibo 10 € si cumples las condiciones; tú, los 5 €.",
+      "requisitos": "Debes registrarte como nuevo usuario con el enlace de invitación y en la misma sesión, verificar tu cuenta y ganar al menos 5 € de cashback en marcas participantes dentro de los 180 días siguientes al registro. El bono es el que figure publicado cuando te registras, aunque cambie después. No cuentan para el umbral los bonos adicionales de registro, las promociones de bonificación, las ofertas para nuevos miembros ni el cashback de las marcas excluidas. El bono se abona cuando se aprueban las transacciones que alcanzan el umbral y se retira por transferencia bancaria o PayPal. Quien invita (yo) recibe 10 € cuando el invitado gana al menos 10 € de cashback en 180 días.",
+      "enlace": "https://www.topcashback.es/ref/member9607000856",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "nota": {
+        "tiempo": 1.5,
+        "importe": 1,
+        "letra": 1.5,
+        "permanencia": 2.5
+      },
+      "caduca": "2026-12-31",
+      "gana_corto": "5 €",
+      "gana_sub": "de bono de registro con la invitación (hasta el 31/12/2026)",
+      "aviso": "Publicidad: si te registras con mi enlace, yo recibo una recompensa de TopCashback (10 €); tú recibes el bono de registro indicado mientras esté vigente.",
+      "nota_texto": "Nota provisional: no hay plazo de abono publicado.",
+      "nota_razon": {
+        "tiempo": "Tienes 180 días para ganar el cashback mínimo y el bono se abona cuando se aprueban esas compras; TopCashback no publica un plazo concreto.",
+        "importe": "Solo 5 € para ti, y exige haber ganado 5 € de cashback, es decir, comprar en marcas participantes.",
+        "letra": "Reglas claras pero con matices: el bono depende de la fecha de registro, hay marcas excluidas y no cuentan los bonos ni las ofertas para nuevos miembros.",
+        "permanencia": "Sin permanencia ni saldo mínimo que mantener."
+      },
+      "fuente_condiciones": "https://www.topcashback.es/referidos/terminos/",
+      "fuente_oficial": "https://www.topcashback.es/invita-y-gana/",
+      "boton": "Registrarme en TopCashback con la invitación →"
+    },
+    {
+      "slug": "igraal",
+      "nombre": "iGraal",
+      "tipo": "6 · Cashback progresivo",
+      "recompensa": "Bono de bienvenida de 5 € para quien se registra con una invitación",
+      "requisitos": "La página de invitación de iGraal anuncia un bono de 5 € con un pedido de al menos 8,26 € (antes de IVA y sin gastos de envío) en los 90 días siguientes al registro. Los iGraal Days, en los que la invitación anunciaba 10 € con un pedido de 12,40 €, ya terminaron; el importe depende de la campaña vigente cuando te registras. El bono se abona junto con el primer cashback validado. Quien invita (yo) recibe 3 € cuando su amigo acumula 1 € de cashback disponible, más el 10 % de su cashback validado el primer año.",
+      "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
+      "estado": "publicada",
+      "verificado": "2026-10-11",
+      "nota": {
+        "tiempo": 1.5,
+        "importe": 1,
+        "letra": 1.5,
+        "permanencia": 2.5
+      },
+      "gana_corto": "5 €",
+      "gana_sub": "de bienvenida con la invitación, tras un pedido de al menos 8,26 €",
+      "nota_texto": "Nota provisional: el plazo de validación del bono no está publicado.",
+      "nota_razon": {
+        "tiempo": "Registro rápido, pero el bono llega junto con el primer cashback validado, después de un pedido apto en los 90 días siguientes; iGraal no publica un plazo.",
+        "importe": "5 € de bono, claro y fijo, pero solo si compras algo (pedido de al menos 8,26 € antes de IVA), así que no es dinero sin gastar.",
+        "letra": "Condiciones comprensibles, pero el pedido tiene que ser «apto para cashback»: no vale cualquier compra ni cualquier tienda.",
+        "permanencia": "Sin permanencia ni mantener saldo: te registras, compras y listo."
+      },
+      "fuente_condiciones": "https://es.igraal.com/padrinazgo"
+    },
+    {
+      "slug": "revolut",
+      "nombre": "Revolut",
+      "tipo": "Por comprobar",
+      "recompensa": "Hasta 100 € según campaña",
+      "requisitos": "Campaña con cupos limitados; hay que comprobar que sigue vigente.",
+      "enlace": "",
+      "estado": "no_publicable",
+      "verificado": null,
+      "nota": null,
+      "motivo": "Solo se permite recomendar a personas con relación personal; prohíbe el marketing masivo."
+    },
+    {
+      "slug": "n26",
+      "nombre": "N26",
+      "tipo": "Por comprobar",
+      "recompensa": "Pendiente de comprobar",
+      "requisitos": "Pendiente de comprobar condiciones del bono.",
+      "enlace": "",
+      "estado": "no_publicable",
+      "verificado": null,
+      "nota": null,
+      "motivo": "Sus términos prohíben usar el enlace con fines comerciales y distribuirlo públicamente."
+    },
+    {
+      "slug": "etoro",
+      "nombre": "eToro",
+      "tipo": "2 · Registro + depósito",
+      "recompensa": "Sin bono para ti: la recompensa del programa Refer a Friend es solo para quien invita (50 a 250 USD según su saldo).",
+      "requisitos": "Para que la invitación cuente, el invitado debe ser un cliente nuevo de eToro (Europe) Ltd., residente en un país incluido (España lo está), verificar su cuenta y, en los 90 días siguientes al registro, hacer un primer depósito de al menos 100 USD y abrir operaciones por al menos 100 USD en total. Según las bases del 10/09/2026, el programa no se puede combinar con otras promociones y eToro puede cambiarlo o cancelarlo en cualquier momento. La recompensa de quien invita se acredita en su cuenta de eToro y no se puede retirar durante 90 días.",
+      "enlace": "https://etoro.tw/4xWFLqX",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "nota": {
+        "tiempo": 1,
+        "importe": 0,
+        "letra": 1,
+        "permanencia": 1.5
+      },
+      "gana_corto": "Sin bono para ti",
+      "gana_sub": "la recompensa es para quien invita; tú no recibes nada por este programa",
+      "aviso": "Publicidad: si abres cuenta con mi enlace y cumples las condiciones, yo recibo una recompensa de eToro; tú no recibes bono. Invertir conlleva riesgo: el valor de tus inversiones puede subir o bajar y tu capital está en riesgo. Esto no es asesoramiento financiero.",
+      "nota_texto": "Calculada con las bases oficiales de eToro del 10/09/2026; puntúa lo que recibes tú, que es nada.",
+      "nota_razon": {
+        "tiempo": "Hay que verificar la cuenta, depositar al menos 100 USD y operar al menos 100 USD en 90 días; no hay nada que cobrar antes.",
+        "importe": "El programa no da ningún bono al invitado: la recompensa es solo para quien invita.",
+        "letra": "Es un servicio de inversión con riesgo de pérdida de capital; las condiciones del programa se pueden cambiar o cancelar en cualquier momento.",
+        "permanencia": "Exige depositar y operar, y los fondos quedan expuestos al mercado; no hay compromiso de permanencia, pero tampoco ninguna ventaja."
+      },
+      "fuente_condiciones": "https://www.etoro.com/wp-content/uploads/2026/09/RAF-Program-TCs-September-2026.pdf",
+      "fuente_oficial": "https://www.etoro.com/es/",
+      "boton": "Abrir cuenta en eToro con mi enlace →"
+    },
+    {
+      "slug": "sabadell-igraal",
+      "nombre": "Sabadell (vía iGraal)",
+      "tipo": "2 · Registro + saldo mínimo",
+      "recompensa": "150 € de cashback de iGraal por abrir la Cuenta Online Sabadell desde la web de iGraal, hasta el 7/10/2026 (iGraal adelantó el fin; antes indicaba el 8/10).",
+      "requisitos": "Hay que abrir la cuenta desde la web de iGraal (en navegador, no desde su app ni por teléfono). Saldo medio superior a 300 € durante los 3 meses siguientes al alta; si no, no se valida. No valer si ya tienes otra cuenta Sabadell. Un cashback por DNI. Las reseñas hablan de validación a los ~2 meses. Aparte, Sabadell anuncia 400 € por domiciliar nómina y activar Bizum hasta el 7/10 (exige nómina; no incluido en la nota).",
+      "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
+      "estado": "caducada",
+      "verificado": "2026-10-08",
+      "caduca": "2026-10-07",
+      "gana_corto": "150 €",
+      "gana_sub": "de cashback en iGraal al abrir la cuenta (hasta el 7/10)",
+      "nota": {
+        "tiempo": 2,
+        "importe": 1.5,
+        "letra": 2,
+        "permanencia": 2
+      },
+      "nota_texto": "Nota provisional: el tiempo del alta es una estimación sin verificar.",
+      "auto": true,
+      "fuentes": [
+        "https://es.igraal.com/codigos-promocionales/banco-sabadell",
+        "https://x.com/TuAhorroX"
+      ],
+      "fuente_oficial": "https://es.igraal.com/codigos-promocionales/banco-sabadell",
+      "nota_razon": {
+        "tiempo": "El alta es 100 % online (se estima en 15-20 minutos, sin verificar).",
+        "importe": "150 € condicionados a mantener un saldo medio superior a 300 € durante 3 meses; las reseñas hablan de validación a los ~2 meses.",
+        "letra": "Condiciones claras pero con varias restricciones: abrirla desde la web de iGraal, un cashback por DNI y no tener otra cuenta Sabadell.",
+        "permanencia": "No hay permanencia más allá de mantener el saldo 3 meses."
+      },
+      "boton": "Hazte socio de iGraal con mi invitación (10 €) →",
+      "aviso": "Publicidad: iGraal te da un bono de 10 € con tu primer pedido de al menos 12,40 € si te registras con mi invitación, y yo recibo una recompensa. Para el cashback de Sabadell tienes que ser socio de iGraal y abrir la cuenta desde su web."
+    },
+    {
+      "slug": "iberdrola-igraal",
+      "nombre": "Iberdrola (vía iGraal)",
+      "tipo": "2 · Registro + contratación",
+      "recompensa": "170 € de cashback de iGraal por contratar online una tarifa de luz de Iberdrola desde iGraal, hasta el 8/10/2026.",
+      "requisitos": "Activar el cashback en iGraal antes de contratar y contratar online (si la venta es por teléfono no aparece sola y hay que reclamarla con un ticket; las compras desde la app de Iberdrola no generan cashback). Solo nuevos clientes: no vale si el contrato ya está en Iberdrola y solo cambias de tarifa. iGraal paga 1 cashback por CUPS (punto de suministro) y marca de electricidad al año: si ese punto recibió un cashback en los últimos 12 meses, no se paga. Las ofertas propias de Iberdrola que lista iGraal (saldos y descuentos por plan) tienen sus condiciones en la web de Iberdrola y no se han leído aquí.",
+      "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
+      "estado": "caducada",
+      "verificado": "2026-10-08",
+      "caduca": "2026-10-08",
+      "gana_corto": "170 €",
+      "gana_sub": "de cashback en iGraal al contratar la luz (hasta el 8/10)",
+      "nota": {
+        "tiempo": 1.5,
+        "importe": 1.5,
+        "letra": 1.5,
+        "permanencia": 1.5
+      },
+      "nota_texto": "Nota provisional: ni el plazo de validación del cashback ni la permanencia de cada tarifa figuran en la ficha de iGraal.",
+      "auto": true,
+      "fuentes": [
+        "https://es.igraal.com/codigos-promocionales/iberdrola",
+        "https://x.com/TuAhorroX/status/2107750274521768035",
+        "https://x.com/InversMallorqui/status/2107896018297606593",
+        "https://x.com/ahorrathor/status/2107730518565343466"
+      ],
+      "fuente_oficial": "https://es.igraal.com/codigos-promocionales/iberdrola",
+      "nota_razon": {
+        "tiempo": "La contratación es online, pero hay que cambiar de compañía de luz y esperar a que Iberdrola valide la operación (plazo no indicado).",
+        "importe": "170 € fijos, pero se cobran tras la validación de Iberdrola y solo si es tu primera contratación con ellos en ese punto de suministro.",
+        "letra": "Varias exclusiones: solo online desde iGraal, nada desde la app, no vale cambiar de tarifa siendo cliente y un cashback por CUPS al año.",
+        "permanencia": "La ficha de iGraal no dice si la tarifa tiene permanencia; depende del plan que elijas en Iberdrola."
+      },
+      "boton": "Hazte socio de iGraal con mi invitación (10 €) →",
+      "aviso": "Publicidad: iGraal te da un bono de 10 € con tu primer pedido de al menos 12,40 € si te registras con mi invitación, y yo recibo una recompensa. Para el cashback de Iberdrola tienes que ser socio de iGraal y contratar desde su web."
+    },
+    {
+      "slug": "twelve",
+      "nombre": "twelve. (lista de espera)",
+      "tipo": "1 · Solo registro (hoy)",
+      "recompensa": "15 € de bienvenida para las 12.000 primeras personas de la lista de espera, y 10 € para ti y 10 € para quien invitas, sin límite.",
+      "requisitos": "Apuntarte solo pide email, pero el dinero NO es efectivo: solo sirve para invertir en las carteras de twelve., y no se puede retirar, canjear ni transferir. Se activa cuando twelve. lance (sin fecha), al abrir la cuenta, pasar la verificación de identidad y hacer el primer pago con su tarjeta; tienes 90 días o caduca. twelve. puede modificar o cancelar los bonos antes del lanzamiento.",
+      "enlace": "https://twelve.finance/i/VUB452Z",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "gana_corto": "15 €",
+      "gana_sub": "solo para invertir con twelve., no retirable",
+      "nota": {
+        "tiempo": 2,
+        "importe": 0.5,
+        "letra": 1.5,
+        "permanencia": 1
+      },
+      "auto": true,
+      "fuentes": [
+        "https://twelve.finance",
+        "https://x.com/viajes_globo",
+        "https://x.com/InversMallorqui"
+      ],
+      "fuente_oficial": "https://twelve.finance",
+      "nota_razon": {
+        "tiempo": "Apuntarte tarda un minuto, pero cobrar exige que lancen, abrir la cuenta, verificar la identidad y hacer un primer pago con su tarjeta.",
+        "importe": "El dinero no es efectivo, depende de un lanzamiento sin fecha y twelve. puede cancelarlo antes.",
+        "letra": "Condiciones cortas y claras, aunque la empresa puede modificarlas.",
+        "permanencia": "El saldo queda invertido en sus carteras y no se puede retirar en efectivo."
+      }
+    },
+    {
+      "slug": "openbank-plan-amigo",
+      "nombre": "Openbank Plan Amigo",
+      "tipo": "2 · Registro + depósito",
+      "recompensa": "70 € para el nuevo cliente que abre cuenta con el código de invitación de un amigo, y 70 € para quien invita (hasta 10 amigos, máximo 700 €). Según Openbank el importe es neto: aplica la retención y te ingresa el resultado.",
+      "requisitos": "Hacerte cliente con el código de un amigo hasta el 29/10/2026 (incluido); ingresar al menos 70 € en la cuenta y activar la tarjeta en los 30 días siguientes a abrirla; y que los dos tengáis Bizum en Openbank al menos 3 meses. Se cobra en tres pagos (30 €, 20 € y 20 €) entre los días 15 y 20 de cada mes; el 2.º y el 3.º exigen seguir con Bizum. No vale si fuiste cliente de Openbank en los 12 meses anteriores ni si te diste de alta en otra promoción de Bizum en los últimos 12 meses, y no se combina con OPEN275. Las bases consideran uso inadecuado publicar los códigos en redes, foros o webs, y Openbank puede no pagar o retirar lo abonado: aquí no hay código. Hay que declararlo en el IRPF.",
+      "enlace": "",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "caduca": "2026-10-29",
+      "gana_corto": "70 €",
+      "gana_sub": "en 3 pagos, con Bizum en Openbank 3 meses",
+      "nota": {
+        "tiempo": 1.5,
+        "importe": 2,
+        "letra": 1.5,
+        "permanencia": 2
+      },
+      "nota_razon": {
+        "tiempo": "El alta es rápida, pero el pago completo tarda tres meses (30 + 20 + 20 €).",
+        "importe": "Dinero en efectivo y retirable, aunque llega en tres plazos y tributa.",
+        "letra": "Clara, pero exige código de un amigo, Bizum de los dos durante 3 meses y excluye a quien hizo otra promo de Bizum en el último año.",
+        "permanencia": "Solo mantener Bizum 3 meses; no se publica saldo mínimo tras el ingreso inicial."
+      },
+      "auto": true,
+      "fuentes": [
+        "https://www.openbank.es/plan-amigo-hasta-700-euros",
+        "https://x.com/ahorrathor",
+        "https://x.com/AnniLoInforma",
+        "https://x.com/FinanzasAlej_"
+      ],
+      "fuente_oficial": "https://www.openbank.es/plan-amigo-hasta-700-euros",
+      "fuente_condiciones": "https://www.openbank.es/plan-amigo-hasta-700-euros"
+    },
+    {
+      "slug": "bbva-plan-amigo",
+      "nombre": "BBVA Plan Amigo",
+      "tipo": "3 · Registro + uso de tarjeta",
+      "recompensa": "Hasta 50 € para el nuevo cliente que abre la cuenta con el código de invitación de un cliente de BBVA y usa su Tarjeta Aqua Débito; 400 € más si domicilia nómina o pensión de más de 800 €, la cuota de autónomos o mantiene 15.000 € de saldo (hasta 450 € en total). Quien invita gana 50 € por el primer amigo, 60 € por el 2.º y el 3.º y 70 € del 4.º al 10.º (hasta 660 € al año).",
+      "requisitos": "No ser cliente de BBVA ni haberlo sido en los últimos 6 meses; abrir la Cuenta Online Sin Comisiones o la Cuenta Nómina en bbva.es o la app (no vale con dos titulares); validar el código de un amigo cliente de BBVA durante el alta; usar Bizum; y hacer compras con la Tarjeta Aqua Débito que sumen 50 € en los 45 días siguientes (las preguntas frecuentes hablan de «un pago con tarjeta desde 50 €»). Si el invitado no cumple el segundo paso en plazo, los dos pierden el premio. Plan permanente, sin fecha de fin. La web no detalla cuándo se abona ni la fiscalidad: en verificación (mira las bases legales antes). Aquí no hay código.",
+      "enlace": "",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "gana_corto": "50 €",
+      "gana_sub": "por usar la tarjeta; +400 € con nómina, autónomos o 15.000 €",
+      "nota": {
+        "tiempo": 1.5,
+        "importe": 1.5,
+        "letra": 1.5,
+        "permanencia": 2
+      },
+      "nota_razon": {
+        "tiempo": "Alta online y 45 días para las compras; la web no dice cuándo se cobra.",
+        "importe": "50 € para el invitado, pero exige gastar 50 € con la tarjeta y no se publica la fiscalidad; los 400 € piden nómina, autónomos o 15.000 €.",
+        "letra": "Hace falta el código de un cliente, Bizum, no haber sido cliente en 6 meses y no vale con dos titulares; la web describe la compra de dos formas distintas.",
+        "permanencia": "Para los 50 € no se publica permanencia ni saldo mínimo."
+      },
+      "auto": true,
+      "fuentes": [
+        "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html",
+        "https://x.com/AnniLoInforma/status/2108442334711222388",
+        "https://x.com/SacandoPartido/status/2108209328712741111"
+      ],
+      "fuente_oficial": "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html",
+      "fuente_condiciones": "https://www.bbva.es/general/promociones-y-ofertas/plan-amigo.html"
+    },
+    {
+      "slug": "n26-widilo",
+      "nombre": "N26 (vía Widilo)",
+      "tipo": "2 · Registro + contratación",
+      "recompensa": "30 € de cashback de Widilo por abrir la cuenta de N26 activando antes el cashback en la ficha de N26 de Widilo. Aparte, el bono de referidos de Widilo ha vuelto a lo habitual: 5 € para quien se registra invitado y 3 € para quien invita (la subida a 10 € terminó el 11/10/2026).",
+      "requisitos": "Hay que estar registrado en Widilo, pulsar «Activar el cashback» en la ficha de N26 y abrir la cuenta en esa misma visita. Widilo no detalla en la ficha qué exige N26 para validar el cashback (cliente nuevo, ingreso mínimo, plazos): en verificación, pregunta a Widilo antes si te importa. El bono de referidos solo se paga cuando hay un cashback validado («cashback validado = bono para ti y tu referido»). Las reseñas de la propia ficha hablan de validaciones de entre 10 días y varias semanas, alguna tras abrir una incidencia. Aquí no hay enlace ni código.",
+      "enlace": "",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "gana_corto": "30 €",
+      "gana_sub": "de cashback en Widilo al abrir N26 (+5 € de bono invitado)",
+      "nota": {
+        "tiempo": 1.5,
+        "importe": 1.5,
+        "letra": 1,
+        "permanencia": 2
+      },
+      "nota_razon": {
+        "tiempo": "Alta online en las dos plataformas, pero Widilo no publica el plazo de validación y las reseñas hablan de 10 días a varias semanas.",
+        "importe": "30 € fijos en la ficha de Widilo; cobrarlo depende de que N26 valide el alta y el bono de 5 € solo llega con un cashback validado.",
+        "letra": "La ficha no detalla las condiciones de validación (cliente nuevo, ingreso mínimo): hay partes que no se pueden leer.",
+        "permanencia": "Widilo no publica permanencia ni saldo mínimo para este cashback."
+      },
+      "nota_texto": "Nota provisional: Widilo no publica las condiciones de validación de este cashback.",
+      "auto": true,
+      "fuentes": [
+        "https://www.widilo.es/codigo-descuento/n26",
+        "https://x.com/TuAhorroX/status/2108814413218390120",
+        "https://x.com/FinanzasAlej_/status/2108841492957777942",
+        "https://x.com/SacandoPartido/status/2108846337592545444"
+      ],
+      "fuente_oficial": "https://www.widilo.es/codigo-descuento/n26",
+      "fuente_condiciones": "https://www.widilo.es/codigo-descuento/n26"
+    },
+    {
+      "slug": "santander-mas",
+      "nombre": "Santander (Campaña Santander Más)",
+      "tipo": "4 · Registro + domiciliación",
+      "recompensa": "Hasta 35 € brutos al mes (28,35 € netos) durante un máximo de 24 meses: hasta 840 € brutos (680,40 € netos) con ingresos desde 1.500 €, o hasta 720 € brutos (583,20 € netos) con ingresos de 800 € a 1.499 €.",
+      "requisitos": "Hay que apuntarse a la campaña entre el 23/04/2026 y el 30/10/2026 (en oficina, app o web) y aceptarla expresamente: sin esa adhesión no hay bonificación. Vale para clientes nuevos y actuales con Cuenta Santander, Cuenta Online, Cuenta Negocios o Cuenta Colectivos, siempre que no tuvieran la nómina, pensión o cuota de autónomos domiciliada en el banco antes de la campaña. En un máximo de 4 meses desde la adhesión hay que domiciliar uno de estos ingresos: nómina, pensión de la Seguridad Social, cuota de autónomos (o mutualidad alternativa admitida) o un ingreso recurrente de al menos 800 € en un único abono mensual por transferencia o cheque; varios abonos del mismo mes no se suman. Con la cuota de autónomos no se exige importe mínimo y cuenta como tramo alto. El pago es mes a mes y por partes: 15 € (ingresos desde 1.500 €) o 10 € (de 800 € a 1.499 €) por el ingreso, 10 € por hacer 3 envíos de Bizum al mes o 1 movimiento con una tarjeta de crédito Santander, y 10 € por tener 2 recibos mensuales domiciliados. Si un mes no entra el ingreso, ese mes no se cobra nada, y no se recupera después; los 24 meses cuentan desde el primer ingreso válido y no se alargan. Las bases dicen que no hay penalización por dejar de cumplir. El banco revisa el día 8 y paga en los primeros 15 días del mes. Importes brutos, con retención del 19 %. Solo cobra un titular por cuenta y es incompatible con otras campañas de nómina del banco. Aquí no hay enlace ni código.",
+      "enlace": "",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "gana_corto": "Hasta 840 €",
+      "gana_sub": "brutos en 24 meses (680,40 € netos), a 35 € al mes como máximo",
+      "nota": {
+        "tiempo": 1,
+        "importe": 1.5,
+        "letra": 1.5,
+        "permanencia": 2.5
+      },
+      "nota_razon": {
+        "tiempo": "Se cobra mes a mes durante 24 meses: el total tarda dos años en llegar.",
+        "importe": "Es dinero en cuenta, pero el máximo exige ingresos desde 1.500 € y cumplir cada mes Bizum o tarjeta y dos recibos; son importes brutos.",
+        "letra": "Las bases son claras, pero hay que apuntarse expresamente antes del 30/10, traer ingresos que no estuvieran ya en el banco y un mes sin ingreso no se recupera.",
+        "permanencia": "Las bases dicen que no hay penalización si dejas de cumplir: solo dejas de cobrar ese mes."
+      },
+      "nota_texto": "Calculada con las bases legales de la «Campaña Santander Más» leídas el 12/10/2026.",
+      "auto": true,
+      "fuentes": [
+        "https://www.bancosantander.es/particulares/cuentas-bancarias/cuenta-online-sin-comisiones/",
+        "https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:97f4c3aa-c31e-4d1a-bc59-c19103cacad5/original/as/ES_BBLL_campana-santander-mas_sorteos-promocionesWEB.pdf",
+        "https://x.com/AhorroYAprendo/status/2108630589020733944",
+        "https://x.com/IvancgfinX/status/2109541466666070348"
+      ],
+      "fuente_oficial": "https://www.bancosantander.es/particulares/cuentas-bancarias/cuenta-online-sin-comisiones/",
+      "fuente_condiciones": "https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:97f4c3aa-c31e-4d1a-bc59-c19103cacad5/original/as/ES_BBLL_campana-santander-mas_sorteos-promocionesWEB.pdf"
+    },
+    {
+      "slug": "unicaja-nomina",
+      "nombre": "Unicaja (nómina o pensión)",
+      "tipo": "4 · Registro + domiciliación",
+      "recompensa": "Hasta 450 € brutos en 12 meses por domiciliar la nómina, la pensión o la cuota de autónomos: 30,38 € netos al mes con ingresos de 1.200 € o más, o 23,63 € netos al mes con ingresos de 600 € a 1.199 €.",
+      "requisitos": "Vale para clientes nuevos y actuales que domicilien una nómina o pensión de 600 € netos al mes o más, o la cuota de autónomos de 50 € o más, siempre que no la hayan tenido domiciliada en Unicaja en los últimos 12 meses. El abono es mensual: 30,38 € netos si la nómina o pensión es de 1.200 € o más, o si domicilias la cuota de autónomos; 23,63 € netos si está entre 600 € y 1.199 €. Se cobra durante un máximo de 12 meses y solo los meses en que cumples: no es acumulativo ni retroactivo. Sin permanencia. Promoción válida hasta el 31/01/2027. Aquí no hay enlace ni código.",
+      "enlace": "",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "caduca": "2027-01-31",
+      "gana_corto": "Hasta 450 €",
+      "gana_sub": "brutos en 12 meses (30,38 € netos al mes con nómina desde 1.200 €)",
+      "nota": {
+        "tiempo": 1.5,
+        "importe": 1.5,
+        "letra": 2,
+        "permanencia": 2.5
+      },
+      "nota_razon": {
+        "tiempo": "Se cobra mes a mes durante 12 meses: el total tarda un año en llegar.",
+        "importe": "Es dinero en cuenta, pero el máximo exige una nómina de 1.200 € o más (o cuota de autónomos) y cumplir todos los meses.",
+        "letra": "Condiciones cortas y claras en su web; el mes que no cumples no se cobra ni se recupera.",
+        "permanencia": "Su web lo dice expresamente: sin permanencia."
+      },
+      "nota_texto": "Calculada con las condiciones publicadas en la web de Unicaja, leídas el 12/10/2026.",
+      "fuente_oficial": "https://www.unicajabanco.es/es/particulares",
+      "fuente_condiciones": "https://www.unicajabanco.es/es/particulares"
+    },
+    {
+      "slug": "abanca-nomina",
+      "nombre": "ABANCA (Cuenta Online Nómina)",
+      "tipo": "4 · Registro + domiciliación",
+      "recompensa": "500 € brutos (405 € netos) por domiciliar una nómina de 1.200 € o más, o 185 € si la nómina está entre 800 € y 1.199 €. Con menos de 800 € no hay incentivo.",
+      "requisitos": "Solo para clientes nuevos: no puedes ser cliente de ABANCA. Hay que abrir la Cuenta Online Nómina y domiciliar una nómina nueva de 800 € o más. El dinero se ingresa a los pocos días de recibir la primera nómina, pero a cambio hay que mantener la nómina domiciliada 24 meses: si la retiras antes, ABANCA te pide devolver la parte proporcional de los meses que falten (por ejemplo, a los 12 meses solo has consolidado la mitad). La web la anuncia «por tiempo limitado», sin fecha de fin. Aquí no hay enlace ni código.",
+      "enlace": "",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "gana_corto": "500 €",
+      "gana_sub": "brutos (405 € netos) con nómina desde 1.200 €, a cambio de 24 meses",
+      "nota": {
+        "tiempo": 2.5,
+        "importe": 2,
+        "letra": 1.5,
+        "permanencia": 0.5
+      },
+      "nota_razon": {
+        "tiempo": "El abono llega a los pocos días de recibir la primera nómina.",
+        "importe": "Dinero en cuenta de una vez; los 500 € exigen una nómina de 1.200 € o más y son brutos (405 € netos).",
+        "letra": "La web lo explica con claridad, pero no da fecha de fin y excluye a quien ya es cliente.",
+        "permanencia": "24 meses con la nómina domiciliada; si te vas antes devuelves la parte proporcional."
+      },
+      "nota_texto": "Calculada con las condiciones de la página de la Cuenta Online Nómina de ABANCA, leídas el 12/10/2026.",
+      "fuente_oficial": "https://www.abanca.com/es/cuentas/cuenta-online/",
+      "fuente_condiciones": "https://www.abanca.com/es/cuentas/cuenta-online/"
+    },
+    {
+      "slug": "kutxabank-linka",
+      "nombre": "Kutxabank (Linka!, invitación de un amigo)",
+      "tipo": "3 · Registro + uso de tarjeta",
+      "recompensa": "100 € brutos para quien se hace cliente con el código de un amigo y 50 € brutos para quien invita (máximo 10 invitaciones, 500 € brutos).",
+      "requisitos": "Necesitas el código Linka! de alguien que ya sea cliente de Kutxabank: se pega durante el alta online desde la app. Tienes que tener entre 18 y 30 años y no haber sido cliente del grupo Kutxabank en los 6 meses anteriores. En un máximo de 2 meses desde el alta hay que contratar la cuenta con un saldo mínimo de 50 €, y tener activos la tarjeta Korner y Bizum, y mantenerlo con una permanencia mínima de 12 meses. La página no indica cuándo se abona el dinero. Oferta válida hasta el 31/10/2026. Aquí no hay código.",
+      "enlace": "",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "caduca": "2026-10-31",
+      "gana_corto": "100 €",
+      "gana_sub": "brutos al hacerte cliente (18-30 años) con el código de un amigo",
+      "nota": {
+        "tiempo": 2,
+        "importe": 2,
+        "letra": 1.5,
+        "permanencia": 1
+      },
+      "nota_razon": {
+        "tiempo": "Alta online y 2 meses para activar cuenta, tarjeta y Bizum; la página no dice cuándo se abona.",
+        "importe": "100 € brutos en la cuenta nueva, sin pedir nómina ni un gasto mínimo, pero con un saldo mínimo de 50 €.",
+        "letra": "Solo de 18 a 30 años, hace falta el código de un cliente y la página no detalla el plazo de abono.",
+        "permanencia": "Permanencia mínima de 12 meses según la propia página."
+      },
+      "nota_texto": "Calculada con las condiciones de la página de Kutxabank, releídas el 13/10/2026.",
+      "fuente_oficial": "https://clientes.kutxabank.es/es/linka/joven/invita.html",
+      "fuente_condiciones": "https://clientes.kutxabank.es/es/linka/joven/invita.html"
+    },
+    {
+      "slug": "imagin",
+      "nombre": "imagin (nómina y código de un amigo)",
+      "tipo": "4 · Registro + domiciliación",
+      "recompensa": "Hasta 250 € netos por domiciliar la nómina (250 € con nómina de 1.500 € o más; 150 € con nómina de 900 € a 1.499,99 €). Aparte, un cupón de 50 € para la Shop Facilitea si te das de alta con el código de un amigo.",
+      "requisitos": "Nómina: hazte cliente desde la app y domicilia la nómina antes de que pasen 4 meses; el ingreso llega «en pocos días». A cambio hay 48 meses de permanencia. Las transferencias no cuentan como nómina, y no vale si la nómina viene de otra cuenta de CaixaBank ni se acumula a otras promociones de domiciliación de ingresos posteriores al 01/01/2024. Los importes son netos, pero pueden afectar a tu declaración de la renta. Cupón: tienes que darte de alta con el código de un amigo, tener al menos 50 € en la cuenta, hacer tres movimientos con tarjeta y activar Bizum. No es dinero: es un cupón de 50 € para la Shop Facilitea, válido hasta el 31/12/2026, que se gasta de una vez en una compra de 50 € o más, no sirve para outlet, reacondicionados ni seguros o alarmas, y tributa en el IRPF. La página no da fecha de fin para la oferta de la nómina. Aquí no hay enlace ni código.",
+      "enlace": "",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "gana_corto": "Hasta 250 €",
+      "gana_sub": "netos por la nómina, con 48 meses de permanencia (+ cupón de 50 € en Facilitea)",
+      "nota": {
+        "tiempo": 2,
+        "importe": 1.5,
+        "letra": 1,
+        "permanencia": 0
+      },
+      "nota_razon": {
+        "tiempo": "Tienes 4 meses para domiciliar la nómina y el ingreso llega en pocos días.",
+        "importe": "Dinero en cuenta y en neto, pero los 250 € piden una nómina de 1.500 € o más; los 50 € del amigo son un cupón de tienda, no efectivo.",
+        "letra": "Las transferencias no cuentan como nómina, no se acumula a otras promociones y la página no da fecha de fin ni explica qué pasa si te vas antes.",
+        "permanencia": "48 meses de permanencia: la más larga de las promociones que tenemos publicadas."
+      },
+      "nota_texto": "Calculada con las condiciones de la página del plan amigo de imagin, leídas el 12/10/2026.",
+      "fuente_oficial": "https://www.imagin.com/plan-amigo-imagin-unete",
+      "fuente_condiciones": "https://www.imagin.com/plan-amigo-imagin-unete"
+    },
+    {
+      "slug": "octopus-referidos",
+      "nombre": "Octopus Energy · Programa de referidos",
+      "tipo": "2 · Registro + contratación",
+      "recompensa": "50 € de luz gratis para el nuevo cliente que contrata Octopus Energy con el enlace de un cliente, y otros 50 € para quien le invita (100 € en su 3.º y 5.º referido; 60 € desde el 7.º y 65 € desde el 20.º).",
+      "requisitos": "Cambiarte a Octopus Energy (luz) usando el enlace de invitación de un cliente: es contratar un suministro, no solo registrarte. El importe se descuenta de facturas como saldo, no es dinero retirable. Programa permanente, sin fecha de fin publicada; la web no detalla cuándo se aplica el saldo ni los plazos: en verificación (mira las condiciones antes). Aquí no hay enlace.",
+      "enlace": "",
+      "estado": "publicada",
+      "verificado": "2026-10-13",
+      "gana_corto": "50 €",
+      "gana_sub": "de saldo en luz; solo contratando Octopus",
+      "nota": {
+        "tiempo": 1.0,
+        "importe": 1.5,
+        "letra": 1.5,
+        "permanencia": 2.0
+      },
+      "nota_razon": {
+        "tiempo": "Hay que cambiar de comercializadora y el saldo se va aplicando a facturas; la web no dice cuándo se acredita.",
+        "importe": "50 € de luz gratis, pero es saldo para facturas, no efectivo, y exige contratar un suministro.",
+        "letra": "La página del programa no detalla plazos ni condiciones de aplicación del saldo; en verificación.",
+        "permanencia": "En la web de tarifas Octopus no figura permanencia, pero conviene confirmarlo en las condiciones de la tarifa que elijas."
+      },
+      "auto": true,
+      "fuentes": [
+        "https://octopusenergy.es/blog/nuevo-programa-de-referidos",
+        "https://x.com/InversMallorqui/status/2109893491090203031",
+        "https://x.com/AhorroYAprendo/status/2109716487418355727"
+      ],
+      "fuente_oficial": "https://octopusenergy.es/blog/nuevo-programa-de-referidos",
+      "fuente_condiciones": "https://octopusenergy.es/blog/nuevo-programa-de-referidos"
+    }
+  ]
 }

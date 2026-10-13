@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-12",
+ "actualizado": "2026-10-13",
  "promos": [
   {
    "slug": "myinvestor",
@@ -9,7 +9,7 @@
    "requisitos": "Tú y tu amigo tenéis que cumplir UNA de estas condiciones en los 3 primeros meses desde la apertura de la cuenta: invertir 100 € (cartera indexada, fondos, planes de pensiones, acciones o ETFs), tener 1.000 € en efectivo en la cuenta o contratar un depósito. Los 25 € son brutos: con la retención del 19 % quedan 20,25 € netos. Según sus preguntas frecuentes, el ingreso se hace en el mes en que se cumple la condición (el primero, el segundo o el tercero desde la apertura). No hace falta mantener la inversión una vez recibido el abono, que se ingresa en tu cuenta de MyInvestor. Si en el momento del abono tu cuenta está en descubierto, pueden no abonarlo. Hasta 60 invitados por persona (1.500 € brutos); según sus bases, vigente hasta el 31/12/2026.",
    "enlace": "https://newapp.myinvestor.es/do/signup?promotionalCode=RMRHC",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "nota": {
     "tiempo": 2,
     "importe": 1.5,
@@ -47,7 +47,7 @@
    "requisitos": "Debes registrarte como nuevo usuario con el enlace de invitación y en la misma sesión, verificar tu cuenta y ganar al menos 5 € de cashback en marcas participantes dentro de los 180 días siguientes al registro. El bono es el que figure publicado cuando te registras, aunque cambie después. No cuentan para el umbral los bonos adicionales de registro, las promociones de bonificación, las ofertas para nuevos miembros ni el cashback de las marcas excluidas. El bono se abona cuando se aprueban las transacciones que alcanzan el umbral y se retira por transferencia bancaria o PayPal. Quien invita (yo) recibe 10 € cuando el invitado gana al menos 10 € de cashback en 180 días.",
    "enlace": "https://www.topcashback.es/ref/member9607000856",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "nota": {
     "tiempo": 1.5,
     "importe": 1,
@@ -127,7 +127,7 @@
    "requisitos": "Para que la invitación cuente, el invitado debe ser un cliente nuevo de eToro (Europe) Ltd., residente en un país incluido (España lo está), verificar su cuenta y, en los 90 días siguientes al registro, hacer un primer depósito de al menos 100 USD y abrir operaciones por al menos 100 USD en total. Según las bases del 10/09/2026, el programa no se puede combinar con otras promociones y eToro puede cambiarlo o cancelarlo en cualquier momento. La recompensa de quien invita se acredita en su cuenta de eToro y no se puede retirar durante 90 días.",
    "enlace": "https://etoro.tw/4xWFLqX",
    "estado": "publicada",
-   "verificado": "2026-10-09",
+   "verificado": "2026-10-13",
    "nota": {
     "tiempo": 1,
     "importe": 0,
@@ -226,7 +226,7 @@
    "requisitos": "Apuntarte solo pide email, pero el dinero NO es efectivo: solo sirve para invertir en las carteras de twelve., y no se puede retirar, canjear ni transferir. Se activa cuando twelve. lance (sin fecha), al abrir la cuenta, pasar la verificación de identidad y hacer el primer pago con su tarjeta; tienes 90 días o caduca. twelve. puede modificar o cancelar los bonos antes del lanzamiento.",
    "enlace": "https://twelve.finance/i/VUB452Z",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "gana_corto": "15 €",
    "gana_sub": "solo para invertir con twelve., no retirable",
    "nota": {
@@ -257,7 +257,7 @@
    "requisitos": "Hacerte cliente con el código de un amigo hasta el 29/10/2026 (incluido); ingresar al menos 70 € en la cuenta y activar la tarjeta en los 30 días siguientes a abrirla; y que los dos tengáis Bizum en Openbank al menos 3 meses. Se cobra en tres pagos (30 €, 20 € y 20 €) entre los días 15 y 20 de cada mes; el 2.º y el 3.º exigen seguir con Bizum. No vale si fuiste cliente de Openbank en los 12 meses anteriores ni si te diste de alta en otra promoción de Bizum en los últimos 12 meses, y no se combina con OPEN275. Las bases consideran uso inadecuado publicar los códigos en redes, foros o webs, y Openbank puede no pagar o retirar lo abonado: aquí no hay código. Hay que declararlo en el IRPF.",
    "enlace": "",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "caduca": "2026-10-29",
    "gana_corto": "70 €",
    "gana_sub": "en 3 pagos, con Bizum en Openbank 3 meses",
@@ -291,7 +291,7 @@
    "requisitos": "No ser cliente de BBVA ni haberlo sido en los últimos 6 meses; abrir la Cuenta Online Sin Comisiones o la Cuenta Nómina en bbva.es o la app (no vale con dos titulares); validar el código de un amigo cliente de BBVA durante el alta; usar Bizum; y hacer compras con la Tarjeta Aqua Débito que sumen 50 € en los 45 días siguientes (las preguntas frecuentes hablan de «un pago con tarjeta desde 50 €»). Si el invitado no cumple el segundo paso en plazo, los dos pierden el premio. Plan permanente, sin fecha de fin. La web no detalla cuándo se abona ni la fiscalidad: en verificación (mira las bases legales antes). Aquí no hay código.",
    "enlace": "",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "gana_corto": "50 €",
    "gana_sub": "por usar la tarjeta; +400 € con nómina, autónomos o 15.000 €",
    "nota": {
@@ -323,7 +323,7 @@
    "requisitos": "Hay que estar registrado en Widilo, pulsar «Activar el cashback» en la ficha de N26 y abrir la cuenta en esa misma visita. Widilo no detalla en la ficha qué exige N26 para validar el cashback (cliente nuevo, ingreso mínimo, plazos): en verificación, pregunta a Widilo antes si te importa. El bono de referidos solo se paga cuando hay un cashback validado («cashback validado = bono para ti y tu referido»). Las reseñas de la propia ficha hablan de validaciones de entre 10 días y varias semanas, alguna tras abrir una incidencia. Aquí no hay enlace ni código.",
    "enlace": "",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "gana_corto": "30 €",
    "gana_sub": "de cashback en Widilo al abrir N26 (+5 € de bono invitado)",
    "nota": {
@@ -357,7 +357,7 @@
    "requisitos": "Hay que apuntarse a la campaña entre el 23/04/2026 y el 30/10/2026 (en oficina, app o web) y aceptarla expresamente: sin esa adhesión no hay bonificación. Vale para clientes nuevos y actuales con Cuenta Santander, Cuenta Online, Cuenta Negocios o Cuenta Colectivos, siempre que no tuvieran la nómina, pensión o cuota de autónomos domiciliada en el banco antes de la campaña. En un máximo de 4 meses desde la adhesión hay que domiciliar uno de estos ingresos: nómina, pensión de la Seguridad Social, cuota de autónomos (o mutualidad alternativa admitida) o un ingreso recurrente de al menos 800 € en un único abono mensual por transferencia o cheque; varios abonos del mismo mes no se suman. Con la cuota de autónomos no se exige importe mínimo y cuenta como tramo alto. El pago es mes a mes y por partes: 15 € (ingresos desde 1.500 €) o 10 € (de 800 € a 1.499 €) por el ingreso, 10 € por hacer 3 envíos de Bizum al mes o 1 movimiento con una tarjeta de crédito Santander, y 10 € por tener 2 recibos mensuales domiciliados. Si un mes no entra el ingreso, ese mes no se cobra nada, y no se recupera después; los 24 meses cuentan desde el primer ingreso válido y no se alargan. Las bases dicen que no hay penalización por dejar de cumplir. El banco revisa el día 8 y paga en los primeros 15 días del mes. Importes brutos, con retención del 19 %. Solo cobra un titular por cuenta y es incompatible con otras campañas de nómina del banco. Aquí no hay enlace ni código.",
    "enlace": "",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "gana_corto": "Hasta 840 €",
    "gana_sub": "brutos en 24 meses (680,40 € netos), a 35 € al mes como máximo",
    "nota": {
@@ -391,7 +391,7 @@
    "requisitos": "Vale para clientes nuevos y actuales que domicilien una nómina o pensión de 600 € netos al mes o más, o la cuota de autónomos de 50 € o más, siempre que no la hayan tenido domiciliada en Unicaja en los últimos 12 meses. El abono es mensual: 30,38 € netos si la nómina o pensión es de 1.200 € o más, o si domicilias la cuota de autónomos; 23,63 € netos si está entre 600 € y 1.199 €. Se cobra durante un máximo de 12 meses y solo los meses en que cumples: no es acumulativo ni retroactivo. Sin permanencia. Promoción válida hasta el 31/01/2027. Aquí no hay enlace ni código.",
    "enlace": "",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "caduca": "2027-01-31",
    "gana_corto": "Hasta 450 €",
    "gana_sub": "brutos en 12 meses (30,38 € netos al mes con nómina desde 1.200 €)",
@@ -419,7 +419,7 @@
    "requisitos": "Solo para clientes nuevos: no puedes ser cliente de ABANCA. Hay que abrir la Cuenta Online Nómina y domiciliar una nómina nueva de 800 € o más. El dinero se ingresa a los pocos días de recibir la primera nómina, pero a cambio hay que mantener la nómina domiciliada 24 meses: si la retiras antes, ABANCA te pide devolver la parte proporcional de los meses que falten (por ejemplo, a los 12 meses solo has consolidado la mitad). La web la anuncia «por tiempo limitado», sin fecha de fin. Aquí no hay enlace ni código.",
    "enlace": "",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "gana_corto": "500 €",
    "gana_sub": "brutos (405 € netos) con nómina desde 1.200 €, a cambio de 24 meses",
    "nota": {
@@ -443,26 +443,26 @@
    "nombre": "Kutxabank (Linka!, invitación de un amigo)",
    "tipo": "3 · Registro + uso de tarjeta",
    "recompensa": "100 € brutos para quien se hace cliente con el código de un amigo y 50 € brutos para quien invita (máximo 10 invitaciones, 500 € brutos).",
-   "requisitos": "Necesitas el código Linka! de alguien que ya sea cliente de Kutxabank: se pega durante el alta online desde la app. Después tienes 2 meses desde el alta para activar la cuenta, la tarjeta joven y Bizum. El programa está en la sección de jóvenes de su web y pide la tarjeta joven; la página no indica el rango de edad ni cuándo se abona el dinero, así que compruébalo antes en la app o con el banco. Oferta válida hasta el 31/10/2026. Aquí no hay código.",
+   "requisitos": "Necesitas el código Linka! de alguien que ya sea cliente de Kutxabank: se pega durante el alta online desde la app. Tienes que tener entre 18 y 30 años y no haber sido cliente del grupo Kutxabank en los 6 meses anteriores. En un máximo de 2 meses desde el alta hay que contratar la cuenta con un saldo mínimo de 50 €, y tener activos la tarjeta Korner y Bizum, y mantenerlo con una permanencia mínima de 12 meses. La página no indica cuándo se abona el dinero. Oferta válida hasta el 31/10/2026. Aquí no hay código.",
    "enlace": "",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "caduca": "2026-10-31",
    "gana_corto": "100 €",
-   "gana_sub": "brutos al hacerte cliente con el código de un amigo",
+   "gana_sub": "brutos al hacerte cliente (18-30 años) con el código de un amigo",
    "nota": {
     "tiempo": 2,
     "importe": 2,
-    "letra": 1,
-    "permanencia": 2
+    "letra": 1.5,
+    "permanencia": 1
    },
    "nota_razon": {
     "tiempo": "Alta online y 2 meses para activar cuenta, tarjeta y Bizum; la página no dice cuándo se abona.",
-    "importe": "100 € brutos en la cuenta nueva, sin pedir nómina ni un gasto mínimo.",
-    "letra": "La página no detalla la edad exigida ni el plazo de abono, y hace falta el código de un cliente.",
-    "permanencia": "La página no menciona permanencia ni saldo mínimo."
+    "importe": "100 € brutos en la cuenta nueva, sin pedir nómina ni un gasto mínimo, pero con un saldo mínimo de 50 €.",
+    "letra": "Solo de 18 a 30 años, hace falta el código de un cliente y la página no detalla el plazo de abono.",
+    "permanencia": "Permanencia mínima de 12 meses según la propia página."
    },
-   "nota_texto": "Nota provisional: la página de Kutxabank no detalla la edad exigida ni el plazo de abono.",
+   "nota_texto": "Calculada con las condiciones de la página de Kutxabank, releídas el 13/10/2026.",
    "fuente_oficial": "https://clientes.kutxabank.es/es/linka/joven/invita.html",
    "fuente_condiciones": "https://clientes.kutxabank.es/es/linka/joven/invita.html"
   },
@@ -474,7 +474,7 @@
    "requisitos": "Nómina: hazte cliente desde la app y domicilia la nómina antes de que pasen 4 meses; el ingreso llega «en pocos días». A cambio hay 48 meses de permanencia. Las transferencias no cuentan como nómina, y no vale si la nómina viene de otra cuenta de CaixaBank ni se acumula a otras promociones de domiciliación de ingresos posteriores al 01/01/2024. Los importes son netos, pero pueden afectar a tu declaración de la renta. Cupón: tienes que darte de alta con el código de un amigo, tener al menos 50 € en la cuenta, hacer tres movimientos con tarjeta y activar Bizum. No es dinero: es un cupón de 50 € para la Shop Facilitea, válido hasta el 31/12/2026, que se gasta de una vez en una compra de 50 € o más, no sirve para outlet, reacondicionados ni seguros o alarmas, y tributa en el IRPF. La página no da fecha de fin para la oferta de la nómina. Aquí no hay enlace ni código.",
    "enlace": "",
    "estado": "publicada",
-   "verificado": "2026-10-12",
+   "verificado": "2026-10-13",
    "gana_corto": "Hasta 250 €",
    "gana_sub": "netos por la nómina, con 48 meses de permanencia (+ cupón de 50 € en Facilitea)",
    "nota": {

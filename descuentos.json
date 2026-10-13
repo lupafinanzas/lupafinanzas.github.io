@@ -422,20 +422,6 @@
    "leido": "2026-10-12"
   },
   {
-   "id": "73f1f20f3aeb",
-   "slug": "primor",
-   "tienda": "Primor",
-   "valor": "10%",
-   "tipo": "codigo",
-   "codigo": "MOR",
-   "caduca": "2026-10-13",
-   "modificado_en_fuente": "2026-10-12",
-   "titulo": "10% de descuento en perfumes, parafarmacia y cabello",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/primor",
-   "leido": "2026-10-12"
-  },
-  {
    "id": "3f7fd3dc33f9",
    "slug": "samsung",
    "tienda": "Samsung",

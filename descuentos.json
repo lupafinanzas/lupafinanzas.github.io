@@ -4440,6 +4440,20 @@
    "leido": "2026-10-13"
   },
   {
+   "id": "ab8e6841d521",
+   "slug": "hostinger",
+   "tienda": "Hostinger",
+   "valor": "80%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": null,
+   "modificado_en_fuente": "2026-10-13",
+   "titulo": "TOP VENTAS ¡Plan Unlimited con un 80% de descuento!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/hostinger",
+   "leido": "2026-10-13"
+  },
+  {
    "id": "793ca15df16d",
    "slug": "just-eat",
    "tienda": "Just Eat",

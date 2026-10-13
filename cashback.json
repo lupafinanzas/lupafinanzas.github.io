@@ -1482,9 +1482,9 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 7.0,
+     "pct": 3.0,
      "hasta_pct": false,
-     "habitual_pct": 7.0,
+     "habitual_pct": 3.0,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -1494,8 +1494,8 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 75€ código descuento adidas + 7 % Cashback / octubre",
-      "Tarjeta de la oferta: 7 % de cashback"
+      "Título de la ficha: 35€ código descuento adidas + 3 % Cashback / octubre",
+      "Tarjeta de la oferta: 3 % de cashback"
      ]
     }
    ]
@@ -2906,7 +2906,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 9,13€ cupón AliExpress + 3 % Cashback / octubre",
+      "Título de la ficha: 39€ cupón AliExpress + 3 % Cashback / octubre",
       "Tarjeta de la oferta: 3 % de cashback"
      ]
     },
@@ -22090,7 +22090,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10% código descuento Douglas + 5 % Cashback / octubre",
+      "Título de la ficha: Regalo código descuento Douglas + 5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 5 % de cashback"
      ]
     },
@@ -22810,7 +22810,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 5€ código descuento Druni + 2 % Cashback / octubre",
+      "Título de la ficha: 10% código descuento Druni + 2 % Cashback / octubre",
       "Tarjeta de la oferta: 2 % de cashback"
      ]
     }
@@ -36684,6 +36684,30 @@
    ]
   },
   {
+   "slug": "holins",
+   "nombre": "Holins",
+   "filas": [
+    {
+     "plataforma": "Beruby",
+     "pct": 9.8,
+     "hasta_pct": false,
+     "habitual_pct": 9.8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/holins",
+     "leido": "2026-10-13",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 9,80%",
+      "HTML de la ficha: 9,80%"
+     ]
+    }
+   ]
+  },
+  {
    "slug": "homary",
    "nombre": "Homary",
    "filas": [
@@ -38520,7 +38544,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htop-hotels",
+     "fuente": "https://es.beruby.com/htophotels",
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
@@ -46587,24 +46611,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 4.0,
-     "hasta_pct": false,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/lancome",
-     "leido": "2026-10-13",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 25% código promocional Lancôme + 4 % Cashback / octubre",
-      "Tarjeta de la oferta: 4 % de cashback"
-     ]
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 8.0,
      "hasta_pct": false,
@@ -46642,6 +46648,24 @@
      "niveles": {
       "Negro": 8.0
      }
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 8.0,
+     "hasta_pct": false,
+     "habitual_pct": 8.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/lancome",
+     "leido": "2026-10-13",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 25% código promocional Lancôme + 8 % Cashback / octubre",
+      "Tarjeta de la oferta: 8 % de cashback"
+     ]
     }
    ]
   },
@@ -49541,24 +49565,6 @@
       "HTML de la ficha: 2,70%"
      ],
      "variante": "Alquiler de coche"
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 3.2,
-     "hasta_pct": true,
-     "habitual_pct": 3.2,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/logitravel",
-     "leido": "2026-10-13",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 3% código descuento Logitravel + 3,2 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 3,2 % de cashback"
-     ]
     },
     {
      "plataforma": "BestPrice",
@@ -54083,24 +54089,6 @@
       "HTML de la ficha: 4,20%"
      ],
      "variante": "Compra online"
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 4.0,
-     "hasta_pct": true,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/miliboo",
-     "leido": "2026-10-13",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 50% código promocional Miliboo + 4 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 4 % de cashback"
-     ]
     },
     {
      "plataforma": "TopCashback",
@@ -59320,7 +59308,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 15% código descuento Notino + 1 % Cashback / octubre",
+      "Título de la ficha: 20% código descuento Notino + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     },
@@ -65257,7 +65245,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 19€ código descuento Parfumdreams + 5 % Cashback / octubre",
+      "Título de la ficha: 61% código descuento Parfumdreams + 5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 5 % de cashback"
      ]
     },
@@ -68876,7 +68864,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento Private Sport Shop + 1,75 % Cashback / octubre 2026",
+      "Título de la ficha: 10% código descuento Private Sport Shop + 1,75 % Cashback / octubre 2026",
       "Tarjeta de la oferta: 1,75 % de cashback"
      ]
     }
@@ -69775,7 +69763,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento Qatar Airways + 1 % Cashback / octubre",
+      "Título de la ficha: 12% código descuento Qatar Airways + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     },
@@ -71990,9 +71978,9 @@
    "filas": [
     {
      "plataforma": "Widilo",
-     "pct": 0.9,
+     "pct": 1.2,
      "hasta_pct": false,
-     "habitual_pct": 0.32,
+     "habitual_pct": 0.43,
      "tipo": "aumentado",
      "tope": null,
      "primera_compra": false,
@@ -72002,8 +71990,8 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título/meta de la ficha: 0,9 % cashback (título o meta de la ficha)",
-      "Datos de la ficha: cashback 0,9 % (antes 0,32 %)"
+      "Título/meta de la ficha: 1,2 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 1,2 % (antes 0,43 %)"
      ]
     }
    ]
@@ -72540,7 +72528,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 30% cupón Rowenta + 3 % Cashback / octubre",
+      "Título de la ficha: 40% cupón Rowenta + 3 % Cashback / octubre",
       "Tarjeta de la oferta: 3 % de cashback"
      ]
     },
@@ -77478,68 +77466,6 @@
    ]
   },
   {
-   "slug": "smileat",
-   "nombre": "SMILEAT",
-   "filas": [
-    {
-     "plataforma": "Beruby",
-     "pct": 10.5,
-     "hasta_pct": false,
-     "habitual_pct": 10.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de Beruby: Compra online",
-     "fin": null,
-     "fuente": "https://es.beruby.com/smileat",
-     "leido": "2026-10-13",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra online (usuario nuevo) 10,50%",
-      "HTML de la ficha: 10,50%"
-     ],
-     "variante": "Compra online"
-    },
-    {
-     "plataforma": "Beruby",
-     "pct": 10.5,
-     "hasta_pct": false,
-     "habitual_pct": 10.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de Beruby: Compra online",
-     "fin": null,
-     "fuente": "https://es.beruby.com/smileat",
-     "leido": "2026-10-13",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra online (usuario recurrente) 10,50%",
-      "HTML de la ficha: 10,50%"
-     ],
-     "variante": "Compra online"
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 6.0,
-     "hasta_pct": false,
-     "habitual_pct": 6.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/smileat",
-     "leido": "2026-10-13",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 50% código descuento Smileat + 6 % Cashback / octubre",
-      "Tarjeta de la oferta: 6 % de cashback"
-     ]
-    }
-   ]
-  },
-  {
    "slug": "smuuti-skin",
    "nombre": "Smuuti Skin",
    "filas": [
@@ -81181,7 +81107,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento Taurus + 3 % Cashback / octubre",
+      "Título de la ficha: 100€ código descuento Taurus + 3 % Cashback / octubre",
       "Tarjeta de la oferta: 3 % de cashback"
      ]
     },
@@ -84832,9 +84758,9 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 11.0,
+     "pct": 2.5,
      "hasta_pct": false,
-     "habitual_pct": 11.0,
+     "habitual_pct": 2.5,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -84844,8 +84770,8 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 15% código promocional TrainPal + 11 % Cashback / octubre",
-      "Tarjeta de la oferta: 11 % de cashback"
+      "Título de la ficha: 15% código promocional TrainPal + 2,5 % Cashback / octubre",
+      "Tarjeta de la oferta: 2,5 % de cashback"
      ]
     }
    ]
@@ -87063,7 +86989,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 30% código promocional Urban Outfitters + 3 % Cashback / octubre 2026",
+      "Título de la ficha: 75% código promocional Urban Outfitters + 3 % Cashback / octubre 2026",
       "Tarjeta de la oferta: 3 % de cashback"
      ]
     }
@@ -87585,7 +87511,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10% cupón Vevor + 1,5 % Cashback / octubre",
+      "Título de la ficha: 8% cupón Vevor + 1,5 % Cashback / octubre",
       "Tarjeta de la oferta: 1,5 % de cashback"
      ]
     }
@@ -88248,7 +88174,7 @@
      "leido": "2026-10-13",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10€ código descuento Vinatis + 3 % Cashback / octubre",
+      "Título de la ficha: 60€ código descuento Vinatis + 3 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 3 % de cashback"
      ]
     },

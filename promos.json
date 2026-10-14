@@ -558,6 +558,41 @@
       "nota_texto": "Calculada con las condiciones de la página Cuenta Remunerada de Kutxabank, leídas el 13/10/2026.",
       "fuente_oficial": "https://portal.kutxabank.es/cs/Satellite/kb/es/particulares/cuenta-remunerada/pys",
       "fuente_condiciones": "https://portal.kutxabank.es/cs/Satellite/kb/es/particulares/cuenta-remunerada/pys"
+    },
+    {
+      "slug": "sumup-referidos",
+      "nombre": "SumUp · Recomendar a un amigo + cashback",
+      "tipo": "3 · Registro + compras",
+      "recompensa": "10 € para ti y 10 € para el amigo que abre una cuenta SumUp verificada y hace tres pagos con tarjeta en un establecimiento por un total de al menos 10 € en 30 días (hasta 10 amigos, 100 €). Además, la app ofrece cashback de hasta un 5 % en tus compras, con un máximo de 10 € cada 30 días.",
+      "requisitos": "Cuenta SumUp (SumUp Pay) gratuita, con verificación de identidad aprobada, y tres pagos en comercio con la tarjeta en un plazo de 30 días. Hay que ser mayor de 18 años y residente en España. El cashback no es dinero electrónico hasta que lo pasas al monedero y solo se canjea combinándolo con una compra con SumUp Pay. SumUp puede cambiar o suspender el cashback en cualquier momento. Aquí no hay enlace ni código.",
+      "enlace": "",
+      "estado": "publicada",
+      "auto": true,
+      "fuentes": [
+        "https://www.sumup.com/es-es/personal/referrals/",
+        "https://www.sumup.com/es-es/personal/legal/programa-cashback/",
+        "https://x.com/SacandoPartido",
+        "https://x.com/cazacash",
+        "https://x.com/Robatiempoymas"
+      ],
+      "verificado": "2026-10-14",
+      "gana_corto": "10 €",
+      "gana_sub": "por registrarte y hacer 3 pagos en 30 días (hasta 5 % de cashback)",
+      "nota": {
+        "tiempo": 1.5,
+        "importe": 1.5,
+        "letra": 1.5,
+        "permanencia": 2.5
+      },
+      "nota_razon": {
+        "tiempo": "Hay que verificar la cuenta y hacer tres pagos en comercio dentro de 30 días antes de cobrar.",
+        "importe": "10 € fijos por registro, hasta 100 € con diez amigos; el cashback tiene tope de 10 € cada 30 días.",
+        "letra": "El cashback solo se canjea con una compra de SumUp Pay y la empresa puede cambiarlo o suspenderlo; los porcentajes por comercio salen en la app.",
+        "permanencia": "No hay permanencia ni cuota."
+      },
+      "nota_texto": "Calculada con la página de recomendación y los términos del programa de cashback de SumUp, leídos el 14/10/2026.",
+      "fuente_oficial": "https://www.sumup.com/es-es/personal/referrals/",
+      "fuente_condiciones": "https://www.sumup.com/es-es/personal/legal/programa-cashback/"
     }
   ]
 }

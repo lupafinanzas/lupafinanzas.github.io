@@ -76,16 +76,23 @@ for p in vis:
     enlace = ""
     if p.get("aviso"):
         enlace += f'<p class="det aviso-p">{esc(p["aviso"])}</p>'
-    if p.get("enlace"):
-        enlace += f'<p><a class="btn verde" href="ir/{esc(p["slug"])}/" rel="noopener sponsored nofollow">{esc(p.get("boton") or ("Ir a " + p["nombre"] + " →"))}</a></p>'
-    if p.get("fuente_oficial"):
+    # 15/10: título clicable y botón de alta arriba (referido /ir/ si lo hay; si no, página oficial de la promo)
+    dest = f'ir/{p["slug"]}/' if p.get("enlace") else (p.get("fuente_oficial") or p.get("fuente_condiciones") or "")
+    rel = "noopener sponsored nofollow" if p.get("enlace") else "noopener nofollow"
+    titulo = f'<a href="{esc(dest)}" rel="{rel}" style="color:inherit">{esc(p["nombre"])}</a>' if dest else esc(p["nombre"])
+    cta = ""
+    if dest:
+        etiqueta = esc(p.get("boton") or ("Ir a " + p["nombre"] + " →")) if p.get("enlace") else "Ir a la promoción oficial →"
+        cta = (f'<div class="botones" style="margin:10px 0 4px"><a class="btn {"verde" if p.get("enlace") else "claro"}" href="{esc(dest)}" rel="{rel}">{etiqueta}</a></div>'
+               + ('<span class="mini">Publicidad · enlace de invitación de Lupa Financiera</span>' if p.get("enlace") else ""))
+    if p.get("fuente_oficial") and p.get("enlace"):
         enlace += f'<p><a href="{esc(p["fuente_oficial"])}" rel="noopener nofollow">Ver condiciones oficiales</a></p>'
     tot_n = sum(p["nota"].values()) if p.get("nota") else None
     clase = "n-sin" if tot_n is None else "n-muy" if tot_n >= 7.5 else "n-buena" if tot_n >= 6.5 else "n-acep" if tot_n >= 5 else "n-floja"
     palabra = "sin calcular" if tot_n is None else "muy buena" if tot_n >= 7.5 else "buena" if tot_n >= 6.5 else "aceptable" if tot_n >= 5 else "floja"
     sello = f'<a class="nota-top {clase}" href="como-lo-hacemos.html#nota-real"><div class="num">{("—" if tot_n is None else (f"{tot_n:g}".replace(".", ",")))}{"" if tot_n is None else "<small>/10</small>"}</div><div class="txt"><b>Nota Real: {palabra}</b></div></a>'
-    out.append(f'<article class="card promo"><div class="cab"><h3>{esc(p["nombre"])}</h3><span class="sello">{esc(p["tipo"])}</span></div>{sello}'
-               f'<div class="gana">{esc(p.get("gana_corto") or p["recompensa"])}</div><div class="det">{esc(p.get("gana_sub") or "")}</div>'
+    out.append(f'<article class="card promo"><div class="cab"><h3>{titulo}</h3><span class="sello">{esc(p["tipo"])}</span></div>{sello}'
+               f'<div class="gana">{esc(p.get("gana_corto") or p["recompensa"])}</div><div class="det">{esc(p.get("gana_sub") or "")}</div>{cta}'
                f'<p class="cond">{esc(p["requisitos"])}</p>{nota}{enlace}'
                f'<p class="mini">{("Hasta el " + fmt(p["caduca"]) + " · ") if p.get("caduca") else ""}Comprobado el {fmt(p["verificado"])}</p></article>')
 # (patrón simple: el contenedor #lista llega hasta el aviso de publicidad)

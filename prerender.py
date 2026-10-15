@@ -83,7 +83,7 @@ for p in vis:
     cta = ""
     if dest:
         etiqueta = esc(p.get("boton") or ("Ir a " + p["nombre"] + " →")) if p.get("enlace") else "Ir a la promoción oficial →"
-        cta = (f'<div class="botones" style="margin:10px 0 4px"><a class="btn {"verde" if p.get("enlace") else "claro"}" href="{esc(dest)}" rel="{rel}">{etiqueta}</a></div>'
+        cta = (f'<div class="botones" style="margin:10px 0 4px"><a class="btn {"verde" if p.get("enlace") else "btn-o"}" href="{esc(dest)}" rel="{rel}">{etiqueta}</a></div>'
                + ('<span class="mini">Publicidad · enlace de invitación de Lupa Financiera</span>' if p.get("enlace") else ""))
     if p.get("fuente_oficial") and p.get("enlace"):
         enlace += f'<p><a href="{esc(p["fuente_oficial"])}" rel="noopener nofollow">Ver condiciones oficiales</a></p>'

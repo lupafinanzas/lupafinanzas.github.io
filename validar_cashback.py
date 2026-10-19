@@ -103,6 +103,29 @@ for t in data["tiendas"]:
         if p and abs(p["pct"] - f["pct"]) > max(10, p["pct"] * 0.5) and not f.get("cambio_confirmado"):
             errores.append(f"{n}: cambio brusco {p['pct']} -> {f['pct']}; marcar 'cambio_confirmado' tras revisarlo a mano")
 
+# 19/10 (capa 2): AUTOCONFIRMACION de saltos con evidencia fuerte. Un cambio brusco solo se confirma solo si (a) pasa la doble lectura
+# (ambas lecturas contienen la cifra, que es lo que ya comprueba el bucle de arriba), (b) no hay NINGUN error mas en la fila y
+# (c) nada indica que la cifra sea una promo restringida (gama concreta, tope, una compra por miembro, solo nuevos, primer pedido, hasta X EUR).
+# Si hay restriccion se deja el error y la cuarentena la aparta para revision.
+RESTRICTOR = re.compile(r"gama|m[aá]ximo|l[ií]mit|una compra|solo |s[oó]lo |nuevos|primer|primera|tope|por miembro|por transacci[oó]n|hasta un", re.I)
+if errores:
+    confirmadas = []
+    for t in data["tiendas"]:
+        for f in t["filas"]:
+            n = f"{t['nombre']} / {f.get('plataforma')}" + (f" ({f['variante']})" if f.get("variante") else "")
+            es = [e for e in errores if e.startswith(n + ": ")]
+            if es and all("cambio brusco" in e for e in es) and not f.get("cambio_confirmado"):
+                texto = " ".join([f.get("detalle") or "", f.get("variante") or ""] + list(f.get("lecturas") or []))
+                if f.get("tope") is None and not f.get("primera_compra") and f["tipo"] != "bienvenida" and not RESTRICTOR.search(texto):
+                    f["cambio_confirmado"] = True
+                    confirmadas.append(n)
+                    errores = [e for e in errores if e not in es]
+    if confirmadas:
+        print("AUTOCONFIRMADOS (doble lectura sin restricciones):", "; ".join(confirmadas))
+        if CUARENTENA:
+            crudo0 = (base / "cashback.json").read_text(encoding="utf-8")
+            (base / "cashback.json").write_text(json.dumps(data, ensure_ascii=False, indent=1) + ("\n" if crudo0.endswith("\n") else ""), encoding="utf-8", newline="\n")
+
 # 19/10: CUARENTENA POR FILA. Con --cuarentena, una fila con cambio brusco, lectura sin la cifra o doble lectura defectuosa NO bloquea
 # la publicación de las demás: se restaura su último valor publicado (o se quita si es nueva o ya está caducada) y se anota en
 # datos/pendientes_revision.json para que alguien (o el agente de revisión) la verifique. El resto de errores siguen bloqueando.

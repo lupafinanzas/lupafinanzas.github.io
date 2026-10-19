@@ -34,3 +34,7 @@ User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://lupafinanzas.github.io/sitemap.xml
+
+# Tarjeta de vista previa en X: Twitterbot debe poder leer /ir/ (las paginas llevan noindex)
+User-agent: Twitterbot
+Allow: /

@@ -11,6 +11,7 @@ import pathlib
 import re
 import subprocess
 import sys
+CUARENTENA = "--cuarentena" in sys.argv
 from urllib.parse import urlparse
 
 base = pathlib.Path(__file__).parent
@@ -101,6 +102,53 @@ for t in data["tiendas"]:
         p = previo.get((t["slug"], f["plataforma"], f.get("variante")))
         if p and abs(p["pct"] - f["pct"]) > max(10, p["pct"] * 0.5) and not f.get("cambio_confirmado"):
             errores.append(f"{n}: cambio brusco {p['pct']} -> {f['pct']}; marcar 'cambio_confirmado' tras revisarlo a mano")
+
+# 19/10: CUARENTENA POR FILA. Con --cuarentena, una fila con cambio brusco, lectura sin la cifra o doble lectura defectuosa NO bloquea
+# la publicación de las demás: se restaura su último valor publicado (o se quita si es nueva o ya está caducada) y se anota en
+# datos/pendientes_revision.json para que alguien (o el agente de revisión) la verifique. El resto de errores siguen bloqueando.
+CUARENTENABLES = ("cambio brusco", "no contiene ninguna de las cifras", "necesita doble lectura")
+if CUARENTENA and errores:
+    por_fila = {}
+    for e in errores:
+        por_fila.setdefault(e.split(": ", 1)[0], []).append(e)
+    pend, restantes = [], []
+    for nombre, es in por_fila.items():
+        if all(any(c in e for c in CUARENTENABLES) for e in es):
+            pend.append((nombre, es))
+        else:
+            restantes += es
+    if pend:
+        nombres = {n for n, _ in pend}
+        registro = []
+        for t in data["tiendas"]:
+            nuevas = []
+            for f in t["filas"]:
+                n = f"{t['nombre']} / {f.get('plataforma')}" + (f" ({f['variante']})" if f.get("variante") else "")
+                if n not in nombres:
+                    nuevas.append(f)
+                    continue
+                p_ = previo.get((t["slug"], f["plataforma"], f.get("variante")))
+                lei_p = fecha(p_["leido"]) if p_ else None
+                conserva = bool(p_ and lei_p and (hoy - lei_p).days <= MAX_EDAD_DIAS)
+                if conserva:
+                    nuevas.append(p_)
+                registro.append({"fila": n, "motivo": por_fila[n], "leido_ahora": {"pct": f.get("pct"), "lecturas": f.get("lecturas"), "fuente": f.get("fuente")},
+                                 "se_publica": ("valor anterior %s %%" % p_["pct"]) if conserva else "nada (fila nueva o anterior caducada)",
+                                 "fecha": hoy.isoformat()})
+            t["filas"] = nuevas
+        crudo = (base / "cashback.json").read_text(encoding="utf-8")
+        (base / "cashback.json").write_text(json.dumps(data, ensure_ascii=False, indent=1) + ("\n" if crudo.endswith("\n") else ""), encoding="utf-8", newline="\n")
+        destino = base / "datos" / "pendientes_revision.json"
+        destino.parent.mkdir(exist_ok=True)
+        destino.write_text(json.dumps({"actualizado": hoy.isoformat(), "pendientes": registro}, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"CUARENTENA: {len(registro)} fila(s) apartadas (ver datos/pendientes_revision.json):")
+        for r in registro:
+            print(" -", r["fila"], "->", r["se_publica"])
+    errores = restantes
+    if not errores:
+        print("cashback.json válido (con filas en cuarentena)")
+        sys.exit(0)
+
 
 if errores:
     print("ERRORES:")

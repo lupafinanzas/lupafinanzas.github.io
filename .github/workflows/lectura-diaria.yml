@@ -193,6 +193,8 @@ jobs:
               python importar_menores.py lectura_menores.json || echo "Letyshops, Klarna y Consupermiso: importación omitida"
             fi
             if [ -f categorias_nueva.json ]; then cp categorias_nueva.json datos/categorias.json; fi
+            # 19/10: cuarentena por fila: lo dudoso (cambio brusco, lectura sin la cifra) se aparta y no bloquea el resto
+            python validar_cashback.py --cuarentena || echo "Cuarentena: quedan errores que si bloquean"
             python purgar_caducados.py --dias 3
             python actualizar_historial.py
             python build_blog.py

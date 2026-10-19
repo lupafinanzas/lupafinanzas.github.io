@@ -16604,9 +16604,9 @@
    "filas": [
     {
      "plataforma": "Beruby",
-     "pct": 10.5,
+     "pct": 7.0,
      "hasta_pct": false,
-     "habitual_pct": 10.5,
+     "habitual_pct": 7.0,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -16616,8 +16616,8 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Bloque de la ficha: Compra online 10,50%",
-      "HTML de la ficha: 10,50%"
+      "Bloque de la ficha: Compra online 7,00%",
+      "HTML de la ficha: 7,00%"
      ]
     }
    ]
@@ -17570,7 +17570,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10% código descuento Crocs + 2,75 % Cashback / octubre",
+      "Título de la ficha: 15% código descuento Crocs + 2,75 % Cashback / octubre",
       "Tarjeta de la oferta: 2,75 % de cashback"
      ]
     },
@@ -18721,7 +18721,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 58% código promocional Decimas + 3 % Cashback / octubre",
+      "Título de la ficha: 50% código promocional Decimas + 3 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 3 % de cashback"
      ]
     },
@@ -20861,7 +20861,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10% código descuento Dooers + 3 % Cashback / octubre",
+      "Título de la ficha: 20% código descuento Dooers + 3 % Cashback / octubre",
       "Tarjeta de la oferta: 3 % de cashback"
      ]
     },
@@ -21787,7 +21787,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 15% código descuento Druni + 2 % Cashback / octubre",
+      "Título de la ficha: 5€ código descuento Druni + 2 % Cashback / octubre",
       "Tarjeta de la oferta: 2 % de cashback"
      ]
     },
@@ -23236,6 +23236,30 @@
      "lecturas": [
       "Título/meta de la ficha: 3,6 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3,6 %"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "ekouaer",
+   "nombre": "Ekouaer",
+   "filas": [
+    {
+     "plataforma": "Beruby",
+     "pct": 7.0,
+     "hasta_pct": false,
+     "habitual_pct": 7.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/ekouaer",
+     "leido": "2026-10-19",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 7,00%",
+      "HTML de la ficha: 7,00%"
      ]
     }
    ]
@@ -30499,7 +30523,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 30% cupón descuento Forum Sport + 2,8 % Cashback / octubre",
+      "Título de la ficha: 80% cupón descuento Forum Sport + 2,8 % Cashback / octubre",
       "Tarjeta de la oferta: 2,8 % de cashback"
      ]
     },
@@ -36966,7 +36990,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htophotels",
+     "fuente": "https://es.beruby.com/htop-hotels",
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
@@ -40185,25 +40209,6 @@
      "variante": "Productos rebajados"
     },
     {
-     "plataforma": "iGraal",
-     "pct": 17.5,
-     "hasta_pct": false,
-     "habitual_pct": 3.5,
-     "tipo": "aumentado",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Subida de iGraal; excluye Yeezy y tarjetas regalo; sin cashback desde la app móvil.",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/jd-sports",
-     "leido": "2026-10-19",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% código descuento JD Sports + 17,5 % Cashback / octubre",
-      "Tarjeta de la oferta: 17,5 % de cashback"
-     ],
-     "cambio_confirmado": true
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 7.0,
      "hasta_pct": false,
@@ -40277,6 +40282,25 @@
       "Dato incrustado de la tienda: 2 % cashback"
      ],
      "clave_fuente": "jd-sports"
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 6.0,
+     "hasta_pct": true,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/jd-sports",
+     "leido": "2026-10-19",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 20% código descuento JD Sports + 6 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 6 % de cashback"
+     ],
+     "cambio_confirmado": true
     }
    ]
   },
@@ -55795,7 +55819,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 120€ código promocional Nespresso + 3,5 % Cashback / octubre",
+      "Título de la ficha: Cápsulas código promocional Nespresso + 3,5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 3,5 % de cashback"
      ]
     },
@@ -56851,7 +56875,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento Notino + 1 % Cashback / octubre",
+      "Título de la ficha: 65% código descuento Notino + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     },
@@ -62725,7 +62749,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 11% código descuento Parfumdreams + 5 % Cashback / octubre",
+      "Título de la ficha: 61% código descuento Parfumdreams + 5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 5 % de cashback"
      ]
     },
@@ -65060,30 +65084,6 @@
    ]
   },
   {
-   "slug": "playa-senator",
-   "nombre": "Playa Senator",
-   "filas": [
-    {
-     "plataforma": "Widilo",
-     "pct": 2.0,
-     "hasta_pct": false,
-     "habitual_pct": 2.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
-     "fin": null,
-     "fuente": "https://www.widilo.es/codigo-descuento/playa-senator",
-     "leido": "2026-10-19",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título/meta de la ficha: 2 % cashback (título o meta de la ficha)",
-      "Datos de la ficha: cashback 2 %"
-     ]
-    }
-   ]
-  },
-  {
    "slug": "playstation",
    "nombre": "PlayStation",
    "filas": [
@@ -66235,6 +66235,24 @@
       "Título/meta de la ficha: 4,8 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 4,8 %"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 8.0,
+     "hasta_pct": false,
+     "habitual_pct": 8.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online - Excluyendo vouchers no válidos.",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/prive-by-zalando/",
+     "leido": "2026-10-19",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online - Excluyendo vouchers no válidos. 8%",
+      "HTML de la ficha: 8% (cabecera: hasta 8%)"
+     ]
     }
    ]
   },
@@ -66762,24 +66780,6 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 2,10%",
       "HTML de la ficha: 2,10%"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 1.0,
-     "hasta_pct": false,
-     "habitual_pct": 1.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/puma",
-     "leido": "2026-10-19",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 70€ código descuento PUMA + 1 % Cashback / octubre",
-      "Tarjeta de la oferta: 1 % de cashback"
      ]
     },
     {
@@ -68724,7 +68724,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 18,49€ + 4 % Cashback / octubre 2026",
+      "Título de la ficha: 18,49€ código descuento Repuestoscoches24 + 4 % Cashback / octubre 2026",
       "Tarjeta de la oferta: Hasta 4 % de cashback"
      ]
     }
@@ -71730,30 +71730,6 @@
      "lecturas": [
       "Bloque de la ficha: Alojamiento, paquetes, entradas, traslados, ferrys y otros 3,50%",
       "HTML de la ficha: 3,50%"
-     ]
-    }
-   ]
-  },
-  {
-   "slug": "senator-hotels-resorts",
-   "nombre": "Senator Hotels & Resorts",
-   "filas": [
-    {
-     "plataforma": "Beruby",
-     "pct": 2.8,
-     "hasta_pct": false,
-     "habitual_pct": 2.8,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de Beruby: Por reserva online",
-     "fin": null,
-     "fuente": "https://es.beruby.com/senator-hotels-resorts",
-     "leido": "2026-10-19",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Por reserva online 2,80%",
-      "HTML de la ficha: 2,80%"
      ]
     }
    ]
@@ -81306,7 +81282,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 25% + 2 % Cashback / octubre",
+      "Título de la ficha: 25% código promocional Trasmed + 2 % Cashback / octubre",
       "Tarjeta de la oferta: 2 % de cashback"
      ]
     },
@@ -83178,7 +83154,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10% código descuento Unisa + 3,5 % Cashback / octubre",
+      "Título de la ficha: 49,90€ código descuento Unisa + 3,5 % Cashback / octubre",
       "Tarjeta de la oferta: 3,5 % de cashback"
      ]
     },
@@ -87035,7 +87011,7 @@
      "leido": "2026-10-19",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 180€ cupón Xiaomi + 2 % Cashback / octubre",
+      "Título de la ficha: 10€ cupón Xiaomi + 2 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 2 % de cashback"
      ]
     },

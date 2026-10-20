@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16",
+  "actualizado": "2026-10-20",
   "promos": [
     {
       "slug": "myinvestor",
@@ -593,6 +593,45 @@
       "nota_texto": "Calculada con la página de recomendación y los términos del programa de cashback de SumUp, leídos el 14/10/2026.",
       "fuente_oficial": "https://www.sumup.com/es-es/personal/referrals/",
       "fuente_condiciones": "https://www.sumup.com/es-es/personal/legal/programa-cashback/"
+    },
+    {
+      "slug": "correos-prepago",
+      "nombre": "Correos Prepago (invitar amigos)",
+      "tipo": "2 · Registro + depósito",
+      "recompensa": "10 € brutos para ti y 10 € brutos para quien te invita",
+      "requisitos": "Tu amigo tiene que registrarse desde tu enlace con tu código promocional y hacer un ingreso mínimo de 50 € en su Cuenta Correos Prepago. Bnext abona los 10 € a ambos en un máximo de 2 meses desde la verificación. Hasta 100 invitados por usuario. Vigente del 15/10/2026 al 31/12/2026 o hasta agotar presupuesto.",
+      "enlace": "https://correosprepago.bnext.es/register?referral=JVG145",
+      "estado": "publicada",
+      "auto": true,
+      "verificado": "2026-10-20",
+      "nota": {
+        "tiempo": 1.5,
+        "importe": 1.5,
+        "letra": 2,
+        "permanencia": 2
+      },
+      "gana_corto": "10 € + 10 €",
+      "gana_sub": "para ti y para tu amigo, con un ingreso mínimo de 50 € por parte del amigo (10 € brutos cada uno)",
+      "nota_texto": "Calculada con el artículo oficial de la promoción de Correos Prepago (ayuda de Bnext, actualizado hace 11 días).",
+      "nota_razon": {
+        "tiempo": "Alta online; la recompensa se abona en un máximo de 2 meses desde que Bnext verifica las condiciones.",
+        "importe": "10 € fijos por cada lado, pero solo mientras haya presupuesto («hasta agotar presupuesto»); el invitado debe ingresar al menos 50 € antes.",
+        "letra": "El artículo oficial recoge las condiciones de forma clara, aunque remite a un PDF de T&C que no hemos leído entero.",
+        "permanencia": "El artículo oficial no menciona permanencia ni mantener saldo tras cobrar la recompensa."
+      },
+      "fuentes": [
+        "https://ayudacorreosprepago.bnext.es/hc/es/articles/39766991008925-PROMOCI%C3%93N-INVITAR-A-AMIGOS-10-10",
+        "https://x.com/TelecoAhorrador",
+        "https://x.com/SacandoPartido",
+        "https://x.com/AhorroLab",
+        "https://x.com/FinanzasAlej_",
+        "https://x.com/cazacash",
+        "https://x.com/investrainer",
+        "https://x.com/clubdepromos_"
+      ],
+      "fuente_oficial": "https://ayudacorreosprepago.bnext.es/hc/es/articles/39766991008925-PROMOCI%C3%93N-INVITAR-A-AMIGOS-10-10",
+      "fuente_condiciones": "https://ayudacorreosprepago.bnext.es/hc/es/articles/39766991008925-PROMOCI%C3%93N-INVITAR-A-AMIGOS-10-10",
+      "caduca": "2026-12-31"
     }
   ]
 }

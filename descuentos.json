@@ -114,20 +114,6 @@
    "leido": "2026-10-20"
   },
   {
-   "id": "d32c489b93dc",
-   "slug": "calvin-klein",
-   "tienda": "Calvin Klein",
-   "valor": "30%",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": "2026-10-22",
-   "modificado_en_fuente": "2026-10-16",
-   "titulo": "Promoción de mitad de temporada: hasta un 30% de descuento",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/calvin-klein",
-   "leido": "2026-10-20"
-  },
-  {
    "id": "3c169ed02032",
    "slug": "cult-beauty",
    "tienda": "Cult Beauty",
@@ -139,34 +125,6 @@
    "titulo": "20% de descuento en las fragancias KAYALI",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/cult-beauty",
-   "leido": "2026-10-20"
-  },
-  {
-   "id": "cd4c61e2ddbc",
-   "slug": "maisons-du-monde",
-   "tienda": "Maisons du Monde",
-   "valor": "10€",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": "2026-10-22",
-   "modificado_en_fuente": "2026-10-13",
-   "titulo": "Hasta 10€ de descuento inmediato en una amplia selección de productos Maisons du Monde",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/maisons-du-monde",
-   "leido": "2026-10-20"
-  },
-  {
-   "id": "c72ced908bc8",
-   "slug": "maisons-du-monde",
-   "tienda": "Maisons du Monde",
-   "valor": "150€",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": "2026-10-22",
-   "modificado_en_fuente": "2026-10-13",
-   "titulo": "Hasta 150€ de descuento inmediato en una amplia selección de productos Maisons du Monde",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/maisons-du-monde",
    "leido": "2026-10-20"
   },
   {
@@ -688,6 +646,20 @@
    "leido": "2026-10-20"
   },
   {
+   "id": "d32c489b93dc",
+   "slug": "calvin-klein",
+   "tienda": "Calvin Klein",
+   "valor": "30%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-26",
+   "modificado_en_fuente": "2026-10-20",
+   "titulo": "Promoción de mitad de temporada: hasta un 30% de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/calvin-klein",
+   "leido": "2026-10-20"
+  },
+  {
    "id": "c1214bd7e5d2",
    "slug": "emma",
    "tienda": "Emma",
@@ -937,6 +909,34 @@
    "titulo": "Hasta -50% en selección Sonido",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/fnac",
+   "leido": "2026-10-20"
+  },
+  {
+   "id": "cd4c61e2ddbc",
+   "slug": "maisons-du-monde",
+   "tienda": "Maisons du Monde",
+   "valor": "10€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-27",
+   "modificado_en_fuente": "2026-10-20",
+   "titulo": "Hasta 10€ de descuento inmediato en una amplia selección de productos Maisons du Monde",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/maisons-du-monde",
+   "leido": "2026-10-20"
+  },
+  {
+   "id": "c72ced908bc8",
+   "slug": "maisons-du-monde",
+   "tienda": "Maisons du Monde",
+   "valor": "150€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-27",
+   "modificado_en_fuente": "2026-10-20",
+   "titulo": "Hasta 150€ de descuento inmediato en una amplia selección de productos Maisons du Monde",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/maisons-du-monde",
    "leido": "2026-10-20"
   },
   {
@@ -2265,6 +2265,20 @@
    "caduca": "2026-11-01",
    "modificado_en_fuente": "2026-10-20",
    "titulo": "Hasta un 25% de descuento en la serie UGREEN Nexode Pro para estudiantes",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/ugreen",
+   "leido": "2026-10-20"
+  },
+  {
+   "id": "36e01defbe64",
+   "slug": "ugreen",
+   "tienda": "UGREEN",
+   "valor": "30%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-20",
+   "titulo": "Hasta un 30% de descuento en las Rebajas de Halloween",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ugreen",
    "leido": "2026-10-20"

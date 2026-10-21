@@ -660,6 +660,20 @@
    "leido": "2026-10-21"
   },
   {
+   "id": "7ee9c7399f9c",
+   "slug": "cortina-decor",
+   "tienda": "Cortina Decor",
+   "valor": "25%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-26",
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "¡Estamos de Aniversario! Hasta 25% de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/cortina-decor",
+   "leido": "2026-10-21"
+  },
+  {
    "id": "c1214bd7e5d2",
    "slug": "emma",
    "tienda": "Emma",
@@ -797,6 +811,20 @@
    "titulo": "¡PHONE HOUSE: Aniversario! Con hasta 30% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/phone-house",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "1ab4a0830f0d",
+   "slug": "douglas",
+   "tienda": "Douglas",
+   "valor": "25%",
+   "tipo": "codigo",
+   "codigo": "P25",
+   "caduca": "2026-10-27",
+   "modificado_en_fuente": "2026-09-24",
+   "titulo": "-25% en una selección de marcas solo en la App con el cupón",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/douglas",
    "leido": "2026-10-21"
   },
   {
@@ -1710,17 +1738,17 @@
    "leido": "2026-10-21"
   },
   {
-   "id": "31ac88d4add0",
-   "slug": "oscaro",
-   "tienda": "Oscaro",
-   "valor": "2%",
-   "tipo": "codigo",
-   "codigo": "BRE",
+   "id": "38c3f7cb96f2",
+   "slug": "paco-perfumerias",
+   "tienda": "Paco Perfumerías",
+   "valor": "10%",
+   "tipo": "oferta",
+   "codigo": null,
    "caduca": "2026-10-31",
-   "modificado_en_fuente": "2026-10-05",
-   "titulo": "2% de descuento inmediato en toda la web",
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "-10% EXTRA en tus pedidos superiores a 69€",
    "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/oscaro",
+   "fuente": "https://www.widilo.es/codigo-descuento/paco-perfumerias",
    "leido": "2026-10-21"
   },
   {
@@ -2382,6 +2410,20 @@
    "leido": "2026-10-21"
   },
   {
+   "id": "b773f9d5186d",
+   "slug": "oral-b",
+   "tienda": "Oral-B",
+   "valor": "242€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-02",
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "Hasta 242€ de descuento en el iO10",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/oral-b",
+   "leido": "2026-10-21"
+  },
+  {
    "id": "ab96a3ed78ed",
    "slug": "urban-outfitters",
    "tienda": "Urban Outfitters",
@@ -2970,6 +3012,20 @@
    "leido": "2026-10-21"
   },
   {
+   "id": "e52c3434bb2c",
+   "slug": "i-run",
+   "tienda": "i-run",
+   "valor": "50%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-20",
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "¡Semanas de running con descuentos de hasta el 50%!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/i-run",
+   "leido": "2026-10-21"
+  },
+  {
    "id": "e37beb5c6ed3",
    "slug": "upway",
    "tienda": "Upway",
@@ -3009,6 +3065,76 @@
    "titulo": "Hasta -37% de descuento en los packs de Estrella Galicia + nevera Polarbox",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/big-crafters",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "7db170dd3cb7",
+   "slug": "decathlon",
+   "tienda": "Decathlon",
+   "valor": "18%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "18% de descuento en la Mochila de pádel isotérmica",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "3d070174c436",
+   "slug": "decathlon",
+   "tienda": "Decathlon",
+   "valor": "20€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "20€ de descuento en la Pala de pádel Kuikma",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "6b1212faf3f2",
+   "slug": "decathlon",
+   "tienda": "Decathlon",
+   "valor": "40€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "40€ de descuento en la Pala de pádel adulto Kuikma Hybrid Pro",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "2d1854ac4a7e",
+   "slug": "decathlon",
+   "tienda": "Decathlon",
+   "valor": "50€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "50€ de descuento en la Pala de Pádel Adulto - Bullpadel",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "dd12d5ca745d",
+   "slug": "decathlon",
+   "tienda": "Decathlon",
+   "valor": "50€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "50€ de descuento en las Zapatillas de pádel hombre Asics",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/decathlon",
    "leido": "2026-10-21"
   },
   {
@@ -3077,6 +3203,20 @@
    "caduca": "2026-11-30",
    "modificado_en_fuente": "2026-09-02",
    "titulo": "10 % de descuento para nuevos clientes en la aplicación",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/omio",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "67861ec4b515",
+   "slug": "omio",
+   "tienda": "Omio",
+   "valor": "10%",
+   "tipo": "codigo",
+   "codigo": "W10",
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-09-02",
+   "titulo": "10 % de descuento para nuevos clientes",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/omio",
    "leido": "2026-10-21"
@@ -4216,6 +4356,20 @@
    "leido": "2026-10-21"
   },
   {
+   "id": "f1fa5b735105",
+   "slug": "oscaro",
+   "tienda": "Oscaro",
+   "valor": "10€",
+   "tipo": "codigo",
+   "codigo": "O10",
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-06-02",
+   "titulo": "Código descuento exclusivo Oscaro: Ahorra 10€ en compras de 100€",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/oscaro",
+   "leido": "2026-10-21"
+  },
+  {
    "id": "bb9d31775537",
    "slug": "parallels",
    "tienda": "Parallels",
@@ -5137,6 +5291,48 @@
    "titulo": "TOP VENTAS ¡Plan Unlimited con un 80% de descuento!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hostinger",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "d285bfc430b5",
+   "slug": "oral-b",
+   "tienda": "Oral-B",
+   "valor": "10€",
+   "tipo": "codigo",
+   "codigo": "O10",
+   "caduca": null,
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "-10€ con el código descuento Oral-B ¡Regístrate a la newsletter!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/oral-b",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "d296bd15f226",
+   "slug": "oral-b",
+   "tienda": "Oral-B",
+   "valor": "11€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": null,
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "¡Oferta estudiantil! Obtén -11€ de descuento en el paquete IO3",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/oral-b",
+   "leido": "2026-10-21"
+  },
+  {
+   "id": "0b5143fda8ed",
+   "slug": "oral-b",
+   "tienda": "Oral-B",
+   "valor": "15€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": null,
+   "modificado_en_fuente": "2026-10-21",
+   "titulo": "Descuento para estudiantes: Aprovecha 15€ OFF en el paquete iOS5",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/oral-b",
    "leido": "2026-10-21"
   },
   {

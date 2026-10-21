@@ -695,9 +695,9 @@
     },
     {
      "plataforma": "Widilo",
-     "pct": 3.0,
+     "pct": 4.0,
      "hasta_pct": false,
-     "habitual_pct": 3.0,
+     "habitual_pct": 4.0,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -707,8 +707,8 @@
      "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
-      "Título/meta de la ficha: 3 % cashback (título o meta de la ficha)",
-      "Datos de la ficha: cashback 3 %"
+      "Título/meta de la ficha: 4 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 4 %"
      ]
     }
    ]
@@ -6714,24 +6714,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 0.5,
-     "hasta_pct": false,
-     "habitual_pct": 0.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/avianca",
-     "leido": "2026-10-21",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 520€ código promocional Avianca + 0,5 % Cashback / octubre",
-      "Tarjeta de la oferta: 0,5 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Widilo",
      "pct": 0.5,
      "hasta_pct": false,
@@ -6747,6 +6729,24 @@
      "lecturas": [
       "Título/meta de la ficha: 0,5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 0,5 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/avianca",
+     "leido": "2026-10-21",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 520€ código promocional Avianca + 1 % Cashback / octubre",
+      "Tarjeta de la oferta: 1 % de cashback"
      ]
     }
    ]
@@ -11922,6 +11922,30 @@
    ]
   },
   {
+   "slug": "burga",
+   "nombre": "Burga",
+   "filas": [
+    {
+     "plataforma": "Beruby",
+     "pct": 1.4,
+     "hasta_pct": false,
+     "habitual_pct": 1.4,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/burga",
+     "leido": "2026-10-21",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 1,40%",
+      "HTML de la ficha: 1,40%"
+     ]
+    }
+   ]
+  },
+  {
    "slug": "busbud",
    "nombre": "Busbud",
    "filas": [
@@ -15887,6 +15911,30 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,85%",
       "HTML de la ficha: 3,85%"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "clothing-baba",
+   "nombre": "Clothing Baba",
+   "filas": [
+    {
+     "plataforma": "Beruby",
+     "pct": 12.6,
+     "hasta_pct": false,
+     "habitual_pct": 12.6,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/clothing-baba",
+     "leido": "2026-10-21",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 12,60%",
+      "HTML de la ficha: 12,60%"
      ]
     }
    ]
@@ -21205,7 +21253,7 @@
      "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 70% código descuento Douglas + 5 % Cashback / octubre",
+      "Título de la ficha: 15% código descuento Douglas + 5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 5 % de cashback"
      ]
     },
@@ -21841,7 +21889,7 @@
      "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 5€ código descuento Druni + 2 % Cashback / octubre",
+      "Título de la ficha: 10% código descuento Druni + 2 % Cashback / octubre",
       "Tarjeta de la oferta: 2 % de cashback"
      ]
     },
@@ -21865,20 +21913,20 @@
     },
     {
      "plataforma": "TopCashback",
-     "pct": 10.0,
+     "pct": 15.0,
      "hasta_pct": false,
-     "habitual_pct": 10.0,
+     "habitual_pct": 15.0,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
-     "detalle": "Tarifa de la ficha de TopCashback: Compra online",
+     "detalle": "Tarifa de la ficha de TopCashback: Compra online (hasta un máximo de 40€ de cashback y limitado a una compra por miembro)",
      "fin": null,
      "fuente": "https://www.topcashback.es/druni/",
-     "leido": "2026-10-20",
+     "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
-      "Bloque de la ficha: Compra online 10%",
-      "HTML de la ficha: 10% (cabecera: hasta 10%)"
+      "Bloque de la ficha: Compra online (hasta un máximo de 40€ de cashback y limitado a una compra por miembro) 15%",
+      "HTML de la ficha: 15% (cabecera: hasta 15%)"
      ]
     }
    ]
@@ -28108,9 +28156,9 @@
    "filas": [
     {
      "plataforma": "Beruby",
-     "pct": 3.5,
+     "pct": 2.1,
      "hasta_pct": false,
-     "habitual_pct": 3.5,
+     "habitual_pct": 2.1,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -28120,8 +28168,8 @@
      "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
-      "Bloque de la ficha: Compra online 3,50%",
-      "HTML de la ficha: 3,50%"
+      "Bloque de la ficha: Compra online 2,10%",
+      "HTML de la ficha: 2,10%"
      ]
     }
    ]
@@ -37068,7 +37116,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htophotels",
+     "fuente": "https://es.beruby.com/htop-hotels",
      "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
@@ -46846,7 +46894,7 @@
      "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 96% código descuento Loaded + 2,5 % Cashback / octubre",
+      "Título de la ficha: 10% código descuento Loaded + 2,5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 2,5 % de cashback"
      ]
     },
@@ -49666,24 +49714,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 3.0,
-     "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/mango-outlet",
-     "leido": "2026-10-21",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 85% código promocional Mango Outlet + 3 % Cashback / oct.",
-      "Tarjeta de la oferta: 3 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Widilo",
      "pct": 2.4,
      "hasta_pct": false,
@@ -49699,6 +49729,24 @@
      "lecturas": [
       "Título/meta de la ficha: 2,4 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2,4 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 5.0,
+     "hasta_pct": false,
+     "habitual_pct": 5.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": null,
+     "fuente": "https://es.igraal.com/codigos-promocionales/mango-outlet",
+     "leido": "2026-10-21",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 85% código promocional Mango Outlet + 5 % Cashback / oct.",
+      "Tarjeta de la oferta: 5 % de cashback"
      ]
     }
    ]
@@ -66033,9 +66081,9 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 1.75,
+     "pct": 2.0,
      "hasta_pct": false,
-     "habitual_pct": 1.75,
+     "habitual_pct": 2.0,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -66045,8 +66093,8 @@
      "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 3€ código descuento Primor + 1,75 % Cashback / octubre",
-      "Tarjeta de la oferta: 1,75 % de cashback"
+      "Título de la ficha: 3€ código descuento Primor + 2 % Cashback / octubre",
+      "Tarjeta de la oferta: 2 % de cashback"
      ]
     }
    ]
@@ -66537,7 +66585,7 @@
      "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 5€ código descuento PromoFarma + 5 % Cashback / octubre",
+      "Título de la ficha: 10% código descuento PromoFarma + 5 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 5 % de cashback"
      ]
     },
@@ -72534,9 +72582,9 @@
     },
     {
      "plataforma": "iGraal",
-     "pct": 7.5,
+     "pct": 15.0,
      "hasta_pct": true,
-     "habitual_pct": 7.5,
+     "habitual_pct": 15.0,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -72546,8 +72594,8 @@
      "leido": "2026-10-21",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 35% cupón SHEIN + 7,5 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 7,5 % de cashback"
+      "Título de la ficha: 35% cupón SHEIN + 15 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 15 % de cashback"
      ]
     }
    ]
@@ -86748,6 +86796,30 @@
      "lecturas": [
       "Bloque de la ficha: Por compra online 5,60%",
       "HTML de la ficha: 5,60%"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "wiim",
+   "nombre": "WiiM",
+   "filas": [
+    {
+     "plataforma": "Beruby",
+     "pct": 7.0,
+     "hasta_pct": false,
+     "habitual_pct": 7.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/wiim",
+     "leido": "2026-10-21",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 7,00%",
+      "HTML de la ficha: 7,00%"
      ]
     }
    ]

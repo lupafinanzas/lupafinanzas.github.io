@@ -1,0 +1,21 @@
+{
+ "actualizado": "2026-10-21",
+ "pendientes": [
+  {
+   "fila": "Druni / TopCashback",
+   "motivo": [
+    "Druni / TopCashback: cambio brusco 10.0 -> 50.0; marcar 'cambio_confirmado' tras revisarlo a mano"
+   ],
+   "leido_ahora": {
+    "pct": 50.0,
+    "lecturas": [
+     "Bloque de la ficha: Compra online (hasta un máximo de 15€ y limitado a una compra por miembro) 50%",
+     "HTML de la ficha: 50% (cabecera: hasta 50%)"
+    ],
+    "fuente": "https://www.topcashback.es/druni/"
+   },
+   "se_publica": "valor anterior 10.0 %",
+   "fecha": "2026-10-21"
+  }
+ ]
+}

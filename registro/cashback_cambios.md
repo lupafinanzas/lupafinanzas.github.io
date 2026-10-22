@@ -307,3 +307,27 @@ Widilo: no publicadas por superar el 50 % (revisar a mano; suelen ser solo para 
 - Sin lectura (no se renueva): Samsung / Klarna
 - Sin lectura (no se renueva): Sprinter / Klarna
 - Sin lectura (no se renueva): Temu / Klarna
+
+## Widilo 2026-10-22: 0 filas añadidas o cambiadas, 0 retiradas, 0 descartadas
+Widilo: no publicadas por superar el 50 % (revisar a mano; suelen ser solo para clientes nuevos): private-internet-access-vpn 100 %
+
+## Beruby 2026-10-22: 5 tiendas añadidas o cambiadas, 0 filas retiradas, 0 descartadas
+
+## iGraal 2026-10-22: 8 tiendas añadidas o cambiadas, 0 filas retiradas, 0 descartadas
+
+## TopCashback 2026-10-22: 0 tiendas añadidas o cambiadas, 0 filas retiradas, 0 descartadas
+
+## Letyshops, Klarna y Consupermiso 2026-10-22: 26 filas renovadas sin cambios, 0 cambios, 0 por revisar a mano, 13 sin lectura
+- Sin lectura (no se renueva): Adidas / Klarna
+- Sin lectura (no se renueva): Apple / Klarna
+- Sin lectura (no se renueva): Conforama / Klarna
+- Sin lectura (no se renueva): Decathlon / Klarna
+- Sin lectura (no se renueva): eDreams / Klarna
+- Sin lectura (no se renueva): Guess / Klarna
+- Sin lectura (no se renueva): JD Sports / Klarna
+- Sin lectura (no se renueva): MediaMarkt / Klarna
+- Sin lectura (no se renueva): Nike / Klarna
+- Sin lectura (no se renueva): Privé by Zalando / Klarna
+- Sin lectura (no se renueva): Samsung / Klarna
+- Sin lectura (no se renueva): Sprinter / Klarna
+- Sin lectura (no se renueva): Temu / Klarna

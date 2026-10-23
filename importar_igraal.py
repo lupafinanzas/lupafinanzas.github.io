@@ -43,6 +43,7 @@ for s, r in sorted(lectura.items()):
     if previa and previa["pct"] == r["pct"] and bool(previa.get("hasta_pct")) == r["hasta"]:
         # misma tarifa que ya teníamos: se conserva (habitual y fin de una subida, leídos de otra tarjeta) y solo se renueva la fecha
         previa["leido"], previa["doble_lectura"] = hoy, True
+        previa["fin"] = fin  # 22/10: la fecha de fin se renueva SIEMPRE con la lectura de hoy (None si la ficha ya no la trae)
         previa["lecturas"] = [r["a"], r["b"]]
         continue
     t["filas"] = [x for x in t["filas"] if x["plataforma"] != "iGraal"] + [f]

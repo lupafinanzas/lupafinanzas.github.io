@@ -52,7 +52,14 @@ for i, s in enumerate(slugs, 1):
         st, h = get(f"https://es.igraal.com/codigos-promocionales/{s}")
         if st == 200:
             titulo = limpia((re.search(r"<title>([^<]*)</title>", h) or [None, ""])[1])
-            tarjetas = [limpia(m) for m in re.findall(r'id="offerbasecard-title"[^>]*>([^<]*)<', h)][:2]
+            tits = [(m.start(), limpia(m.group(1))) for m in re.finditer(r'id="offerbasecard-title"[^>]*>([^<]*)<', h)]
+            tarjetas = [t for _, t in tits if t][:2]
+            # 22/10: la fecha de fin está en el icono de reloj de la propia tarjeta («Hasta el dd/mm/aaaa»), antes de su título
+            pos1 = next((p for p, t in tits if t), None)
+            fin_tarjeta = ""
+            if pos1 is not None:
+                mf = re.findall(r"Hasta el (\d{1,2}/\d{1,2}/\d{4})", h[max(0, pos1 - 600):pos1])
+                fin_tarjeta = mf[-1] if mf else ""
             textos = [limpia(m) for m in re.findall(r'<span class="[^"]*">([^<]*de cashback[^<]*)</span>', h)][:2]
             a = re.search(r"\+\s*([\d.,]+)\s*%\s*Cashback", titulo)
             b = RE_TARJETA.match(tarjetas[0]) if tarjetas else None
@@ -63,7 +70,7 @@ for i, s in enumerate(slugs, 1):
                 if 0 < pct <= 100:
                     hasta = "1" if b.group(1) else "0"
                     habitual = f"{num(b.group(3)):g}" if b.group(3) else ""
-                    fin = b.group(4) or ""
+                    fin = b.group(4) or fin_tarjeta
                     cambios.append("|".join([s, f"{pct:g}", hasta, habitual, fin, "Título de la ficha: " + titulo.replace("|", "/"),
                                              "Tarjeta de la oferta: " + tarjetas[0].replace("|", "/")]))
     except Exception as e:  # ficha no leída: cuenta como fallo si estaba publicada

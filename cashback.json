@@ -441,6 +441,24 @@
       "HTML de la ficha: 4,23% (cabecera: hasta 4,23%)"
      ],
      "variante": "Compra online"
+    },
+    {
+     "plataforma": "Widilo",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/365rider",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 2,5 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 2,5 %"
+     ]
     }
    ]
   },
@@ -481,6 +499,24 @@
      "lecturas": [
       "Título de la ficha: 20% código descuento 3INA + 6 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 6 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "Widilo",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/3ina",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 6 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 6 %"
      ]
     }
    ]
@@ -655,6 +691,24 @@
       "Título de la ficha: Abacus cashback 6,4%",
       "Bloque de la ficha: Hasta el 6,4%"
      ]
+    },
+    {
+     "plataforma": "Widilo",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/abacus",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 4 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 4 %"
+     ]
     }
    ]
   },
@@ -788,6 +842,48 @@
       "HTML de la ficha: 2,80%"
      ],
      "variante": "Compra online"
+    },
+    {
+     "plataforma": "Widilo",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/about-you",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 4 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 4 %"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "accor-hoteles",
+   "nombre": "Accor Hoteles",
+   "filas": [
+    {
+     "plataforma": "Widilo",
+     "pct": 4.8,
+     "hasta_pct": false,
+     "habitual_pct": 4.8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/accor-hoteles",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 4,8 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 4,8 %"
+     ]
     }
    ]
   },
@@ -966,6 +1062,24 @@
      "lecturas": [
       "Título de la ficha: 10% código descuento Acer + 2,5 % Cashback / octubre",
       "Tarjeta de la oferta: 2,5 % de cashback"
+     ]
+    },
+    {
+     "plataforma": "Widilo",
+     "pct": 2.5,
+     "hasta_pct": false,
+     "habitual_pct": 2.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/acer",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 2,5 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 2,5 %"
      ]
     }
    ]
@@ -1325,6 +1439,24 @@
       "Título de la ficha: 35€ código descuento adidas + 5 % Cashback / octubre",
       "Tarjeta de la oferta: 5 % de cashback"
      ]
+    },
+    {
+     "plataforma": "Widilo",
+     "pct": 3.6,
+     "hasta_pct": false,
+     "habitual_pct": 3.6,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/adidas",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 3,6 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 3,6 %"
+     ]
     }
    ]
   },
@@ -1482,6 +1614,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 8%",
       "HTML de la ficha: 8% (cabecera: hasta 8%)"
+     ]
+    },
+    {
+     "plataforma": "Widilo",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/aeg",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 4 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 4 %"
      ]
     }
    ]
@@ -2049,6 +2199,24 @@
      "lecturas": [
       "Título de la ficha: Airalo cashback 12%",
       "Bloque de la ficha: Hasta el 12%"
+     ]
+    },
+    {
+     "plataforma": "Widilo",
+     "pct": 7.5,
+     "hasta_pct": false,
+     "habitual_pct": 7.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
+     "fin": null,
+     "fuente": "https://www.widilo.es/codigo-descuento/airalo",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título/meta de la ficha: 7,5 % cashback (título o meta de la ficha)",
+      "Datos de la ficha: cashback 7,5 %"
      ]
     }
    ]
@@ -6680,7 +6848,7 @@
      "leido": "2026-10-23",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 15% código descuento Avis + 4 % Cashback / octubre",
+      "Título de la ficha: 75€ código descuento Avis + 4 % Cashback / octubre",
       "Tarjeta de la oferta: 4 % de cashback"
      ]
     },
@@ -12321,7 +12489,7 @@
      "leido": "2026-10-23",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 50% código descuento Calvin Klein + 5 % Cashback / octubre",
+      "Título de la ficha: 30% código descuento Calvin Klein + 5 % Cashback / octubre",
       "Tarjeta de la oferta: 5 % de cashback"
      ]
     },
@@ -24885,7 +25053,7 @@
      "leido": "2026-10-23",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 3,50€ código descuento Entradas.com + 1 % Cashback / octubre",
+      "Título de la ficha: 45,50€ código descuento Entradas.com + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     },
@@ -28733,7 +28901,7 @@
      "leido": "2026-10-23",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 336€ código descuento Flex + 2,5 % Cashback / octubre",
+      "Título de la ficha: 999€ código descuento Flex + 2,5 % Cashback / octubre",
       "Tarjeta de la oferta: 2,5 % de cashback"
      ]
     },
@@ -36990,7 +37158,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htop-hotels",
+     "fuente": "https://es.beruby.com/htophotels",
      "leido": "2026-10-23",
      "doble_lectura": true,
      "lecturas": [
@@ -41060,6 +41228,24 @@
       "HTML de la ficha: 2% (cabecera: hasta 9%)"
      ],
      "variante": "Compra online o a través de la app (cliente recurrente)"
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 12.5,
+     "hasta_pct": true,
+     "habitual_pct": 12.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-10-25",
+     "fuente": "https://es.igraal.com/codigos-promocionales/just-eat",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 10€ código descuento Just Eat + 12,5 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 12,5 % de cashback"
+     ]
     }
    ]
   },
@@ -47871,7 +48057,7 @@
      "tope": null,
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2027-01-10",
+     "fin": "2026-10-25",
      "fuente": "https://es.igraal.com/codigos-promocionales/lookfantastic",
      "leido": "2026-10-23",
      "doble_lectura": true,
@@ -49608,6 +49794,24 @@
       "Título/meta de la ficha: 2,4 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2,4 %"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-10-23",
+     "fuente": "https://es.igraal.com/codigos-promocionales/mango-outlet",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 85% código promocional Mango Outlet + 3 % Cashback / oct.",
+      "Tarjeta de la oferta: 3 % de cashback"
+     ]
     }
    ]
   },
@@ -51062,24 +51266,6 @@
      "variante": "Reserva en Grand Mercure"
     },
     {
-     "plataforma": "Widilo",
-     "pct": 4.0,
-     "hasta_pct": false,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "+ bono de bienvenida de Widilo al registrarte (ver condiciones en la ficha).",
-     "fin": null,
-     "fuente": "https://www.widilo.es/codigo-descuento/mercure",
-     "leido": "2026-10-23",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título/meta de la ficha: 4 % cashback (título o meta de la ficha)",
-      "Datos de la ficha: cashback 4 %"
-     ]
-    },
-    {
      "plataforma": "iGraal",
      "pct": 6.0,
      "hasta_pct": false,
@@ -51717,24 +51903,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 5.0,
-     "hasta_pct": true,
-     "habitual_pct": 5.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-10-31",
-     "fuente": "https://es.igraal.com/codigos-promocionales/miin-cosmetics",
-     "leido": "2026-10-23",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 22% código descuento Miin Cosmetics + 5 % Cashback / oct.",
-      "Tarjeta de la oferta: Hasta 5 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Widilo",
      "pct": 2.5,
      "hasta_pct": false,
@@ -51750,6 +51918,24 @@
      "lecturas": [
       "Título/meta de la ficha: 2,5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2,5 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 7.5,
+     "hasta_pct": true,
+     "habitual_pct": 7.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-10-31",
+     "fuente": "https://es.igraal.com/codigos-promocionales/miin-cosmetics",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 22% código descuento Miin Cosmetics + 7,5 % Cashback / oct.",
+      "Tarjeta de la oferta: Hasta 7,5 % de cashback"
      ]
     }
    ]
@@ -57183,7 +57369,7 @@
      "leido": "2026-10-23",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10€ código promocional Oakley + 4 % Cashback / octubre",
+      "Título de la ficha: 50% código promocional Oakley + 4 % Cashback / octubre",
       "Tarjeta de la oferta: 4 % de cashback"
      ]
     },
@@ -58944,24 +59130,6 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 2.0,
-     "hasta_pct": false,
-     "habitual_pct": 2.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/ouigo",
-     "leido": "2026-10-23",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 15€ código promocional OUIGO + 2 % Cashback / octubre",
-      "Tarjeta de la oferta: 2 % de cashback"
      ]
     }
    ]
@@ -65971,7 +66139,7 @@
      "tope": null,
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2027-01-10",
+     "fin": "2026-10-25",
      "fuente": "https://es.igraal.com/codigos-promocionales/primor",
      "leido": "2026-10-23",
      "doble_lectura": true,
@@ -66803,7 +66971,7 @@
      "leido": "2026-10-23",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 70€ código descuento PUMA + 1 % Cashback / octubre",
+      "Título de la ficha: 20% código descuento PUMA + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     }
@@ -66979,6 +67147,24 @@
      "lecturas": [
       "Título/meta de la ficha: 1 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 1 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 1.0,
+     "hasta_pct": false,
+     "habitual_pct": 1.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-10-29",
+     "fuente": "https://es.igraal.com/codigos-promocionales/qatar-airways",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 20% código descuento Qatar Airways + 1 % Cashback / octubre",
+      "Tarjeta de la oferta: 1 % de cashback"
      ]
     }
    ]
@@ -71857,24 +72043,6 @@
       "HTML de la ficha: 0,75%"
      ],
      "variante": "Compra online utilizando cupones/códigos descuento"
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 4.5,
-     "hasta_pct": true,
-     "habitual_pct": 4.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/sensilab",
-     "leido": "2026-10-23",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% código descuento Sensilab + 4,5 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 4,5 % de cashback"
-     ]
     },
     {
      "plataforma": "TopCashback",
@@ -88741,6 +88909,24 @@
      "lecturas": [
       "Título/meta de la ficha: 1,8 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 1,8 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 6.0,
+     "hasta_pct": true,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-10-23",
+     "fuente": "https://es.igraal.com/codigos-promocionales/zooplus",
+     "leido": "2026-10-23",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 20% cupón zooplus + 6 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 6 % de cashback"
      ]
     }
    ]

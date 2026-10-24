@@ -3810,20 +3810,6 @@
    "leido": "2026-10-24"
   },
   {
-   "id": "2d968ff0298d",
-   "slug": "bbva",
-   "tienda": "BBVA",
-   "valor": "1.200€",
-   "tipo": "oferta",
-   "codigo": null,
-   "caduca": "2026-12-29",
-   "modificado_en_fuente": "2026-04-08",
-   "titulo": "¡Oferta! La Cuenta Online ofrece hasta 1.200€ a los nuevos clientes",
-   "acumulable": true,
-   "fuente": "https://www.widilo.es/codigo-descuento/bbva",
-   "leido": "2026-10-24"
-  },
-  {
    "id": "a0b1be5a6f66",
    "slug": "loop-earplugs",
    "tienda": "Loop Earplugs",

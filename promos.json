@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20",
+  "actualizado": "2026-10-25",
   "promos": [
     {
       "slug": "myinvestor",
@@ -257,7 +257,7 @@
       "requisitos": "Hacerte cliente con el código de un amigo hasta el 29/10/2026 (incluido); ingresar al menos 70 € en la cuenta y activar la tarjeta en los 30 días siguientes a abrirla; y que los dos tengáis Bizum en Openbank al menos 3 meses. Se cobra en tres pagos (30 €, 20 € y 20 €) entre los días 15 y 20 de cada mes; el 2.º y el 3.º exigen seguir con Bizum. No vale si fuiste cliente de Openbank en los 12 meses anteriores ni si te diste de alta en otra promoción de Bizum en los últimos 12 meses, y no se combina con OPEN275. Las bases consideran uso inadecuado publicar los códigos en redes, foros o webs, y Openbank puede no pagar o retirar lo abonado: aquí no hay código. Hay que declararlo en el IRPF.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-10-22",
+      "verificado": "2026-10-25",
       "caduca": "2026-10-29",
       "gana_corto": "70 €",
       "gana_sub": "en 3 pagos, con Bizum en Openbank 3 meses",
@@ -291,7 +291,7 @@
       "requisitos": "No ser cliente de BBVA ni haberlo sido en los últimos 6 meses; abrir la Cuenta Online Sin Comisiones o la Cuenta Nómina en bbva.es o la app (no vale con dos titulares); validar el código de un amigo cliente de BBVA durante el alta; usar Bizum; y hacer compras con la Tarjeta Aqua Débito que sumen 50 € en los 45 días siguientes (las preguntas frecuentes hablan de «un pago con tarjeta desde 50 €»). Si el invitado no cumple el segundo paso en plazo, los dos pierden el premio. Plan permanente, sin fecha de fin. La web no detalla cuándo se abona ni la fiscalidad: en verificación (mira las bases legales antes). Aquí no hay código.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-10-22",
+      "verificado": "2026-10-25",
       "gana_corto": "50 €",
       "gana_sub": "por usar la tarjeta; +400 € con nómina, autónomos o 15.000 €",
       "nota": {
@@ -323,7 +323,7 @@
       "requisitos": "Hay que estar registrado en Widilo, pulsar «Activar el cashback» en la ficha de N26 y abrir la cuenta en esa misma visita. Widilo no detalla en la ficha qué exige N26 para validar el cashback (cliente nuevo, ingreso mínimo, plazos): en verificación, pregunta a Widilo antes si te importa. El bono de referidos solo se paga cuando hay un cashback validado («cashback validado = bono para ti y tu referido»). Las reseñas de la propia ficha hablan de validaciones de entre 10 días y varias semanas, alguna tras abrir una incidencia. Aquí no hay enlace ni código.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-10-17",
+      "verificado": "2026-10-25",
       "gana_corto": "30 €",
       "gana_sub": "de cashback en Widilo al abrir N26 (+5 € de bono invitado)",
       "nota": {
@@ -357,7 +357,7 @@
       "requisitos": "Hay que apuntarse a la campaña entre el 23/04/2026 y el 30/10/2026 (en oficina, app o web) y aceptarla expresamente: sin esa adhesión no hay bonificación. Vale para clientes nuevos y actuales con Cuenta Santander, Cuenta Online, Cuenta Negocios o Cuenta Colectivos, siempre que no tuvieran la nómina, pensión o cuota de autónomos domiciliada en el banco antes de la campaña. En un máximo de 4 meses desde la adhesión hay que domiciliar uno de estos ingresos: nómina, pensión de la Seguridad Social, cuota de autónomos (o mutualidad alternativa admitida) o un ingreso recurrente de al menos 800 € en un único abono mensual por transferencia o cheque; varios abonos del mismo mes no se suman. Con la cuota de autónomos no se exige importe mínimo y cuenta como tramo alto. El pago es mes a mes y por partes: 15 € (ingresos desde 1.500 €) o 10 € (de 800 € a 1.499 €) por el ingreso, 10 € por hacer 3 envíos de Bizum al mes o 1 movimiento con una tarjeta de crédito Santander, y 10 € por tener 2 recibos mensuales domiciliados. Si un mes no entra el ingreso, ese mes no se cobra nada, y no se recupera después; los 24 meses cuentan desde el primer ingreso válido y no se alargan. Las bases dicen que no hay penalización por dejar de cumplir. El banco revisa el día 8 y paga en los primeros 15 días del mes. Importes brutos, con retención del 19 %. Solo cobra un titular por cuenta y es incompatible con otras campañas de nómina del banco. Aquí no hay enlace ni código.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-10-20",
+      "verificado": "2026-10-25",
       "gana_corto": "Hasta 840 €",
       "gana_sub": "brutos en 24 meses (680,40 € netos), a 35 € al mes como máximo",
       "nota": {
@@ -575,7 +575,7 @@
         "https://x.com/cazacash",
         "https://x.com/Robatiempoymas"
       ],
-      "verificado": "2026-10-22",
+      "verificado": "2026-10-25",
       "gana_corto": "10 €",
       "gana_sub": "por registrarte y hacer 3 pagos en 30 días (hasta 5 % de cashback)",
       "nota": {
@@ -603,7 +603,7 @@
       "enlace": "https://correosprepago.bnext.es/register?referral=JVG145",
       "estado": "publicada",
       "auto": true,
-      "verificado": "2026-10-22",
+      "verificado": "2026-10-25",
       "nota": {
         "tiempo": 1.5,
         "importe": 1.5,

@@ -13,7 +13,7 @@ data = json.loads((base / "promos.json").read_text(encoding="utf-8"))
 
 # Referidos que no son una promo de promos.json pero también deben pasar por /ir/ (cuentan clic y salen con tarjeta en X)
 EXTRA = [
-    {"slug": "widilo", "nombre": "Widilo", "enlace": "https://www.widilo.es/i/QA0BTS"},
+    {"slug": "widilo", "nombre": "Widilo", "enlace": "https://www.widilo.es/i/LUPAFINANZAS"},
     {"slug": "beruby", "nombre": "Beruby", "enlace": "https://es.beruby.com/promocode/lupafinanzas"},
 ]
 

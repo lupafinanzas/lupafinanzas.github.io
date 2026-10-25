@@ -1,21 +1,4 @@
 {
  "actualizado": "2026-10-25",
- "pendientes": [
-  {
-   "fila": "Privé by Zalando / TopCashback",
-   "motivo": [
-    "Privé by Zalando / TopCashback: cambio brusco 8.0 -> 30.0; marcar 'cambio_confirmado' tras revisarlo a mano"
-   ],
-   "leido_ahora": {
-    "pct": 30.0,
-    "lecturas": [
-     "Bloque de la ficha: Compra online - Excluyendo vouchers no válidos (hasta un máximo de 15€ de cashback y limitado a una compra por miembro) 30%",
-     "HTML de la ficha: 30% (cabecera: hasta 30%)"
-    ],
-    "fuente": "https://www.topcashback.es/prive-by-zalando/"
-   },
-   "se_publica": "valor anterior 8.0 %",
-   "fecha": "2026-10-25"
-  }
- ]
+ "pendientes": []
 }

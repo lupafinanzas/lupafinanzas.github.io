@@ -11979,6 +11979,23 @@
    "nombre": "Byrokko",
    "filas": [
     {
+     "plataforma": "mycashbacks",
+     "pct": 8.0,
+     "hasta_pct": true,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/byrokko/",
+     "leido": "2026-10-26",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: Byrokko cashback 8%",
+      "Bloque de la ficha: Hasta el 8%"
+     ]
+    },
+    {
      "plataforma": "Beruby",
      "pct": 9.8,
      "hasta_pct": false,

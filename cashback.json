@@ -5036,30 +5036,6 @@
    ]
   },
   {
-   "slug": "asmax",
-   "nombre": "ASMAX",
-   "filas": [
-    {
-     "plataforma": "Beruby",
-     "pct": 4.2,
-     "hasta_pct": false,
-     "habitual_pct": 4.2,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de Beruby: Compra online",
-     "fin": null,
-     "fuente": "https://es.beruby.com/asmax",
-     "leido": "2026-10-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra online 4,20%",
-      "HTML de la ficha: 4,20%"
-     ]
-    }
-   ]
-  },
-  {
    "slug": "asos",
    "nombre": "ASOS",
    "filas": [
@@ -7421,6 +7397,24 @@
      "lecturas": [
       "Título/meta de la ficha: 5,33 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 5,33 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 12.0,
+     "hasta_pct": false,
+     "habitual_pct": 12.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-10-27",
+     "fuente": "https://es.igraal.com/codigos-promocionales/banak",
+     "leido": "2026-10-26",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 100€ código descuento Banak + 12 % Cashback / octubre",
+      "Tarjeta de la oferta: 12 % de cashback"
      ]
     }
    ]
@@ -12245,6 +12239,24 @@
      "lecturas": [
       "Título/meta de la ficha: 3 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 14.0,
+     "hasta_pct": false,
+     "habitual_pct": 14.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-10-26",
+     "fuente": "https://es.igraal.com/codigos-promocionales/calvin-klein",
+     "leido": "2026-10-26",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 50% código descuento Calvin Klein + 14 % Cashback / octubre",
+      "Tarjeta de la oferta: 14 % de cashback"
      ]
     }
    ]
@@ -20682,7 +20694,7 @@
      "leido": "2026-10-26",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento Dooers + 3 % Cashback / octubre",
+      "Título de la ficha: 10% código descuento Dooers + 3 % Cashback / octubre",
       "Tarjeta de la oferta: 3 % de cashback"
      ]
     },
@@ -22040,6 +22052,24 @@
       "Título/meta de la ficha: 1,2 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 1,2 %"
      ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 3.0,
+     "hasta_pct": false,
+     "habitual_pct": 3.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-12-31",
+     "fuente": "https://es.igraal.com/codigos-promocionales/dyson",
+     "leido": "2026-10-26",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 300€ código promocional Dyson + 3 % Cashback / octubre",
+      "Tarjeta de la oferta: 3 % de cashback"
+     ]
     }
    ]
   },
@@ -22354,7 +22384,7 @@
      "leido": "2026-10-26",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10% cupón eBay + 1 % Cashback / octubre",
+      "Título de la ficha: 20% cupón eBay + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     }
@@ -26537,6 +26567,24 @@
       "HTML de la ficha: 1,40%"
      ],
      "variante": "Paquetes vacacionales / Reserva de paquete"
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 10.0,
+     "hasta_pct": true,
+     "habitual_pct": 10.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-10-27",
+     "fuente": "https://es.igraal.com/codigos-promocionales/expedia",
+     "leido": "2026-10-26",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 300€ cupón Expedia + 10 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 10 % de cashback"
+     ]
     }
    ]
   },
@@ -32446,7 +32494,7 @@
      "leido": "2026-10-26",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 5% código promocional Goldcar + 4 % Cashback / octubre",
+      "Título de la ficha: 25% código promocional Goldcar + 4 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 4 % de cashback"
      ]
     },
@@ -36794,7 +36842,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htop-hotels",
+     "fuente": "https://es.beruby.com/htophotels",
      "leido": "2026-10-26",
      "doble_lectura": true,
      "lecturas": [
@@ -40156,6 +40204,30 @@
    ]
   },
   {
+   "slug": "jerseys-navidenos",
+   "nombre": "Jerseys Navideños",
+   "filas": [
+    {
+     "plataforma": "Beruby",
+     "pct": 2.8,
+     "hasta_pct": false,
+     "habitual_pct": 2.8,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Por compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/jerseys-navidenos",
+     "leido": "2026-10-26",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Por compra online 2,80%",
+      "HTML de la ficha: 2,80%"
+     ]
+    }
+   ]
+  },
+  {
    "slug": "jetcamp",
    "nombre": "JetCamp",
    "filas": [
@@ -40864,6 +40936,24 @@
       "HTML de la ficha: 2% (cabecera: hasta 9%)"
      ],
      "variante": "Compra online o a través de la app (cliente recurrente)"
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 7.5,
+     "hasta_pct": true,
+     "habitual_pct": 7.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2026-10-29",
+     "fuente": "https://es.igraal.com/codigos-promocionales/just-eat",
+     "leido": "2026-10-26",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 10€ código descuento Just Eat + 7,5 % Cashback / octubre",
+      "Tarjeta de la oferta: Hasta 7,5 % de cashback"
+     ]
     }
    ]
   },
@@ -51546,7 +51636,7 @@
      "leido": "2026-10-26",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 22% código descuento Miin Cosmetics + 7,5 % Cashback / oct.",
+      "Título de la ficha: 22% código descuento MiiN Cosmetics + 7,5 % Cashback / oct.",
       "Tarjeta de la oferta: Hasta 7,5 % de cashback"
      ]
     }
@@ -66757,7 +66847,7 @@
      "leido": "2026-10-26",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento Qatar Airways + 1 % Cashback / octubre",
+      "Título de la ficha: 12% código descuento Qatar Airways + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     },
@@ -73949,7 +74039,7 @@
      "leido": "2026-10-26",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 22% código promocional Smartbox + 5 % Cashback / octubre",
+      "Título de la ficha: 25% código promocional Smartbox + 5 % Cashback / octubre",
       "Tarjeta de la oferta: 5 % de cashback"
      ]
     },
@@ -82823,24 +82913,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/under-armour",
-     "leido": "2026-10-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 15% código promocional Under Armour + 2,5 % Cashback / oct.",
-      "Tarjeta de la oferta: 2,5 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Widilo",
      "pct": 5.0,
      "hasta_pct": false,
@@ -82856,6 +82928,24 @@
      "lecturas": [
       "Título/meta de la ficha: 5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 5 %"
+     ]
+    },
+    {
+     "plataforma": "iGraal",
+     "pct": 4.0,
+     "hasta_pct": false,
+     "habitual_pct": 4.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de iGraal",
+     "fin": "2027-01-10",
+     "fuente": "https://es.igraal.com/codigos-promocionales/under-armour",
+     "leido": "2026-10-26",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: 15% código promocional Under Armour + 4 % Cashback / oct.",
+      "Tarjeta de la oferta: 4 % de cashback"
      ]
     }
    ]
@@ -88521,24 +88611,6 @@
      "lecturas": [
       "Título/meta de la ficha: 1,8 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 1,8 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 11.0,
-     "hasta_pct": true,
-     "habitual_pct": 11.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-10-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/zooplus",
-     "leido": "2026-10-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% cupón zooplus + 11 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 11 % de cashback"
      ]
     }
    ]

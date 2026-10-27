@@ -4121,9 +4121,9 @@
    "filas": [
     {
      "plataforma": "Beruby",
-     "pct": 4.9,
+     "pct": 3.5,
      "hasta_pct": false,
-     "habitual_pct": 4.9,
+     "habitual_pct": 3.5,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -4133,8 +4133,8 @@
      "leido": "2026-10-27",
      "doble_lectura": true,
      "lecturas": [
-      "Bloque de la ficha: Compra online 4,90%",
-      "HTML de la ficha: 4,90%"
+      "Bloque de la ficha: Compra online 3,50%",
+      "HTML de la ficha: 3,50%"
      ]
     }
    ]
@@ -4575,7 +4575,7 @@
      "leido": "2026-10-27",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 90% código promocional Álvarez + 4 % Cashback / octubre",
+      "Título de la ficha: 160€ código promocional Álvarez + 4 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 4 % de cashback"
      ]
     },
@@ -28251,6 +28251,50 @@
    ]
   },
   {
+   "slug": "fidelis",
+   "nombre": "Fidelis",
+   "filas": [
+    {
+     "plataforma": "Beruby",
+     "pct": 5.6,
+     "hasta_pct": false,
+     "habitual_pct": 5.6,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/fidelis",
+     "leido": "2026-10-27",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online (Nuevo usuario) 5,60%",
+      "HTML de la ficha: 5,60%"
+     ],
+     "variante": "Compra online"
+    },
+    {
+     "plataforma": "Beruby",
+     "pct": 2.1,
+     "hasta_pct": false,
+     "habitual_pct": 2.1,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/fidelis",
+     "leido": "2026-10-27",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online (Usuario existente) 2,10%",
+      "HTML de la ficha: 2,10%"
+     ],
+     "variante": "Compra online"
+    }
+   ]
+  },
+  {
    "slug": "fina-garcia",
    "nombre": "Fina García",
    "filas": [
@@ -36806,7 +36850,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htop-hotels",
+     "fuente": "https://es.beruby.com/htophotels",
      "leido": "2026-10-27",
      "doble_lectura": true,
      "lecturas": [
@@ -37054,24 +37098,6 @@
    "slug": "hurley",
    "nombre": "Hurley",
    "filas": [
-    {
-     "plataforma": "Beruby",
-     "pct": 5.6,
-     "hasta_pct": false,
-     "habitual_pct": 5.6,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de Beruby: Compra Online",
-     "fin": null,
-     "fuente": "https://es.beruby.com/hurley",
-     "leido": "2026-10-27",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra Online 5,60%",
-      "HTML de la ficha: 5,60%"
-     ]
-    },
     {
      "plataforma": "TopCashback",
      "pct": 8.0,
@@ -75388,24 +75414,6 @@
      ]
     },
     {
-     "plataforma": "Beruby",
-     "pct": 1.4,
-     "hasta_pct": false,
-     "habitual_pct": 1.4,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de Beruby: Compra online",
-     "fin": null,
-     "fuente": "https://es.beruby.com/sports-shoes",
-     "leido": "2026-10-27",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra online 1,40%",
-      "HTML de la ficha: 1,40%"
-     ]
-    },
-    {
      "plataforma": "iGraal",
      "pct": 1.0,
      "hasta_pct": false,
@@ -75457,6 +75465,24 @@
      "lecturas": [
       "Título/meta de la ficha: 1 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 1 %"
+     ]
+    },
+    {
+     "plataforma": "Beruby",
+     "pct": 0.7,
+     "hasta_pct": false,
+     "habitual_pct": 0.7,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/sports-shoes",
+     "leido": "2026-10-27",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 0,70%",
+      "HTML de la ficha: 0,70%"
      ]
     }
    ]
@@ -80984,7 +81010,7 @@
      "leido": "2026-10-27",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 15% código promocional TrainPal + 2,5 % Cashback / octubre",
+      "Título de la ficha: 10% código promocional TrainPal + 2,5 % Cashback / octubre",
       "Tarjeta de la oferta: 2,5 % de cashback"
      ]
     },
@@ -85193,7 +85219,7 @@
      "leido": "2026-10-27",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 100€ código descuento Vivo + 2,5 % Cashback / octubre",
+      "Título de la ficha: 50€ código descuento Vivo + 2,5 % Cashback / octubre",
       "Tarjeta de la oferta: 2,5 % de cashback"
      ]
     },

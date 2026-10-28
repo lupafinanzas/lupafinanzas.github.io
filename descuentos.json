@@ -2,6 +2,20 @@
  "actualizado": "2026-10-28",
  "descuentos": [
   {
+   "id": "8b6e8ad02423",
+   "slug": "edreams",
+   "tienda": "eDreams",
+   "valor": "300€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-28",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Ahorra hasta 300€ en tu alojamiento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/edreams",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "5fc654f6c29c",
    "slug": "iherb",
    "tienda": "iHerb",
@@ -86,6 +100,20 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "b5be143ce943",
+   "slug": "cash-converters",
+   "tienda": "Cash Converters",
+   "valor": "10%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-29",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Aniversario 10% en Cash Converters",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/cash-converters",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "dfbe78134cb9",
    "slug": "groupon",
    "tienda": "Groupon",
@@ -167,6 +195,20 @@
    "titulo": "50% de descuento en las rebajas de mitad de temporada",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/havaianas",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "a6c9b5be6ad6",
+   "slug": "yesstyle",
+   "tienda": "Yesstyle",
+   "valor": "15%",
+   "tipo": "codigo",
+   "codigo": "D26",
+   "caduca": "2026-10-30",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta un 15% de descuento adicional",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/yesstyle",
    "leido": "2026-10-28"
   },
   {
@@ -688,6 +730,20 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "2658720fb38b",
+   "slug": "hawkers",
+   "tienda": "Hawkers",
+   "valor": "50%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "50% DE DESCUENTO EN TODAS LAS GAFAS DE SOL",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/hawkers",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "1db49491d775",
    "slug": "iberostar",
    "tienda": "Iberostar",
@@ -727,6 +783,34 @@
    "titulo": "Hasta un 60% de descuento en Iberostar Mexico",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/iberostar",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "630eb3bb8327",
+   "slug": "kiehl-s",
+   "tienda": "Kiehl's",
+   "valor": "10€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "30% de descuento en todo + 10€ de descuento en compra de +165€",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/kiehl-s",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "d2a6740aee75",
+   "slug": "kiehl-s",
+   "tienda": "Kiehl's",
+   "valor": "5€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "30% de descuento en todo + 5€ de descuento en compra de +145€",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/kiehl-s",
    "leido": "2026-10-28"
   },
   {
@@ -828,6 +912,20 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "6ce7697bbdbe",
+   "slug": "n2naturalnutrition",
+   "tienda": "N2NaturalNutrition",
+   "valor": "25%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta -25% DTO en el Especial Halloween",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/n2naturalnutrition",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "38c3f7cb96f2",
    "slug": "paco-perfumerias",
    "tienda": "Paco Perfumerías",
@@ -926,6 +1024,20 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "612955377423",
+   "slug": "primor",
+   "tienda": "Primor",
+   "valor": "12%",
+   "tipo": "codigo",
+   "codigo": "N12",
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "12% de descuento en maquillaje de consumo y lujo",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/primor",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "290833c93f3b",
    "slug": "saludonnet",
    "tienda": "SaludOnNet",
@@ -951,6 +1063,34 @@
    "titulo": "Disfruta de un 15% de descuento en SLUSHi, CREAMi y Maquinas de café con el código",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/sharkninja",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "4dd5abd60eb3",
+   "slug": "sharkninja",
+   "tienda": "SharkNinja",
+   "valor": "15%",
+   "tipo": "codigo",
+   "codigo": "N15",
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Disfruta de un 15% de descuento en SLUSHi, CREAMi, Beauty, Aspiradoras sin cable y Maquinas de café con el código",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/sharkninja",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "b1e47ed13516",
+   "slug": "skechers",
+   "tienda": "Skechers",
+   "valor": "20%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Compra 2 y obtén un 20% de descuento en calzado infantil",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/skechers",
    "leido": "2026-10-28"
   },
   {
@@ -982,6 +1122,20 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "674bbffd6170",
+   "slug": "urban-outfitters",
+   "tienda": "Urban Outfitters",
+   "valor": "40%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "HASTA -40% de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/urban-outfitters",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "f6bda136394f",
    "slug": "vivo",
    "tienda": "Vivo",
@@ -993,6 +1147,20 @@
    "titulo": "Consigue 100€ de descuento exclusivo en el nuevo vivo X Fold6",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/vivo",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "fd7e4c2bff03",
+   "slug": "yves-rocher",
+   "tienda": "Yves Rocher",
+   "valor": "50%",
+   "tipo": "codigo",
+   "codigo": "V50",
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "-50% dto en el primer producto de la cesta con compras superiores a 15€",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/yves-rocher",
    "leido": "2026-10-28"
   },
   {
@@ -1049,6 +1217,76 @@
    "titulo": "Disfruta de hasta un 30% de descuento en una selección de productos de salud, bienestar, belleza y mucho más",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/atida-mifarma",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "472c2f4ef089",
+   "slug": "bstn",
+   "tienda": "BSTN",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "T20",
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-20",
+   "titulo": "Rebajas de Halloween del 20%",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/bstn",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "3ecfe23edfd1",
+   "slug": "el-corte-ingles",
+   "tienda": "El Corte Inglés",
+   "valor": "20%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta -20% En electrodomésticos integrables, frigoríficos americanos y cocción",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "e684031180d2",
+   "slug": "el-corte-ingles",
+   "tienda": "El Corte Inglés",
+   "valor": "40%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Exclusivo online BH Fitness, hasta un 40% de Dto",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "4f890a975a8e",
+   "slug": "el-corte-ingles",
+   "tienda": "El Corte Inglés",
+   "valor": "40%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta -40% de dto en Adidas",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "79481f8b4990",
+   "slug": "el-corte-ingles",
+   "tienda": "El Corte Inglés",
+   "valor": "40%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta un 40% de dto en Nike",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
    "leido": "2026-10-28"
   },
   {
@@ -1304,6 +1542,48 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "cc177874f2e8",
+   "slug": "miin-cosmetics",
+   "tienda": "MiiN Cosmetics",
+   "valor": "20%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "20% OFF en marcas seleccionadas",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/miin-cosmetics",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "530bb76af486",
+   "slug": "padel-nuestro",
+   "tienda": "Padel Nuestro",
+   "valor": "12%",
+   "tipo": "codigo",
+   "codigo": "W12",
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "12% de descuento en toda la web utilizando el código promocional",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/padel-nuestro",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "bdcb404d2b31",
+   "slug": "pccomponentes",
+   "tienda": "PcComponentes",
+   "valor": "70%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "HalloWin con descuentos de hasta 70%",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/pccomponentes",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "7eface359b2a",
    "slug": "samsung",
    "tienda": "Samsung",
@@ -1430,6 +1710,48 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "4ff50be99c36",
+   "slug": "sharkninja",
+   "tienda": "SharkNinja",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "F20",
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "-20% AIR FRYERS DUAL ZONE Y DOUBLE STACK",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/sharkninja",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "471eab443e3f",
+   "slug": "sharkninja",
+   "tienda": "SharkNinja",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "I20",
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "-20% en Ninja Slushi",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/sharkninja",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "a9b56b51104f",
+   "slug": "telepizza",
+   "tienda": "Telepizza",
+   "valor": "50%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-01",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "¡TELEPIZZAS AL 50%!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/telepizza",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "1acfc154fd99",
    "slug": "ugreen",
    "tienda": "UGREEN",
@@ -1455,6 +1777,62 @@
    "titulo": "Hasta un 30% de descuento en las Rebajas de Halloween",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/ugreen",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "3f869fc1bb88",
+   "slug": "europcar",
+   "tienda": "Europcar",
+   "valor": "15%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-02",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Rebajas de otoño: hasta un 15%",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/europcar",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "de4dde17342d",
+   "slug": "freshly-cosmetics",
+   "tienda": "Freshly Cosmetics",
+   "valor": "25%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-02",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "25% de descuento en todo",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/freshly-cosmetics",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "a9bb08afe8d4",
+   "slug": "ghd",
+   "tienda": "ghd",
+   "valor": "20%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-02",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta un 20% de descuento en productos seleccionados",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/ghd",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "d3280d39f60c",
+   "slug": "hofmann",
+   "tienda": "Hofmann",
+   "valor": "50%",
+   "tipo": "codigo",
+   "codigo": "DAD",
+   "caduca": "2026-11-02",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "-50% en calendarios en pedidos a partir de 35€",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/hofmann",
    "leido": "2026-10-28"
   },
   {
@@ -1668,6 +2046,20 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "3d31c7def730",
+   "slug": "emp",
+   "tienda": "EMP",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "OFF",
+   "caduca": "2026-11-03",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "¡20 % de descuento en (casi) TODO!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/emp",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "1a9c9c4672c5",
    "slug": "hertz",
    "tienda": "Hertz",
@@ -1679,6 +2071,20 @@
    "titulo": "Alquila un auto con hasta un 30% de descuento y participa para tener la oportunidad de ganar un pase doble",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/hertz",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "eb8708502990",
+   "slug": "iherb",
+   "tienda": "iHerb",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "PPS",
+   "caduca": "2026-11-03",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "20% de descuento en suplementos, solo en la app",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/iherb",
    "leido": "2026-10-28"
   },
   {
@@ -1749,6 +2155,20 @@
    "titulo": "20% de descuento en Esimflag",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/esim-flag",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "394d5e056d88",
+   "slug": "iherb",
+   "tienda": "iHerb",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "ILY",
+   "caduca": "2026-11-04",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "20% de descuento en magnesio",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/iherb",
    "leido": "2026-10-28"
   },
   {
@@ -1976,6 +2396,34 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "92e3e4451e64",
+   "slug": "el-corte-ingles",
+   "tienda": "El Corte Inglés",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "L20",
+   "caduca": "2026-11-08",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "-20% adicional con el cupón en palas de pádel Bullpadel, adidas, Babolat y más",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "f551136014b3",
+   "slug": "el-corte-ingles",
+   "tienda": "El Corte Inglés",
+   "valor": "20%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-08",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Descuentos TOP -20% adicional",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/el-corte-ingles",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "d47d6a0c8355",
    "slug": "el-corte-ingles",
    "tienda": "El Corte Inglés",
@@ -2001,6 +2449,20 @@
    "titulo": "El clásico MAMMA MIA desde 19.39€ ¡Canta la música de ABBA!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/entradas-com",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "0bdd8554902b",
+   "slug": "maisons-du-monde",
+   "tienda": "Maisons du Monde",
+   "valor": "50%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-09",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta un -50 % de descuento en una selección de productos Maisons du Monde",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/maisons-du-monde",
    "leido": "2026-10-28"
   },
   {
@@ -2172,6 +2634,34 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "ae5ccb20565a",
+   "slug": "forum-sport",
+   "tienda": "Forum Sport",
+   "valor": "40%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-11",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "HAPPY HALLOGYM: Hasta 40% EXTRA",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/forum-sport",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "c39f866466b4",
+   "slug": "atmosfera-sport",
+   "tienda": "Atmosfera Sport",
+   "valor": "50%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-15",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "50% en las mejores marcas deportivas: Nike, Brooks, Puma, ASICS, adidas",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/atmosfera-sport",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "6b59476824bf",
    "slug": "iherb",
    "tienda": "iHerb",
@@ -2253,6 +2743,20 @@
    "titulo": "¡Semanas de running con descuentos de hasta el 50%!",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/i-run",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "e03ca8ad9c4b",
+   "slug": "cortina-decor",
+   "tienda": "Cortina Decor",
+   "valor": "25%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-21",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta 25% de descuento",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/cortina-decor",
    "leido": "2026-10-28"
   },
   {
@@ -2536,6 +3040,48 @@
    "leido": "2026-10-28"
   },
   {
+   "id": "243aeaf2cecd",
+   "slug": "incapto",
+   "tienda": "Incapto",
+   "valor": "25%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta un 25% en café en grano",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/incapto",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "5ac94c2bb44e",
+   "slug": "incapto",
+   "tienda": "Incapto",
+   "valor": "30%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta un 30% en accesorios",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/incapto",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "c7eeb7a3548e",
+   "slug": "incapto",
+   "tienda": "Incapto",
+   "valor": "40%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta un 40% de descuento en cafeteras",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/incapto",
+   "leido": "2026-10-28"
+  },
+  {
    "id": "bbaa966de77d",
    "slug": "manomano",
    "tienda": "ManoMano",
@@ -2617,6 +3163,34 @@
    "titulo": "Ahorra hasta 150€ de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/oral-b",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "cf00b759c24f",
+   "slug": "oscaro",
+   "tienda": "Oscaro",
+   "valor": "15%",
+   "tipo": "codigo",
+   "codigo": "BRE",
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "15€ de descuento inmediato en tu primer pedido",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/oscaro",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "e9317975e2a8",
+   "slug": "pccomponentes",
+   "tienda": "PcComponentes",
+   "valor": "1.020€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-30",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Cómpralo el nuevo Iphone Duo desde 780€/mes, paga en 3 meses sin intereses con PayPal y ahórrate hasta 1.020€ entregando tu antiguo iPhone",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/pccomponentes",
    "leido": "2026-10-28"
   },
   {
@@ -2799,6 +3373,20 @@
    "titulo": "-20% de descuento a partir de 1 pulsera + 2 charms",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/pandora",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "c7153edb79c4",
+   "slug": "anycubic",
+   "tienda": "Anycubic",
+   "valor": "350€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-12-07",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Black Friday y Cyber Monday: ¡hasta 350 € de descuento!!!",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
    "leido": "2026-10-28"
   },
   {
@@ -3191,6 +3779,62 @@
    "titulo": "Canjea este cupón Amevista y obtén -40% en el segundo par de gafas",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/amevista",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "20e3e9956dcf",
+   "slug": "anycubic",
+   "tienda": "Anycubic",
+   "valor": "10€",
+   "tipo": "codigo",
+   "codigo": "M10",
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "10€ de descuento a partir de 100€ en toda la web con el código",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "c86be8005b79",
+   "slug": "anycubic",
+   "tienda": "Anycubic",
+   "valor": "15€",
+   "tipo": "codigo",
+   "codigo": "M15",
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "15€ de descuento a partir de 150€ en toda la web con el código",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "68e04b9b5d38",
+   "slug": "anycubic",
+   "tienda": "Anycubic",
+   "valor": "3€",
+   "tipo": "codigo",
+   "codigo": "CM3",
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "3€ de descuento a partir de 30€ en toda la web con el código",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "caec79e5d97a",
+   "slug": "anycubic",
+   "tienda": "Anycubic",
+   "valor": "5€",
+   "tipo": "codigo",
+   "codigo": "CM5",
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "5€ de descuento a partir de 50€ en toda la web con el código",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/anycubic",
    "leido": "2026-10-28"
   },
   {
@@ -4351,6 +4995,48 @@
    "caduca": "2026-12-31",
    "modificado_en_fuente": "2026-02-10",
    "titulo": "Disfruta de un 10% de rebaja con tu código descuento Vivo",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/vivo",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "12cf767f9116",
+   "slug": "vivo",
+   "tienda": "Vivo",
+   "valor": "454€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta 454€ de descuento por tiempo limitado en el X500 Pro",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/vivo",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "0e4738fbf1ca",
+   "slug": "vivo",
+   "tienda": "Vivo",
+   "valor": "50€",
+   "tipo": "codigo",
+   "codigo": "500",
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "50€ de descuento en todas las variantes de los nuevos lanzamientos X500 Pro y X500 Pro Max",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/vivo",
+   "leido": "2026-10-28"
+  },
+  {
+   "id": "1d1ef7e23201",
+   "slug": "vivo",
+   "tienda": "Vivo",
+   "valor": "604€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-12-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "Hasta 604€ de descuento por tiempo limitado en el Vivo X500 Pro Max",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/vivo",
    "leido": "2026-10-28"

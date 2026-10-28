@@ -5091,7 +5091,7 @@
      "leido": "2026-10-28",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento ASOS + 3 % Cashback / octubre",
+      "Título de la ficha: 25% código descuento ASOS + 3 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 3 % de cashback"
      ]
     },
@@ -71966,24 +71966,6 @@
      "lecturas": [
       "Título/meta de la ficha: 3 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 4.5,
-     "hasta_pct": true,
-     "habitual_pct": 4.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": null,
-     "fuente": "https://es.igraal.com/codigos-promocionales/sensilab",
-     "leido": "2026-10-28",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% código descuento Sensilab + 4,5 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 4,5 % de cashback"
      ]
     }
    ]

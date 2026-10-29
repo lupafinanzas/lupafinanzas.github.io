@@ -5115,7 +5115,7 @@
      "leido": "2026-10-29",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 20% código descuento ASOS + 3 % Cashback / octubre",
+      "Título de la ficha: 25% código descuento ASOS + 3 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 3 % de cashback"
      ]
     },
@@ -21709,7 +21709,7 @@
      "leido": "2026-10-29",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 10% código descuento Druni + 2 % Cashback / octubre",
+      "Título de la ficha: 5€ código descuento Druni + 2 % Cashback / octubre",
       "Tarjeta de la oferta: 2 % de cashback"
      ]
     },
@@ -22475,24 +22475,6 @@
      "lecturas": [
       "Título/meta de la ficha: 0,8 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 0,8 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 1.0,
-     "hasta_pct": false,
-     "habitual_pct": 1.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-04",
-     "fuente": "https://es.igraal.com/codigos-promocionales/ebay",
-     "leido": "2026-10-29",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 30€ cupón eBay + 1 % Cashback / octubre",
-      "Tarjeta de la oferta: 1 % de cashback"
      ]
     }
    ]
@@ -37085,7 +37067,7 @@
      "primera_compra": false,
      "detalle": "Tarifa de la ficha de Beruby: Reserva online",
      "fin": null,
-     "fuente": "https://es.beruby.com/htophotels",
+     "fuente": "https://es.beruby.com/htop-hotels",
      "leido": "2026-10-29",
      "doble_lectura": true,
      "lecturas": [
@@ -43085,24 +43067,6 @@
       "Título/meta de la ficha: 5,4 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 5,4 %"
      ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 14.0,
-     "hasta_pct": true,
-     "habitual_pct": 14.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-10-30",
-     "fuente": "https://es.igraal.com/codigos-promocionales/kiwoko",
-     "leido": "2026-10-29",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 15€ cupón Kiwoko + 14 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 14 % de cashback"
-     ]
     }
    ]
   },
@@ -46201,6 +46165,30 @@
      "lecturas": [
       "Título/meta de la ficha: 3,75 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3,75 %"
+     ]
+    }
+   ]
+  },
+  {
+   "slug": "levoit",
+   "nombre": "Levoit",
+   "filas": [
+    {
+     "plataforma": "Beruby",
+     "pct": 4.9,
+     "hasta_pct": false,
+     "habitual_pct": 4.9,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/levoit",
+     "leido": "2026-10-29",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online 4,90%",
+      "HTML de la ficha: 4,90%"
      ]
     }
    ]
@@ -64666,7 +64654,7 @@
      "leido": "2026-10-29",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: Regalo código promocional Pikolinos + 6 % Cashback / octubre",
+      "Título de la ficha: 30% código promocional Pikolinos + 6 % Cashback / octubre",
       "Tarjeta de la oferta: Hasta 6 % de cashback"
      ]
     },
@@ -66862,7 +66850,7 @@
      "leido": "2026-10-29",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 30% código descuento PUMA + 1 % Cashback / octubre",
+      "Título de la ficha: 20% código descuento PUMA + 1 % Cashback / octubre",
       "Tarjeta de la oferta: 1 % de cashback"
      ]
     }
@@ -73516,6 +73504,50 @@
    ]
   },
   {
+   "slug": "sixty8",
+   "nombre": "Sixty8",
+   "filas": [
+    {
+     "plataforma": "Beruby",
+     "pct": 14.0,
+     "hasta_pct": false,
+     "tipo": "bienvenida",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/sixty8",
+     "leido": "2026-10-29",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online (cliente nuevo) 14,00%",
+      "HTML de la ficha: 14,00%"
+     ],
+     "variante": "Compra online",
+     "solo_clientes_nuevos": true
+    },
+    {
+     "plataforma": "Beruby",
+     "pct": 3.5,
+     "hasta_pct": false,
+     "habitual_pct": 3.5,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de Beruby: Compra online",
+     "fin": null,
+     "fuente": "https://es.beruby.com/sixty8",
+     "leido": "2026-10-29",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: Compra online (cliente recurrente) 3,50%",
+      "HTML de la ficha: 3,50%"
+     ],
+     "variante": "Compra online"
+    }
+   ]
+  },
+  {
    "slug": "skatepro",
    "nombre": "SKATEPRO",
    "filas": [
@@ -78514,6 +78546,24 @@
       "Bloque de la ficha: Por compra online 2,10%",
       "HTML de la ficha: 2,10%"
      ]
+    },
+    {
+     "plataforma": "TopCashback",
+     "pct": 6.0,
+     "hasta_pct": false,
+     "habitual_pct": 6.0,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Tarifa de la ficha de TopCashback: En la compra online de bicicletas eléctricas.",
+     "fin": null,
+     "fuente": "https://www.topcashback.es/tenways/",
+     "leido": "2026-10-29",
+     "doble_lectura": true,
+     "lecturas": [
+      "Bloque de la ficha: En la compra online de bicicletas eléctricas. 6%",
+      "HTML de la ficha: 6% (cabecera: hasta 6%)"
+     ]
     }
    ]
   },
@@ -78601,7 +78651,7 @@
      "leido": "2026-10-29",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: Envío código descuento Teufel + 4 % Cashback / octubre",
+      "Título de la ficha: 200€ código descuento Teufel + 4 % Cashback / octubre",
       "Tarjeta de la oferta: 4 % de cashback"
      ]
     },
@@ -79809,24 +79859,6 @@
       "Título/meta de la ficha: 4,2 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 4,2 %"
      ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 12.0,
-     "hasta_pct": true,
-     "habitual_pct": 12.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-10-29",
-     "fuente": "https://es.igraal.com/codigos-promocionales/tiendanimal",
-     "leido": "2026-10-29",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 25% cupón Tiendanimal + 12 % Cashback / octubre",
-      "Tarjeta de la oferta: Hasta 12 % de cashback"
-     ]
     }
    ]
   },
@@ -80949,7 +80981,7 @@
      "leido": "2026-10-29",
      "doble_lectura": true,
      "lecturas": [
-      "Título de la ficha: 283€ código descuento Trainline + 0,5 % Cashback / octubre",
+      "Título de la ficha: 20% código descuento Trainline + 0,5 % Cashback / octubre",
       "Tarjeta de la oferta: 0,5 % de cashback"
      ]
     },

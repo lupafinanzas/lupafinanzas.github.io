@@ -128,6 +128,20 @@
    "leido": "2026-10-29"
   },
   {
+   "id": "295f3f131d4d",
+   "slug": "3ina",
+   "tienda": "3INA",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "N20",
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-28",
+   "titulo": "-20% EN TODA LA WEB",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/3ina",
+   "leido": "2026-10-29"
+  },
+  {
    "id": "120964a8e43a",
    "slug": "aliexpress",
    "tienda": "AliExpress",
@@ -417,6 +431,20 @@
    "caduca": "2026-10-31",
    "modificado_en_fuente": "2026-10-05",
    "titulo": "-20% en productos exclusivos Cult Beauty",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/cult-beauty",
+   "leido": "2026-10-29"
+  },
+  {
+   "id": "a989c947c112",
+   "slug": "cult-beauty",
+   "tienda": "Cult Beauty",
+   "valor": "20%",
+   "tipo": "codigo",
+   "codigo": "NEW",
+   "caduca": "2026-10-31",
+   "modificado_en_fuente": "2026-10-29",
+   "titulo": "Elige un producto de maquillaje, cuidado de la piel y cabello para crear tu rutina, y llévate una tarjeta regalo de 10€ gratis + 20% de descuento",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/cult-beauty",
    "leido": "2026-10-29"
@@ -2130,6 +2158,20 @@
    "leido": "2026-10-29"
   },
   {
+   "id": "3c577e047e76",
+   "slug": "decimas",
+   "tienda": "Decimas",
+   "valor": "6€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-03",
+   "modificado_en_fuente": "2026-10-29",
+   "titulo": "¡Promo Halloween! 6€ de descuento al comprar 2 o más artículos por un importe superior a 50€",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/decimas",
+   "leido": "2026-10-29"
+  },
+  {
    "id": "3d31c7def730",
    "slug": "emp",
    "tienda": "EMP",
@@ -2197,6 +2239,20 @@
    "titulo": "Hasta un 50% en ropa y accesorios Oakley al suscribirte a MVPDAYS",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/oakley",
+   "leido": "2026-10-29"
+  },
+  {
+   "id": "ecbc658c63b8",
+   "slug": "polinesia",
+   "tienda": "Polinesia",
+   "valor": "6€",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-11-03",
+   "modificado_en_fuente": "2026-10-29",
+   "titulo": "¡Promo Halloween! 6€ de descuento al comprar 2 o más artículos por un importe superior a 50€",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/polinesia",
    "leido": "2026-10-29"
   },
   {
@@ -3569,6 +3625,20 @@
    "titulo": "Disfruta de hasta un 65% de descuento en colchones",
    "acumulable": true,
    "fuente": "https://www.widilo.es/codigo-descuento/emma",
+   "leido": "2026-10-29"
+  },
+  {
+   "id": "c0d880a1146b",
+   "slug": "herman-miller",
+   "tienda": "Herman Miller",
+   "valor": "25%",
+   "tipo": "oferta",
+   "codigo": null,
+   "caduca": "2026-12-07",
+   "modificado_en_fuente": "2026-10-29",
+   "titulo": "25% de descuento en las Rebajas del Black Friday",
+   "acumulable": true,
+   "fuente": "https://www.widilo.es/codigo-descuento/herman-miller",
    "leido": "2026-10-29"
   },
   {

@@ -387,5 +387,213 @@
    ]
   ],
   "cierre": "<p>En esta web publicamos de dónde sale cada dato y cómo lo comprobamos: <a href=\"../../como-lo-hacemos.html\">cómo lo hacemos</a>.</p>"
+ },
+ {
+  "slug": "plan-amigo-myinvestor",
+  "fecha": "2026-11-14",
+  "titulo": "Plan Amigo MyInvestor: cómo funciona, condiciones y plazos",
+  "descripcion": "Qué pide el Plan Amigo de MyInvestor para cobrar los 25 € brutos cada uno, en qué plazo, cuánto queda neto y qué conviene mirar antes de abrir la cuenta.",
+  "bloques": [
+   {
+    "html": "<p>El Plan Amigo de MyInvestor es un programa de invitación: si te abres una cuenta con el código de un conocido, los dos podéis cobrar 25 € brutos. No es un regalo por abrir la cuenta sin más: hay que cumplir una condición y hacerlo a tiempo. Esto es lo que dicen sus condiciones, leídas por última vez el 16/10/2026 en su página oficial de preguntas frecuentes.</p>"
+   },
+   {
+    "h": "Cuánto se cobra: bruto y neto",
+    "html": "<p>La recompensa es de <b>25 € brutos para ti y 25 € brutos para quien te invita</b>. Con la retención del 19 % que se aplica, quedan <b>20,25 € netos</b> para cada uno (25 × 0,81). Es decir, hablamos de unos 20 € reales por persona, no de 25.</p><div class=\"caja\"><b>Nota Real:</b> es una promo pequeña pero sencilla: importe fijo, plazo claro y sin permanencia. Pensada para quien ya iba a abrir una cuenta de inversión, no para abrirla solo por 20 €.</div>"
+   },
+   {
+    "h": "Qué tienes que hacer",
+    "html": "<p>Tú y tu amigo tenéis que cumplir <b>una</b> de estas condiciones durante los 3 primeros meses desde la apertura de la cuenta:</p><ul><li>Invertir 100 € (cartera indexada, fondos, planes de pensiones, acciones o ETFs).</li><li>Tener 1.000 € en efectivo en la cuenta.</li><li>Contratar un depósito.</li></ul><p>No hace falta cumplir las tres: basta una. Según sus preguntas frecuentes, el abono se ingresa en tu cuenta de MyInvestor en el mes en que cumples la condición (el primero, el segundo o el tercero desde la apertura).</p>"
+   },
+   {
+    "h": "Plazos que no conviene dejar pasar",
+    "html": "<ul><li><b>3 meses</b> desde la apertura para cumplir la condición. Pasado ese tiempo, no cuenta.</li><li>Las bases del plan que hemos leído lo dan vigente hasta el <b>31/12/2026</b>.</li><li>Si en el momento del abono tu cuenta está en descubierto, MyInvestor puede no abonarlo.</li></ul><p>Apunta la fecha de apertura en el calendario: el error más común con cualquier promo de plazo es descubrir que ya pasó.</p>"
+   },
+   {
+    "h": "¿Hay que mantener la inversión?",
+    "html": "<p>Según su página oficial, no hace falta mantener la inversión una vez recibido el abono. Aun así, lo que inviertas es tu dinero y tiene riesgo: invertir 100 € solo para cumplir la promo no es una razón para elegir un producto. Si no vas a invertir, la opción de tener 1.000 € en efectivo en la cuenta es la alternativa.</p>"
+   },
+   {
+    "h": "Límite para quien invita",
+    "html": "<p>Cada persona puede invitar hasta <b>60 amigos</b>, es decir, hasta 1.500 € brutos. Es un tope razonable, pero recuerda que cada invitado tiene que cumplir su condición para que cobréis los dos.</p><div class=\"caja\"><b>Publicidad.</b> Si quieres probarlo, puedes abrir tu cuenta con <a href=\"../../ir/myinvestor/?x=1114\" rel=\"noopener sponsored nofollow\">mi invitación de MyInvestor</a>; yo recibo una recompensa si cumples las condiciones. Léelas antes de empezar, porque pueden cambiar.</div>"
+   },
+   {
+    "h": "Antes de abrir la cuenta",
+    "html": "<ul><li>Lee las condiciones oficiales en la <a href=\"https://myinvestor.es/ayuda/preguntas-frecuentes/plan-amigo/\" rel=\"noopener nofollow\">página de preguntas frecuentes del Plan Amigo</a>: es la fuente que prevalece sobre esta guía.</li><li>Decide cuál de las tres condiciones vas a cumplir y cuándo.</li><li>Comprueba que no se solapa con otra promo en la que vayas a participar: lo vemos en <a href=\"../varias-promos-de-bancos-a-la-vez/\">cómo organizar varias promos de bancos</a>.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuánto cobro realmente con el Plan Amigo de MyInvestor?",
+    "25 € brutos. Con la retención del 19 % que indican sus condiciones, quedan 20,25 € netos."
+   ],
+   [
+    "¿En cuánto tiempo hay que cumplir la condición?",
+    "En los 3 primeros meses desde la apertura de la cuenta. El abono se hace en el mes en que se cumple, según sus preguntas frecuentes."
+   ],
+   [
+    "¿Tengo que mantener la inversión después de cobrar?",
+    "Según su página oficial de preguntas frecuentes, no es necesario mantenerla una vez recibido el abono."
+   ],
+   [
+    "¿Cuántos amigos puedo invitar?",
+    "Hasta 60 por persona, con un máximo de 1.500 € brutos, según sus condiciones."
+   ]
+  ],
+  "cierre": "<p>Si ya has decidido qué abrir, el <a href=\"../../planificador.html\">planificador de promos</a> te ordena las vigentes según tu situación, y el <a href=\"../../comparador.html\">comparador</a> sirve para el cashback.</p>"
+ },
+ {
+  "slug": "varias-promos-de-bancos-a-la-vez",
+  "fecha": "2026-11-14",
+  "titulo": "¿Se pueden hacer varias promos de bancos a la vez?",
+  "descripcion": "Cómo organizar varias promos de bancos: qué se puede combinar, qué no, por qué solo una nómina cuenta a la vez y cómo ordenar los plazos para no perder ninguna.",
+  "bloques": [
+   {
+    "html": "<p>Sí, se pueden hacer varias promos de bancos a la vez, pero no todas son compatibles entre sí y casi todas tienen plazos. La clave no es acumular el máximo, sino ordenarlas para no perder ninguna por un plazo ni quedarte atado a algo que no querías. Esta guía se basa en las condiciones de las promos que seguimos en la web.</p>"
+   },
+   {
+    "h": "Qué suele ser compatible",
+    "html": "<p>Las promos que piden cosas distintas y no se pisan suelen poder hacerse en paralelo: por ejemplo, un cashback de una plataforma, una promo que solo pide invertir 100 € y una de invitación en otro banco. Cada una tiene sus requisitos, y mientras no compartan el mismo requisito, normalmente no se estorban. Aun así, hay que leer la letra pequeña de cada una.</p>"
+   },
+   {
+    "h": "Qué no se puede combinar",
+    "html": "<p>Las condiciones que hemos leído muestran los tipos de choque más habituales:</p><ul><li><b>Otras promos del mismo banco.</b> Las bases de Openbank Plan Amigo dicen que no se combina con OPEN275 y que no vale si te diste de alta en otra promoción de Bizum en los últimos 12 meses.</li><li><b>Promos de domiciliación anteriores.</b> imagin excluye la nómina que venga de otra cuenta de CaixaBank y la oferta no se acumula a otras promociones de domiciliación de ingresos posteriores al 01/01/2024.</li><li><b>Haber sido cliente.</b> BBVA exige no ser ni haber sido cliente en los últimos 6 meses; Openbank, no haberlo sido en los 12 anteriores; ABANCA, no ser cliente.</li></ul><p>Moraleja: antes de abrir una cuenta nueva, comprueba si tu historial con ese banco la deja fuera.</p>"
+   },
+   {
+    "h": "Una sola nómina domiciliada a la vez",
+    "html": "<p>Una nómina solo se ingresa en una cuenta. Por tanto, las promos que premian domiciliarla (ABANCA, imagin, Unicaja, BBVA con nómina, etc.) compiten entre sí: solo puedes cobrar una a la vez con la misma nómina. Y ojo con la permanencia: ABANCA, por ejemplo, abona su incentivo pero pide mantener la nómina 24 meses, y si la retiras antes te reclama la parte proporcional. Mover la nómina cada pocos meses para cazar premios suele salir peor de lo que parece.</p><div class=\"caja\"><b>Nota Real:</b> elige UNA promo de nómina, la que mejor encaje con tu sueldo y con el tiempo que estás dispuesto a mantenerla, y haz el resto con promos que no la necesiten.</div>"
+   },
+   {
+    "h": "Cómo ordenarlas",
+    "html": "<ol><li><b>Por fecha de fin.</b> Las que caducan antes, primero (hoy, por ejemplo, la cuenta remunerada de Kutxabank pide activarla hasta el 22/11/2026 y Openbank Plan Amigo, hasta el 30/11/2026).</li><li><b>Por plazo interno.</b> Algunas tienen ventana propia tras abrir la cuenta: en el Plan Amigo de MyInvestor son 3 meses; en Openbank, ingresar 70 € y activar la tarjeta en 30 días.</li><li><b>Por dinero que inmovilizas.</b> No las apiles si necesitas ese dinero.</li><li><b>Por permanencia.</b> Las que te atan meses, al final y solo si las quieres de verdad.</li></ol>"
+   },
+   {
+    "h": "Plazos y calendario",
+    "html": "<p>Anota cada promo con tres fechas: último día para abrirla, último día para cumplir la condición y día esperado del abono. Con dos o tres promos en marcha, un simple calendario evita la mayoría de pérdidas. Y no olvides que muchos importes son brutos: el neto es menor, lo vemos en <a href=\"../bono-bienvenida-banco-como-tributa/\">cómo tributa un bono de bienvenida</a>.</p>"
+   },
+   {
+    "h": "Lo que no recomendamos",
+    "html": "<p>No recomendamos abrir cuentas solo por el premio si no las vas a usar, ni endeudarte o mover dinero que necesitas. Una promo que exige cambiar tu vida financiera no es dinero fácil.</p><div class=\"caja\"><b>Publicidad.</b> Una de las que no exige domiciliar nada es el Plan Amigo de MyInvestor; puedes entrar con <a href=\"../../ir/myinvestor/?x=1114\" rel=\"noopener sponsored nofollow\">mi invitación</a> (25 € brutos cada uno si cumplís una condición en 3 meses). Yo recibo una recompensa si lo haces.</div>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Puedo hacer dos promos de bancos a la vez?",
+    "Sí, si piden cosas distintas y sus bases no se excluyen. Hay que mirar en cada una si se combina con otras del mismo banco."
+   ],
+   [
+    "¿Puedo cobrar dos promos de nómina con la misma nómina?",
+    "No: una nómina solo se domicilia en una cuenta, así que las promos de nómina compiten entre sí."
+   ],
+   [
+    "¿Qué pasa si cambio la nómina antes de tiempo?",
+    "Depende de la promo. ABANCA, por ejemplo, pide mantenerla 24 meses y reclama la parte proporcional si la retiras antes."
+   ],
+   [
+    "¿Cómo sé cuáles me encajan?",
+    "Marca tu situación en el planificador de promos y verás solo las vigentes que encajan contigo, ordenadas por plazo."
+   ]
+  ],
+  "cierre": "<p>Si ya has decidido qué abrir, el <a href=\"../../planificador.html\">planificador de promos</a> te ordena las vigentes según tu situación, y el <a href=\"../../comparador.html\">comparador</a> sirve para el cashback.</p>"
+ },
+ {
+  "slug": "bono-bienvenida-banco-como-tributa",
+  "fecha": "2026-11-14",
+  "titulo": "Bono de bienvenida de un banco: retención, bruto y neto",
+  "descripcion": "Qué significan bruto y neto en un bono de bienvenida bancario, cómo se aplica la retención del 19 % y por qué debes mirar las condiciones de la entidad.",
+  "bloques": [
+   {
+    "html": "<p>Cuando un banco regala 25, 70 o 500 euros por hacerte cliente, la cifra del titular no siempre es lo que te llega. Esta guía explica la diferencia entre bruto y neto con los ejemplos de las promos que seguimos. <b>No es asesoramiento fiscal</b>: solo recogemos lo que dicen las condiciones de cada entidad y te remitimos a quien puede confirmarlo.</p>"
+   },
+   {
+    "h": "Bruto y neto en una frase",
+    "html": "<p>El <b>importe bruto</b> es el premio antes de impuestos; el <b>neto</b> es lo que ingresan en tu cuenta tras aplicar la retención. Si una promo no dice cuál es, mira sus bases.</p>"
+   },
+   {
+    "h": "La retención del 19 %, con ejemplos reales",
+    "html": "<p>En las condiciones que hemos leído, varias entidades mencionan una retención del 19 %:</p><ul><li><b>MyInvestor (Plan Amigo):</b> 25 € brutos; con la retención del 19 % quedan 20,25 € netos.</li><li><b>ABANCA (Cuenta Online Nómina):</b> 500 € brutos equivalen a 405 € netos, que es exactamente restar el 19 %.</li><li><b>Openbank (Plan Amigo):</b> según Openbank, el importe de 70 € es neto: aplica la retención y te ingresa el resultado.</li></ul><p>La cuenta es simple: bruto × 0,81 = neto. Es decir, un bono de 100 € brutos son 81 € netos.</p>"
+   },
+   {
+    "h": "Aun con retención, puede haber que declararlo",
+    "html": "<p>Que te retengan no siempre cierra el asunto. Algunas entidades avisan expresamente: Openbank indica en sus bases que hay que declararlo en el IRPF, y imagin dice que sus importes pueden afectar a tu declaración de la renta; su cupón de 50 € tributa en el IRPF. Cómo se declara en tu caso concreto depende de tu situación, y no podemos decírtelo aquí.</p>"
+   },
+   {
+    "h": "Dónde confirmarlo",
+    "html": "<ul><li><b>Las condiciones o bases legales de la propia entidad</b>: dicen si el importe es bruto o neto.</li><li><b>La <a href=\"https://sede.agenciatributaria.gob.es/\" rel=\"noopener nofollow\">Agencia Tributaria</a></b>, que es quien establece cómo se tributa y se declara.</li><li>Un asesor fiscal, si la cantidad es relevante o tu situación es compleja.</li></ul>"
+   },
+   {
+    "h": "Cómo lo tenemos en cuenta",
+    "html": "<p>En las fichas de promos mostramos el importe tal como lo publica cada banco y, cuando lo dice, indicamos si es bruto o neto. Por eso ves cosas como «25 € brutos» o «405 € netos»: no mezclamos las dos cifras. Y al calcular la Nota Real pesa lo que te queda, no el titular.</p><div class=\"caja\"><b>Nota Real:</b> una promo de 25 € brutos son unos 20 € netos. Sigue valiendo la pena si ya ibas a usar la cuenta; no si abres cuentas solo por el premio.</div><div class=\"caja\"><b>Publicidad.</b> Un ejemplo de bono pequeño con cifras claras es el <a href=\"../plan-amigo-myinvestor/\">Plan Amigo de MyInvestor</a>; puedes registrarte con <a href=\"../../ir/myinvestor/?x=1114\" rel=\"noopener sponsored nofollow\">mi invitación</a> y yo recibo una recompensa si cumples las condiciones.</div>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Qué diferencia hay entre bono bruto y neto?",
+    "El bruto es el premio antes de impuestos; el neto es lo que te ingresan tras aplicar la retención. Las bases de cada promo indican cuál se anuncia."
+   ],
+   [
+    "¿Cuánto me queda de un bono con retención del 19 %?",
+    "El 81 % del bruto. Por ejemplo, 25 € brutos son 20,25 € netos y 500 € brutos son 405 €, según las condiciones de MyInvestor y ABANCA."
+   ],
+   [
+    "¿Tengo que declarar el bono en la renta?",
+    "Algunas entidades, como Openbank, indican en sus bases que hay que declararlo en el IRPF. Consulta a la Agencia Tributaria o a un asesor para tu caso."
+   ],
+   [
+    "¿Esto es asesoramiento fiscal?",
+    "No. Solo recogemos lo que dicen las condiciones de cada entidad; la tributación de tu caso debes confirmarla con la Agencia Tributaria."
+   ]
+  ],
+  "cierre": "<p>Si ya has decidido qué abrir, el <a href=\"../../planificador.html\">planificador de promos</a> te ordena las vigentes según tu situación, y el <a href=\"../../comparador.html\">comparador</a> sirve para el cashback.</p>"
+ },
+ {
+  "slug": "igraal-vs-topcashback-vs-widilo",
+  "fecha": "2026-11-14",
+  "titulo": "iGraal vs TopCashback vs Widilo: cuál compensa",
+  "descripcion": "Diferencias entre iGraal, TopCashback y Widilo según nuestros datos: tiendas cubiertas, bonos de registro y condiciones. Sin porcentajes inventados.",
+  "bloques": [
+   {
+    "html": "<p>No hay una plataforma de cashback que siempre pague más. Cuál compensa depende de la tienda, del día y de si eres cliente nuevo. Aquí comparamos iGraal, TopCashback y Widilo solo con los datos que leemos en sus fichas públicas (últimas lecturas del 12/11/2026) y con las condiciones de sus bonos de registro.</p>"
+   },
+   {
+    "h": "Qué tiendas cubre cada una",
+    "html": "<p>En nuestro comparador, a 12/11/2026, tenemos fichas leídas de <b>Widilo en 497 tiendas</b>, <b>TopCashback en 286</b> e <b>iGraal en 252</b>; 137 tiendas aparecen en las tres. No son los catálogos completos de cada plataforma, sino las tiendas que seguimos. Lo útil es que, si tu tienda está en varias, puedes comparar el porcentaje exacto.</p>"
+   },
+   {
+    "h": "Qué cambia entre ellas",
+    "html": "<ul><li><b>TopCashback</b> suele separar la tarifa de cliente nuevo y la de cliente recurrente en la misma tienda: por eso el porcentaje que ves puede no ser el tuyo si ya has comprado allí.</li><li><b>Widilo</b> anuncia subidas temporales (en nuestra última lectura, en 37 tiendas) y muchas veces no indican fecha de fin.</li><li><b>iGraal</b> marca algunas tarifas como «hasta», es decir, un máximo que no siempre corresponde a tu compra.</li></ul><p>Un ejemplo ilustrativo, a 12/11/2026 y sin que valga como regla: en Decathlon vimos 5 % en TopCashback, 3 % en iGraal y 2 % en Widilo; en Fnac, 8 % en TopCashback, 5 % («hasta») en iGraal y 3 % en Widilo. Cambian a diario: la tabla del día está en el comparador.</p>"
+   },
+   {
+    "h": "Bonos de registro",
+    "html": "<ul><li><b>iGraal:</b> bono de 11 € con un pedido de al menos 12,40 € (antes de IVA y sin envío) en los 90 días siguientes al registro; se abona con el primer cashback validado. Leído el 07/11/2026.</li><li><b>TopCashback:</b> 5 € si te registras con invitación hasta el 31/12/2026 y ganas al menos 5 € de cashback en 180 días. Condiciones leídas el 16/10/2026.</li><li><b>Widilo:</b> tiene bono de bienvenida y programa de referidos (5 € para quien se registra invitado, 3 € para quien invita), pero el bono solo se paga cuando hay un cashback validado. Leído el 10/11/2026.</li></ul><p>Ninguno es dinero sin hacer nada: en todos hay que comprar algo, y los importes cambian con las campañas.</p>"
+   },
+   {
+    "h": "Cobros",
+    "html": "<p>Aquí tenemos poca información comparable: de TopCashback sabemos que se retira por transferencia bancaria o PayPal, y de Widilo, que las reseñas de algunas fichas hablan de validaciones de entre 10 días y varias semanas. De iGraal no tenemos un plazo publicado. Por eso no los clasificamos: mira el mínimo y los plazos de cada plataforma antes de elegir.</p>"
+   },
+   {
+    "h": "Entonces, ¿cuál compensa?",
+    "html": "<p>Según estos datos: la que más da en <i>tu</i> tienda hoy. Si la tienda está en las tres, compara. Si eres nuevo, mira los tres bonos. Y para cada compra entra solo por una plataforma: usar varias puede anular el registro.</p><div class=\"caja\"><b>Nota Real:</b> un porcentaje alto con tope o solo para nuevos puede dar menos euros que uno menor sin condiciones. Compara en euros.</div><div class=\"caja\"><b>Publicidad.</b> Puedes registrarte con mis invitaciones: <a href=\"../../ir/igraal/?x=1114\" rel=\"noopener sponsored nofollow\">iGraal</a>, <a href=\"../../ir/topcashback/?x=1114\" rel=\"noopener sponsored nofollow\">TopCashback</a> o <a href=\"../../ir/widilo/?x=1114\" rel=\"noopener sponsored nofollow\">Widilo</a>. Yo recibo una recompensa si cumples las condiciones de cada una.</div>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Qué plataforma de cashback paga más?",
+    "Depende de la tienda y del día. Compara el porcentaje exacto de tu tienda en el comparador."
+   ],
+   [
+    "¿Puedo usar iGraal, TopCashback y Widilo en la misma compra?",
+    "No lo recomendamos: entra por una sola plataforma en cada compra, porque usar varias puede anular el registro."
+   ],
+   [
+    "¿Cuánto es el bono de registro de iGraal?",
+    "11 € con un pedido de al menos 12,40 € en los 90 días siguientes al registro, según la página de invitación leída el 07/11/2026."
+   ],
+   [
+    "¿Por qué mi porcentaje es distinto al que veo?",
+    "Puede ser una tarifa de cliente nuevo, un máximo anunciado («hasta») o una subida temporal. Revisa las condiciones de la ficha."
+   ]
+  ],
+  "cierre": "<p>Si ya has decidido qué abrir, el <a href=\"../../planificador.html\">planificador de promos</a> te ordena las vigentes según tu situación, y el <a href=\"../../comparador.html\">comparador</a> sirve para el cashback.</p>"
  }
 ]

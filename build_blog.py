@@ -47,7 +47,7 @@ def tabla(slugs):
 
 TOPCB_CAJA = '<div class="caja"><b>Publicidad.</b> ¿Todavía no usas TopCashback? Puedes registrarte con <a href="{rel}ir/topcashback/" rel="noopener sponsored nofollow">mi invitación</a>; yo recibo una recompensa si lo haces. Las condiciones del bono de bienvenida están en su web.</div>'
 
-IGRAAL_CAJA = '<div class="caja"><b>Publicidad.</b> ¿Todavía no tienes iGraal? Si te registras con <a href="{rel}ir/igraal/" rel="noopener sponsored nofollow">mi invitación</a> recibes un bono de 10 € con tu primer pedido de al menos 12,40 € (en 90 días). Yo recibo una recompensa si lo haces. Las condiciones completas están en la web de iGraal.</div>'
+IGRAAL_CAJA = '<div class="caja"><b>Publicidad.</b> ¿Todavía no tienes iGraal? Si te registras con <a href="{rel}ir/igraal/" rel="noopener sponsored nofollow">mi invitación</a> recibes un bono de 11 € con tu primer pedido de al menos 12,40 € (en 90 días). Yo recibo una recompensa si lo haces. Las condiciones completas están en la web de iGraal.</div>'
 
 CSS = """<style>
 .art{max-width:720px;margin:0 auto;padding:24px 16px 8px}

@@ -13,6 +13,7 @@ BASE = pathlib.Path(__file__).parent
 SITIO = "https://lupafinanzas.github.io"
 data = json.loads((BASE / "cashback.json").read_text(encoding="utf-8"))
 arts = json.loads((BASE / "blog_src" / "articulos.json").read_text(encoding="utf-8"))
+arts = sorted(reversed(arts), key=lambda x: x["fecha"], reverse=True)  # 14/11: los más nuevos primero (a igual fecha, el último añadido antes)
 tiendas = {t["slug"]: t for t in data["tiendas"]}
 esc = html.escape
 

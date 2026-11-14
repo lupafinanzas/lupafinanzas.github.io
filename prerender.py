@@ -6,6 +6,7 @@ Rellena entre marcadores <!--PRE:xxx-->...<!--/PRE:xxx--> dentro de los contened
   descuentos.html  -> #listaDto (los primeros descuentos, con su fecha)
   cashback.html    -> #picks y #podio (lo mejor de hoy y las subidas)
   comparador.html  -> bloque de enlaces a las fichas de tienda
+  planificador.html -> #resultado (promos vigentes con lo que ganas; el JS las filtra por perfil)
 Misma lógica que el JavaScript (sin «hasta», 2+ plataformas, <40 % en destacados). No inventa nada: solo vuelca los datos.
 """
 import datetime
@@ -131,6 +132,14 @@ for d in vig:
                f'<div class="tit">{esc(d["titulo"])}</div>' + (f'<div class="cod">Código: termina en …{esc(d["codigo"])} (completo en Widilo)</div>' if d.get("codigo") else "") +
                f'<p class="mini">{"Hasta el " + fmt(d["caduca"]) if d.get("caduca") else "Sin fecha de fin"} · {estado}</p><div class="acciones"><a class="btn-v" href="{esc(d["fuente"])}" rel="noopener nofollow">Ver esta oferta en Widilo →</a><a class="btn-o" href="comparador.html#{esc(d["slug"])}">Comparar cashback de {esc(d["tienda"])}</a></div></article>')
 reemplazar("descuentos.html", "listaDto", "dto", "".join(out))
+
+# ---- planificador: lista estática de promos vigentes (publicadas, no caducadas); el JS la sustituye por la versión filtrada por perfil
+out = []
+for p in vis:
+    out.append(f'<article class="card paso"><h3>{esc(p["nombre"])}</h3><div class="gana">{esc(p.get("gana_corto") or p["recompensa"])}</div>'
+               f'<p class="det">{esc(p.get("gana_sub") or "")}</p><p>{esc(p["requisitos"][:220])}{"…" if len(p["requisitos"]) > 220 else ""}</p>'
+               f'<p class="mini">{("Hasta el " + fmt(p["caduca"]) + " · ") if p.get("caduca") else ""}Comprobado el {fmt(p["verificado"])}</p></article>')
+reemplazar("planificador.html", "resultado", "plan", "".join(out))
 
 # ---- cashback: lo mejor de hoy y subidas
 cand, subidas = {}, {}

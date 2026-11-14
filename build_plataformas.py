@@ -95,7 +95,7 @@ CSS = """<style>
 .art details{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 16px;margin:10px 0}.art summary{cursor:pointer;font-weight:800}
 </style>"""
 MENU = ('<a href="../index.html">Inicio</a><a href="../promociones.html">Promociones</a><a href="../cashback.html">Cashback</a><a href="../descuentos.html">Descuentos</a>'
-        '<a href="../comparador.html">Comparador</a><a href="../blog/">Blog</a><a href="../como-lo-hacemos.html">Cómo lo hacemos</a>')
+        '<a href="../comparador.html">Comparador</a><a href="../planificador.html">Planificador</a><a href="../blog/">Blog</a><a href="../como-lo-hacemos.html">Cómo lo hacemos</a>')
 faq = [("¿Cuál es la mejor plataforma de cashback?", "Depende de la tienda y del día: la que más devuelve cambia. Usa el comparador para tu tienda y tu importe."),
        ("¿Por qué las plataformas pagan porcentajes distintos por la misma tienda?", "Cada plataforma negocia su comisión con la tienda y decide cuánto te devuelve."),
        ("¿Qué significa la mediana de cashback?", "Es el porcentaje central de las tarifas exactas que leemos en esa plataforma: la mitad paga más y la mitad menos. Depende de las tiendas que cubre, no mide su calidad.")]

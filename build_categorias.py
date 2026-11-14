@@ -64,7 +64,7 @@ CSS = """<style>
 .lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:8px;margin:14px 0}.lista a{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;text-decoration:none}
 </style>"""
 MENU = ('<a href="{r}index.html">Inicio</a><a href="{r}promociones.html">Promociones</a><a href="{r}cashback.html">Cashback</a><a href="{r}descuentos.html">Descuentos</a>'
-        '<a href="{r}comparador.html">Comparador</a><a href="{r}blog/">Blog</a><a href="{r}como-lo-hacemos.html">Cómo lo hacemos</a>')
+        '<a href="{r}comparador.html">Comparador</a><a href="{r}planificador.html">Planificador</a><a href="{r}blog/">Blog</a><a href="{r}como-lo-hacemos.html">Cómo lo hacemos</a>')
 
 
 def pagina(ruta, titulo, desc, cuerpo, jsonld, r):

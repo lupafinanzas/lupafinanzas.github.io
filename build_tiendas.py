@@ -114,7 +114,7 @@ CSS = """<style>
 </style>"""
 
 MENU = ('<a href="{rel}index.html">Inicio</a><a href="{rel}promociones.html">Promociones</a><a href="{rel}cashback.html">Cashback</a>'
-        '<a href="{rel}descuentos.html">Descuentos</a><a href="{rel}comparador.html">Comparador</a><a href="{rel}blog/">Blog</a>'
+        '<a href="{rel}descuentos.html">Descuentos</a><a href="{rel}comparador.html">Comparador</a><a href="{rel}planificador.html">Planificador</a><a href="{rel}blog/">Blog</a>'
         '<a href="{rel}como-lo-hacemos.html">Cómo lo hacemos</a>')
 
 

@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Planificador de promos · Lupa Financiera</title>
+<meta name="description" content="Qué promos de bancos, cashback y luz te encajan y en qué orden hacerlas, según tu perfil. Con la cuenta a la vista, importes brutos o netos indicados y Nota Real.">
+<link rel="canonical" href="https://lupafinanzas.github.io/planificador.html">
+<meta property="og:title" content="Planificador de promos: qué abrir y en qué orden">
+<meta property="og:description" content="Marca tu perfil y te ordenamos las promos vigentes que encajan, con lo que ganas, lo que te piden y la Nota Real.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://lupafinanzas.github.io/planificador.html">
+<meta property="og:image" content="https://lupafinanzas.github.io/og.png">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Planificador de promos: qué abrir y en qué orden">
+<meta name="twitter:description" content="Marca tu perfil y te ordenamos las promos vigentes que encajan, con lo que ganas, lo que te piden y la Nota Real.">
+<meta name="twitter:image" content="https://lupafinanzas.github.io/og.png">
+<meta name="theme-color" content="#0b2e25">
+<link rel="icon" href="logo.jpg">
+<link rel="stylesheet" href="fuentes.css">
+<link rel="stylesheet" href="estilo.css">
+<style>
+.plan{max-width:820px;margin:0 auto;padding:22px 16px 8px}
+.plan h1{font-size:clamp(1.8rem,6vw,2.6rem);margin:6px 0 10px}
+.plan h2{font-size:1.3rem;margin:26px 0 8px}
+.perfil{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:14px 18px;margin:14px 0}
+.perfil fieldset{border:0;margin:0 0 10px;padding:0}
+.perfil legend{font-weight:800;margin-bottom:6px;padding:0}
+.perfil label{display:flex;align-items:center;gap:10px;min-height:44px;cursor:pointer}
+.perfil input[type=checkbox],.perfil input[type=radio]{width:22px;height:22px;accent-color:var(--mint-d);flex:none}
+.perfil .fila{display:flex;flex-wrap:wrap;gap:6px 18px}
+.perfil select{font:inherit;padding:10px 12px;border:2px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink);min-height:44px}
+.perfil details summary{cursor:pointer;font-weight:800;min-height:44px;display:flex;align-items:center}
+.total{background:linear-gradient(135deg,#0f7a58,#2fb585);color:#fff;border-radius:22px;padding:18px 20px;margin:16px 0}
+.total b{font:900 2.4rem/1 var(--ff-num)}
+.total .cuenta{font-size:.95rem;margin-top:8px;opacity:.97;overflow-wrap:anywhere}
+.total ul{margin:8px 0 0 18px;padding:0;font-size:.92rem}
+.total .mini{color:#d6f3e7}
+.paso{padding:16px 18px;margin:12px 0}
+.paso h3{font-size:1.15rem;margin:0 0 4px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.paso .n{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:var(--deep);color:#fff;font:800 .95rem var(--ff)}
+.paso .gana{font:900 1.7rem/1.1 var(--ff-num);color:var(--mint-d)}
+@media (prefers-color-scheme:dark){.paso .gana{color:var(--mint)}}
+.paso p{margin:6px 0}
+.etq{display:inline-block;font-size:.76rem;font-weight:800;border-radius:999px;padding:4px 10px;background:color-mix(in srgb,var(--yellow) 30%,var(--card));color:var(--ink)}
+.paso.alt{opacity:.92;border-style:dashed}
+.vacio{padding:16px;color:var(--ink2)}
+.plan details.faq,.plan .faq details{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 16px;margin:10px 0}
+.plan summary{cursor:pointer;font-weight:800}
+.btn:focus-visible,.perfil input:focus-visible,.perfil select:focus-visible,summary:focus-visible{outline:3px solid var(--sky);outline-offset:2px}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebApplication", "name": "Planificador de promos", "url": "https://lupafinanzas.github.io/planificador.html", "applicationCategory": "FinanceApplication", "operatingSystem": "Web", "inLanguage": "es", "isPartOf": {"@id": "https://lupafinanzas.github.io/#web"}, "publisher": {"@id": "https://lupafinanzas.github.io/#org"}}, {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "¿Puedo hacer varias promos de bancos a la vez?", "acceptedAnswer": {"@type": "Answer", "text": "Normalmente sí: cada entidad tiene sus propias condiciones y suelen ser independientes entre sí. El límite real es tu situación: solo puedes domiciliar una nómina en un banco a la vez, así que las promos de nómina son alternativas y el planificador solo suma la mayor. Comprueba también las permanencias (algunas piden mantener la nómina o la cuenta durante meses) y lee las bases de cada una antes de abrir nada."}}, {"@type": "Question", "name": "¿Los importes son brutos o netos?", "acceptedAnswer": {"@type": "Answer", "text": "Depende de la promo y por eso cada tarjeta lo indica cuando la entidad lo dice: unas hablan de euros brutos (antes de retenciones) y otras de netos, y el resumen separa los importes por tipo. Un premio en efectivo puede tributar y afectar a tu declaración de la renta; si tienes dudas, consúltalo con un profesional. Aquí no mezclamos cifras sin avisar."}}, {"@type": "Question", "name": "¿Cuánto dinero necesito tener parado?", "acceptedAnswer": {"@type": "Answer", "text": "Depende de la promo: algunas no piden saldo, otras piden un ingreso inicial pequeño o mantener un saldo mínimo durante un tiempo. Por eso el planificador te pregunta cuánto puedes dejar parado y solo muestra lo que encaja. Dejar dinero quieto no es lo mismo que gastarlo: es dinero tuyo que sigue siendo tuyo, pero que no podrás usar mientras dure la condición."}}, {"@type": "Question", "name": "¿Qué es la Nota Real de cada promo?", "acceptedAnswer": {"@type": "Answer", "text": "Es nuestra puntuación sobre 10 que mide la promo por lo que realmente cuesta conseguirla: tiempo, importe, letra pequeña y permanencia. Una promo con mucho premio pero 24 meses de permanencia puede puntuar menos que una pequeña y limpia. Cómo se calcula está explicado en la página «Cómo lo hacemos»."}}, {"@type": "Question", "name": "¿Por qué no aparecen todas las promos, o aparecen como «en verificación»?", "acceptedAnswer": {"@type": "Answer", "text": "Solo contamos las que están vigentes y comprobadas. Las caducadas se quitan solas y las que seguimos verificando no suman al total, aunque puedes verlas marcando la casilla. Si una promo no tiene datos suficientes (por ejemplo, un importe que depende de tu saldo), la mostramos como informativa y no la sumamos."}}, {"@type": "Question", "name": "¿Esto es asesoramiento financiero?", "acceptedAnswer": {"@type": "Answer", "text": "No. Es una herramienta orientativa con datos públicos de las promociones. No prometemos ganancias: lo que cobres depende de cumplir todas las condiciones y de que la entidad las mantenga. Algunos enlaces son de afiliado y se marcan siempre como Publicidad."}}]}]}</script>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="marca" href="index.html"><img src="logo.jpg" alt=""><span>Lupa Financiera</span></a>
+  <nav class="menu" aria-label="Principal">
+    <a href="index.html">Inicio</a><a href="promociones.html">Promociones</a><a href="cashback.html">Cashback</a><a href="descuentos.html">Descuentos</a><a href="comparador.html">Comparador</a><a href="planificador.html" aria-current="page">Planificador</a><a href="blog/">Blog</a><a href="como-lo-hacemos.html">Cómo lo hacemos</a>
+  </nav>
+  <a class="x" href="https://x.com/LupaFinanzas">@LupaFinanzas</a>
+</div></header>
+
+<main class="wrap">
+<div class="plan">
+  <span class="mini">Planificador</span>
+  <h1>Planificador de promos: qué abrir y en qué orden</h1>
+  <p class="sub">Marca tu situación y te mostramos solo las promos vigentes que encajan contigo, ordenadas para que no pierdas ninguna por un plazo. Sin promesas: cada una con lo que ganas, lo que te piden y su Nota Real.</p>
+
+  <form class="perfil" id="perfil" aria-label="Tu perfil" onsubmit="return false">
+    <fieldset><legend>Tu situación</legend>
+      <div class="fila">
+        <label><input type="checkbox" id="nomina"> Puedo domiciliar una nómina</label>
+        <label><input type="checkbox" id="luz"> Quiero cambiar de luz</label>
+        <label><input type="checkbox" id="tarjeta"> Uso tarjeta a diario</label>
+      </div>
+    </fieldset>
+    <fieldset><legend><label for="dinero" style="min-height:0">Dinero que puedo dejar parado un tiempo</label></legend>
+      <select id="dinero"><option value="0">0 €</option><option value="500">500 €</option><option value="1000">1.000 €</option><option value="3000">3.000 € o más</option></select>
+    </fieldset>
+    <details><summary>Ya soy cliente de… (opcional)</summary>
+      <p class="mini" style="text-transform:none;letter-spacing:0;font-weight:600">Casi todas estas promos son solo para clientes nuevos, así que ocultamos las de lo que marques.</p>
+      <div class="fila" id="clientes"></div>
+    </details>
+    <label><input type="checkbox" id="verif"> Mostrar también las que seguimos verificando (no suman al total)</label>
+  </form>
+
+  <div id="resumen" aria-live="polite"></div>
+  <div id="resultado"><!--PRE:plan--><article class="card paso"><h3>Kutxabank (Cuenta Remunerada)</h3><div class="gana">3,10 % TAE</div><p class="det">el primer año, hasta 100.000 € (0,75 % el segundo)</p><p>Solo para nuevos clientes digitales que no tengan relación comercial vigente ni un estudio de financiación en curso con Kutxabank, y que activen la cuenta entre el 05/10/2026 y el 22/11/2026. Alta 100 % desde la app, sin…</p><p class="mini">Hasta el 22/11/2026 · Comprobado el 14/11/2026</p></article><article class="card paso"><h3>Openbank Plan Amigo</h3><div class="gana">70 €</div><p class="det">en 3 pagos, con Bizum en Openbank 3 meses</p><p>Hacerte cliente con el código de un amigo hasta el 30/11/2026 (incluido); ingresar al menos 70 € en la cuenta y activar la tarjeta en los 30 días siguientes a abrirla; y que los dos tengáis Bizum en Openbank al menos 3 m…</p><p class="mini">Hasta el 30/11/2026 · Comprobado el 14/11/2026</p></article><article class="card paso"><h3>SumUp · Recomendar a un amigo + cashback</h3><div class="gana">10 €</div><p class="det">por registrarte y hacer 3 pagos en 30 días (hasta 5 % de cashback)</p><p>Cuenta SumUp (SumUp Pay) gratuita, con verificación de identidad aprobada, y tres pagos en comercio con la tarjeta en un plazo de 30 días. Hay que ser mayor de 18 años y residente en España. El cashback no es dinero elec…</p><p class="mini">Comprobado el 10/11/2026</p></article><article class="card paso"><h3>Correos Prepago (invitar amigos)</h3><div class="gana">10 € + 10 €</div><p class="det">para ti y para tu amigo, con un ingreso mínimo de 50 € por parte del amigo (10 € brutos cada uno)</p><p>Tu amigo tiene que registrarse desde tu enlace con tu código promocional y hacer un ingreso mínimo de 50 € en su Cuenta Correos Prepago. Bnext abona los 10 € a ambos en un máximo de 2 meses desde la verificación. Hasta 1…</p><p class="mini">Hasta el 31/12/2026 · Comprobado el 10/11/2026</p></article><article class="card paso"><h3>iGraal</h3><div class="gana">11 €</div><p class="det">de bienvenida con la invitación, tras un pedido de al menos 12,40 €</p><p>La página de invitación de iGraal anuncia un bono de 11 € con un pedido de al menos 12,40 € (antes de IVA y sin gastos de envío) en los 90 días siguientes al registro. El bono se abona junto con el primer cashback valida…</p><p class="mini">Comprobado el 10/11/2026</p></article><article class="card paso"><h3>BBVA Plan Amigo</h3><div class="gana">50 €</div><p class="det">por usar la tarjeta; +400 € con nómina, autónomos o 15.000 €</p><p>No ser cliente de BBVA ni haberlo sido en los últimos 6 meses; abrir la Cuenta Online Sin Comisiones o la Cuenta Nómina en bbva.es o la app (no vale con dos titulares); validar el código de un amigo cliente de BBVA duran…</p><p class="mini">Comprobado el 14/11/2026</p></article><article class="card paso"><h3>ABANCA (Cuenta Online Nómina)</h3><div class="gana">500 €</div><p class="det">brutos (405 € netos) con nómina desde 1.200 €, a cambio de 24 meses</p><p>Solo para clientes nuevos: no puedes ser cliente de ABANCA. Hay que abrir la Cuenta Online Nómina y domiciliar una nómina nueva de 800 € o más. El dinero se ingresa a los pocos días de recibir la primera nómina, pero a c…</p><p class="mini">Comprobado el 10/11/2026</p></article><article class="card paso"><h3>N26 (vía Widilo)</h3><div class="gana">30 €</div><p class="det">de cashback en Widilo al abrir N26 (+5 € de bono invitado)</p><p>Hay que estar registrado en Widilo, pulsar «Activar el cashback» en la ficha de N26 y abrir la cuenta en esa misma visita. Widilo no detalla en la ficha qué exige N26 para validar el cashback (cliente nuevo, ingreso míni…</p><p class="mini">Comprobado el 10/11/2026</p></article><article class="card paso"><h3>Octopus Energy · Programa de referidos</h3><div class="gana">50 €</div><p class="det">de saldo en luz; solo contratando Octopus</p><p>Cambiarte a Octopus Energy (luz) usando el enlace de invitación de un cliente: es contratar un suministro, no solo registrarte. El importe se descuenta de facturas como saldo, no es dinero retirable. Programa permanente,…</p><p class="mini">Comprobado el 10/11/2026</p></article><article class="card paso"><h3>twelve. (lista de espera)</h3><div class="gana">15 €</div><p class="det">solo para invertir con twelve., no retirable</p><p>Apuntarte solo pide email, pero el dinero NO es efectivo: solo sirve para invertir en las carteras de twelve., y no se puede retirar, canjear ni transferir. Se activa cuando twelve. lance (sin fecha), al abrir la cuenta,…</p><p class="mini">Comprobado el 10/11/2026</p></article><article class="card paso"><h3>imagin (nómina y código de un amigo)</h3><div class="gana">Hasta 250 €</div><p class="det">netos por la nómina, con 48 meses de permanencia (+ cupón de 50 € en Facilitea)</p><p>Nómina: hazte cliente desde la app y domicilia la nómina antes de que pasen 4 meses; el ingreso llega «en pocos días». A cambio hay 48 meses de permanencia. Las transferencias no cuentan como nómina, y no vale si la nómi…</p><p class="mini">Comprobado el 10/11/2026</p></article><!--/PRE:plan--></div>
+  <p class="mini" id="nota">Cargando promos…</p>
+
+  <div class="aviso"><span>📢</span><span><strong>Publicidad.</strong> Algunos botones llevan enlace de invitación de Lupa Financiera: si te registras con ellos, tú y yo podemos recibir una recompensa, y lo decimos en cada caso. Esto no es asesoramiento financiero.</span></div>
+
+  <h2>Cómo decidimos qué te mostramos y en qué orden</h2>
+  <p>Partimos de las promociones de nuestra página de <a href="promociones.html">promociones</a>, que comprobamos con las bases de cada entidad. Quitamos las caducadas y, salvo que lo pidas, las que seguimos verificando. Después filtramos por tu perfil: si no puedes domiciliar una nómina, no te enseñamos las de nómina; si no puedes dejar dinero parado, ocultamos las que piden un ingreso o un saldo.</p>
+  <p>El orden es práctico: primero las que caducan antes, para que no se te pase el plazo, y después las de mayor importe. Cada paso lleva su plazo, sus requisitos resumidos y la <a href="como-lo-hacemos.html#nota-real">Nota Real</a>, que mide lo que cuesta conseguirla de verdad, no solo cuánto regalan.</p>
+  <p>El total es la suma de lo que anuncia cada promo, sin inventar nada. Mezcla importes brutos, netos, bonos de cashback y saldo, por eso lo desglosamos por tipo. Y es un tope: solo lo cobras si cumples todas las condiciones. Si tienes varias promos de nómina, solo cuenta la mayor, porque solo puedes domiciliar una nómina a la vez.</p>
+
+  <h2>Preguntas frecuentes</h2>
+  <div class="faq"><details><summary>¿Puedo hacer varias promos de bancos a la vez?</summary><p>Normalmente sí: cada entidad tiene sus propias condiciones y suelen ser independientes entre sí. El límite real es tu situación: solo puedes domiciliar una nómina en un banco a la vez, así que las promos de nómina son alternativas y el planificador solo suma la mayor. Comprueba también las permanencias (algunas piden mantener la nómina o la cuenta durante meses) y lee las bases de cada una antes de abrir nada.</p></details><details><summary>¿Los importes son brutos o netos?</summary><p>Depende de la promo y por eso cada tarjeta lo indica cuando la entidad lo dice: unas hablan de euros brutos (antes de retenciones) y otras de netos, y el resumen separa los importes por tipo. Un premio en efectivo puede tributar y afectar a tu declaración de la renta; si tienes dudas, consúltalo con un profesional. Aquí no mezclamos cifras sin avisar.</p></details><details><summary>¿Cuánto dinero necesito tener parado?</summary><p>Depende de la promo: algunas no piden saldo, otras piden un ingreso inicial pequeño o mantener un saldo mínimo durante un tiempo. Por eso el planificador te pregunta cuánto puedes dejar parado y solo muestra lo que encaja. Dejar dinero quieto no es lo mismo que gastarlo: es dinero tuyo que sigue siendo tuyo, pero que no podrás usar mientras dure la condición.</p></details><details><summary>¿Qué es la Nota Real de cada promo?</summary><p>Es nuestra puntuación sobre 10 que mide la promo por lo que realmente cuesta conseguirla: tiempo, importe, letra pequeña y permanencia. Una promo con mucho premio pero 24 meses de permanencia puede puntuar menos que una pequeña y limpia. Cómo se calcula está explicado en la página «Cómo lo hacemos».</p></details><details><summary>¿Por qué no aparecen todas las promos, o aparecen como «en verificación»?</summary><p>Solo contamos las que están vigentes y comprobadas. Las caducadas se quitan solas y las que seguimos verificando no suman al total, aunque puedes verlas marcando la casilla. Si una promo no tiene datos suficientes (por ejemplo, un importe que depende de tu saldo), la mostramos como informativa y no la sumamos.</p></details><details><summary>¿Esto es asesoramiento financiero?</summary><p>No. Es una herramienta orientativa con datos públicos de las promociones. No prometemos ganancias: lo que cobres depende de cumplir todas las condiciones y de que la entidad las mantenga. Algunos enlaces son de afiliado y se marcan siempre como Publicidad.</p></details></div>
+  <p class="mini">Más información: <a href="comparador.html">comparador de cashback</a> · <a href="calculadora.html">calculadora de cashback</a> · <a href="promociones.html">todas las promociones</a>.</p>
+</div>
+<footer class="pie"><p id="actualizado"></p><p><a href="aviso-legal.html">Aviso legal</a> · <a href="privacidad.html">Política de privacidad</a> · <a href="cookies.html">Política de cookies</a></p><p>Cálculo orientativo. No es asesoramiento financiero. Las condiciones las fija cada entidad y pueden cambiar: lee siempre sus bases.</p></footer>
+</main>
+
+<script>
+(function(){
+  // Reglas por promo. Importes y condiciones tomados de promos.json (textos de recompensa y requisitos); no se inventa nada.
+  // g: grupo de exclusión (una sola nómina a la vez). imp: euros de la promo, null = no suma. tipo: cómo lo llama la promo.
+  var R={
+    'abanca-nomina':{nomina:1,g:'nomina',imp:500,tipo:'brutos',cl:'abanca',cond:'Cliente nuevo. Nómina nueva de 1.200 € o más (185 € si está entre 800 y 1.199 €).',plazo:'Hay que mantener la nómina 24 meses.'},
+    'imagin':{nomina:1,g:'nomina',imp:250,tipo:'netos',cl:'imagin',cond:'Hazte cliente desde la app y domicilia la nómina (250 € con nómina de 1.500 € o más; 150 € de 900 a 1.499,99 €).',plazo:'Domicilia antes de 4 meses; 48 meses de permanencia.'},
+    'bbva-plan-amigo':{cl:'bbva',cond:'Código de invitación de un cliente de BBVA, no ser cliente en los últimos 6 meses y 50 € de compras con la Tarjeta Aqua Débito.',plazo:'50 € de compras en los 45 días siguientes.'},
+    'openbank-plan-amigo':{din:70,imp:70,tipo:'netos',cl:'openbank',cond:'Código de invitación de un amigo, ingresar al menos 70 € y activar la tarjeta, y tener Bizum 3 meses. Se cobra en 3 pagos.',plazo:'Ingreso y tarjeta en los 30 días siguientes al alta.'},
+    'correos-prepago':{din:50,imp:10,tipo:'brutos',cl:'correos',cond:'Registro desde un enlace de invitación con ingreso mínimo de 50 € en la Cuenta Correos Prepago.',plazo:'Abono en un máximo de 2 meses desde la verificación.'},
+    'sumup-referidos':{tarjeta:1,imp:10,tipo:'sin especificar',cl:'sumup',cond:'Cuenta SumUp gratuita verificada y tres pagos con tarjeta en un establecimiento por un total de al menos 10 €.',plazo:'Tres pagos en 30 días.'},
+    'igraal':{imp:11,tipo:'bono de cashback',cl:'igraal',cond:'Registro con invitación y un pedido de al menos 12,40 € (antes de IVA y sin envío).',plazo:'Pedido en los 90 días siguientes al registro.'},
+    'n26-widilo':{imp:30,tipo:'cashback',cl:'n26',cond:'Registro en Widilo, activar el cashback en la ficha de N26 y abrir la cuenta en esa misma visita. Widilo no detalla qué exige N26: confírmalo antes.',plazo:''},
+    'octopus-referidos':{luz:1,imp:50,tipo:'saldo en luz',cl:'octopus',cond:'Contratar un suministro de luz con Octopus Energy usando el enlace de un cliente. Es saldo en factura, no dinero retirable.',plazo:''},
+    'unicaja-nomina':{nomina:1,g:'nomina',imp:450,tipo:'brutos',cl:'unicaja',cond:'Nómina o pensión de 600 € al mes o más (no domiciliada en Unicaja en los últimos 12 meses).',plazo:'Abono mensual durante 12 meses.'},
+    'kutxabank-cuenta-remunerada':{din:1,imp:null,tipo:'',cl:'kutxabank',cond:'Solo nuevos clientes digitales. 3,10 % TAE el primer año (0,75 % el segundo); con 10.000 € de saldo medio la promo cita 305,68 € brutos el primer año.',plazo:'',info:'Informativa: el importe depende de tu saldo y no se suma al total.'},
+    'twelve':{imp:null,tipo:'',cl:'twelve',cond:'Dinero solo para invertir en las carteras de twelve., no retirable. Se activa cuando lancen y abras cuenta.',plazo:'90 días desde que se active o caduca.',info:'No suma: no es efectivo.'}
+  };
+  var CLIENTES={abanca:'ABANCA',imagin:'Imagin',bbva:'BBVA',openbank:'Openbank',kutxabank:'Kutxabank',unicaja:'Unicaja',n26:'N26',octopus:'Octopus Energy',sumup:'SumUp',correos:'Correos Prepago',igraal:'iGraal'};
+  var DIN=[0,500,1000,3000];
+
+  function eur(n){return n.toLocaleString('es-ES',{minimumFractionDigits:0,maximumFractionDigits:2})+' €';}
+  function fmt(f){var p=f.split('-');return p[2]+'/'+p[1]+'/'+p[0];}
+  function dias(f,hoy){return Math.round((new Date(f+'T00:00:00')-hoy)/86400000);}
+  function notaTotal(p){if(!p.nota)return null;var s=0;for(var k in p.nota)s+=p.nota[k];return s;}
+
+  // Función pura: perfil + promos + fecha -> lista ordenada, total y avisos.
+  function planificar(perfil,promos,hoy){
+    var items=[],ocultas={clientes:0,perfil:0,caducadas:0,verif:0};
+    promos.forEach(function(p){
+      var r=R[p.slug];
+      if(!r)return;                                           // sin reglas ni datos suficientes: no entra
+      if(p.estado==='caducada'||(p.caduca&&dias(p.caduca,hoy)<0)){ocultas.caducadas++;return;}
+      var verif=p.estado==='en_verificacion';
+      if(p.estado!=='publicada'&&!verif)return;               // no_publicable y demás: fuera
+      if(verif&&!perfil.verif){ocultas.verif++;return;}
+      if(perfil.clientes.indexOf(r.cl)>=0){ocultas.clientes++;return;}
+      var imp=r.imp,tipo=r.tipo,grupo=r.g||null;
+      if(p.slug==='bbva-plan-amigo'){                          // 50 € por tarjeta; hasta 450 € en total con nómina (texto de la promo)
+        if(perfil.nomina){imp=450;grupo='nomina';tipo='sin especificar';}
+        else if(perfil.tarjeta){imp=50;tipo='sin especificar';}
+        else {ocultas.perfil++;return;}
+      }else{
+        if(r.nomina&&!perfil.nomina){ocultas.perfil++;return;}
+        if(r.luz&&!perfil.luz){ocultas.perfil++;return;}
+        if(r.tarjeta&&!perfil.tarjeta){ocultas.perfil++;return;}
+        if(r.din&&perfil.dinero<r.din){ocultas.perfil++;return;}
+      }
+      var d=p.caduca?dias(p.caduca,hoy):null;
+      items.push({p:p,r:r,imp:verif?null:imp,tipo:tipo,grupo:grupo,verif:verif,d:d,nota:notaTotal(p),cuenta:false,alt:false});
+    });
+    // Orden: primero las que caducan en 30 días o menos (la más próxima antes), luego mayor importe
+    items.sort(function(a,b){
+      var ua=a.d!==null&&a.d<=30,ub=b.d!==null&&b.d<=30;
+      if(ua!==ub)return ua?-1:1;
+      if(ua&&ub&&a.d!==b.d)return a.d-b.d;
+      return (b.imp||0)-(a.imp||0);
+    });
+    // Suma: solo promos con importe; en el grupo «nomina» solo la mayor
+    var mejor=null;
+    items.forEach(function(i){if(i.imp!=null&&i.grupo==='nomina'&&(!mejor||i.imp>mejor.imp))mejor=i;});
+    var total=0,por={};
+    items.forEach(function(i){
+      if(i.imp==null)return;
+      if(i.grupo==='nomina'&&i!==mejor){i.alt=true;return;}
+      i.cuenta=true;total+=i.imp;por[i.tipo]=(por[i.tipo]||0)+i.imp;
+    });
+    return {items:items,total:total,por:por,ocultas:ocultas};
+  }
+  if(typeof module!=='undefined')module.exports={planificar:planificar};
+  if(typeof document==='undefined')return;
+
+  function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e;}
+  var promos=null;
+  var cont=document.getElementById('clientes');
+  Object.keys(CLIENTES).forEach(function(k){var l=el('label');var i=document.createElement('input');i.type='checkbox';i.value=k;i.className='cli';l.appendChild(i);l.appendChild(document.createTextNode(' '+CLIENTES[k]));cont.appendChild(l);});
+
+  function perfil(){
+    var cl=[].slice.call(document.querySelectorAll('.cli:checked')).map(function(x){return x.value;});
+    return {nomina:document.getElementById('nomina').checked,luz:document.getElementById('luz').checked,tarjeta:document.getElementById('tarjeta').checked,
+            dinero:parseInt(document.getElementById('dinero').value,10)||0,clientes:cl,verif:document.getElementById('verif').checked};
+  }
+
+  function pintar(){
+    if(!promos)return;
+    var hoy=new Date();hoy.setHours(0,0,0,0);
+    var res=planificar(perfil(),promos,hoy);
+    var rs=document.getElementById('resumen'),out=document.getElementById('resultado');
+    rs.textContent='';out.textContent='';
+    var cuentan=res.items.filter(function(i){return i.cuenta;});
+    var tb=el('div','total');
+    tb.appendChild(el('span','mini','Resumen honesto'));
+    var linea=el('div');var b=el('b',null,eur(res.total));linea.appendChild(b);
+    linea.appendChild(document.createTextNode(' como máximo, si cumples todas las condiciones de las '+cuentan.length+' promos que suman'));
+    tb.appendChild(linea);
+    if(cuentan.length){
+      tb.appendChild(el('div','cuenta','Cuenta: '+cuentan.map(function(i){return eur(i.imp);}).join(' + ')+' = '+eur(res.total)));
+      var ul=el('ul');
+      Object.keys(res.por).forEach(function(k){ul.appendChild(el('li',null,eur(res.por[k])+' en '+k));});
+      tb.appendChild(ul);
+    }
+    tb.appendChild(el('div','cuenta','Los importes son brutos o netos según cada promo (se indica en cada una) y se mezclan con bonos de cashback y saldo, así que no es un ingreso seguro: depende de cumplir las condiciones y de que la entidad las mantenga. Si hay varias promos de nómina, solo cuenta la mayor. No es asesoramiento financiero.'));
+    rs.appendChild(tb);
+    if(!res.items.length){out.appendChild(el('p','vacio','Con este perfil no hay promos vigentes que encajen. Prueba a marcar más opciones o mira todas las <promociones>.'.replace('<promociones>','promociones')));}
+    res.items.forEach(function(i,n){
+      var p=i.p,c=el('article','card paso'+(i.alt||!i.cuenta?' alt':''));
+      var h=el('h3');h.appendChild(el('span','n',String(n+1)));h.appendChild(document.createTextNode(p.nombre));
+      c.appendChild(h);
+      var g=p.gana_corto||p.recompensa;
+      var gl=el('div','gana',i.imp!=null?eur(i.imp):g);c.appendChild(gl);
+      var sub=i.imp!=null?(i.tipo?'Importe '+i.tipo+(p.gana_sub?'. '+p.gana_sub:''):(p.gana_sub||'')):(p.gana_sub||'');
+      if(sub)c.appendChild(el('p','det',sub));
+      c.appendChild(el('p',null,i.r.cond));
+      var pl=[];if(i.r.plazo)pl.push(i.r.plazo);if(p.caduca)pl.push('Hasta el '+fmt(p.caduca)+(i.d!==null&&i.d<=30?' (quedan '+i.d+' días)':'')+'.');
+      if(pl.length)c.appendChild(el('p',null,'Plazo: '+pl.join(' ')));
+      if(i.nota!==null){var pn=el('p',null,'');var a=el('a',null,'Nota Real: '+String(i.nota).replace('.',',')+' / 10');a.href='como-lo-hacemos.html#nota-real';pn.appendChild(a);c.appendChild(pn);}
+      var etq=[];
+      if(i.verif)etq.push('En verificación: no suma');
+      else if(i.alt)etq.push('Alternativa de nómina: no suma (solo una nómina a la vez)');
+      else if(i.r.info)etq.push(i.r.info);
+      etq.forEach(function(t){c.appendChild(el('span','etq',t));});
+      var dest=p.enlace?'ir/'+p.slug+'/?x=1':(p.fuente_oficial||p.fuente_condiciones||'');
+      if(dest){
+        var bt=el('div','botones');bt.style.margin='10px 0 4px';
+        var a2=el('a',p.enlace?'btn verde':'btn btn-o',p.enlace?(p.boton||'Ir a '+p.nombre+' →'):'Ir a la promoción oficial →');
+        a2.href=dest;a2.rel=p.enlace?'noopener sponsored nofollow':'noopener nofollow';bt.appendChild(a2);c.appendChild(bt);
+        if(p.enlace)c.appendChild(el('span','mini','Publicidad · enlace de invitación de Lupa Financiera'));
+      }
+      out.appendChild(c);
+    });
+    var o=res.ocultas,m=[];
+    if(o.perfil)m.push(o.perfil+' ocultas por tu perfil');if(o.clientes)m.push(o.clientes+' por ser ya cliente');if(o.verif)m.push(o.verif+' en verificación');if(o.caducadas)m.push(o.caducadas+' caducadas');
+    document.getElementById('nota').textContent=(m.length?'No se muestran: '+m.join(', ')+'. ':'')+'Datos de promos.json, actualizados el '+(window.__act?fmt(window.__act):'—')+'.';
+  }
+  document.getElementById('perfil').addEventListener('change',pintar);
+  fetch('promos.json',{cache:'no-cache'}).then(function(r){return r.json();}).then(function(d){promos=d.promos;window.__act=d.actualizado;var a=document.getElementById('actualizado');if(a&&d.actualizado)a.textContent='Promos actualizadas el '+fmt(d.actualizado)+'.';pintar();})
+  .catch(function(){document.getElementById('nota').textContent='No hemos podido cargar las promos. Mira la lista completa en la página de promociones.';});
+})();
+</script>
+<script data-goatcounter="https://lupafinanzas.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></body>
+</html>

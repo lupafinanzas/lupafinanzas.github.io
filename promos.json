@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17",
+  "actualizado": "2026-11-20",
   "promos": [
     {
       "slug": "myinvestor",
@@ -73,11 +73,11 @@
       "slug": "igraal",
       "nombre": "iGraal",
       "tipo": "6 · Cashback progresivo",
-      "recompensa": "Bono de bienvenida de 5 € para quien se registra con una invitación (leído el 17/11/2026 con el código de padrino de iGraal; el 07/11 se leyó 11 €)",
+      "recompensa": "Bono de bienvenida de 5 € para quien se registra con una invitación (leído el 20/11/2026 con el código de padrino de iGraal; el 07/11 se leyó 11 €)",
       "requisitos": "La página de invitación de iGraal anuncia un bono de 5 € con un pedido de al menos 8,26 € (antes de IVA y sin gastos de envío) en los 90 días siguientes al registro. El bono se abona junto con el primer cashback validado. Quien invita recibe 3 € cuando su amigo acumula 1 € de cashback disponible, más el 10 % de su cashback validado el primer año (esta parte no se ha releído hoy). El importe depende de la campaña vigente: revísalo en la página antes de registrarte.",
       "enlace": "https://es.igraal.com/padrinazgo?padrino=nVeH9jbC&utm_medium=raf&utm_source=refer_friend",
       "estado": "publicada",
-      "verificado": "2026-11-17",
+      "verificado": "2026-11-20",
       "nota": {
         "tiempo": 1.5,
         "importe": 0.5,
@@ -89,7 +89,7 @@
       "nota_texto": "Nota provisional: el plazo de validación del bono no está publicado. Nota recalculada el 07/11/2026: sin cambio (el bono sube a 11 € pero sigue condicionado a un pedido).",
       "nota_razon": {
         "tiempo": "Registro rápido, pero el bono llega junto con el primer cashback validado, después de un pedido apto en los 90 días siguientes; iGraal no publica un plazo.",
-        "importe": "Bono de 5 € con pedido de 8,26 € (leído 17/11): importe bajo. Antes se anotaba 11 €.",
+        "importe": "Bono de 5 € con pedido de 8,26 € (leído 20/11): importe bajo. Antes se anotaba 11 €.",
         "letra": "Condiciones comprensibles, pero el pedido tiene que ser «apto para cashback»: no vale cualquier compra ni cualquier tienda.",
         "permanencia": "Sin permanencia ni mantener saldo: te registras, compras y listo."
       },
@@ -226,7 +226,7 @@
       "requisitos": "Apuntarte solo pide email, pero el dinero NO es efectivo: solo sirve para invertir en las carteras de twelve., y no se puede retirar, canjear ni transferir. Se activa cuando twelve. lance (sin fecha), al abrir la cuenta, pasar la verificación de identidad y hacer el primer pago con su tarjeta; tienes 90 días o caduca. twelve. puede modificar o cancelar los bonos antes del lanzamiento.",
       "enlace": "https://twelve.finance/i/VUB452Z",
       "estado": "publicada",
-      "verificado": "2026-11-10",
+      "verificado": "2026-11-20",
       "gana_corto": "15 €",
       "gana_sub": "solo para invertir con twelve., no retirable",
       "nota": {
@@ -257,7 +257,7 @@
       "requisitos": "Hacerte cliente con el código de un amigo hasta el 30/11/2026 (incluido); ingresar al menos 70 € en la cuenta y activar la tarjeta en los 30 días siguientes a abrirla; y que los dos tengáis Bizum en Openbank al menos 3 meses. Se cobra en tres pagos (30 €, 20 € y 20 €) entre los días 15 y 20 de cada mes; el 2.º y el 3.º exigen seguir con Bizum. No vale si fuiste cliente de Openbank en los 12 meses anteriores ni si te diste de alta en otra promoción de Bizum en los últimos 12 meses, y no se combina con OPEN275. Las bases consideran uso inadecuado publicar los códigos en redes, foros o webs, y Openbank puede no pagar o retirar lo abonado: aquí no hay código. Hay que declararlo en el IRPF.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-11-17",
+      "verificado": "2026-11-20",
       "caduca": "2026-11-30",
       "gana_corto": "70 €",
       "gana_sub": "en 3 pagos, con Bizum en Openbank 3 meses",
@@ -291,7 +291,7 @@
       "requisitos": "No ser cliente de BBVA ni haberlo sido en los últimos 6 meses; abrir la Cuenta Online Sin Comisiones o la Cuenta Nómina en bbva.es o la app (no vale con dos titulares); validar el código de un amigo cliente de BBVA durante el alta; usar Bizum; y hacer compras con la Tarjeta Aqua Débito que sumen 50 € en los 45 días siguientes (las preguntas frecuentes hablan de «un pago con tarjeta desde 50 €»). Si el invitado no cumple el segundo paso en plazo, los dos pierden el premio. Plan permanente, sin fecha de fin. La web no detalla cuándo se abona ni la fiscalidad: en verificación (mira las bases legales antes). Aquí no hay código.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-11-17",
+      "verificado": "2026-11-20",
       "gana_corto": "50 €",
       "gana_sub": "por usar la tarjeta; +400 € con nómina, autónomos o 15.000 €",
       "nota": {
@@ -323,7 +323,7 @@
       "requisitos": "Hay que estar registrado en Widilo, pulsar «Activar el cashback» en la ficha de N26 y abrir la cuenta en esa misma visita. Widilo no detalla en la ficha qué exige N26 para validar el cashback (cliente nuevo, ingreso mínimo, plazos): en verificación, pregunta a Widilo antes si te importa. El bono de referidos solo se paga cuando hay un cashback validado («cashback validado = bono para ti y tu referido»). Las reseñas de la propia ficha hablan de validaciones de entre 10 días y varias semanas, alguna tras abrir una incidencia. Aquí no hay enlace ni código.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-11-17",
+      "verificado": "2026-11-20",
       "gana_corto": "30 €",
       "gana_sub": "de cashback en Widilo al abrir N26 (+5 € de bono invitado)",
       "nota": {
@@ -420,7 +420,7 @@
       "requisitos": "Solo para clientes nuevos: no puedes ser cliente de ABANCA. Hay que abrir la Cuenta Online Nómina y domiciliar una nómina nueva de 800 € o más. El dinero se ingresa a los pocos días de recibir la primera nómina, pero a cambio hay que mantener la nómina domiciliada 24 meses: si la retiras antes, ABANCA te pide devolver la parte proporcional de los meses que falten (por ejemplo, a los 12 meses solo has consolidado la mitad). La web la anuncia «por tiempo limitado», sin fecha de fin. Aquí no hay enlace ni código.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-11-17",
+      "verificado": "2026-11-20",
       "gana_corto": "500 €",
       "gana_sub": "brutos (405 € netos) con nómina desde 1.200 €, a cambio de 24 meses",
       "nota": {
@@ -475,7 +475,7 @@
       "requisitos": "Nómina: hazte cliente desde la app y domicilia la nómina antes de que pasen 4 meses; el ingreso llega «en pocos días». A cambio hay 48 meses de permanencia. Las transferencias no cuentan como nómina, y no vale si la nómina viene de otra cuenta de CaixaBank ni se acumula a otras promociones de domiciliación de ingresos posteriores al 01/01/2024. Los importes son netos, pero pueden afectar a tu declaración de la renta. Cupón: tienes que darte de alta con el código de un amigo, tener al menos 50 € en la cuenta, hacer tres movimientos con tarjeta y activar Bizum. No es dinero: es un cupón de 50 € para la Shop Facilitea, válido hasta el 31/12/2026, que se gasta de una vez en una compra de 50 € o más, no sirve para outlet, reacondicionados ni seguros o alarmas, y tributa en el IRPF. La página no da fecha de fin para la oferta de la nómina. Aquí no hay enlace ni código.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-11-17",
+      "verificado": "2026-11-20",
       "gana_corto": "Hasta 250 €",
       "gana_sub": "netos por la nómina, con 48 meses de permanencia (+ cupón de 50 € en Facilitea)",
       "nota": {
@@ -502,7 +502,7 @@
       "requisitos": "Cambiarte a Octopus Energy (luz) usando el enlace de invitación de un cliente: es contratar un suministro, no solo registrarte. El importe se descuenta de facturas como saldo, no es dinero retirable. Programa permanente, sin fecha de fin publicada; la web no detalla cuándo se aplica el saldo ni los plazos: en verificación (mira las condiciones antes). Aquí no hay enlace.",
       "enlace": "",
       "estado": "publicada",
-      "verificado": "2026-11-17",
+      "verificado": "2026-11-20",
       "gana_corto": "50 €",
       "gana_sub": "de saldo en luz; solo contratando Octopus",
       "nota": {
@@ -531,7 +531,7 @@
       "nombre": "Kutxabank (Cuenta Remunerada)",
       "tipo": "2 · Registro + depósito",
       "recompensa": "3,10 % TAE el primer año (3,056 % TIN) para saldos de hasta 100.000 €, con abono mensual, y 0,75 % TAE el segundo año. Con 10.000 € de saldo medio: 305,68 € brutos el primer año y 74,74 € el segundo.",
-      "requisitos": "Solo para nuevos clientes digitales que no tengan relación comercial vigente ni un estudio de financiación en curso con Kutxabank, y que activen la cuenta entre el 05/10/2026 y el 22/11/2026. Alta 100 % desde la app, sin comisiones y con tarjeta Visa Debit sin comisión de emisión ni mantenimiento. Pasado el segundo año pasa a ser una cuenta de ahorro ordinaria. Aparte, Kutxabank ofrece hasta 600 € brutos por domiciliar nómina por primera vez, pero con permanencia de 36 meses (12 meses para menores de 31 años), saldo mínimo de 250 € y Bizum asociado: no forma parte de esta ficha. Aquí no hay enlace ni código.",
+      "requisitos": "Solo para nuevos clientes digitales que no tengan relación comercial vigente ni un estudio de financiación en curso con Kutxabank, y que activen la cuenta entre el 05/10/2026 y el 17/01/2027. Alta 100 % desde la app, sin comisiones y con tarjeta Visa Debit sin comisión de emisión ni mantenimiento. Pasado el segundo año pasa a ser una cuenta de ahorro ordinaria. Aparte, Kutxabank ofrece hasta 600 € brutos por domiciliar nómina por primera vez, pero con permanencia de 36 meses (12 meses para menores de 31 años), saldo mínimo de 250 € y Bizum asociado: no forma parte de esta ficha. Aquí no hay enlace ni código.",
       "enlace": "",
       "estado": "publicada",
       "auto": true,
@@ -540,8 +540,8 @@
         "https://x.com/viajes_globo/status/2109191744948453574",
         "https://x.com/TuAhorroX/status/2109961682449469693"
       ],
-      "verificado": "2026-11-17",
-      "caduca": "2026-11-22",
+      "verificado": "2026-11-20",
+      "caduca": "2027-01-17",
       "gana_corto": "3,10 % TAE",
       "gana_sub": "el primer año, hasta 100.000 € (0,75 % el segundo)",
       "nota": {
@@ -553,7 +553,7 @@
       "nota_razon": {
         "tiempo": "Los intereses se abonan cada mes desde el primer mes.",
         "importe": "Interés garantizado sobre tu propio saldo, sin tope de ingreso hasta 100.000 €; pero es rentabilidad, no un bono.",
-        "letra": "Solo nuevos clientes digitales y hay que activarla antes del 22/11; el tipo baja a 0,75 % el segundo año.",
+        "letra": "Solo nuevos clientes digitales y hay que activarla antes del 17/01/2027; el tipo baja a 0,75 % el segundo año.",
         "permanencia": "La web no pide permanencia ni condiciones en la cuenta remunerada (la permanencia es solo del bono de nómina, aparte)."
       },
       "nota_texto": "Calculada con las condiciones de la página Cuenta Remunerada de Kutxabank, leídas el 13/10/2026.",
@@ -564,8 +564,8 @@
       "slug": "sumup-referidos",
       "nombre": "SumUp · Recomendar a un amigo + cashback",
       "tipo": "3 · Registro + compras",
-      "recompensa": "10 € para ti y 10 € para el amigo que abre una cuenta SumUp verificada y hace tres pagos con tarjeta en un establecimiento por un total de al menos 10 € en 30 días (hasta 10 amigos, 100 €). Además, la app ofrece cashback de hasta un 5 % en tus compras, con un máximo de 10 € cada 30 días.",
-      "requisitos": "Cuenta SumUp (SumUp Pay) gratuita, con verificación de identidad aprobada, y tres pagos en comercio con la tarjeta en un plazo de 30 días. Hay que ser mayor de 18 años y residente en España. El cashback no es dinero electrónico hasta que lo pasas al monedero y solo se canjea combinándolo con una compra con SumUp Pay. SumUp puede cambiar o suspender el cashback en cualquier momento. Aquí no hay enlace ni código.",
+      "recompensa": "10 € para ti y 10 € para el amigo que abre una cuenta SumUp verificada y hace tres pagos con tarjeta en un establecimiento por un total de al menos 10 € en 30 días (hasta 10 amigos, 100 €). El cashback de la app tiene un máximo de 10 € cada 30 días según sus condiciones.",
+      "requisitos": "Cuenta SumUp (SumUp Pay) gratuita, con verificación de identidad aprobada, y tres pagos en comercio con la tarjeta, por un total de al menos 10 €, en un plazo de 30 días. Hay que ser mayor de 18 años y residente en España. El cashback no es dinero electrónico hasta que lo pasas al monedero y solo se canjea combinándolo con una compra con SumUp Pay. SumUp puede cambiar o suspender el cashback en cualquier momento. Aquí no hay enlace ni código.",
       "enlace": "https://l.get.sumup.com/CXe5/amigo",
       "estado": "publicada",
       "auto": true,
@@ -576,9 +576,9 @@
         "https://x.com/cazacash",
         "https://x.com/Robatiempoymas"
       ],
-      "verificado": "2026-11-17",
+      "verificado": "2026-11-20",
       "gana_corto": "10 €",
-      "gana_sub": "por registrarte y hacer 3 pagos en 30 días (hasta 5 % de cashback)",
+      "gana_sub": "por registrarte y hacer 3 pagos con tarjeta por al menos 10 € en 30 días",
       "nota": {
         "tiempo": 1.5,
         "importe": 1.5,
@@ -604,7 +604,7 @@
       "enlace": "https://correosprepago.bnext.es/register?referral=JVG145",
       "estado": "publicada",
       "auto": true,
-      "verificado": "2026-11-17",
+      "verificado": "2026-11-20",
       "nota": {
         "tiempo": 1.5,
         "importe": 1.5,

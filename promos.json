@@ -599,20 +599,20 @@
       "slug": "correos-prepago",
       "nombre": "Correos Prepago (invitar amigos)",
       "tipo": "2 · Registro + depósito",
-      "recompensa": "10 € brutos para ti y 10 € brutos para quien te invita",
-      "requisitos": "Tu amigo tiene que registrarse desde tu enlace con tu código promocional y hacer un ingreso mínimo de 50 € en su Cuenta Correos Prepago. Bnext abona los 10 € a ambos en un máximo de 2 meses desde la verificación. Hasta 100 invitados por usuario. Vigente del 15/10/2026 al 31/12/2026 o hasta agotar presupuesto.",
+      "recompensa": "Black Friday (23 al 29/11/2026, o hasta agotar presupuesto): 15 € brutos para ti y 15 € brutos para quien te invita. Fuera de esa campaña, 10 € brutos para cada uno hasta 31/12/2026.",
+      "requisitos": "Tu amigo tiene que registrarse desde tu enlace con tu código promocional y hacer un ingreso mínimo de 50 € en su Cuenta Correos Prepago. Bnext abona los 10 € a ambos en un máximo de 2 meses desde la verificación. Hasta 100 invitados por usuario. Campaña Black Friday según la fuente oficial (artículo «INVITAR A AMIGOS 15€+15€ - Black Friday»): del 23/11/2026 00:00 al 29/11/2026 23:59 o hasta agotar presupuesto. Fuera de esa fecha sigue vigente la promoción de 10 € + 10 € hasta el 31/12/2026.",
       "enlace": "https://correosprepago.bnext.es/register?referral=JVG145",
       "estado": "publicada",
       "auto": true,
-      "verificado": "2026-11-20",
+      "verificado": "2026-11-24",
       "nota": {
         "tiempo": 1.5,
         "importe": 1.5,
         "letra": 2,
         "permanencia": 2
       },
-      "gana_corto": "10 € + 10 €",
-      "gana_sub": "para ti y para tu amigo, con un ingreso mínimo de 50 € por parte del amigo (10 € brutos cada uno)",
+      "gana_corto": "15 € + 15 € (Black Friday)",
+      "gana_sub": "para ti y para tu amigo, con una recarga mínima de 50 € del amigo; fuera de Black Friday, 10 € + 10 €",
       "nota_texto": "Calculada con el artículo oficial de la promoción de Correos Prepago (ayuda de Bnext, actualizado hace 11 días).",
       "nota_razon": {
         "tiempo": "Alta online; la recompensa se abona en un máximo de 2 meses desde que Bnext verifica las condiciones.",
@@ -630,9 +630,9 @@
         "https://x.com/investrainer",
         "https://x.com/clubdepromos_"
       ],
-      "fuente_oficial": "https://ayudacorreosprepago.bnext.es/hc/es/articles/39766991008925-PROMOCI%C3%93N-INVITAR-A-AMIGOS-10-10",
+      "fuente_oficial": "https://ayudacorreosprepago.bnext.es/hc/es/articles/40694235315229-INVITAR-A-AMIGOS-15-15-Black-Friday",
       "fuente_condiciones": "https://ayudacorreosprepago.bnext.es/hc/es/articles/39766991008925-PROMOCI%C3%93N-INVITAR-A-AMIGOS-10-10",
-      "caduca": "2026-12-31"
+      "caduca": null
     }
   ]
 }

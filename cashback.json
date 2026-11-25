@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22",
+ "actualizado": "2026-11-25",
  "nota_metodo": "Datos leídos de las páginas públicas de cada plataforma y comprobados con una segunda lectura independiente. El orden es por lo que recibirías en euros con el importe que elijas, no por comisiones nuestras. No hay enlaces de referido en esta tabla.",
  "tiendas": [
   {
@@ -10410,24 +10410,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/bosch",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 10% código promocional Bosch + 2,5 % Cashback / noviembre",
-      "Tarjeta de la oferta: 2,5 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Widilo",
      "pct": 2.5,
      "hasta_pct": false,
@@ -19934,24 +19916,6 @@
       "Título/meta de la ficha: 2 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2 %"
      ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/decathlon",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% código promocional Decathlon + 2,5 % Cashback / noviembre",
-      "Tarjeta de la oferta: 2,5 % de cashback"
-     ]
     }
    ]
   },
@@ -27778,24 +27742,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 2.0,
-     "hasta_pct": true,
-     "habitual_pct": 2.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/expedia",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 300€ cupón Expedia + 2 % Cashback / noviembre",
-      "Tarjeta de la oferta: Hasta 2 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Beruby",
      "pct": 4.9,
      "hasta_pct": false,
@@ -30116,24 +30062,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 3.0,
-     "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-24",
-     "fuente": "https://es.igraal.com/codigos-promocionales/flexispot",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 6% código descuento Flexispot + 3 % Cashback / noviembre",
-      "Tarjeta de la oferta: 3 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Widilo",
      "pct": 2.8,
      "hasta_pct": false,
@@ -31195,24 +31123,6 @@
      "lecturas": [
       "Título/meta de la ficha: 3 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 12.0,
-     "hasta_pct": true,
-     "habitual_pct": 12.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/fnac",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 50% código descuento Fnac + 12 % Cashback / noviembre",
-      "Tarjeta de la oferta: Hasta 12 % de cashback"
      ]
     }
    ]
@@ -32351,24 +32261,6 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 2,24%",
       "HTML de la ficha: 2,24%"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 4.0,
-     "hasta_pct": false,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-24",
-     "fuente": "https://es.igraal.com/codigos-promocionales/futbol-emotion",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% cupón Fútbol Emotion + 4 % Cashback / noviembre",
-      "Tarjeta de la oferta: 4 % de cashback"
      ]
     },
     {
@@ -37071,24 +36963,6 @@
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
      ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 2.5,
-     "hasta_pct": false,
-     "habitual_pct": 2.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/honor",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 600€ cupón Honor + 2,5 % Cashback / noviembre",
-      "Tarjeta de la oferta: 2,5 % de cashback"
-     ]
     }
    ]
   },
@@ -40876,24 +40750,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 4.0,
-     "hasta_pct": false,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/irobot",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 30% código promocional iRobot + 4 % Cashback / noviembre",
-      "Tarjeta de la oferta: 4 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Widilo",
      "pct": 4.0,
      "hasta_pct": false,
@@ -42470,24 +42326,6 @@
       "HTML de la ficha: 2% (cabecera: hasta 9%)"
      ],
      "variante": "Compra online o a través de la app (cliente recurrente)"
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 20.0,
-     "hasta_pct": true,
-     "habitual_pct": 20.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/just-eat",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 10€ código descuento Just Eat + 20 % Cashback / noviembre",
-      "Tarjeta de la oferta: Hasta 20 % de cashback"
-     ]
     }
    ]
   },
@@ -47083,24 +46921,6 @@
       "Título/meta de la ficha: 3 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3 %"
      ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 3.0,
-     "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/lenovo",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% cupón Lenovo + 3 % Cashback / noviembre",
-      "Tarjeta de la oferta: 3 % de cashback"
-     ]
     }
    ]
   },
@@ -50025,24 +49845,6 @@
      "variante": "Compra online - Clientes existentes"
     },
     {
-     "plataforma": "iGraal",
-     "pct": 6.0,
-     "hasta_pct": true,
-     "habitual_pct": 6.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/lululemon",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 28€ código promocional Lululemon + 6 % Cashback / noviembre",
-      "Tarjeta de la oferta: Hasta 6 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Widilo",
      "pct": 6.5,
      "hasta_pct": false,
@@ -51050,24 +50852,6 @@
      "lecturas": [
       "Título/meta de la ficha: 2,4 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 2,4 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 3.0,
-     "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-23",
-     "fuente": "https://es.igraal.com/codigos-promocionales/mango-outlet",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 10% código promocional Mango Outlet + 3 % Cashback / nov.",
-      "Tarjeta de la oferta: 3 % de cashback"
      ]
     }
    ]
@@ -58207,24 +57991,6 @@
      "lecturas": [
       "Bloque de la ficha: Por suscripción online de 1 mes, 1 año o 2 años (solo la primera vez) 28,00%",
       "HTML de la ficha: 28,00%"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 40.0,
-     "hasta_pct": false,
-     "habitual_pct": 40.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-23",
-     "fuente": "https://es.igraal.com/codigos-promocionales/nordvpn",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 36% cupón NordVPN + 40 % Cashback / noviembre",
-      "Tarjeta de la oferta: 40 % de cashback"
      ]
     },
     {
@@ -72270,24 +72036,6 @@
       "HTML de la ficha: 2% (cabecera: hasta 10%)"
      ],
      "variante": "Compra online - Educación"
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 3.0,
-     "hasta_pct": true,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-22",
-     "fuente": "https://es.igraal.com/codigos-promocionales/samsung",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 15% código descuento Samsung + 3 % Cashback / noviembre",
-      "Tarjeta de la oferta: Hasta 3 % de cashback"
-     ]
     },
     {
      "plataforma": "Beruby",
@@ -89502,24 +89250,6 @@
      "lecturas": [
       "Título/meta de la ficha: 4 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 4 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 16.0,
-     "hasta_pct": false,
-     "habitual_pct": 16.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-24",
-     "fuente": "https://es.igraal.com/codigos-promocionales/yves-rocher",
-     "leido": "2026-11-22",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 50% código descuento Yves Rocher + 16 % Cashback / noviembre",
-      "Tarjeta de la oferta: 16 % de cashback"
      ]
     }
    ]

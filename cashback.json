@@ -7686,24 +7686,6 @@
    "nombre": "Basket-Center",
    "filas": [
     {
-     "plataforma": "mycashbacks",
-     "pct": 4.0,
-     "hasta_pct": false,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
-     "fin": null,
-     "fuente": "https://www.mycashbacks.com/es/basket-center/",
-     "leido": "2026-11-27",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: Basket-Center cashback 4%",
-      "Bloque de la ficha: CASHBACK 4%"
-     ]
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 5.0,
      "hasta_pct": false,
@@ -8988,6 +8970,24 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 5%",
       "HTML de la ficha: 5% (cabecera: hasta 5%)"
+     ]
+    },
+    {
+     "plataforma": "mycashbacks",
+     "pct": 6.4,
+     "hasta_pct": false,
+     "habitual_pct": 6.4,
+     "tipo": "habitual",
+     "tope": null,
+     "primera_compra": false,
+     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
+     "fin": null,
+     "fuente": "https://www.mycashbacks.com/es/billabong/",
+     "leido": "2026-11-27",
+     "doble_lectura": true,
+     "lecturas": [
+      "Título de la ficha: Billabong Cashback 6,4%",
+      "Bloque de la ficha: CASHBACK 6,4%"
      ]
     }
    ]
@@ -78657,7 +78657,8 @@
      "lecturas": [
       "Cabecera de la ficha: Temu Europe hasta 8 % cashback",
       "Condiciones (página renderizada en navegador): 8 % Para un nuevo cliente de Temu; 1 % Para un cliente existente de Temu"
-     ]
+     ],
+     "firma": "2-1192b12a2f79"
     },
     {
      "plataforma": "Letyshops",
@@ -78681,7 +78682,8 @@
      "lecturas": [
       "Condiciones (página renderizada en navegador): 1 % Para un cliente existente de Temu",
       "Lector Python (condiciones de la ficha): 8 % nuevo cliente; 1 % Para un cliente existente de Temu"
-     ]
+     ],
+     "firma": "2-1192b12a2f79"
     },
     {
      "plataforma": "Beruby",
@@ -83690,30 +83692,6 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 3,50%",
       "HTML de la ficha: 3,50%"
-     ]
-    }
-   ]
-  },
-  {
-   "slug": "united-colors-of-benetton",
-   "nombre": "United Colors of Benetton",
-   "filas": [
-    {
-     "plataforma": "mycashbacks",
-     "pct": 5.8,
-     "hasta_pct": false,
-     "habitual_pct": 5.8,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Se calcula sobre el importe neto (sin IVA, envío ni recargos). Pago automático desde 1 € confirmado.",
-     "fin": null,
-     "fuente": "https://www.mycashbacks.com/es/united-colors-of-benetton/",
-     "leido": "2026-11-27",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: United Colors of Benetton Cashback 5,8%",
-      "Bloque de la ficha: CASHBACK 5,8%"
      ]
     }
    ]

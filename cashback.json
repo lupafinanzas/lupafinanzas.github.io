@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "nota_metodo": "Datos leídos de las páginas públicas de cada plataforma y comprobados con una segunda lectura independiente. El orden es por lo que recibirías en euros con el importe que elijas, no por comisiones nuestras. No hay enlaces de referido en esta tabla.",
  "tiendas": [
   {
@@ -1220,7 +1220,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 4% de reembolso al comprar en Adidas",
@@ -1242,7 +1242,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/adidas-es",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Adidas ES 3 % cashback",
@@ -2652,7 +2652,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/aliexpress",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: AliExpress hasta 5 % cashback",
@@ -2671,7 +2671,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 6% de reembolso al comprar en Aliexpress ES",
@@ -2847,24 +2847,6 @@
       "HTML de la ficha: 8% (cabecera: hasta 8%)"
      ],
      "variante": "Compra online - Ropa, accesorios y jardín"
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 3.0,
-     "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/aliexpress",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 50€ cupón AliExpress + 3 % Cashback / noviembre",
-      "Tarjeta de la oferta: 3 % de cashback"
-     ]
     }
    ]
   },
@@ -5478,7 +5460,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 12% de reembolso al comprar en Mifarma",
@@ -19744,7 +19726,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/decathlon-espana",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Decathlon ES 1.5 % cashback",
@@ -19804,24 +19786,6 @@
      "lecturas": [
       "Bloque de la ficha: Compra online 10,00%",
       "HTML de la ficha: 10,00%"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 6.5,
-     "hasta_pct": false,
-     "habitual_pct": 6.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/decathlon",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% código promocional Decathlon + 6,5 % Cashback / noviembre",
-      "Tarjeta de la oferta: 6,5 % de cashback"
      ]
     }
    ]
@@ -22693,7 +22657,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 5,2% de reembolso al comprar en Druni",
@@ -22733,7 +22697,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/druni-es",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Druni ES hasta 3.25 % cashback",
@@ -23256,7 +23220,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 4,8% de reembolso al comprar en Dyson",
@@ -23280,24 +23244,6 @@
      "lecturas": [
       "Título/meta de la ficha: 1,2 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 1,2 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 3.0,
-     "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/dyson",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 18€ código promocional Dyson + 3 % Cashback / noviembre",
-      "Tarjeta de la oferta: 3 % de cashback"
      ]
     }
    ]
@@ -23519,7 +23465,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/ebay-es",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: eBay ES 1 % cashback",
@@ -27586,7 +27532,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 3,2% de reembolso al comprar en Expedia",
@@ -30626,7 +30572,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/fnac-es",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Fnac hasta 2.5 % cashback",
@@ -36840,24 +36786,6 @@
       "Título/meta de la ficha: 5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 5 % (antes 0,71 %)"
      ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 4.0,
-     "hasta_pct": false,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/honor",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 600€ cupón Honor + 4 % Cashback / noviembre",
-      "Tarjeta de la oferta: 4 % de cashback"
-     ]
     }
    ]
   },
@@ -39129,24 +39057,6 @@
      "lecturas": [
       "Título/meta de la ficha: 4 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 4 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 3.0,
-     "hasta_pct": false,
-     "habitual_pct": 3.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/ibis",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 50% código descuento Ibis + 3 % Cashback / noviembre",
-      "Tarjeta de la oferta: 3 % de cashback"
      ]
     }
    ]
@@ -42095,7 +42005,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/just-eat-es",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Just Eat ES hasta 4.5 % cashback",
@@ -42197,24 +42107,6 @@
       "HTML de la ficha: 2% (cabecera: hasta 9%)"
      ],
      "variante": "Compra online o a través de la app (cliente recurrente)"
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 6.0,
-     "hasta_pct": true,
-     "habitual_pct": 6.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/just-eat",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 10€ código descuento Just Eat + 6 % Cashback / noviembre",
-      "Tarjeta de la oferta: Hasta 6 % de cashback"
-     ]
     }
    ]
   },
@@ -45970,7 +45862,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 5,2% de reembolso al comprar en Lastminute",
@@ -46803,24 +46695,6 @@
      "lecturas": [
       "Título/meta de la ficha: 3 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 3 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 5.0,
-     "hasta_pct": false,
-     "habitual_pct": 5.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/lenovo",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 20% cupón Lenovo + 5 % Cashback / noviembre",
-      "Tarjeta de la oferta: 5 % de cashback"
      ]
     }
    ]
@@ -48821,7 +48695,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/lookfantastic-es",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: LOOKFANTASTIC ES hasta 3.5 % cashback",
@@ -51926,7 +51800,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/mediamarkt-es",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Media Markt España hasta 3 % cashback",
@@ -52762,24 +52636,6 @@
      "lecturas": [
       "Título/meta de la ficha: 5 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 5 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 4.5,
-     "hasta_pct": false,
-     "habitual_pct": 4.5,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/michael-kors",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 40% código promocional Michael Kors + 4,5 % Cashback / nov.",
-      "Tarjeta de la oferta: 4,5 % de cashback"
      ]
     },
     {
@@ -55079,7 +54935,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 8% de reembolso al comprar en Mr. Wonderful",
@@ -57943,24 +57799,6 @@
       "Título/meta de la ficha: 20 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 20 %"
      ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 60.0,
-     "hasta_pct": false,
-     "habitual_pct": 60.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/nordvpn",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 36% cupón NordVPN + 60 % Cashback / noviembre",
-      "Tarjeta de la oferta: 60 % de cashback"
-     ]
     }
    ]
   },
@@ -58172,24 +58010,6 @@
      "lecturas": [
       "Título/meta de la ficha: 4 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 4 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 4.8,
-     "hasta_pct": false,
-     "habitual_pct": 4.8,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/novotel",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 50% código descuento Novotel + 4,8 % Cashback / noviembre",
-      "Tarjeta de la oferta: 4,8 % de cashback"
      ]
     }
    ]
@@ -66978,7 +66798,7 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/primor-es",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Cabecera de la ficha: Primor ES 0.75 % cashback",
@@ -69696,7 +69516,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 4,8% de reembolso al comprar en Rentalcars",
@@ -73165,7 +72985,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 6,4% de reembolso al comprar en Sephora",
@@ -76751,24 +76571,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 4.0,
-     "hasta_pct": false,
-     "habitual_pct": 4.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/sprinter",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 30% código descuento Sprinter + 4 % Cashback / noviembre",
-      "Tarjeta de la oferta: 4 % de cashback"
-     ]
-    },
-    {
      "plataforma": "Widilo",
      "pct": 4.8,
      "hasta_pct": false,
@@ -79095,25 +78897,6 @@
      ]
     },
     {
-     "plataforma": "iGraal",
-     "pct": 40.0,
-     "hasta_pct": true,
-     "habitual_pct": 40.0,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/temu",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 80% cupón Temu + 40 % Cashback / noviembre",
-      "Tarjeta de la oferta: Hasta 40 % de cashback"
-     ],
-     "cambio_confirmado": true
-    },
-    {
      "plataforma": "TopCashback",
      "pct": 43.0,
      "hasta_pct": false,
@@ -79173,9 +78956,9 @@
     {
      "plataforma": "Letyshops",
      "variante": "cliente nuevo en Temu",
-     "pct": 10.0,
+     "pct": 8.0,
      "hasta_pct": true,
-     "habitual_pct": 10.0,
+     "habitual_pct": 8.0,
      "tipo": "habitual",
      "tope": null,
      "primera_compra": false,
@@ -79187,13 +78970,12 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/temu-eu",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
-      "Cabecera de la ficha: Temu Europe hasta 10 % cashback",
-      "Condiciones: 10 % Para un nuevo cliente de Temu; 1 % Para un cliente existente de Temu"
-     ],
-     "firma": "2-a3c5e4cee38d"
+      "Cabecera de la ficha: Temu Europe hasta 8 % cashback",
+      "Condiciones (página renderizada en navegador): 8 % Para un nuevo cliente de Temu; 1 % Para un cliente existente de Temu"
+     ]
     },
     {
      "plataforma": "Letyshops",
@@ -79212,13 +78994,12 @@
      ],
      "fin": null,
      "fuente": "https://letyshops.com/es/shops/temu-eu",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
-      "Condiciones (página renderizada): 1 % Para un cliente existente de Temu",
-      "Condiciones (HTML sin scripts): 10 % Para un nuevo cliente de Temu 1 % Para un cliente existente de Temu"
-     ],
-     "firma": "2-a3c5e4cee38d"
+      "Condiciones (página renderizada en navegador): 1 % Para un cliente existente de Temu",
+      "Lector Python (condiciones de la ficha): 8 % nuevo cliente; 1 % Para un cliente existente de Temu"
+     ]
     }
    ]
   },
@@ -79766,7 +79547,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 8% de reembolso al comprar en The Body Shop",
@@ -80534,7 +80315,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 4% de reembolso al comprar en Real Madrid",
@@ -85106,7 +84887,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 4,8% de reembolso al comprar en Viajes El Corte Inglés",
@@ -86576,7 +86357,7 @@
      "detalle": "Porcentaje máximo anunciado en su listado",
      "fin": null,
      "fuente": "https://www.consupermiso.com/ofertas-cashback",
-     "leido": "2026-11-26",
+     "leido": "2026-11-27",
      "doble_lectura": true,
      "lecturas": [
       "Listado: Gana hasta un 5,6% de reembolso al comprar en Volcom",
@@ -89626,24 +89407,6 @@
      "lecturas": [
       "Título/meta de la ficha: 1,8 % cashback (título o meta de la ficha)",
       "Datos de la ficha: cashback 1,8 %"
-     ]
-    },
-    {
-     "plataforma": "iGraal",
-     "pct": 4.8,
-     "hasta_pct": true,
-     "habitual_pct": 4.8,
-     "tipo": "habitual",
-     "tope": null,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de iGraal",
-     "fin": "2026-11-26",
-     "fuente": "https://es.igraal.com/codigos-promocionales/zooplus",
-     "leido": "2026-11-26",
-     "doble_lectura": true,
-     "lecturas": [
-      "Título de la ficha: 25% cupón zooplus + 4,8 % Cashback / noviembre",
-      "Tarjeta de la oferta: Hasta 4,8 % de cashback"
      ]
     }
    ]

@@ -13205,25 +13205,6 @@
       "Título de la ficha: 70% código descuento Casa del Libro + 6 % Cashback / nov.",
       "Tarjeta de la oferta: Hasta 6 % de cashback"
      ]
-    },
-    {
-     "plataforma": "TopCashback",
-     "pct": 20.0,
-     "hasta_pct": false,
-     "habitual_pct": 20.0,
-     "tipo": "habitual",
-     "tope": 15.0,
-     "primera_compra": false,
-     "detalle": "Tarifa de la ficha de TopCashback: Compra online - hasta 15€ de cashback por miembro",
-     "fin": null,
-     "fuente": "https://www.topcashback.es/casa-del-libro/",
-     "leido": "2026-11-28",
-     "doble_lectura": true,
-     "lecturas": [
-      "Bloque de la ficha: Compra online - hasta 15€ de cashback por miembro 20%",
-      "HTML de la ficha: 20% (cabecera: hasta 20%)"
-     ],
-     "cambio_confirmado": true
     }
    ]
   },
